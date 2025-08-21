@@ -1,7 +1,7 @@
 #EXTM3U
 #DEVELOPED_BY_JITENDRA_PRO_DEV
 #AUTHOR:-JITENDRA_KUMAR
-#DATE:- Thursday 21 August, 2025 at 8:46:56 pm
+#DATE:- Thursday 21 August, 2025 at 8:54:52 pm
 #EXTINF:-1 tvg-id="132492" tvg-name="West Delhi Lions Vs Central Delhi Kings" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/132492_5521_CDK_WDL_fc-Web.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | West Delhi Lions Vs Central Delhi Kings
 https://in-mc-fdlive.fancode.com/mumbai/132492_english_hls_a0d00b140826738ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="132806" tvg-name="Shivamogga Lions Vs Bengaluru Blasters" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/132806_5530_BB_SS_fc-Web_1755374793105.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Shivamogga Lions Vs Bengaluru Blasters
@@ -12,8 +12,6 @@ https://dai.google.com/linear/hls/event/YFrT82nQRjyh8HlIPYbPfw/master.m3u8|User-
 https://in-mc-fdlive.fancode.com/mumbai/133877_english_hls_466f8413a065142ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="133877" tvg-name="Adani Trivandrum Royals Vs Kochi Blue Tigers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/133877_5600_TR_KBT_fc-Web_1755771731160.jpg" tvg-language="MALAYALAM" group-title="Cricket",MAL | Adani Trivandrum Royals Vs Kochi Blue Tigers
 https://in-mc-fdlive.fancode.com/mumbai/133877_malayalam_hls_6aac504a9592612ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
-#EXTINF:-1 tvg-id="133786" tvg-name="Kenya Vs Jersey" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/133786_4464_KEN_JER_fc-Web.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Kenya Vs Jersey
-https://in-mc-fdlive.fancode.com/mumbai/133786_english_hls_bdbfc66a8c79980ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="133785" tvg-name="Kuwait Vs Qatar" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/133785_4464_KUW_QAT_fc-Web.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Kuwait Vs Qatar
 https://in-mc-fdlive.fancode.com/mumbai/133785_english_hls_c67aa1231d40650ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="132782" tvg-name="Tungabhadra Warriors Vs Amaravathi Royals" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/132765_5529_AMR_TBW_fc-Web.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Tungabhadra Warriors Vs Amaravathi Royals
@@ -34,5 +32,3 @@ https://in-mc-fdlive.fancode.com/mumbai/132451_hindi_hls_a88950a0eb81192ta-di_h2
 https://in-mc-fdlive.fancode.com/mumbai/134071_english_hls_41ca61304195136ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="134072" tvg-name="Featured Holes   Day 1" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Tour_Championship_Old_match_card_1.jpg" tvg-language="ENGLISH" group-title="Golf",ENG | Featured Holes   Day 1
 https://in-mc-fdlive.fancode.com/mumbai/134072_english_hls_1138c127c898954ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
-#EXTINF:-1 tvg-id="133682" tvg-name="Renaissance Challengers Vs Majees Titans" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/133682_5590_MAT_RNC_fc-Web.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Renaissance Challengers Vs Majees Titans
-https://in-mc-fdlive.fancode.com/mumbai/133682_english_hls_a3f960d1e352678ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
