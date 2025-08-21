@@ -1,9 +1,11 @@
 #EXTM3U
 #DEVELOPED_BY_JITENDRA_PRO_DEV
 #AUTHOR:-JITENDRA_KUMAR
-#DATE:- Thursday 21 August, 2025 at 10:54:48 pm
+#DATE:- Thursday 21 August, 2025 at 11:02:50 pm
 #EXTINF:-1 tvg-id="132492" tvg-name="West Delhi Lions Vs Central Delhi Kings" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/132492_5521_CDK_WDL_fc-Web.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | West Delhi Lions Vs Central Delhi Kings
 https://in-mc-fdlive.fancode.com/mumbai/132492_english_hls_a0d00b140826738ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
+#EXTINF:-1 tvg-id="132244" tvg-name="Trent Rockets Vs Oval Invincibles" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/132244_5505_OVI_TRT_fc-web.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Trent Rockets Vs Oval Invincibles
+https://dai.google.com/linear/hls/event/HynNobMPSu6nQCgpxsK0lQ/master.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="133785" tvg-name="Kuwait Vs Qatar" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/133785_4464_KUW_QAT_fc-Web.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Kuwait Vs Qatar
 https://in-mc-fdlive.fancode.com/mumbai/133785_english_hls_c67aa1231d40650ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="133683" tvg-name="Ias Invincibles Vs Muscat Thunders" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/133683_5590_MUT_IAI_fc-Web.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Ias Invincibles Vs Muscat Thunders
@@ -24,8 +26,6 @@ https://in-mc-fdlive.fancode.com/mumbai/134075_english_hls_eeccd2f4bf51570ta-di_
 https://in-mc-fdlive.fancode.com/mumbai/134074_english_hls_cf22b95f1b28269ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="132875" tvg-name="Minnesota Twins Vs Oakland Athletics" tvg-logo="https://images.fancode.com/aig/match/v1/132875_CASACARDS_APP.png" tvg-language="ENGLISH" group-title="Baseball",ENG | Minnesota Twins Vs Oakland Athletics
 https://in-mc-fdlive.fancode.com/mumbai/132875_english_hls_cc9a6ae6bc44466ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
-#EXTINF:-1 tvg-id="132806" tvg-name="Shivamogga Lions Vs Bengaluru Blasters" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/132806_5530_BB_SS_fc-Web_1755374793105.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Shivamogga Lions Vs Bengaluru Blasters
-https://in-mc-fdlive.fancode.com/mumbai/132806_english_hls_0b7a688af546519ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="133877" tvg-name="Adani Trivandrum Royals Vs Kochi Blue Tigers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/133877_5600_TR_KBT_fc-Web_1755771731160.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Adani Trivandrum Royals Vs Kochi Blue Tigers
 https://in-mc-fdlive.fancode.com/mumbai/133877_english_hls_466f8413a065142ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="133877" tvg-name="Adani Trivandrum Royals Vs Kochi Blue Tigers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/133877_5600_TR_KBT_fc-Web_1755771731160.jpg" tvg-language="MALAYALAM" group-title="Cricket",MAL | Adani Trivandrum Royals Vs Kochi Blue Tigers
