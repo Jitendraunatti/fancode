@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "03:30:06 AM 22-08-2025",
+    "last_updated": "03:38:06 AM 22-08-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -10,74 +10,6 @@
     "live_matches": 2,
     "upcoming_matches": 36,
     "matches": [
-        {
-            "category": "Golf",
-            "title": "World Feed   Day 1",
-            "tournament": "Tour Championship",
-            "match_id": 134075,
-            "status": "COMPLETED",
-            "streamingStatus": "COMPLETED",
-            "startTime": "21 August 2025 10:30 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Tour_Championship_Old_match_card_1.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/134075_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/Tour_Championship_Old_match_card_1.jpg",
-                "PLAYBACK": null,
-                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Tour-Championship-Tour-Logo.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Golf_Fallback_Old_match-card.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Tour_Championship_Old_match_card_1.jpg",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Championship_Sporty_match-card.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/134075_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "name": "World Feed - Day 1",
-                    "shortName": "World Feed - Day 1",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-TCG@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#62646a",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "East Lake Golf Course",
-                    "shortName": "East Lake Golf Course",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#141414",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
-            }
-        },
         {
             "category": "Baseball",
             "title": "Washington Nationals Vs New York Mets",
@@ -2198,74 +2130,6 @@
             }
         },
         {
-            "category": "Kabaddi",
-            "title": "Vizag Commandos Vs Bhimavaram Guardians",
-            "tournament": "Yuva Andhra Championship, 2025",
-            "match_id": 133734,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "22 August 2025 11:45 AM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/133734_5591_VC_BG_fc-Web.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/133734_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/133734_5591_VC_BG_fc-Web.jpg",
-                "PLAYBACK": null,
-                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Yuva-Andhra-Championship,-2025-Tour-Logo.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Kabaddi-old-min.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/133734_5591_VC_BG_fc-Web.jpg",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/133734_5591_VC_BG_Fc-App.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/133734_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "name": "Vizag Commandos",
-                    "shortName": "VC",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/kb-flags/FC-VC@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#c2c8fd",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "Bhimavaram Guardians",
-                    "shortName": "BG",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/kb-flags/FC-BH@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#f9ba8d",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
-            }
-        },
-        {
             "category": "Cricket",
             "title": "Antigua & Barbuda Falcons Vs Guyana Amazon Warriors",
             "tournament": "Caribbean Premier League, 2025",
@@ -2313,6 +2177,74 @@
                     },
                     "isWinner": null,
                     "color": "#b01018",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "STREAMING_CDN": {
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
+            }
+        },
+        {
+            "category": "Kabaddi",
+            "title": "Vizag Commandos Vs Bhimavaram Guardians",
+            "tournament": "Yuva Andhra Championship, 2025",
+            "match_id": 133734,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "22 August 2025 11:45 AM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/133734_5591_VC_BG_fc-Web.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/133734_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/133734_5591_VC_BG_fc-Web.jpg",
+                "PLAYBACK": null,
+                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Yuva-Andhra-Championship,-2025-Tour-Logo.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Kabaddi-old-min.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/133734_5591_VC_BG_fc-Web.jpg",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/133734_5591_VC_BG_Fc-App.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/133734_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "name": "Vizag Commandos",
+                    "shortName": "VC",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/kb-flags/FC-VC@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#c2c8fd",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "Bhimavaram Guardians",
+                    "shortName": "BG",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/kb-flags/FC-BH@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#f9ba8d",
                     "cricketScore": null,
                     "kabaddiScore": null,
                     "footballScore": null,
@@ -2585,6 +2517,74 @@
                     },
                     "isWinner": null,
                     "color": "#ed6f73",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "STREAMING_CDN": {
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
+            }
+        },
+        {
+            "category": "Football",
+            "title": "Real Betis Vs Alav\u00e9s",
+            "tournament": "LALIGA 2025-26",
+            "match_id": 130846,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "23 August 2025 01:00 AM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Real-Betis-VS-Alaves_Old_match-card-(1).jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/130846_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/Real-Betis-VS-Alaves_Old_match-card-(1).jpg",
+                "PLAYBACK": null,
+                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/LALIGA-2025-26-Tour.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Real-Betis-VS-Alaves_Old_match-card-(1).jpg",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Real-Betis-VS-Alaves_Match_card_4V4-(1).jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/130846_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "name": "Real Betis",
+                    "shortName": "RB",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-REALB@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#19a661",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "Alav\u00e9s",
+                    "shortName": "ALA",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ALA@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#537096",
                     "cricketScore": null,
                     "kabaddiScore": null,
                     "footballScore": null,
