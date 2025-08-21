@@ -1,21 +1,21 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "02:18:55 PM 21-08-2025",
+    "last_updated": "02:26:46 PM 21-08-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
     "total_matches": 39,
-    "live_matches": 8,
-    "upcoming_matches": 31,
+    "live_matches": 7,
+    "upcoming_matches": 32,
     "matches": [
         {
             "category": "Cricket",
             "title": "Calicut Globstars Vs Aries Kollam Sailors",
             "tournament": "Kerala Cricket League, 2025",
             "match_id": 133876,
-            "status": "NOT_STARTED",
+            "status": "LIVE",
             "streamingStatus": "STARTED",
             "startTime": "21 August 2025 02:30 PM",
             "startDate": "01 January 1970 05:30 AM",
@@ -94,7 +94,7 @@
             "title": "Calicut Globstars Vs Aries Kollam Sailors",
             "tournament": "Kerala Cricket League, 2025",
             "match_id": 133876,
-            "status": "NOT_STARTED",
+            "status": "LIVE",
             "streamingStatus": "STARTED",
             "startTime": "21 August 2025 02:30 PM",
             "startDate": "01 January 1970 05:30 AM",
@@ -226,11 +226,11 @@
                     "color": "#d7bd39",
                     "cricketScore": [
                         {
-                            "runs": 38,
-                            "overs": "4.3",
-                            "balls": "27",
+                            "runs": 46,
+                            "overs": "6",
+                            "balls": "36",
                             "status": "IN_PROGRESS",
-                            "wickets": 2
+                            "wickets": 3
                         }
                     ],
                     "kabaddiScore": null,
@@ -282,7 +282,7 @@
                     "flag": {
                         "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/SCE-CR1@2x.png"
                     },
-                    "isWinner": null,
+                    "isWinner": false,
                     "color": "#001C47",
                     "cricketScore": [
                         {
@@ -309,13 +309,13 @@
                     "flag": {
                         "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/VFB-CR1@2x.png"
                     },
-                    "isWinner": null,
+                    "isWinner": true,
                     "color": "#0F3276",
                     "cricketScore": [
                         {
-                            "runs": 127,
-                            "overs": "8",
-                            "balls": "48",
+                            "runs": 164,
+                            "overs": "10",
+                            "balls": "60",
                             "status": "IN_PROGRESS",
                             "wickets": 4
                         }
@@ -373,9 +373,9 @@
                     "color": "#cf6063",
                     "cricketScore": [
                         {
-                            "runs": 57,
-                            "overs": "8",
-                            "balls": "48",
+                            "runs": 68,
+                            "overs": "9.2",
+                            "balls": "56",
                             "status": "IN_PROGRESS",
                             "wickets": 2
                         }
@@ -452,9 +452,9 @@
                     "color": "#921b36",
                     "cricketScore": [
                         {
-                            "runs": 9,
-                            "overs": "3.2",
-                            "balls": "20",
+                            "runs": 23,
+                            "overs": "5.3",
+                            "balls": "33",
                             "status": "IN_PROGRESS",
                             "wickets": 1
                         }
@@ -505,7 +505,7 @@
             "title": "Netherlands Women Vs Ireland Women",
             "tournament": "ICC Women\u2019s T20 WC Europe Qualifier Division 1",
             "match_id": 133749,
-            "status": "NOT_STARTED",
+            "status": "LIVE",
             "streamingStatus": "STARTED",
             "startTime": "21 August 2025 02:30 PM",
             "startDate": "01 January 1970 05:30 AM",
@@ -575,87 +575,6 @@
                 "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/133749_english_hls_ae0b7401d470312ta-di_h264/index.m3u8",
                 "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/133749_english_hls_ae0b7401d470312ta-di_h264/index.m3u8",
                 "dai_google_cdn": "https://dai.google.com/linear/hls/event/UxG-EGRcTIOmlt1dY1Dh4w/master.m3u8",
-                "cloudfront_cdn": "Unavailable",
-                "language": "ENGLISH"
-            }
-        },
-        {
-            "category": "Kabaddi",
-            "title": "Vizag Commandos Vs Vizianagaram Ninjas",
-            "tournament": "Yuva Andhra Championship, 2025",
-            "match_id": 133730,
-            "status": "LIVE",
-            "streamingStatus": "STARTED",
-            "startTime": "21 August 2025 01:15 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/133730_5591_VC_VN_fc-Web.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/133730_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/133730_5591_VC_VN_fc-Web.jpg",
-                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/133730_5591_VC_VN_fc-Web.jpg",
-                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Yuva-Andhra-Championship,-2025-Tour-Logo.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Kabaddi-old-min.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/133730_5591_VC_VN_fc-Web.jpg",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/133730_5591_VC_VN_Fc-App.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/133730_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "name": "Vizag Commandos",
-                    "shortName": "VC",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/kb-flags/FC-VC@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#c2c8fd",
-                    "cricketScore": null,
-                    "kabaddiScore": {
-                        "points": 47,
-                        "onFieldPlayers": 7,
-                        "totalFieldPlayers": 7,
-                        "raiding": true
-                    },
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "Vizianagaram Ninjas",
-                    "shortName": "VN",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/kb-flags/FC-VN@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#205d7e",
-                    "cricketScore": null,
-                    "kabaddiScore": {
-                        "points": 40,
-                        "onFieldPlayers": 5,
-                        "totalFieldPlayers": 7,
-                        "raiding": null
-                    },
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/133730_english_hls_89df8ba6e359325ta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/rM7s3NFHR5KAJvvsbNzrHA/master.m3u8",
-            "STREAMING_CDN": {
-                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/133730_english_hls_89df8ba6e359325ta-di_h264/index.m3u8",
-                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/133730_english_hls_89df8ba6e359325ta-di_h264/index.m3u8",
-                "dai_google_cdn": "https://dai.google.com/linear/hls/event/rM7s3NFHR5KAJvvsbNzrHA/master.m3u8",
                 "cloudfront_cdn": "Unavailable",
                 "language": "ENGLISH"
             }
@@ -2764,6 +2683,74 @@
                     },
                     "isWinner": null,
                     "color": "#dcdcdc",
+                    "cricketScore": [],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "STREAMING_CDN": {
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
+            }
+        },
+        {
+            "category": "Cricket",
+            "title": "Toombul Vs Northern Suburbs",
+            "tournament": "KFC T20 Max, 2025",
+            "match_id": 134879,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "22 August 2025 01:30 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/134879_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+                "PLAYBACK": null,
+                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/08/KFC-T20-Max-Competition-2024-Tour-Logo.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+                "SPORT_BY_IMAGE": "https://fancode.com/skillup-uploads/prod-images/2023/08/FC_Sports_Default_cricket.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/134879_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "name": "Toombul",
+                    "shortName": "TMB",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/TMB-CR1@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#FFFFFF",
+                    "cricketScore": [],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "Northern Suburbs",
+                    "shortName": "NSB",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/NOP-CR1@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#0dc8b1",
                     "cricketScore": [],
                     "kabaddiScore": null,
                     "footballScore": null,
