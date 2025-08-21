@@ -1,14 +1,14 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "09:54:46 PM 21-08-2025",
+    "last_updated": "10:02:49 PM 21-08-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
     "total_matches": 40,
-    "live_matches": 14,
-    "upcoming_matches": 26,
+    "live_matches": 15,
+    "upcoming_matches": 25,
     "matches": [
         {
             "category": "Cricket",
@@ -68,9 +68,9 @@
                     "color": "#0082cb",
                     "cricketScore": [
                         {
-                            "runs": 48,
-                            "overs": "7.3",
-                            "balls": "45",
+                            "runs": 62,
+                            "overs": "8.4",
+                            "balls": "52",
                             "status": "IN_PROGRESS",
                             "wickets": 2
                         }
@@ -155,9 +155,9 @@
                     "color": "#16b9b7",
                     "cricketScore": [
                         {
-                            "runs": 21,
-                            "overs": "3",
-                            "balls": "18",
+                            "runs": 45,
+                            "overs": "5.3",
+                            "balls": "33",
                             "status": "IN_PROGRESS",
                             "wickets": 2
                         }
@@ -211,7 +211,7 @@
                     "flag": {
                         "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-OVALINC@2x.png"
                     },
-                    "isWinner": null,
+                    "isWinner": false,
                     "color": "#b8b3ba",
                     "cricketScore": [
                         {
@@ -238,13 +238,13 @@
                     "flag": {
                         "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TRENR@2x.png"
                     },
-                    "isWinner": null,
+                    "isWinner": true,
                     "color": "#d09b8a",
                     "cricketScore": [
                         {
-                            "runs": 109,
-                            "overs": "16.3",
-                            "balls": "83",
+                            "runs": 113,
+                            "overs": "16.4",
+                            "balls": "84",
                             "status": "IN_PROGRESS",
                             "wickets": 4
                         }
@@ -329,9 +329,9 @@
                     "color": "#01c0f6",
                     "cricketScore": [
                         {
-                            "runs": 7,
-                            "overs": "1.4",
-                            "balls": "10",
+                            "runs": 22,
+                            "overs": "3",
+                            "balls": "18",
                             "status": "IN_PROGRESS",
                             "wickets": 0
                         }
@@ -416,9 +416,9 @@
                     "color": "#01c0f6",
                     "cricketScore": [
                         {
-                            "runs": 7,
-                            "overs": "1.4",
-                            "balls": "10",
+                            "runs": 22,
+                            "overs": "3",
+                            "balls": "18",
                             "status": "IN_PROGRESS",
                             "wickets": 0
                         }
@@ -503,9 +503,9 @@
                     "color": "#d15972",
                     "cricketScore": [
                         {
-                            "runs": 158,
-                            "overs": "29.1",
-                            "balls": "175",
+                            "runs": 166,
+                            "overs": "30.2",
+                            "balls": "182",
                             "status": "IN_PROGRESS",
                             "wickets": 3
                         }
@@ -559,7 +559,7 @@
                     "flag": {
                         "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GER@2x.png"
                     },
-                    "isWinner": null,
+                    "isWinner": false,
                     "color": "#ea6363",
                     "cricketScore": [
                         {
@@ -586,7 +586,7 @@
                     "flag": {
                         "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ITA@2x.png"
                     },
-                    "isWinner": null,
+                    "isWinner": true,
                     "color": "#df787f",
                     "cricketScore": [
                         {
@@ -677,11 +677,11 @@
                     "color": "#948FAA",
                     "cricketScore": [
                         {
-                            "runs": 25,
-                            "overs": "3.1",
-                            "balls": "19",
+                            "runs": 58,
+                            "overs": "4.5",
+                            "balls": "29",
                             "status": "IN_PROGRESS",
-                            "wickets": 1
+                            "wickets": 4
                         }
                     ],
                     "kabaddiScore": null,
@@ -737,9 +737,9 @@
                     "color": "#138bc2",
                     "cricketScore": [
                         {
-                            "runs": 66,
-                            "overs": "11",
-                            "balls": "66",
+                            "runs": 77,
+                            "overs": "13",
+                            "balls": "78",
                             "status": "IN_PROGRESS",
                             "wickets": 2
                         }
@@ -781,6 +781,85 @@
                 "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/133683_english_hls_2853cf4c9798788ta-di_h264/index.m3u8",
                 "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/133683_english_hls_2853cf4c9798788ta-di_h264/index.m3u8",
                 "dai_google_cdn": "https://dai.google.com/linear/hls/event/z7E28DDHRCe7xSCvLERjwQ/master.m3u8",
+                "cloudfront_cdn": "Unavailable",
+                "language": "ENGLISH"
+            }
+        },
+        {
+            "category": "Cricket",
+            "title": "Khan Zalmi Kings Vs Bihar Cc",
+            "tournament": "KCC T10 Summer League, 2025",
+            "match_id": 132171,
+            "status": "NOT_STARTED",
+            "streamingStatus": "STARTED",
+            "startTime": "21 August 2025 10:15 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/KCC-T10-Summer-League,-2025_match-card.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/132171_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/KCC-T10-Summer-League,-2025_match-card.jpg",
+                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/KCC-T10-Summer-League,-2025_match-card.jpg",
+                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2023/12/Tour-Placeholder.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/KCC-T10-Summer-League,-2025_match-card.jpg",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/KCC-T10-Summer-League,-2025_Sporty_Match_card.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/132171_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "name": "Khan Zalmi Kings",
+                    "shortName": "KZK",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR14@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#FFFF8F",
+                    "cricketScore": [
+                        {
+                            "runs": 0,
+                            "overs": "0",
+                            "balls": "0",
+                            "status": "IN_PROGRESS",
+                            "wickets": 0
+                        }
+                    ],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": true
+                        }
+                    }
+                },
+                {
+                    "name": "Bihar CC",
+                    "shortName": "BCC",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR8@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#702963",
+                    "cricketScore": [],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/132171_english_hls_4df4fa5f7216214ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/bJ1T4bvNQ1m9-r83XvBDgQ/master.m3u8",
+            "STREAMING_CDN": {
+                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/132171_english_hls_4df4fa5f7216214ta-di_h264/index.m3u8",
+                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/132171_english_hls_4df4fa5f7216214ta-di_h264/index.m3u8",
+                "dai_google_cdn": "https://dai.google.com/linear/hls/event/bJ1T4bvNQ1m9-r83XvBDgQ/master.m3u8",
                 "cloudfront_cdn": "Unavailable",
                 "language": "ENGLISH"
             }
@@ -1213,6 +1292,74 @@
         },
         {
             "category": "Cricket",
+            "title": "Oval Invincibles Vs Trent Rockets",
+            "tournament": "The Hundred, 2025",
+            "match_id": 132244,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "21 August 2025 11:00 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/132244_5505_OVI_TRT_fc-web.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/132244_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/132244_5505_OVI_TRT_fc-web.jpg",
+                "PLAYBACK": null,
+                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/06/The-Hundred_Tour-Logo.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/132244_5505_OVI_TRT_fc-web.jpg",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/132244_5505_OVI_TRT_fc-app.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/132244_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "name": "Oval Invincibles",
+                    "shortName": "OVI",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-OVALINC@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#189941",
+                    "cricketScore": [],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "Trent Rockets",
+                    "shortName": "TRT",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TRENR@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#d09b8a",
+                    "cricketScore": [],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "STREAMING_CDN": {
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
+            }
+        },
+        {
+            "category": "Cricket",
             "title": "India A Women Vs Australia A Women",
             "tournament": "India A Women tour of Australia, 2025",
             "match_id": 133235,
@@ -1289,74 +1436,6 @@
         },
         {
             "category": "Cricket",
-            "title": "Oval Invincibles Vs Trent Rockets",
-            "tournament": "The Hundred, 2025",
-            "match_id": 132244,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "21 August 2025 11:00 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/132244_5505_OVI_TRT_fc-web.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/132244_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/132244_5505_OVI_TRT_fc-web.jpg",
-                "PLAYBACK": null,
-                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/06/The-Hundred_Tour-Logo.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/132244_5505_OVI_TRT_fc-web.jpg",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/132244_5505_OVI_TRT_fc-app.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/132244_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "name": "Oval Invincibles",
-                    "shortName": "OVI",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-OVALINC@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#189941",
-                    "cricketScore": [],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "Trent Rockets",
-                    "shortName": "TRT",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TRENR@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#d09b8a",
-                    "cricketScore": [],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
-            }
-        },
-        {
-            "category": "Cricket",
             "title": "St Kitts And Nevis Patriots Vs Barbados Royals",
             "tournament": "Caribbean Premier League, 2025",
             "match_id": 132353,
@@ -1403,82 +1482,6 @@
                     },
                     "isWinner": null,
                     "color": "#621241",
-                    "cricketScore": [],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
-            }
-        },
-        {
-            "category": "Cricket",
-            "title": "Khan Zalmi Kings Vs Bihar Cc",
-            "tournament": "KCC T10 Summer League, 2025",
-            "match_id": 132171,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "21 August 2025 10:15 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/KCC-T10-Summer-League,-2025_match-card.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/132171_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/KCC-T10-Summer-League,-2025_match-card.jpg",
-                "PLAYBACK": null,
-                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2023/12/Tour-Placeholder.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/KCC-T10-Summer-League,-2025_match-card.jpg",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/KCC-T10-Summer-League,-2025_Sporty_Match_card.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/132171_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "name": "Khan Zalmi Kings",
-                    "shortName": "KZK",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR14@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#FFFF8F",
-                    "cricketScore": [
-                        {
-                            "runs": 0,
-                            "overs": "0",
-                            "balls": "0",
-                            "status": "IN_PROGRESS",
-                            "wickets": 0
-                        }
-                    ],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": true
-                        }
-                    }
-                },
-                {
-                    "name": "Bihar CC",
-                    "shortName": "BCC",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR8@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#702963",
                     "cricketScore": [],
                     "kabaddiScore": null,
                     "footballScore": null,
