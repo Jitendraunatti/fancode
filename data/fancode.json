@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "12:30:49 PM 21-08-2025",
+    "last_updated": "12:38:45 PM 21-08-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -41,9 +41,9 @@
                     "color": "#ea9a3d",
                     "cricketScore": [
                         {
-                            "runs": 128,
-                            "overs": "19.4",
-                            "balls": "118",
+                            "runs": 131,
+                            "overs": "20",
+                            "balls": "120",
                             "status": "IN_PROGRESS",
                             "wickets": 8
                         }
@@ -120,9 +120,9 @@
                     "color": "#ea9a3d",
                     "cricketScore": [
                         {
-                            "runs": 128,
-                            "overs": "19.4",
-                            "balls": "118",
+                            "runs": 131,
+                            "overs": "20",
+                            "balls": "120",
                             "status": "IN_PROGRESS",
                             "wickets": 8
                         }
@@ -199,9 +199,9 @@
                     "color": "#074FB4",
                     "cricketScore": [
                         {
-                            "runs": 60,
-                            "overs": "6",
-                            "balls": "36",
+                            "runs": 67,
+                            "overs": "7.5",
+                            "balls": "47",
                             "status": "IN_PROGRESS",
                             "wickets": 2
                         }
@@ -252,7 +252,7 @@
             "title": "Sc Europa Vs Vfb Fallersleben",
             "tournament": "ECS Germany, Kiel, 2025",
             "match_id": 134141,
-            "status": "NOT_STARTED",
+            "status": "LIVE",
             "streamingStatus": "STARTED",
             "startTime": "21 August 2025 12:45 PM",
             "startDate": "01 January 1970 05:30 AM",
@@ -357,10 +357,10 @@
                     "color": "#ffcad6",
                     "cricketScore": null,
                     "kabaddiScore": {
-                        "points": 36,
-                        "onFieldPlayers": 6,
+                        "points": 46,
+                        "onFieldPlayers": 7,
                         "totalFieldPlayers": 7,
-                        "raiding": null
+                        "raiding": true
                     },
                     "footballScore": null,
                     "basketBallScore": null,
@@ -381,10 +381,10 @@
                     "color": "#e4bea2",
                     "cricketScore": null,
                     "kabaddiScore": {
-                        "points": 39,
-                        "onFieldPlayers": 4,
+                        "points": 48,
+                        "onFieldPlayers": 7,
                         "totalFieldPlayers": 7,
-                        "raiding": true
+                        "raiding": null
                     },
                     "footballScore": null,
                     "basketBallScore": null,
