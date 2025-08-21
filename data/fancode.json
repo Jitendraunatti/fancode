@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "04:46:06 AM 22-08-2025",
+    "last_updated": "04:54:06 AM 22-08-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -41,8 +41,8 @@
                     "color": "#0f60de",
                     "cricketScore": [
                         {
-                            "runs": 100,
-                            "overs": "26.3",
+                            "runs": 102,
+                            "overs": "28.5",
                             "balls": "0",
                             "status": "IN_PROGRESS",
                             "wickets": 5
@@ -120,11 +120,11 @@
                     "color": "#3fd379",
                     "cricketScore": [
                         {
-                            "runs": 20,
-                            "overs": "3",
-                            "balls": "18",
+                            "runs": 39,
+                            "overs": "4.5",
+                            "balls": "29",
                             "status": "IN_PROGRESS",
-                            "wickets": 1
+                            "wickets": 2
                         }
                     ],
                     "kabaddiScore": null,
@@ -199,11 +199,11 @@
                     "color": "#3fd379",
                     "cricketScore": [
                         {
-                            "runs": 20,
-                            "overs": "3",
-                            "balls": "18",
+                            "runs": 39,
+                            "overs": "4.5",
+                            "balls": "29",
                             "status": "IN_PROGRESS",
-                            "wickets": 1
+                            "wickets": 2
                         }
                     ],
                     "kabaddiScore": null,
@@ -2289,74 +2289,6 @@
         },
         {
             "category": "Football",
-            "title": "Kashiwa Reysol Vs Urawa Red Diamonds",
-            "tournament": "J League 2025",
-            "match_id": 132083,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "22 August 2025 03:30 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://images.fancode.com/aig/match/v1/132083_CASACARDS_APP.png",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/132083_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://images.fancode.com/aig/match/v1/132083_CASACARDS_APP.png",
-                "PLAYBACK": null,
-                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2023/04/J-League_2023.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
-                "BG_IMAGE": "https://images.fancode.com/aig/match/v1/132083_CASACARDS_APP.png",
-                "SPORT_BY_IMAGE": "https://images.fancode.com/aig/match/v1/132083_CASACARDS_SPORTY_APP.png",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/132083_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "name": "Kashiwa Reysol",
-                    "shortName": "REY",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-KRE@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#1c3bac",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "Urawa Red Diamonds",
-                    "shortName": "URW",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-URW@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#9e1c35",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
-            }
-        },
-        {
-            "category": "Football",
             "title": "Derby County Vs Bristol City",
             "tournament": "EFL Championship 2025-26",
             "match_id": 131996,
@@ -2403,6 +2335,74 @@
                     },
                     "isWinner": null,
                     "color": "#ed6f73",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "STREAMING_CDN": {
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
+            }
+        },
+        {
+            "category": "Football",
+            "title": "Kashiwa Reysol Vs Urawa Red Diamonds",
+            "tournament": "J League 2025",
+            "match_id": 132083,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "22 August 2025 03:30 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://images.fancode.com/aig/match/v1/132083_CASACARDS_APP.png",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/132083_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://images.fancode.com/aig/match/v1/132083_CASACARDS_APP.png",
+                "PLAYBACK": null,
+                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2023/04/J-League_2023.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
+                "BG_IMAGE": "https://images.fancode.com/aig/match/v1/132083_CASACARDS_APP.png",
+                "SPORT_BY_IMAGE": "https://images.fancode.com/aig/match/v1/132083_CASACARDS_SPORTY_APP.png",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/132083_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "name": "Kashiwa Reysol",
+                    "shortName": "REY",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-KRE@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#1c3bac",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "Urawa Red Diamonds",
+                    "shortName": "URW",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-URW@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#9e1c35",
                     "cricketScore": null,
                     "kabaddiScore": null,
                     "footballScore": null,
@@ -2492,74 +2492,6 @@
             }
         },
         {
-            "category": "Kabaddi",
-            "title": "Tirupati Raiders Vs Kurnool Knights",
-            "tournament": "Yuva Andhra Championship, 2025",
-            "match_id": 133736,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "22 August 2025 05:30 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/133736_5591_TR_KKK_fc-Web.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/133736_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/133736_5591_TR_KKK_fc-Web.jpg",
-                "PLAYBACK": null,
-                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Yuva-Andhra-Championship,-2025-Tour-Logo.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Kabaddi-old-min.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/133736_5591_TR_KKK_fc-Web.jpg",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/133736_5591_TR_KKK_Fc-App.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/133736_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "name": "Tirupati Raiders",
-                    "shortName": "TR",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/kb-flags/FC-TR@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#e26252",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "Kurnool Knights",
-                    "shortName": "KKK",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/kb-flags/FC-KT@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#e4bea2",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
-            }
-        },
-        {
             "category": "Football",
             "title": "Real Betis Vs Alav\u00e9s",
             "tournament": "LALIGA 2025-26",
@@ -2607,6 +2539,74 @@
                     },
                     "isWinner": null,
                     "color": "#537096",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "STREAMING_CDN": {
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
+            }
+        },
+        {
+            "category": "Kabaddi",
+            "title": "Tirupati Raiders Vs Kurnool Knights",
+            "tournament": "Yuva Andhra Championship, 2025",
+            "match_id": 133736,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "22 August 2025 05:30 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/133736_5591_TR_KKK_fc-Web.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/133736_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/133736_5591_TR_KKK_fc-Web.jpg",
+                "PLAYBACK": null,
+                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Yuva-Andhra-Championship,-2025-Tour-Logo.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Kabaddi-old-min.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/133736_5591_TR_KKK_fc-Web.jpg",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/133736_5591_TR_KKK_Fc-App.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/133736_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "name": "Tirupati Raiders",
+                    "shortName": "TR",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/kb-flags/FC-TR@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#e26252",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "Kurnool Knights",
+                    "shortName": "KKK",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/kb-flags/FC-KT@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#e4bea2",
                     "cricketScore": null,
                     "kabaddiScore": null,
                     "footballScore": null,
