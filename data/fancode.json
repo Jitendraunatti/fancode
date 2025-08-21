@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "03:30:56 PM 21-08-2025",
+    "last_updated": "03:38:45 PM 21-08-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -41,11 +41,11 @@
                     "color": "#D26617",
                     "cricketScore": [
                         {
-                            "runs": 84,
-                            "overs": "10",
-                            "balls": "60",
+                            "runs": 92,
+                            "overs": "11.2",
+                            "balls": "68",
                             "status": "IN_PROGRESS",
-                            "wickets": 3
+                            "wickets": 4
                         }
                     ],
                     "kabaddiScore": null,
@@ -120,11 +120,11 @@
                     "color": "#D26617",
                     "cricketScore": [
                         {
-                            "runs": 84,
-                            "overs": "10",
-                            "balls": "60",
+                            "runs": 92,
+                            "overs": "11.2",
+                            "balls": "68",
                             "status": "IN_PROGRESS",
-                            "wickets": 3
+                            "wickets": 4
                         }
                     ],
                     "kabaddiScore": null,
@@ -199,9 +199,9 @@
                     "color": "#fea129",
                     "cricketScore": [
                         {
-                            "runs": 13,
-                            "overs": "2.5",
-                            "balls": "17",
+                            "runs": 25,
+                            "overs": "4.1",
+                            "balls": "25",
                             "status": "IN_PROGRESS",
                             "wickets": 0
                         }
@@ -249,93 +249,6 @@
         },
         {
             "category": "Cricket",
-            "title": "Czechia Vs Romania",
-            "tournament": "ECN Romania-Czechia T20I, 2025",
-            "match_id": 134939,
-            "status": "COMPLETED",
-            "streamingStatus": "STARTED",
-            "startTime": "21 August 2025 12:00 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/ECN-Romania-Czechia-T20I,-2025_Match_card_1755759374155.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/134939_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/ECN-Romania-Czechia-T20I,-2025_Match_card_1755759374155.jpg",
-                "PLAYBACK": "https://images.fancode.com/aig/match/v2/134939_CASACARDS_APP.png",
-                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/ECN-Tour-Logo_1753262759690.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/ECN-Romania-Czechia-T20I,-2025_Match_card_1755759374155.jpg",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/ECN-Romania-Czechia-T20I,-2025_Sporty_Match_card_1755759374144.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/134939_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "name": "Czechia",
-                    "shortName": "CZE",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CZR@2x.png"
-                    },
-                    "isWinner": true,
-                    "color": "#074FB4",
-                    "cricketScore": [
-                        {
-                            "runs": 149,
-                            "overs": "20",
-                            "balls": "120",
-                            "status": "COMPLETED",
-                            "wickets": 9
-                        }
-                    ],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "Romania",
-                    "shortName": "ROM",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ROMN@2x.png"
-                    },
-                    "isWinner": false,
-                    "color": "#d7bd39",
-                    "cricketScore": [
-                        {
-                            "runs": 131,
-                            "overs": "20",
-                            "balls": "120",
-                            "status": "IN_PROGRESS",
-                            "wickets": 8
-                        }
-                    ],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": true
-                        }
-                    }
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/134939_english_hls_b63ecfa45651323ta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/JwvF_gplSxeSnhLJLoFvHA/master.m3u8",
-            "STREAMING_CDN": {
-                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/134939_english_hls_b63ecfa45651323ta-di_h264/index.m3u8",
-                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/134939_english_hls_b63ecfa45651323ta-di_h264/index.m3u8",
-                "dai_google_cdn": "https://dai.google.com/linear/hls/event/JwvF_gplSxeSnhLJLoFvHA/master.m3u8",
-                "cloudfront_cdn": "Unavailable",
-                "language": "ENGLISH"
-            }
-        },
-        {
-            "category": "Cricket",
             "title": "Vijayawada Sunshiners Vs Bhimavaram Bulls",
             "tournament": "Andhra Premier League, 2025",
             "match_id": 132781,
@@ -365,9 +278,9 @@
                     "color": "#cf6063",
                     "cricketScore": [
                         {
-                            "runs": 154,
-                            "overs": "18.5",
-                            "balls": "113",
+                            "runs": 160,
+                            "overs": "20",
+                            "balls": "120",
                             "status": "IN_PROGRESS",
                             "wickets": 8
                         }
@@ -444,9 +357,9 @@
                     "color": "#921b36",
                     "cricketScore": [
                         {
-                            "runs": 64,
-                            "overs": "13.5",
-                            "balls": "83",
+                            "runs": 76,
+                            "overs": "14.5",
+                            "balls": "89",
                             "status": "IN_PROGRESS",
                             "wickets": 2
                         }
@@ -523,11 +436,11 @@
                     "color": "#2c5ab3",
                     "cricketScore": [
                         {
-                            "runs": 85,
-                            "overs": "15",
-                            "balls": "90",
+                            "runs": 103,
+                            "overs": "16.1",
+                            "balls": "97",
                             "status": "IN_PROGRESS",
-                            "wickets": 4
+                            "wickets": 5
                         }
                     ],
                     "kabaddiScore": null,
@@ -681,11 +594,11 @@
                     "color": "#d48020",
                     "cricketScore": [
                         {
-                            "runs": 47,
-                            "overs": "6.3",
-                            "balls": "39",
+                            "runs": 50,
+                            "overs": "7.5",
+                            "balls": "47",
                             "status": "IN_PROGRESS",
-                            "wickets": 1
+                            "wickets": 3
                         }
                     ],
                     "kabaddiScore": null,
@@ -760,9 +673,9 @@
                     "color": "#1e4609",
                     "cricketScore": [
                         {
-                            "runs": 0,
-                            "overs": "0",
-                            "balls": "0",
+                            "runs": 3,
+                            "overs": "1",
+                            "balls": "6",
                             "status": "IN_PROGRESS",
                             "wickets": 0
                         }
@@ -839,11 +752,11 @@
                     "color": "#5a8543",
                     "cricketScore": [
                         {
-                            "runs": 0,
-                            "overs": "0",
-                            "balls": "0",
+                            "runs": 2,
+                            "overs": "1.2",
+                            "balls": "8",
                             "status": "IN_PROGRESS",
-                            "wickets": 0
+                            "wickets": 1
                         }
                     ],
                     "kabaddiScore": null,
@@ -883,6 +796,164 @@
                 "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/133785_english_hls_c67aa1231d40650ta-di_h264/index.m3u8",
                 "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/133785_english_hls_c67aa1231d40650ta-di_h264/index.m3u8",
                 "dai_google_cdn": "https://dai.google.com/linear/hls/event/0JAL63obSJiRh-Yq_XWEvQ/master.m3u8",
+                "cloudfront_cdn": "Unavailable",
+                "language": "ENGLISH"
+            }
+        },
+        {
+            "category": "Kabaddi",
+            "title": "Krishna Defenders Vs Bhimavaram Guardians",
+            "tournament": "Yuva Andhra Championship, 2025",
+            "match_id": 133731,
+            "status": "NOT_STARTED",
+            "streamingStatus": "STARTED",
+            "startTime": "21 August 2025 03:45 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/133731_5591_KD_BG_fc-Web.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/133731_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/133731_5591_KD_BG_fc-Web.jpg",
+                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/133731_5591_KD_BG_fc-Web.jpg",
+                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Yuva-Andhra-Championship,-2025-Tour-Logo.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Kabaddi-old-min.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/133731_5591_KD_BG_fc-Web.jpg",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/133731_5591_KD_BG_Fc-App.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/133731_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "name": "Krishna Defenders",
+                    "shortName": "KD",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/kb-flags/FC-KD@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#e6ae3e",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "Bhimavaram Guardians",
+                    "shortName": "BG",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/kb-flags/FC-BH@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#f9ba8d",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/133731_english_hls_396b8c66fc77212ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/ewvllKWLQGWgSRWP7DizfQ/master.m3u8",
+            "STREAMING_CDN": {
+                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/133731_english_hls_396b8c66fc77212ta-di_h264/index.m3u8",
+                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/133731_english_hls_396b8c66fc77212ta-di_h264/index.m3u8",
+                "dai_google_cdn": "https://dai.google.com/linear/hls/event/ewvllKWLQGWgSRWP7DizfQ/master.m3u8",
+                "cloudfront_cdn": "Unavailable",
+                "language": "ENGLISH"
+            }
+        },
+        {
+            "category": "Cricket",
+            "title": "Czechia Vs Romania",
+            "tournament": "ECN Romania-Czechia T20I, 2025",
+            "match_id": 134939,
+            "status": "COMPLETED",
+            "streamingStatus": "STARTED",
+            "startTime": "21 August 2025 12:00 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/ECN-Romania-Czechia-T20I,-2025_Match_card_1755759374155.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/134939_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/ECN-Romania-Czechia-T20I,-2025_Match_card_1755759374155.jpg",
+                "PLAYBACK": "https://images.fancode.com/aig/match/v2/134939_CASACARDS_APP.png",
+                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/ECN-Tour-Logo_1753262759690.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/ECN-Romania-Czechia-T20I,-2025_Match_card_1755759374155.jpg",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/ECN-Romania-Czechia-T20I,-2025_Sporty_Match_card_1755759374144.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/134939_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "name": "Czechia",
+                    "shortName": "CZE",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CZR@2x.png"
+                    },
+                    "isWinner": true,
+                    "color": "#074FB4",
+                    "cricketScore": [
+                        {
+                            "runs": 149,
+                            "overs": "20",
+                            "balls": "120",
+                            "status": "COMPLETED",
+                            "wickets": 9
+                        }
+                    ],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "Romania",
+                    "shortName": "ROM",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ROMN@2x.png"
+                    },
+                    "isWinner": false,
+                    "color": "#d7bd39",
+                    "cricketScore": [
+                        {
+                            "runs": 131,
+                            "overs": "20",
+                            "balls": "120",
+                            "status": "IN_PROGRESS",
+                            "wickets": 8
+                        }
+                    ],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": true
+                        }
+                    }
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/134939_english_hls_b63ecfa45651323ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/JwvF_gplSxeSnhLJLoFvHA/master.m3u8",
+            "STREAMING_CDN": {
+                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/134939_english_hls_b63ecfa45651323ta-di_h264/index.m3u8",
+                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/134939_english_hls_b63ecfa45651323ta-di_h264/index.m3u8",
+                "dai_google_cdn": "https://dai.google.com/linear/hls/event/JwvF_gplSxeSnhLJLoFvHA/master.m3u8",
                 "cloudfront_cdn": "Unavailable",
                 "language": "ENGLISH"
             }
@@ -1440,77 +1511,6 @@
             }
         },
         {
-            "category": "Kabaddi",
-            "title": "Krishna Defenders Vs Bhimavaram Guardians",
-            "tournament": "Yuva Andhra Championship, 2025",
-            "match_id": 133731,
-            "status": "NOT_STARTED",
-            "streamingStatus": "STARTED",
-            "startTime": "21 August 2025 03:45 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/133731_5591_KD_BG_fc-Web.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/133731_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/133731_5591_KD_BG_fc-Web.jpg",
-                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/133731_5591_KD_BG_fc-Web.jpg",
-                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Yuva-Andhra-Championship,-2025-Tour-Logo.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Kabaddi-old-min.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/133731_5591_KD_BG_fc-Web.jpg",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/133731_5591_KD_BG_Fc-App.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/133731_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "name": "Krishna Defenders",
-                    "shortName": "KD",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/kb-flags/FC-KD@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#e6ae3e",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "Bhimavaram Guardians",
-                    "shortName": "BG",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/kb-flags/FC-BH@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#f9ba8d",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/133731_english_hls_396b8c66fc77212ta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/ewvllKWLQGWgSRWP7DizfQ/master.m3u8",
-            "STREAMING_CDN": {
-                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/133731_english_hls_396b8c66fc77212ta-di_h264/index.m3u8",
-                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/133731_english_hls_396b8c66fc77212ta-di_h264/index.m3u8",
-                "dai_google_cdn": "https://dai.google.com/linear/hls/event/ewvllKWLQGWgSRWP7DizfQ/master.m3u8",
-                "cloudfront_cdn": "Unavailable",
-                "language": "ENGLISH"
-            }
-        },
-        {
             "category": "Cricket",
             "title": "Berlin Cc Vs Sc Europa",
             "tournament": "ECS Germany, Kiel, 2025",
@@ -1539,14 +1539,22 @@
                     },
                     "isWinner": null,
                     "color": "#9c1a1a",
-                    "cricketScore": [],
+                    "cricketScore": [
+                        {
+                            "runs": 0,
+                            "overs": "0",
+                            "balls": "0",
+                            "status": "IN_PROGRESS",
+                            "wickets": 0
+                        }
+                    ],
                     "kabaddiScore": null,
                     "footballScore": null,
                     "basketBallScore": null,
                     "hockeyScore": null,
                     "status": {
                         "cricket": {
-                            "isBatting": false
+                            "isBatting": true
                         }
                     }
                 },
