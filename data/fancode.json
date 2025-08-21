@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "11:26:47 PM 21-08-2025",
+    "last_updated": "11:30:57 PM 21-08-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -15,7 +15,7 @@
             "title": "West Delhi Lions Vs Central Delhi Kings",
             "tournament": "Delhi Premier League, 2025",
             "match_id": 132492,
-            "status": "LIVE",
+            "status": "COMPLETED",
             "streamingStatus": "STARTED",
             "startTime": "21 August 2025 07:00 PM",
             "startDate": "01 January 1970 05:30 AM",
@@ -128,9 +128,9 @@
                     "color": "#d09b8a",
                     "cricketScore": [
                         {
-                            "runs": 65,
-                            "overs": "7",
-                            "balls": "35",
+                            "runs": 71,
+                            "overs": "8.2",
+                            "balls": "42",
                             "status": "IN_PROGRESS",
                             "wickets": 1
                         }
@@ -234,11 +234,11 @@
                     "color": "#d15972",
                     "cricketScore": [
                         {
-                            "runs": 262,
-                            "overs": "47.3",
-                            "balls": "285",
+                            "runs": 264,
+                            "overs": "48.2",
+                            "balls": "290",
                             "status": "IN_PROGRESS",
-                            "wickets": 7
+                            "wickets": 8
                         }
                     ],
                     "kabaddiScore": null,
@@ -321,11 +321,11 @@
                     "color": "#5438bd",
                     "cricketScore": [
                         {
-                            "runs": 32,
-                            "overs": "7",
-                            "balls": "42",
+                            "runs": 37,
+                            "overs": "7.5",
+                            "balls": "47",
                             "status": "IN_PROGRESS",
-                            "wickets": 5
+                            "wickets": 6
                         }
                     ],
                     "kabaddiScore": null,
@@ -408,9 +408,9 @@
                     "color": "#702963",
                     "cricketScore": [
                         {
-                            "runs": 41,
-                            "overs": "5",
-                            "balls": "30",
+                            "runs": 50,
+                            "overs": "6.3",
+                            "balls": "39",
                             "status": "IN_PROGRESS",
                             "wickets": 2
                         }
