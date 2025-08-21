@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "11:18:45 PM 21-08-2025",
+    "last_updated": "11:26:47 PM 21-08-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -128,11 +128,11 @@
                     "color": "#d09b8a",
                     "cricketScore": [
                         {
-                            "runs": 55,
-                            "overs": "4.4",
-                            "balls": "24",
+                            "runs": 65,
+                            "overs": "7",
+                            "balls": "35",
                             "status": "IN_PROGRESS",
-                            "wickets": 0
+                            "wickets": 1
                         }
                     ],
                     "kabaddiScore": null,
@@ -189,7 +189,7 @@
             "image_cdn": {
                 "TATAPLAY": "https://images.fancode.com/aig/match/v1/133785_CASACARDS_PARTNER_16_9_1920_1080.png",
                 "APP": "https://www.fancode.com/skillup-uploads/cms-media/133785_4464_KUW_QAT_fc-Web.jpg",
-                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/133785_4464_KUW_QAT_fc-Web.jpg",
+                "PLAYBACK": null,
                 "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/09/ICC-Mens-Cricket-World-Cup-Challenge-League-Tour-Logo.png",
                 "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
                 "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/133785_4464_KUW_QAT_fc-Web.jpg",
@@ -234,9 +234,9 @@
                     "color": "#d15972",
                     "cricketScore": [
                         {
-                            "runs": 252,
-                            "overs": "45.3",
-                            "balls": "273",
+                            "runs": 262,
+                            "overs": "47.3",
+                            "balls": "285",
                             "status": "IN_PROGRESS",
                             "wickets": 7
                         }
@@ -253,12 +253,12 @@
                 }
             ],
             "language": "ENGLISH",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/133785_english_hls_c67aa1231d40650ta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/0JAL63obSJiRh-Yq_XWEvQ/master.m3u8",
+            "adfree_stream": "https://in-mc-pdlive.fancode.com/mumbai/133785_english_hls_c67aa1231d40650ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/QqZw02gUQpGi0SC8z4h-Kw/master.m3u8",
             "STREAMING_CDN": {
-                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/133785_english_hls_c67aa1231d40650ta-di_h264/index.m3u8",
-                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/133785_english_hls_c67aa1231d40650ta-di_h264/index.m3u8",
-                "dai_google_cdn": "https://dai.google.com/linear/hls/event/0JAL63obSJiRh-Yq_XWEvQ/master.m3u8",
+                "Primary_Playback_URL": "https://in-mc-pdlive.fancode.com/mumbai/133785_english_hls_c67aa1231d40650ta-di_h264/index.m3u8",
+                "fancode_cdn": "https://in-mc-pdlive.fancode.com/mumbai/133785_english_hls_c67aa1231d40650ta-di_h264/index.m3u8",
+                "dai_google_cdn": "https://dai.google.com/linear/hls/event/QqZw02gUQpGi0SC8z4h-Kw/master.m3u8",
                 "cloudfront_cdn": "Unavailable",
                 "language": "ENGLISH"
             }
@@ -321,11 +321,11 @@
                     "color": "#5438bd",
                     "cricketScore": [
                         {
-                            "runs": 27,
-                            "overs": "5.3",
-                            "balls": "33",
+                            "runs": 32,
+                            "overs": "7",
+                            "balls": "42",
                             "status": "IN_PROGRESS",
-                            "wickets": 4
+                            "wickets": 5
                         }
                     ],
                     "kabaddiScore": null,
@@ -408,11 +408,11 @@
                     "color": "#702963",
                     "cricketScore": [
                         {
-                            "runs": 33,
-                            "overs": "3",
-                            "balls": "18",
+                            "runs": 41,
+                            "overs": "5",
+                            "balls": "30",
                             "status": "IN_PROGRESS",
-                            "wickets": 1
+                            "wickets": 2
                         }
                     ],
                     "kabaddiScore": null,
