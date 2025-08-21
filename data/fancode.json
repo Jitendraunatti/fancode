@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "09:02:50 PM 21-08-2025",
+    "last_updated": "09:10:51 PM 21-08-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -120,9 +120,9 @@
                     "color": "#D59A14",
                     "cricketScore": [
                         {
-                            "runs": 84,
-                            "overs": "16.3",
-                            "balls": "99",
+                            "runs": 94,
+                            "overs": "17.4",
+                            "balls": "107",
                             "status": "IN_PROGRESS",
                             "wickets": 7
                         }
@@ -226,9 +226,9 @@
                     "color": "#d09b8a",
                     "cricketScore": [
                         {
-                            "runs": 18,
-                            "overs": "2.4",
-                            "balls": "14",
+                            "runs": 44,
+                            "overs": "4.3",
+                            "balls": "23",
                             "status": "IN_PROGRESS",
                             "wickets": 0
                         }
@@ -286,11 +286,11 @@
                     "color": "#74B8E1",
                     "cricketScore": [
                         {
-                            "runs": 77,
-                            "overs": "15.5",
-                            "balls": "95",
+                            "runs": 79,
+                            "overs": "16.3",
+                            "balls": "99",
                             "status": "IN_PROGRESS",
-                            "wickets": 7
+                            "wickets": 8
                         }
                     ],
                     "kabaddiScore": null,
@@ -365,11 +365,11 @@
                     "color": "#74B8E1",
                     "cricketScore": [
                         {
-                            "runs": 77,
-                            "overs": "15.5",
-                            "balls": "95",
+                            "runs": 79,
+                            "overs": "16.3",
+                            "balls": "99",
                             "status": "IN_PROGRESS",
-                            "wickets": 7
+                            "wickets": 8
                         }
                     ],
                     "kabaddiScore": null,
@@ -471,9 +471,9 @@
                     "color": "#d15972",
                     "cricketScore": [
                         {
-                            "runs": 73,
-                            "overs": "17.5",
-                            "balls": "107",
+                            "runs": 79,
+                            "overs": "19",
+                            "balls": "114",
                             "status": "IN_PROGRESS",
                             "wickets": 2
                         }
@@ -558,9 +558,9 @@
                     "color": "#d0b648",
                     "cricketScore": [
                         {
-                            "runs": 78,
-                            "overs": "9.2",
-                            "balls": "56",
+                            "runs": 101,
+                            "overs": "11.4",
+                            "balls": "70",
                             "status": "IN_PROGRESS",
                             "wickets": 1
                         }
@@ -645,11 +645,11 @@
                     "color": "#df787f",
                     "cricketScore": [
                         {
-                            "runs": 29,
-                            "overs": "3.2",
-                            "balls": "20",
+                            "runs": 41,
+                            "overs": "5",
+                            "balls": "30",
                             "status": "IN_PROGRESS",
-                            "wickets": 1
+                            "wickets": 2
                         }
                     ],
                     "kabaddiScore": null,
@@ -705,9 +705,9 @@
                     "color": "#9c1a1a",
                     "cricketScore": [
                         {
-                            "runs": 45,
-                            "overs": "3.2",
-                            "balls": "20",
+                            "runs": 71,
+                            "overs": "5.1",
+                            "balls": "32",
                             "status": "IN_PROGRESS",
                             "wickets": 1
                         }
@@ -784,11 +784,11 @@
                     "color": "#138bc2",
                     "cricketScore": [
                         {
-                            "runs": 0,
-                            "overs": "0",
-                            "balls": "0",
+                            "runs": 6,
+                            "overs": "1.2",
+                            "balls": "8",
                             "status": "IN_PROGRESS",
-                            "wickets": 0
+                            "wickets": 1
                         }
                     ],
                     "kabaddiScore": null,
@@ -1896,74 +1896,6 @@
         },
         {
             "category": "Cricket",
-            "title": "Melbourne Renegades Academy Vs Adelaide Strikers Academy",
-            "tournament": "Top End T20 Series, 2025",
-            "match_id": 133525,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "22 August 2025 07:00 AM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/133525_5574_MRA_ASA_fc-web.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/133525_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/133525_5574_MRA_ASA_fc-web.jpg",
-                "PLAYBACK": null,
-                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2023/12/Tour-Placeholder.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/133525_5574_MRA_ASA_fc-web.jpg",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/133525_5574_MRA_ASA_fc-app.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/133525_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "name": "Melbourne Renegades Academy",
-                    "shortName": "MRA",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RNE@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#f6848b",
-                    "cricketScore": [],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "Adelaide Strikers Academy",
-                    "shortName": "ASA",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ADS@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#4caade",
-                    "cricketScore": [],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
-            }
-        },
-        {
-            "category": "Cricket",
             "title": "New Delhi Tigers Vs Outer Delhi Warriors",
             "tournament": "Delhi Premier League, 2025",
             "match_id": 132493,
@@ -2010,6 +1942,74 @@
                     },
                     "isWinner": null,
                     "color": "#0a2346",
+                    "cricketScore": [],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "STREAMING_CDN": {
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
+            }
+        },
+        {
+            "category": "Cricket",
+            "title": "Melbourne Renegades Academy Vs Adelaide Strikers Academy",
+            "tournament": "Top End T20 Series, 2025",
+            "match_id": 133525,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "22 August 2025 07:00 AM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/133525_5574_MRA_ASA_fc-web.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/133525_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/133525_5574_MRA_ASA_fc-web.jpg",
+                "PLAYBACK": null,
+                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2023/12/Tour-Placeholder.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/133525_5574_MRA_ASA_fc-web.jpg",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/133525_5574_MRA_ASA_fc-app.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/133525_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "name": "Melbourne Renegades Academy",
+                    "shortName": "MRA",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RNE@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#f6848b",
+                    "cricketScore": [],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "Adelaide Strikers Academy",
+                    "shortName": "ASA",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ADS@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#4caade",
                     "cricketScore": [],
                     "kabaddiScore": null,
                     "footballScore": null,
