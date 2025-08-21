@@ -1,14 +1,14 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "02:54:45 PM 21-08-2025",
+    "last_updated": "03:02:50 PM 21-08-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
     "total_matches": 39,
-    "live_matches": 8,
-    "upcoming_matches": 31,
+    "live_matches": 9,
+    "upcoming_matches": 30,
     "matches": [
         {
             "category": "Cricket",
@@ -41,11 +41,11 @@
                     "color": "#D26617",
                     "cricketScore": [
                         {
-                            "runs": 30,
-                            "overs": "3.5",
-                            "balls": "23",
+                            "runs": 41,
+                            "overs": "5",
+                            "balls": "30",
                             "status": "IN_PROGRESS",
-                            "wickets": 0
+                            "wickets": 1
                         }
                     ],
                     "kabaddiScore": null,
@@ -120,11 +120,11 @@
                     "color": "#D26617",
                     "cricketScore": [
                         {
-                            "runs": 30,
-                            "overs": "3.5",
-                            "balls": "23",
+                            "runs": 41,
+                            "overs": "5",
+                            "balls": "30",
                             "status": "IN_PROGRESS",
-                            "wickets": 0
+                            "wickets": 1
                         }
                     ],
                     "kabaddiScore": null,
@@ -166,6 +166,85 @@
                 "dai_google_cdn": "https://dai.google.com/linear/hls/event/A9ZkexS7QVuVnMGKltjmkg/master.m3u8",
                 "cloudfront_cdn": "Unavailable",
                 "language": "MALAYALAM"
+            }
+        },
+        {
+            "category": "Cricket",
+            "title": "Mangaluru Dragons Vs Mysore Warriors",
+            "tournament": "Maharaja T20 Trophy, 2025",
+            "match_id": 132805,
+            "status": "NOT_STARTED",
+            "streamingStatus": "STARTED",
+            "startTime": "21 August 2025 03:15 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/132805_5530_MD_MW_fc-Web_1755374793025.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/132805_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/132805_5530_MD_MW_fc-Web_1755374793025.jpg",
+                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/132805_5530_MD_MW_fc-Web_1755374793025.jpg",
+                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/07/Maharaja-Trophy-KSCA-T20-Tour-Logo.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/132805_5530_MD_MW_fc-Web_1755374793025.jpg",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/132805_5530_MD_MW_fc-App_1755374802384.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/132805_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "name": "Mangaluru Dragons",
+                    "shortName": "MD",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MDR@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#fea129",
+                    "cricketScore": [
+                        {
+                            "runs": 0,
+                            "overs": "0",
+                            "balls": "0",
+                            "status": "IN_PROGRESS",
+                            "wickets": 0
+                        }
+                    ],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": true
+                        }
+                    }
+                },
+                {
+                    "name": "Mysore Warriors",
+                    "shortName": "MW",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MWAR@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#ffed00",
+                    "cricketScore": [],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/132805_english_hls_c026b2438d75708ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/97Wm-Wq8TjqV_KOD9sp8MA/master.m3u8",
+            "STREAMING_CDN": {
+                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/132805_english_hls_c026b2438d75708ta-di_h264/index.m3u8",
+                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/132805_english_hls_c026b2438d75708ta-di_h264/index.m3u8",
+                "dai_google_cdn": "https://dai.google.com/linear/hls/event/97Wm-Wq8TjqV_KOD9sp8MA/master.m3u8",
+                "cloudfront_cdn": "Unavailable",
+                "language": "ENGLISH"
             }
         },
         {
@@ -226,11 +305,11 @@
                     "color": "#d7bd39",
                     "cricketScore": [
                         {
-                            "runs": 87,
-                            "overs": "12.5",
-                            "balls": "77",
+                            "runs": 103,
+                            "overs": "14.3",
+                            "balls": "87",
                             "status": "IN_PROGRESS",
-                            "wickets": 3
+                            "wickets": 5
                         }
                     ],
                     "kabaddiScore": null,
@@ -286,11 +365,11 @@
                     "color": "#cf6063",
                     "cricketScore": [
                         {
-                            "runs": 112,
-                            "overs": "14.3",
-                            "balls": "87",
+                            "runs": 115,
+                            "overs": "15.3",
+                            "balls": "93",
                             "status": "IN_PROGRESS",
-                            "wickets": 4
+                            "wickets": 5
                         }
                     ],
                     "kabaddiScore": null,
@@ -365,9 +444,9 @@
                     "color": "#921b36",
                     "cricketScore": [
                         {
-                            "runs": 55,
-                            "overs": "11.3",
-                            "balls": "69",
+                            "runs": 64,
+                            "overs": "13.5",
+                            "balls": "83",
                             "status": "IN_PROGRESS",
                             "wickets": 2
                         }
@@ -444,11 +523,11 @@
                     "color": "#2c5ab3",
                     "cricketScore": [
                         {
-                            "runs": 40,
-                            "overs": "6.1",
-                            "balls": "37",
+                            "runs": 54,
+                            "overs": "8.2",
+                            "balls": "50",
                             "status": "IN_PROGRESS",
-                            "wickets": 0
+                            "wickets": 1
                         }
                     ],
                     "kabaddiScore": null,
@@ -523,9 +602,9 @@
                     "color": "#c5d15e",
                     "cricketScore": [
                         {
-                            "runs": 14,
-                            "overs": "1.3",
-                            "balls": "9",
+                            "runs": 38,
+                            "overs": "3.2",
+                            "balls": "20",
                             "status": "IN_PROGRESS",
                             "wickets": 1
                         }
@@ -602,9 +681,9 @@
                     "color": "#d48020",
                     "cricketScore": [
                         {
-                            "runs": 0,
-                            "overs": "0",
-                            "balls": "0",
+                            "runs": 1,
+                            "overs": "0.3",
+                            "balls": "3",
                             "status": "IN_PROGRESS",
                             "wickets": 0
                         }
@@ -648,82 +727,6 @@
                 "dai_google_cdn": "https://dai.google.com/linear/hls/event/SrZsP_8WTy2z2IKSt5ocmQ/master.m3u8",
                 "cloudfront_cdn": "Unavailable",
                 "language": "ENGLISH"
-            }
-        },
-        {
-            "category": "Cricket",
-            "title": "Mangaluru Dragons Vs Mysore Warriors",
-            "tournament": "Maharaja T20 Trophy, 2025",
-            "match_id": 132805,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "21 August 2025 03:15 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/132805_5530_MD_MW_fc-Web_1755374793025.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/132805_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/132805_5530_MD_MW_fc-Web_1755374793025.jpg",
-                "PLAYBACK": null,
-                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/07/Maharaja-Trophy-KSCA-T20-Tour-Logo.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/132805_5530_MD_MW_fc-Web_1755374793025.jpg",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/132805_5530_MD_MW_fc-App_1755374802384.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/132805_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "name": "Mangaluru Dragons",
-                    "shortName": "MD",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MDR@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#fea129",
-                    "cricketScore": [
-                        {
-                            "runs": 0,
-                            "overs": "0",
-                            "balls": "0",
-                            "status": "IN_PROGRESS",
-                            "wickets": 0
-                        }
-                    ],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": true
-                        }
-                    }
-                },
-                {
-                    "name": "Mysore Warriors",
-                    "shortName": "MW",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MWAR@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#ffed00",
-                    "cricketScore": [],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
             }
         },
         {
