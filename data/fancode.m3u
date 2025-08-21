@@ -1,7 +1,7 @@
 #EXTM3U
 #DEVELOPED_BY_JITENDRA_PRO_DEV
 #AUTHOR:-JITENDRA_KUMAR
-#DATE:- Thursday 21 August, 2025 at 9:54:49 pm
+#DATE:- Thursday 21 August, 2025 at 10:02:54 pm
 #EXTINF:-1 tvg-id="132492" tvg-name="West Delhi Lions Vs Central Delhi Kings" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/132492_5521_CDK_WDL_fc-Web.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | West Delhi Lions Vs Central Delhi Kings
 https://in-mc-fdlive.fancode.com/mumbai/132492_english_hls_a0d00b140826738ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="132806" tvg-name="Shivamogga Lions Vs Bengaluru Blasters" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/132806_5530_BB_SS_fc-Web_1755374793105.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Shivamogga Lions Vs Bengaluru Blasters
@@ -20,6 +20,8 @@ https://in-mc-fdlive.fancode.com/mumbai/133750_english_hls_0e4d10c73f47088ta-di_
 https://in-mc-fdlive.fancode.com/mumbai/134145_english_hls_8e09bcdd3a69318ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="133683" tvg-name="Ias Invincibles Vs Muscat Thunders" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/133683_5590_MUT_IAI_fc-Web.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Ias Invincibles Vs Muscat Thunders
 https://in-mc-fdlive.fancode.com/mumbai/133683_english_hls_2853cf4c9798788ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
+#EXTINF:-1 tvg-id="132171" tvg-name="Khan Zalmi Kings Vs Bihar Cc" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/KCC-T10-Summer-League,-2025_match-card.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Khan Zalmi Kings Vs Bihar Cc
+https://in-mc-fdlive.fancode.com/mumbai/132171_english_hls_4df4fa5f7216214ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="133909" tvg-name="Day 1" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Betfred-British-Masters_old.jpg" tvg-language="ENGLISH" group-title="Golf",ENG | Day 1
 https://in-mc-fdlive.fancode.com/mumbai/133909_english_hls_d86f407b0f8563ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="132451" tvg-name="Finals" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/old-match-card-.png" tvg-language="ENGLISH" group-title="Arm Wrestling",ENG | Finals
