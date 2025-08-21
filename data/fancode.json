@@ -1,15 +1,173 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "02:10:45 PM 21-08-2025",
+    "last_updated": "02:18:55 PM 21-08-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 38,
-    "live_matches": 6,
-    "upcoming_matches": 32,
+    "total_matches": 39,
+    "live_matches": 8,
+    "upcoming_matches": 31,
     "matches": [
+        {
+            "category": "Cricket",
+            "title": "Calicut Globstars Vs Aries Kollam Sailors",
+            "tournament": "Kerala Cricket League, 2025",
+            "match_id": 133876,
+            "status": "NOT_STARTED",
+            "streamingStatus": "STARTED",
+            "startTime": "21 August 2025 02:30 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/133876_5600_AKS_CG_fc-Web.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/133876_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/133876_5600_AKS_CG_fc-Web.jpg",
+                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/133876_5600_AKS_CG_fc-Web.jpg",
+                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Kerala-Cricket-League-Tour-Logo-(1).png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/133876_5600_AKS_CG_fc-Web.jpg",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/133876_5600_AKS_CG_fc-App.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/133876_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "name": "Calicut Globstars",
+                    "shortName": "CG",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CGKL@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#D26617",
+                    "cricketScore": [
+                        {
+                            "runs": 0,
+                            "overs": "0",
+                            "balls": "0",
+                            "status": "IN_PROGRESS",
+                            "wickets": 0
+                        }
+                    ],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": true
+                        }
+                    }
+                },
+                {
+                    "name": "Aries Kollam Sailors",
+                    "shortName": "AKS",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AKS@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#b7e330",
+                    "cricketScore": [],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/133876_english_hls_8a8b6c14a135362ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/HRTLuxNrQxKdCNMBcnIPbw/master.m3u8",
+            "STREAMING_CDN": {
+                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/133876_english_hls_8a8b6c14a135362ta-di_h264/index.m3u8",
+                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/133876_english_hls_8a8b6c14a135362ta-di_h264/index.m3u8",
+                "dai_google_cdn": "https://dai.google.com/linear/hls/event/HRTLuxNrQxKdCNMBcnIPbw/master.m3u8",
+                "cloudfront_cdn": "Unavailable",
+                "language": "ENGLISH"
+            }
+        },
+        {
+            "category": "Cricket",
+            "title": "Calicut Globstars Vs Aries Kollam Sailors",
+            "tournament": "Kerala Cricket League, 2025",
+            "match_id": 133876,
+            "status": "NOT_STARTED",
+            "streamingStatus": "STARTED",
+            "startTime": "21 August 2025 02:30 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/133876_5600_AKS_CG_fc-Web.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/133876_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/133876_5600_AKS_CG_fc-Web.jpg",
+                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/133876_5600_AKS_CG_fc-Web.jpg",
+                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Kerala-Cricket-League-Tour-Logo-(1).png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/133876_5600_AKS_CG_fc-Web.jpg",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/133876_5600_AKS_CG_fc-App.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/133876_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "name": "Calicut Globstars",
+                    "shortName": "CG",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CGKL@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#D26617",
+                    "cricketScore": [
+                        {
+                            "runs": 0,
+                            "overs": "0",
+                            "balls": "0",
+                            "status": "IN_PROGRESS",
+                            "wickets": 0
+                        }
+                    ],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": true
+                        }
+                    }
+                },
+                {
+                    "name": "Aries Kollam Sailors",
+                    "shortName": "AKS",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AKS@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#b7e330",
+                    "cricketScore": [],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                }
+            ],
+            "language": "MALAYALAM",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/133876_malayalam_hls_1847413d7972613ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/A9ZkexS7QVuVnMGKltjmkg/master.m3u8",
+            "STREAMING_CDN": {
+                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/133876_malayalam_hls_1847413d7972613ta-di_h264/index.m3u8",
+                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/133876_malayalam_hls_1847413d7972613ta-di_h264/index.m3u8",
+                "dai_google_cdn": "https://dai.google.com/linear/hls/event/A9ZkexS7QVuVnMGKltjmkg/master.m3u8",
+                "cloudfront_cdn": "Unavailable",
+                "language": "MALAYALAM"
+            }
+        },
         {
             "category": "Cricket",
             "title": "Czechia Vs Romania",
@@ -68,9 +226,9 @@
                     "color": "#d7bd39",
                     "cricketScore": [
                         {
-                            "runs": 21,
-                            "overs": "2.3",
-                            "balls": "15",
+                            "runs": 38,
+                            "overs": "4.3",
+                            "balls": "27",
                             "status": "IN_PROGRESS",
                             "wickets": 2
                         }
@@ -155,11 +313,11 @@
                     "color": "#0F3276",
                     "cricketScore": [
                         {
-                            "runs": 104,
-                            "overs": "6.4",
-                            "balls": "40",
+                            "runs": 127,
+                            "overs": "8",
+                            "balls": "48",
                             "status": "IN_PROGRESS",
-                            "wickets": 3
+                            "wickets": 4
                         }
                     ],
                     "kabaddiScore": null,
@@ -215,9 +373,9 @@
                     "color": "#cf6063",
                     "cricketScore": [
                         {
-                            "runs": 43,
-                            "overs": "5.5",
-                            "balls": "35",
+                            "runs": 57,
+                            "overs": "8",
+                            "balls": "48",
                             "status": "IN_PROGRESS",
                             "wickets": 2
                         }
@@ -294,11 +452,11 @@
                     "color": "#921b36",
                     "cricketScore": [
                         {
-                            "runs": 7,
-                            "overs": "2.1",
-                            "balls": "13",
+                            "runs": 9,
+                            "overs": "3.2",
+                            "balls": "20",
                             "status": "IN_PROGRESS",
-                            "wickets": 0
+                            "wickets": 1
                         }
                     ],
                     "kabaddiScore": null,
@@ -343,6 +501,85 @@
             }
         },
         {
+            "category": "Cricket",
+            "title": "Netherlands Women Vs Ireland Women",
+            "tournament": "ICC Women\u2019s T20 WC Europe Qualifier Division 1",
+            "match_id": 133749,
+            "status": "NOT_STARTED",
+            "streamingStatus": "STARTED",
+            "startTime": "21 August 2025 02:30 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/133749_5592_ND-W_IR-W_fc-web.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/133749_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/133749_5592_ND-W_IR-W_fc-web.jpg",
+                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/133749_5592_ND-W_IR-W_fc-web.jpg",
+                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Europe_ICC-Pathways_Tour-Logo.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/133749_5592_ND-W_IR-W_fc-web.jpg",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/133749_5592_ND-W_IR-W_fc-app.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/133749_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "name": "Netherlands Women",
+                    "shortName": "ND-W",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NED@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#2c5ab3",
+                    "cricketScore": [
+                        {
+                            "runs": 0,
+                            "overs": "0",
+                            "balls": "0",
+                            "status": "IN_PROGRESS",
+                            "wickets": 0
+                        }
+                    ],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": true
+                        }
+                    }
+                },
+                {
+                    "name": "Ireland Women",
+                    "shortName": "IR-W",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-IRE@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#32752E",
+                    "cricketScore": [],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/133749_english_hls_ae0b7401d470312ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/UxG-EGRcTIOmlt1dY1Dh4w/master.m3u8",
+            "STREAMING_CDN": {
+                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/133749_english_hls_ae0b7401d470312ta-di_h264/index.m3u8",
+                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/133749_english_hls_ae0b7401d470312ta-di_h264/index.m3u8",
+                "dai_google_cdn": "https://dai.google.com/linear/hls/event/UxG-EGRcTIOmlt1dY1Dh4w/master.m3u8",
+                "cloudfront_cdn": "Unavailable",
+                "language": "ENGLISH"
+            }
+        },
+        {
             "category": "Kabaddi",
             "title": "Vizag Commandos Vs Vizianagaram Ninjas",
             "tournament": "Yuva Andhra Championship, 2025",
@@ -373,8 +610,8 @@
                     "color": "#c2c8fd",
                     "cricketScore": null,
                     "kabaddiScore": {
-                        "points": 45,
-                        "onFieldPlayers": 6,
+                        "points": 47,
+                        "onFieldPlayers": 7,
                         "totalFieldPlayers": 7,
                         "raiding": true
                     },
@@ -397,8 +634,8 @@
                     "color": "#205d7e",
                     "cricketScore": null,
                     "kabaddiScore": {
-                        "points": 39,
-                        "onFieldPlayers": 6,
+                        "points": 40,
+                        "onFieldPlayers": 5,
                         "totalFieldPlayers": 7,
                         "raiding": null
                     },
@@ -425,60 +662,52 @@
         },
         {
             "category": "Cricket",
-            "title": "Calicut Globstars Vs Aries Kollam Sailors",
-            "tournament": "Kerala Cricket League, 2025",
-            "match_id": 133876,
+            "title": "Mangaluru Dragons Vs Mysore Warriors",
+            "tournament": "Maharaja T20 Trophy, 2025",
+            "match_id": 132805,
             "status": "NOT_STARTED",
             "streamingStatus": "NOT_STARTED",
-            "startTime": "21 August 2025 02:30 PM",
+            "startTime": "21 August 2025 03:15 PM",
             "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/133876_5600_AKS_CG_fc-Web.jpg",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/132805_5530_MD_MW_fc-Web_1755374793025.jpg",
             "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/133876_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/133876_5600_AKS_CG_fc-Web.jpg",
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/132805_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/132805_5530_MD_MW_fc-Web_1755374793025.jpg",
                 "PLAYBACK": null,
-                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Kerala-Cricket-League-Tour-Logo-(1).png",
+                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/07/Maharaja-Trophy-KSCA-T20-Tour-Logo.png",
                 "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/133876_5600_AKS_CG_fc-Web.jpg",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/133876_5600_AKS_CG_fc-App.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/133876_CASACARDS_PARTNER_16_9_1920_1080.png"
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/132805_5530_MD_MW_fc-Web_1755374793025.jpg",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/132805_5530_MD_MW_fc-App_1755374802384.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/132805_CASACARDS_PARTNER_16_9_1920_1080.png"
             },
             "teams": [
                 {
-                    "name": "Calicut Globstars",
-                    "shortName": "CG",
+                    "name": "Mangaluru Dragons",
+                    "shortName": "MD",
                     "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CGKL@2x.png"
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MDR@2x.png"
                     },
                     "isWinner": null,
-                    "color": "#D26617",
-                    "cricketScore": [
-                        {
-                            "runs": 0,
-                            "overs": "0",
-                            "balls": "0",
-                            "status": "IN_PROGRESS",
-                            "wickets": 0
-                        }
-                    ],
+                    "color": "#fea129",
+                    "cricketScore": [],
                     "kabaddiScore": null,
                     "footballScore": null,
                     "basketBallScore": null,
                     "hockeyScore": null,
                     "status": {
                         "cricket": {
-                            "isBatting": true
+                            "isBatting": false
                         }
                     }
                 },
                 {
-                    "name": "Aries Kollam Sailors",
-                    "shortName": "AKS",
+                    "name": "Mysore Warriors",
+                    "shortName": "MW",
                     "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AKS@2x.png"
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MWAR@2x.png"
                     },
                     "isWinner": null,
-                    "color": "#b7e330",
+                    "color": "#ffed00",
                     "cricketScore": [],
                     "kabaddiScore": null,
                     "footballScore": null,
@@ -555,74 +784,6 @@
                     },
                     "isWinner": null,
                     "color": "#4d66a3",
-                    "cricketScore": [],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
-            }
-        },
-        {
-            "category": "Cricket",
-            "title": "Mangaluru Dragons Vs Mysore Warriors",
-            "tournament": "Maharaja T20 Trophy, 2025",
-            "match_id": 132805,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "21 August 2025 03:15 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/132805_5530_MD_MW_fc-Web_1755374793025.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/132805_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/132805_5530_MD_MW_fc-Web_1755374793025.jpg",
-                "PLAYBACK": null,
-                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/07/Maharaja-Trophy-KSCA-T20-Tour-Logo.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/132805_5530_MD_MW_fc-Web_1755374793025.jpg",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/132805_5530_MD_MW_fc-App_1755374802384.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/132805_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "name": "Mangaluru Dragons",
-                    "shortName": "MD",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MDR@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#fea129",
-                    "cricketScore": [],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "Mysore Warriors",
-                    "shortName": "MW",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MWAR@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#ffed00",
                     "cricketScore": [],
                     "kabaddiScore": null,
                     "footballScore": null,
@@ -1031,82 +1192,6 @@
                     },
                     "isWinner": null,
                     "color": "#621241",
-                    "cricketScore": [],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
-            }
-        },
-        {
-            "category": "Cricket",
-            "title": "Netherlands Women Vs Ireland Women",
-            "tournament": "ICC Women\u2019s T20 WC Europe Qualifier Division 1",
-            "match_id": 133749,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "21 August 2025 02:30 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/133749_5592_ND-W_IR-W_fc-web.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/133749_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/133749_5592_ND-W_IR-W_fc-web.jpg",
-                "PLAYBACK": null,
-                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Europe_ICC-Pathways_Tour-Logo.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/133749_5592_ND-W_IR-W_fc-web.jpg",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/133749_5592_ND-W_IR-W_fc-app.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/133749_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "name": "Netherlands Women",
-                    "shortName": "ND-W",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NED@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#2c5ab3",
-                    "cricketScore": [
-                        {
-                            "runs": 0,
-                            "overs": "0",
-                            "balls": "0",
-                            "status": "IN_PROGRESS",
-                            "wickets": 0
-                        }
-                    ],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": true
-                        }
-                    }
-                },
-                {
-                    "name": "Ireland Women",
-                    "shortName": "IR-W",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-IRE@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#32752E",
                     "cricketScore": [],
                     "kabaddiScore": null,
                     "footballScore": null,
