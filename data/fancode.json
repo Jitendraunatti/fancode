@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "09:26:46 PM 21-08-2025",
+    "last_updated": "09:30:52 PM 21-08-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -68,9 +68,9 @@
                     "color": "#0082cb",
                     "cricketScore": [
                         {
-                            "runs": 13,
-                            "overs": "2.2",
-                            "balls": "14",
+                            "runs": 23,
+                            "overs": "3.2",
+                            "balls": "20",
                             "status": "IN_PROGRESS",
                             "wickets": 1
                         }
@@ -234,9 +234,9 @@
                     "color": "#d09b8a",
                     "cricketScore": [
                         {
-                            "runs": 56,
-                            "overs": "8.4",
-                            "balls": "44",
+                            "runs": 60,
+                            "overs": "10",
+                            "balls": "50",
                             "status": "IN_PROGRESS",
                             "wickets": 2
                         }
@@ -294,11 +294,11 @@
                     "color": "#74B8E1",
                     "cricketScore": [
                         {
-                            "runs": 92,
-                            "overs": "19.1",
-                            "balls": "115",
+                            "runs": 97,
+                            "overs": "20",
+                            "balls": "120",
                             "status": "IN_PROGRESS",
-                            "wickets": 9
+                            "wickets": 10
                         }
                     ],
                     "kabaddiScore": null,
@@ -373,11 +373,11 @@
                     "color": "#74B8E1",
                     "cricketScore": [
                         {
-                            "runs": 92,
-                            "overs": "19.1",
-                            "balls": "115",
+                            "runs": 97,
+                            "overs": "20",
+                            "balls": "120",
                             "status": "IN_PROGRESS",
-                            "wickets": 9
+                            "wickets": 10
                         }
                     ],
                     "kabaddiScore": null,
@@ -479,9 +479,9 @@
                     "color": "#d15972",
                     "cricketScore": [
                         {
-                            "runs": 105,
-                            "overs": "22.1",
-                            "balls": "133",
+                            "runs": 116,
+                            "overs": "23.1",
+                            "balls": "139",
                             "status": "IN_PROGRESS",
                             "wickets": 3
                         }
@@ -513,7 +513,7 @@
             "title": "Tungabhadra Warriors Vs Amaravathi Royals",
             "tournament": "Andhra Premier League, 2025",
             "match_id": 132782,
-            "status": "LIVE",
+            "status": "COMPLETED",
             "streamingStatus": "STARTED",
             "startTime": "21 August 2025 06:30 PM",
             "startDate": "01 January 1970 05:30 AM",
@@ -653,9 +653,9 @@
                     "color": "#df787f",
                     "cricketScore": [
                         {
-                            "runs": 80,
-                            "overs": "9.2",
-                            "balls": "56",
+                            "runs": 83,
+                            "overs": "10",
+                            "balls": "60",
                             "status": "IN_PROGRESS",
                             "wickets": 2
                         }
@@ -713,11 +713,11 @@
                     "color": "#9c1a1a",
                     "cricketScore": [
                         {
-                            "runs": 126,
-                            "overs": "9.3",
-                            "balls": "57",
+                            "runs": 127,
+                            "overs": "10",
+                            "balls": "60",
                             "status": "IN_PROGRESS",
-                            "wickets": 3
+                            "wickets": 6
                         }
                     ],
                     "kabaddiScore": null,
@@ -792,11 +792,11 @@
                     "color": "#138bc2",
                     "cricketScore": [
                         {
-                            "runs": 28,
-                            "overs": "4.5",
-                            "balls": "29",
+                            "runs": 31,
+                            "overs": "5.3",
+                            "balls": "33",
                             "status": "IN_PROGRESS",
-                            "wickets": 1
+                            "wickets": 2
                         }
                     ],
                     "kabaddiScore": null,
