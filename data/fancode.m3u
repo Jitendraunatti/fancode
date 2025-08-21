@@ -1,6 +1,10 @@
 #EXTM3U
 #DEVELOPED_BY_JITENDRA_PRO_DEV
 #AUTHOR:-JITENDRA_KUMAR
-#DATE:- Friday 22 August, 2025 at 3:54:07 am
+#DATE:- Friday 22 August, 2025 at 4:02:13 am
+#EXTINF:-1 tvg-id="132353" tvg-name="St Kitts And Nevis Patriots Vs Barbados Royals" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/St-Kitts-and-Nevis-Patriots-VS-Barbados-Royals_old.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | St Kitts And Nevis Patriots Vs Barbados Royals
+https://in-mc-fdlive.fancode.com/mumbai/132353_english_hls_679867d6f517491ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
+#EXTINF:-1 tvg-id="132353" tvg-name="St Kitts And Nevis Patriots Vs Barbados Royals" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/St-Kitts-and-Nevis-Patriots-VS-Barbados-Royals_old.jpg" tvg-language="HINDI AI(BETA)" group-title="Cricket",HIN | St Kitts And Nevis Patriots Vs Barbados Royals
+https://in-mc-fdlive.fancode.com/mumbai/132353_hindi_hls_dc3af41bb526502ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="132876" tvg-name="Washington Nationals Vs New York Mets" tvg-logo="https://images.fancode.com/aig/match/v1/132876_CASACARDS_APP.png" tvg-language="ENGLISH" group-title="Baseball",ENG | Washington Nationals Vs New York Mets
 https://in-mc-fdlive.fancode.com/mumbai/132876_english_hls_44262fcee852973ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
