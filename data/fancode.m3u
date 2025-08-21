@@ -1,7 +1,11 @@
 #EXTM3U
 #DEVELOPED_BY_JITENDRA_PRO_DEV
 #AUTHOR:-JITENDRA_KUMAR
-#DATE:- Thursday 21 August, 2025 at 2:10:46 pm
+#DATE:- Thursday 21 August, 2025 at 2:18:55 pm
+#EXTINF:-1 tvg-id="133876" tvg-name="Calicut Globstars Vs Aries Kollam Sailors" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/133876_5600_AKS_CG_fc-Web.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Calicut Globstars Vs Aries Kollam Sailors
+https://in-mc-fdlive.fancode.com/mumbai/133876_english_hls_8a8b6c14a135362ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
+#EXTINF:-1 tvg-id="133876" tvg-name="Calicut Globstars Vs Aries Kollam Sailors" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/133876_5600_AKS_CG_fc-Web.jpg" tvg-language="MALAYALAM" group-title="Cricket",MAL | Calicut Globstars Vs Aries Kollam Sailors
+https://in-mc-fdlive.fancode.com/mumbai/133876_malayalam_hls_1847413d7972613ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="134939" tvg-name="Czechia Vs Romania" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ECN-Romania-Czechia-T20I,-2025_Match_card_1755759374155.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Czechia Vs Romania
 https://in-mc-fdlive.fancode.com/mumbai/134939_english_hls_b63ecfa45651323ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="134141" tvg-name="Sc Europa Vs Vfb Fallersleben" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ECS-Germany,-Kiel,-2025_Match_card_.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Sc Europa Vs Vfb Fallersleben
@@ -10,5 +14,7 @@ https://in-mc-fdlive.fancode.com/mumbai/134141_english_hls_84b2e6511258159ta-di_
 https://in-mc-fdlive.fancode.com/mumbai/132781_english_hls_f07b0f014919735ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="132975" tvg-name="South Delhi Superstarz Women Vs Central Delhi Queens" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/132975_5536_CDQ_SDS-W_fc_web_1755513540591.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | South Delhi Superstarz Women Vs Central Delhi Queens
 https://in-mc-fdlive.fancode.com/mumbai/132975_english_hls_3c605e59b816137ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
+#EXTINF:-1 tvg-id="133749" tvg-name="Netherlands Women Vs Ireland Women" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/133749_5592_ND-W_IR-W_fc-web.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Netherlands Women Vs Ireland Women
+https://in-mc-fdlive.fancode.com/mumbai/133749_english_hls_ae0b7401d470312ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="133730" tvg-name="Vizag Commandos Vs Vizianagaram Ninjas" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/133730_5591_VC_VN_fc-Web.jpg" tvg-language="ENGLISH" group-title="Kabaddi",ENG | Vizag Commandos Vs Vizianagaram Ninjas
 https://in-mc-fdlive.fancode.com/mumbai/133730_english_hls_89df8ba6e359325ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
