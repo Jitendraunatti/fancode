@@ -1,9 +1,7 @@
 #EXTM3U
 #DEVELOPED_BY_JITENDRA_PRO_DEV
 #AUTHOR:-JITENDRA_KUMAR
-#DATE:- Friday 22 August, 2025 at 3:18:06 am
-#EXTINF:-1 tvg-id="134071" tvg-name="Main Feed   Day 1" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Tour_Championship_Old_match_card_1.jpg" tvg-language="ENGLISH" group-title="Golf",ENG | Main Feed   Day 1
-https://in-mc-fdlive.fancode.com/mumbai/134071_english_hls_41ca61304195136ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
+#DATE:- Friday 22 August, 2025 at 3:26:07 am
 #EXTINF:-1 tvg-id="134075" tvg-name="World Feed   Day 1" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Tour_Championship_Old_match_card_1.jpg" tvg-language="ENGLISH" group-title="Golf",ENG | World Feed   Day 1
 https://in-mc-fdlive.fancode.com/mumbai/134075_english_hls_eeccd2f4bf51570ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="132876" tvg-name="Washington Nationals Vs New York Mets" tvg-logo="https://images.fancode.com/aig/match/v1/132876_CASACARDS_APP.png" tvg-language="ENGLISH" group-title="Baseball",ENG | Washington Nationals Vs New York Mets
