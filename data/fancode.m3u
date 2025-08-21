@@ -1,7 +1,7 @@
 #EXTM3U
 #DEVELOPED_BY_JITENDRA_PRO_DEV
 #AUTHOR:-JITENDRA_KUMAR
-#DATE:- Thursday 21 August, 2025 at 5:10:48 pm
+#DATE:- Thursday 21 August, 2025 at 5:18:52 pm
 #EXTINF:-1 tvg-id="133876" tvg-name="Calicut Globstars Vs Aries Kollam Sailors" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/133876_5600_AKS_CG_fc-Web_1755771731145.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Calicut Globstars Vs Aries Kollam Sailors
 https://in-mc-fdlive.fancode.com/mumbai/133876_english_hls_8a8b6c14a135362ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="133876" tvg-name="Calicut Globstars Vs Aries Kollam Sailors" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/133876_5600_AKS_CG_fc-Web_1755771731145.jpg" tvg-language="MALAYALAM" group-title="Cricket",MAL | Calicut Globstars Vs Aries Kollam Sailors
@@ -26,5 +26,7 @@ https://in-mc-fdlive.fancode.com/mumbai/134940_english_hls_f2ee353f6f91814ta-di_
 https://in-mc-fdlive.fancode.com/mumbai/134143_english_hls_d3f2a32b3087007ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="133682" tvg-name="Renaissance Challengers Vs Majees Titans" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/133682_5590_MAT_RNC_fc-Web.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Renaissance Challengers Vs Majees Titans
 https://in-mc-fdlive.fancode.com/mumbai/133682_english_hls_a3f960d1e352678ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
+#EXTINF:-1 tvg-id="133732" tvg-name="Tirupati Raiders Vs Kakinada Kraken" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/133732_5591_TR_KK_fc-Web.jpg" tvg-language="ENGLISH" group-title="Kabaddi",ENG | Tirupati Raiders Vs Kakinada Kraken
+https://in-mc-fdlive.fancode.com/mumbai/133732_english_hls_b17c6843d843468ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="133909" tvg-name="Day 1" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Betfred-British-Masters_old.jpg" tvg-language="ENGLISH" group-title="Golf",ENG | Day 1
 https://in-mc-fdlive.fancode.com/mumbai/133909_english_hls_d86f407b0f8563ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
