@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "06:02:46 PM 21-08-2025",
+    "last_updated": "06:10:48 PM 21-08-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -68,11 +68,11 @@
                     "color": "#b7e330",
                     "cricketScore": [
                         {
-                            "runs": 114,
-                            "overs": "17.3",
-                            "balls": "105",
+                            "runs": 125,
+                            "overs": "19",
+                            "balls": "114",
                             "status": "IN_PROGRESS",
-                            "wickets": 8
+                            "wickets": 9
                         }
                     ],
                     "kabaddiScore": null,
@@ -155,11 +155,11 @@
                     "color": "#b7e330",
                     "cricketScore": [
                         {
-                            "runs": 114,
-                            "overs": "17.3",
-                            "balls": "105",
+                            "runs": 125,
+                            "overs": "19",
+                            "balls": "114",
                             "status": "IN_PROGRESS",
-                            "wickets": 8
+                            "wickets": 9
                         }
                     ],
                     "kabaddiScore": null,
@@ -242,11 +242,11 @@
                     "color": "#ffed00",
                     "cricketScore": [
                         {
-                            "runs": 51,
-                            "overs": "6",
-                            "balls": "36",
+                            "runs": 53,
+                            "overs": "7.2",
+                            "balls": "44",
                             "status": "IN_PROGRESS",
-                            "wickets": 3
+                            "wickets": 4
                         }
                     ],
                     "kabaddiScore": null,
@@ -276,7 +276,7 @@
             "title": "South Delhi Superstarz Women Vs Central Delhi Queens",
             "tournament": "Delhi Women's Premier League, 2025",
             "match_id": 132975,
-            "status": "LIVE",
+            "status": "COMPLETED",
             "streamingStatus": "STARTED",
             "startTime": "21 August 2025 02:00 PM",
             "startDate": "01 January 1970 05:30 AM",
@@ -416,9 +416,9 @@
                     "color": "#0a8435",
                     "cricketScore": [
                         {
-                            "runs": 114,
-                            "overs": "15.4",
-                            "balls": "95",
+                            "runs": 142,
+                            "overs": "17",
+                            "balls": "102",
                             "status": "IN_PROGRESS",
                             "wickets": 5
                         }
@@ -477,10 +477,10 @@
                     "cricketScore": [
                         {
                             "runs": 115,
-                            "overs": "36",
-                            "balls": "216",
+                            "overs": "36.1",
+                            "balls": "217",
                             "status": "IN_PROGRESS",
-                            "wickets": 9
+                            "wickets": 10
                         }
                     ],
                     "kabaddiScore": null,
@@ -555,9 +555,9 @@
                     "color": "#5a8543",
                     "cricketScore": [
                         {
-                            "runs": 162,
-                            "overs": "32.1",
-                            "balls": "193",
+                            "runs": 177,
+                            "overs": "35",
+                            "balls": "210",
                             "status": "IN_PROGRESS",
                             "wickets": 3
                         }
@@ -740,11 +740,11 @@
                     "color": "#001C47",
                     "cricketScore": [
                         {
-                            "runs": 73,
-                            "overs": "5.4",
-                            "balls": "34",
+                            "runs": 89,
+                            "overs": "7",
+                            "balls": "42",
                             "status": "IN_PROGRESS",
-                            "wickets": 6
+                            "wickets": 9
                         }
                     ],
                     "kabaddiScore": null,
@@ -800,9 +800,9 @@
                     "color": "#bb4335",
                     "cricketScore": [
                         {
-                            "runs": 51,
-                            "overs": "11.1",
-                            "balls": "67",
+                            "runs": 59,
+                            "overs": "13.5",
+                            "balls": "83",
                             "status": "IN_PROGRESS",
                             "wickets": 4
                         }
@@ -879,10 +879,10 @@
                     "color": "#e26252",
                     "cricketScore": null,
                     "kabaddiScore": {
-                        "points": 19,
-                        "onFieldPlayers": 3,
+                        "points": 26,
+                        "onFieldPlayers": 5,
                         "totalFieldPlayers": 7,
-                        "raiding": true
+                        "raiding": null
                     },
                     "footballScore": null,
                     "basketBallScore": null,
@@ -903,10 +903,10 @@
                     "color": "#c1c1c1",
                     "cricketScore": null,
                     "kabaddiScore": {
-                        "points": 12,
-                        "onFieldPlayers": 7,
+                        "points": 14,
+                        "onFieldPlayers": 4,
                         "totalFieldPlayers": 7,
-                        "raiding": null
+                        "raiding": true
                     },
                     "footballScore": null,
                     "basketBallScore": null,
