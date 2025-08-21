@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "01:46:47 PM 21-08-2025",
+    "last_updated": "01:54:45 PM 21-08-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -37,7 +37,7 @@
                     "flag": {
                         "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NTC@2x.png"
                     },
-                    "isWinner": null,
+                    "isWinner": false,
                     "color": "#ea9a3d",
                     "cricketScore": [
                         {
@@ -64,13 +64,13 @@
                     "flag": {
                         "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KNGS@2x.png"
                     },
-                    "isWinner": null,
+                    "isWinner": true,
                     "color": "#c2a851",
                     "cricketScore": [
                         {
-                            "runs": 130,
-                            "overs": "14",
-                            "balls": "84",
+                            "runs": 135,
+                            "overs": "14.3",
+                            "balls": "87",
                             "status": "IN_PROGRESS",
                             "wickets": 3
                         }
@@ -124,7 +124,7 @@
                     "flag": {
                         "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NTC@2x.png"
                     },
-                    "isWinner": null,
+                    "isWinner": false,
                     "color": "#ea9a3d",
                     "cricketScore": [
                         {
@@ -151,13 +151,13 @@
                     "flag": {
                         "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KNGS@2x.png"
                     },
-                    "isWinner": null,
+                    "isWinner": true,
                     "color": "#c2a851",
                     "cricketScore": [
                         {
-                            "runs": 130,
-                            "overs": "14",
-                            "balls": "84",
+                            "runs": 135,
+                            "overs": "14.3",
+                            "balls": "87",
                             "status": "IN_PROGRESS",
                             "wickets": 3
                         }
@@ -321,9 +321,9 @@
                     "color": "#0F3276",
                     "cricketScore": [
                         {
-                            "runs": 27,
-                            "overs": "1.3",
-                            "balls": "9",
+                            "runs": 52,
+                            "overs": "3.1",
+                            "balls": "19",
                             "status": "IN_PROGRESS",
                             "wickets": 1
                         }
@@ -381,11 +381,11 @@
                     "color": "#cf6063",
                     "cricketScore": [
                         {
-                            "runs": 15,
-                            "overs": "2",
-                            "balls": "12",
+                            "runs": 23,
+                            "overs": "3.2",
+                            "balls": "20",
                             "status": "IN_PROGRESS",
-                            "wickets": 1
+                            "wickets": 2
                         }
                     ],
                     "kabaddiScore": null,
@@ -434,7 +434,7 @@
             "title": "South Delhi Superstarz Women Vs Central Delhi Queens",
             "tournament": "Delhi Women's Premier League, 2025",
             "match_id": 132975,
-            "status": "NOT_STARTED",
+            "status": "LIVE",
             "streamingStatus": "STARTED",
             "startTime": "21 August 2025 02:00 PM",
             "startDate": "01 January 1970 05:30 AM",
@@ -539,10 +539,10 @@
                     "color": "#c2c8fd",
                     "cricketScore": null,
                     "kabaddiScore": {
-                        "points": 29,
-                        "onFieldPlayers": 6,
+                        "points": 35,
+                        "onFieldPlayers": 3,
                         "totalFieldPlayers": 7,
-                        "raiding": null
+                        "raiding": true
                     },
                     "footballScore": null,
                     "basketBallScore": null,
@@ -563,10 +563,10 @@
                     "color": "#205d7e",
                     "cricketScore": null,
                     "kabaddiScore": {
-                        "points": 17,
+                        "points": 24,
                         "onFieldPlayers": 7,
                         "totalFieldPlayers": 7,
-                        "raiding": true
+                        "raiding": null
                     },
                     "footballScore": null,
                     "basketBallScore": null,
@@ -2382,6 +2382,74 @@
             }
         },
         {
+            "category": "Cricket",
+            "title": "Alleppey Ripples Vs Thrissur Titans",
+            "tournament": "Kerala Cricket League, 2025",
+            "match_id": 133878,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "22 August 2025 02:30 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/133878_5600_AP_TT_fc-Web.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/133878_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/133878_5600_AP_TT_fc-Web.jpg",
+                "PLAYBACK": null,
+                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Kerala-Cricket-League-Tour-Logo-(1).png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/133878_5600_AP_TT_fc-Web.jpg",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/133878_5600_AP_TT_fc-App.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/133878_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "name": "Alleppey Ripples",
+                    "shortName": "AP",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-APK@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#8e5bf0",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "Thrissur Titans",
+                    "shortName": "TT",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TTK@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#b8a61d",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "STREAMING_CDN": {
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
+            }
+        },
+        {
             "category": "Kabaddi",
             "title": "Krishna Defenders Vs Bhimavaram Guardians",
             "tournament": "Yuva Andhra Championship, 2025",
@@ -2497,74 +2565,6 @@
                     },
                     "isWinner": null,
                     "color": "#c1c1c1",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
-            }
-        },
-        {
-            "category": "Cricket",
-            "title": "Alleppey Ripples Vs Thrissur Titans",
-            "tournament": "Kerala Cricket League, 2025",
-            "match_id": 133878,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "22 August 2025 02:30 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/133878_5600_AP_TT_fc-Web.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/133878_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/133878_5600_AP_TT_fc-Web.jpg",
-                "PLAYBACK": null,
-                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Kerala-Cricket-League-Tour-Logo-(1).png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/133878_5600_AP_TT_fc-Web.jpg",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/133878_5600_AP_TT_fc-App.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/133878_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "name": "Alleppey Ripples",
-                    "shortName": "AP",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-APK@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#8e5bf0",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "Thrissur Titans",
-                    "shortName": "TT",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TTK@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#b8a61d",
                     "cricketScore": null,
                     "kabaddiScore": null,
                     "footballScore": null,
