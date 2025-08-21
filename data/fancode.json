@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "03:02:50 PM 21-08-2025",
+    "last_updated": "03:10:52 PM 21-08-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -41,9 +41,9 @@
                     "color": "#D26617",
                     "cricketScore": [
                         {
-                            "runs": 41,
-                            "overs": "5",
-                            "balls": "30",
+                            "runs": 55,
+                            "overs": "6.3",
+                            "balls": "39",
                             "status": "IN_PROGRESS",
                             "wickets": 1
                         }
@@ -120,9 +120,9 @@
                     "color": "#D26617",
                     "cricketScore": [
                         {
-                            "runs": 41,
-                            "overs": "5",
-                            "balls": "30",
+                            "runs": 55,
+                            "overs": "6.3",
+                            "balls": "39",
                             "status": "IN_PROGRESS",
                             "wickets": 1
                         }
@@ -173,7 +173,7 @@
             "title": "Mangaluru Dragons Vs Mysore Warriors",
             "tournament": "Maharaja T20 Trophy, 2025",
             "match_id": 132805,
-            "status": "NOT_STARTED",
+            "status": "LIVE",
             "streamingStatus": "STARTED",
             "startTime": "21 August 2025 03:15 PM",
             "startDate": "01 January 1970 05:30 AM",
@@ -305,9 +305,9 @@
                     "color": "#d7bd39",
                     "cricketScore": [
                         {
-                            "runs": 103,
-                            "overs": "14.3",
-                            "balls": "87",
+                            "runs": 114,
+                            "overs": "16",
+                            "balls": "96",
                             "status": "IN_PROGRESS",
                             "wickets": 5
                         }
@@ -365,11 +365,11 @@
                     "color": "#cf6063",
                     "cricketScore": [
                         {
-                            "runs": 115,
-                            "overs": "15.3",
-                            "balls": "93",
+                            "runs": 132,
+                            "overs": "17",
+                            "balls": "102",
                             "status": "IN_PROGRESS",
-                            "wickets": 5
+                            "wickets": 7
                         }
                     ],
                     "kabaddiScore": null,
@@ -523,11 +523,11 @@
                     "color": "#2c5ab3",
                     "cricketScore": [
                         {
-                            "runs": 54,
-                            "overs": "8.2",
-                            "balls": "50",
+                            "runs": 64,
+                            "overs": "10",
+                            "balls": "60",
                             "status": "IN_PROGRESS",
-                            "wickets": 1
+                            "wickets": 2
                         }
                     ],
                     "kabaddiScore": null,
@@ -602,9 +602,9 @@
                     "color": "#c5d15e",
                     "cricketScore": [
                         {
-                            "runs": 38,
-                            "overs": "3.2",
-                            "balls": "20",
+                            "runs": 57,
+                            "overs": "5.4",
+                            "balls": "34",
                             "status": "IN_PROGRESS",
                             "wickets": 1
                         }
@@ -681,9 +681,9 @@
                     "color": "#d48020",
                     "cricketScore": [
                         {
-                            "runs": 1,
-                            "overs": "0.3",
-                            "balls": "3",
+                            "runs": 15,
+                            "overs": "2.2",
+                            "balls": "14",
                             "status": "IN_PROGRESS",
                             "wickets": 0
                         }
