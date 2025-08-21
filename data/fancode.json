@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "08:10:51 PM 21-08-2025",
+    "last_updated": "08:18:46 PM 21-08-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -41,9 +41,9 @@
                     "color": "#ed4d0b",
                     "cricketScore": [
                         {
-                            "runs": 74,
-                            "overs": "13",
-                            "balls": "78",
+                            "runs": 92,
+                            "overs": "15",
+                            "balls": "90",
                             "status": "IN_PROGRESS",
                             "wickets": 4
                         }
@@ -120,11 +120,11 @@
                     "color": "#D59A14",
                     "cricketScore": [
                         {
-                            "runs": 29,
-                            "overs": "7",
-                            "balls": "42",
+                            "runs": 38,
+                            "overs": "8.1",
+                            "balls": "49",
                             "status": "IN_PROGRESS",
-                            "wickets": 2
+                            "wickets": 3
                         }
                     ],
                     "kabaddiScore": null,
@@ -199,11 +199,11 @@
                     "color": "#b8b3ba",
                     "cricketScore": [
                         {
-                            "runs": 60,
-                            "overs": "12",
-                            "balls": "60",
+                            "runs": 77,
+                            "overs": "14",
+                            "balls": "70",
                             "status": "IN_PROGRESS",
-                            "wickets": 1
+                            "wickets": 2
                         }
                     ],
                     "kabaddiScore": null,
@@ -279,10 +279,10 @@
                     "cricketScore": [
                         {
                             "runs": 22,
-                            "overs": "4.5",
-                            "balls": "29",
+                            "overs": "6",
+                            "balls": "36",
                             "status": "IN_PROGRESS",
-                            "wickets": 3
+                            "wickets": 5
                         }
                     ],
                     "kabaddiScore": null,
@@ -358,10 +358,10 @@
                     "cricketScore": [
                         {
                             "runs": 22,
-                            "overs": "4.5",
-                            "balls": "29",
+                            "overs": "6",
+                            "balls": "36",
                             "status": "IN_PROGRESS",
-                            "wickets": 3
+                            "wickets": 5
                         }
                     ],
                     "kabaddiScore": null,
@@ -463,9 +463,9 @@
                     "color": "#D7B524",
                     "cricketScore": [
                         {
-                            "runs": 69,
-                            "overs": "18",
-                            "balls": "108",
+                            "runs": 76,
+                            "overs": "19",
+                            "balls": "114",
                             "status": "IN_PROGRESS",
                             "wickets": 3
                         }
@@ -550,9 +550,9 @@
                     "color": "#d15972",
                     "cricketScore": [
                         {
-                            "runs": 13,
-                            "overs": "5",
-                            "balls": "30",
+                            "runs": 27,
+                            "overs": "7",
+                            "balls": "42",
                             "status": "IN_PROGRESS",
                             "wickets": 1
                         }
@@ -575,93 +575,6 @@
                 "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/133785_english_hls_c67aa1231d40650ta-di_h264/index.m3u8",
                 "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/133785_english_hls_c67aa1231d40650ta-di_h264/index.m3u8",
                 "dai_google_cdn": "https://dai.google.com/linear/hls/event/0JAL63obSJiRh-Yq_XWEvQ/master.m3u8",
-                "cloudfront_cdn": "Unavailable",
-                "language": "ENGLISH"
-            }
-        },
-        {
-            "category": "Cricket",
-            "title": "Romania Vs Czechia",
-            "tournament": "ECN Romania-Czechia T20I, 2025",
-            "match_id": 134940,
-            "status": "COMPLETED",
-            "streamingStatus": "STARTED",
-            "startTime": "21 August 2025 04:30 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/ECN-Romania-Czechia-T20I,-2025_Match_card_1755759374155.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/134940_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/ECN-Romania-Czechia-T20I,-2025_Match_card_1755759374155.jpg",
-                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/ECN-Romania-Czechia-T20I,-2025_Match_card_1755759374155.jpg",
-                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/ECN-Tour-Logo_1753262759690.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/ECN-Romania-Czechia-T20I,-2025_Match_card_1755759374155.jpg",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/ECN-Romania-Czechia-T20I,-2025_Sporty_Match_card_1755759374144.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/134940_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "name": "Romania",
-                    "shortName": "ROM",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ROMN@2x.png"
-                    },
-                    "isWinner": true,
-                    "color": "#d7bd39",
-                    "cricketScore": [
-                        {
-                            "runs": 176,
-                            "overs": "20",
-                            "balls": "120",
-                            "status": "COMPLETED",
-                            "wickets": 4
-                        }
-                    ],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "Czechia",
-                    "shortName": "CZE",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CZR@2x.png"
-                    },
-                    "isWinner": false,
-                    "color": "#074FB4",
-                    "cricketScore": [
-                        {
-                            "runs": 158,
-                            "overs": "18.2",
-                            "balls": "110",
-                            "status": "IN_PROGRESS",
-                            "wickets": 10
-                        }
-                    ],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": true
-                        }
-                    }
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/134940_english_hls_f2ee353f6f91814ta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/akZ7V6UuTmWWdzz01CQ-TA/master.m3u8",
-            "STREAMING_CDN": {
-                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/134940_english_hls_f2ee353f6f91814ta-di_h264/index.m3u8",
-                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/134940_english_hls_f2ee353f6f91814ta-di_h264/index.m3u8",
-                "dai_google_cdn": "https://dai.google.com/linear/hls/event/akZ7V6UuTmWWdzz01CQ-TA/master.m3u8",
                 "cloudfront_cdn": "Unavailable",
                 "language": "ENGLISH"
             }
@@ -724,11 +637,11 @@
                     "color": "#d8c50f",
                     "cricketScore": [
                         {
-                            "runs": 92,
-                            "overs": "17",
-                            "balls": "102",
+                            "runs": 96,
+                            "overs": "18.1",
+                            "balls": "109",
                             "status": "IN_PROGRESS",
-                            "wickets": 7
+                            "wickets": 9
                         }
                     ],
                     "kabaddiScore": null,
@@ -787,7 +700,7 @@
                             "runs": 136,
                             "overs": "20",
                             "balls": "120",
-                            "status": "IN_PROGRESS",
+                            "status": "COMPLETED",
                             "wickets": 8
                         }
                     ],
@@ -797,7 +710,7 @@
                     "hockeyScore": null,
                     "status": {
                         "cricket": {
-                            "isBatting": true
+                            "isBatting": false
                         }
                     }
                 },
@@ -809,14 +722,22 @@
                     },
                     "isWinner": null,
                     "color": "#d0b648",
-                    "cricketScore": [],
+                    "cricketScore": [
+                        {
+                            "runs": 0,
+                            "overs": "0",
+                            "balls": "0",
+                            "status": "IN_PROGRESS",
+                            "wickets": 0
+                        }
+                    ],
                     "kabaddiScore": null,
                     "footballScore": null,
                     "basketBallScore": null,
                     "hockeyScore": null,
                     "status": {
                         "cricket": {
-                            "isBatting": false
+                            "isBatting": true
                         }
                     }
                 }
@@ -859,7 +780,7 @@
                     "flag": {
                         "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FDF-CR1@2x.png"
                     },
-                    "isWinner": null,
+                    "isWinner": false,
                     "color": "#c5d15e",
                     "cricketScore": [
                         {
@@ -886,13 +807,13 @@
                     "flag": {
                         "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/VFB-CR1@2x.png"
                     },
-                    "isWinner": null,
+                    "isWinner": true,
                     "color": "#0F3276",
                     "cricketScore": [
                         {
-                            "runs": 90,
-                            "overs": "6",
-                            "balls": "36",
+                            "runs": 105,
+                            "overs": "7.3",
+                            "balls": "45",
                             "status": "IN_PROGRESS",
                             "wickets": 3
                         }
@@ -950,11 +871,11 @@
                     "color": "#ea6363",
                     "cricketScore": [
                         {
-                            "runs": 80,
-                            "overs": "14",
-                            "balls": "84",
+                            "runs": 84,
+                            "overs": "15.5",
+                            "balls": "95",
                             "status": "IN_PROGRESS",
-                            "wickets": 4
+                            "wickets": 6
                         }
                     ],
                     "kabaddiScore": null,
@@ -1209,6 +1130,93 @@
                 "dai_google_cdn": "https://dai.google.com/linear/hls/event/DGuUM53-RZ-cc6Er12gsTw/master.m3u8",
                 "cloudfront_cdn": "Unavailable",
                 "language": "HINDI"
+            }
+        },
+        {
+            "category": "Cricket",
+            "title": "Romania Vs Czechia",
+            "tournament": "ECN Romania-Czechia T20I, 2025",
+            "match_id": 134940,
+            "status": "COMPLETED",
+            "streamingStatus": "STARTED",
+            "startTime": "21 August 2025 04:30 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/ECN-Romania-Czechia-T20I,-2025_Match_card_1755759374155.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/134940_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/ECN-Romania-Czechia-T20I,-2025_Match_card_1755759374155.jpg",
+                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/ECN-Romania-Czechia-T20I,-2025_Match_card_1755759374155.jpg",
+                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/ECN-Tour-Logo_1753262759690.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/ECN-Romania-Czechia-T20I,-2025_Match_card_1755759374155.jpg",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/ECN-Romania-Czechia-T20I,-2025_Sporty_Match_card_1755759374144.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/134940_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "name": "Romania",
+                    "shortName": "ROM",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ROMN@2x.png"
+                    },
+                    "isWinner": true,
+                    "color": "#d7bd39",
+                    "cricketScore": [
+                        {
+                            "runs": 176,
+                            "overs": "20",
+                            "balls": "120",
+                            "status": "COMPLETED",
+                            "wickets": 4
+                        }
+                    ],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "Czechia",
+                    "shortName": "CZE",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CZR@2x.png"
+                    },
+                    "isWinner": false,
+                    "color": "#074FB4",
+                    "cricketScore": [
+                        {
+                            "runs": 158,
+                            "overs": "18.2",
+                            "balls": "110",
+                            "status": "IN_PROGRESS",
+                            "wickets": 10
+                        }
+                    ],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": true
+                        }
+                    }
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/134940_english_hls_f2ee353f6f91814ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/akZ7V6UuTmWWdzz01CQ-TA/master.m3u8",
+            "STREAMING_CDN": {
+                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/134940_english_hls_f2ee353f6f91814ta-di_h264/index.m3u8",
+                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/134940_english_hls_f2ee353f6f91814ta-di_h264/index.m3u8",
+                "dai_google_cdn": "https://dai.google.com/linear/hls/event/akZ7V6UuTmWWdzz01CQ-TA/master.m3u8",
+                "cloudfront_cdn": "Unavailable",
+                "language": "ENGLISH"
             }
         },
         {
