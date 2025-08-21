@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "10:26:47 PM 21-08-2025",
+    "last_updated": "10:30:57 PM 21-08-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -68,9 +68,9 @@
                     "color": "#0082cb",
                     "cricketScore": [
                         {
-                            "runs": 103,
-                            "overs": "13",
-                            "balls": "78",
+                            "runs": 117,
+                            "overs": "14",
+                            "balls": "84",
                             "status": "IN_PROGRESS",
                             "wickets": 2
                         }
@@ -155,9 +155,9 @@
                     "color": "#16b9b7",
                     "cricketScore": [
                         {
-                            "runs": 80,
-                            "overs": "10.3",
-                            "balls": "63",
+                            "runs": 88,
+                            "overs": "11.4",
+                            "balls": "70",
                             "status": "IN_PROGRESS",
                             "wickets": 3
                         }
@@ -242,9 +242,9 @@
                     "color": "#01c0f6",
                     "cricketScore": [
                         {
-                            "runs": 53,
-                            "overs": "7.5",
-                            "balls": "47",
+                            "runs": 67,
+                            "overs": "8.4",
+                            "balls": "52",
                             "status": "IN_PROGRESS",
                             "wickets": 2
                         }
@@ -329,9 +329,9 @@
                     "color": "#01c0f6",
                     "cricketScore": [
                         {
-                            "runs": 53,
-                            "overs": "7.5",
-                            "balls": "47",
+                            "runs": 67,
+                            "overs": "8.4",
+                            "balls": "52",
                             "status": "IN_PROGRESS",
                             "wickets": 2
                         }
@@ -416,9 +416,9 @@
                     "color": "#d15972",
                     "cricketScore": [
                         {
-                            "runs": 208,
-                            "overs": "36.3",
-                            "balls": "219",
+                            "runs": 210,
+                            "overs": "37.1",
+                            "balls": "223",
                             "status": "IN_PROGRESS",
                             "wickets": 4
                         }
@@ -450,7 +450,7 @@
             "title": "Berlin Cc Vs Htb Cricket",
             "tournament": "ECS Germany, Kiel, 2025",
             "match_id": 134145,
-            "status": "LIVE",
+            "status": "COMPLETED",
             "streamingStatus": "STARTED",
             "startTime": "21 August 2025 08:45 PM",
             "startDate": "01 January 1970 05:30 AM",
@@ -563,9 +563,9 @@
                     "color": "#138bc2",
                     "cricketScore": [
                         {
-                            "runs": 102,
-                            "overs": "18",
-                            "balls": "108",
+                            "runs": 107,
+                            "overs": "18.5",
+                            "balls": "114",
                             "status": "IN_PROGRESS",
                             "wickets": 5
                         }
@@ -642,9 +642,9 @@
                     "color": "#FFFF8F",
                     "cricketScore": [
                         {
-                            "runs": 48,
-                            "overs": "2.5",
-                            "balls": "17",
+                            "runs": 62,
+                            "overs": "3.5",
+                            "balls": "23",
                             "status": "IN_PROGRESS",
                             "wickets": 0
                         }
