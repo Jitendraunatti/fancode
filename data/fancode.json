@@ -1,14 +1,14 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "06:54:46 PM 21-08-2025",
+    "last_updated": "07:02:55 PM 21-08-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
     "total_matches": 39,
-    "live_matches": 11,
-    "upcoming_matches": 28,
+    "live_matches": 13,
+    "upcoming_matches": 26,
     "matches": [
         {
             "category": "Cricket",
@@ -68,11 +68,11 @@
                     "color": "#ffed00",
                     "cricketScore": [
                         {
-                            "runs": 107,
-                            "overs": "15.1",
-                            "balls": "91",
+                            "runs": 121,
+                            "overs": "17",
+                            "balls": "102",
                             "status": "IN_PROGRESS",
-                            "wickets": 8
+                            "wickets": 9
                         }
                     ],
                     "kabaddiScore": null,
@@ -129,8 +129,8 @@
                     "cricketScore": [
                         {
                             "runs": 0,
-                            "overs": "0",
-                            "balls": "0",
+                            "overs": "0.1",
+                            "balls": "1",
                             "status": "IN_PROGRESS",
                             "wickets": 0
                         }
@@ -172,6 +172,85 @@
                 "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/132492_english_hls_a0d00b140826738ta-di_h264/index.m3u8",
                 "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/132492_english_hls_a0d00b140826738ta-di_h264/index.m3u8",
                 "dai_google_cdn": "https://dai.google.com/linear/hls/event/AUwNLe28QBq0SXAAzedHiA/master.m3u8",
+                "cloudfront_cdn": "Unavailable",
+                "language": "ENGLISH"
+            }
+        },
+        {
+            "category": "Cricket",
+            "title": "Shivamogga Lions Vs Bengaluru Blasters",
+            "tournament": "Maharaja T20 Trophy, 2025",
+            "match_id": 132806,
+            "status": "NOT_STARTED",
+            "streamingStatus": "STARTED",
+            "startTime": "21 August 2025 07:15 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/132806_5530_BB_SS_fc-Web_1755374793105.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/132806_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/132806_5530_BB_SS_fc-Web_1755374793105.jpg",
+                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/132806_5530_BB_SS_fc-Web_1755374793105.jpg",
+                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/07/Maharaja-Trophy-KSCA-T20-Tour-Logo.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/132806_5530_BB_SS_fc-Web_1755374793105.jpg",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/132806_5530_BB_SS_fc-App_1755374802353.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/132806_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "name": "Shivamogga Lions",
+                    "shortName": "SS",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SHV@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#D59A14",
+                    "cricketScore": [
+                        {
+                            "runs": 0,
+                            "overs": "0",
+                            "balls": "0",
+                            "status": "IN_PROGRESS",
+                            "wickets": 0
+                        }
+                    ],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": true
+                        }
+                    }
+                },
+                {
+                    "name": "Bengaluru Blasters",
+                    "shortName": "BB",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KBR@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#16b9b7",
+                    "cricketScore": [],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/132806_english_hls_0b7a688af546519ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/lBMZqiK3SN-8G7yxxZgpSg/master.m3u8",
+            "STREAMING_CDN": {
+                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/132806_english_hls_0b7a688af546519ta-di_h264/index.m3u8",
+                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/132806_english_hls_0b7a688af546519ta-di_h264/index.m3u8",
+                "dai_google_cdn": "https://dai.google.com/linear/hls/event/lBMZqiK3SN-8G7yxxZgpSg/master.m3u8",
                 "cloudfront_cdn": "Unavailable",
                 "language": "ENGLISH"
             }
@@ -234,9 +313,9 @@
                     "color": "#D7B524",
                     "cricketScore": [
                         {
-                            "runs": 5,
-                            "overs": "3.5",
-                            "balls": "23",
+                            "runs": 10,
+                            "overs": "5.4",
+                            "balls": "34",
                             "status": "IN_PROGRESS",
                             "wickets": 2
                         }
@@ -294,9 +373,9 @@
                     "color": "#5a8543",
                     "cricketScore": [
                         {
-                            "runs": 244,
-                            "overs": "45",
-                            "balls": "270",
+                            "runs": 260,
+                            "overs": "46.1",
+                            "balls": "277",
                             "status": "IN_PROGRESS",
                             "wickets": 5
                         }
@@ -400,9 +479,9 @@
                     "color": "#074FB4",
                     "cricketScore": [
                         {
-                            "runs": 61,
-                            "overs": "7",
-                            "balls": "42",
+                            "runs": 90,
+                            "overs": "9",
+                            "balls": "54",
                             "status": "IN_PROGRESS",
                             "wickets": 2
                         }
@@ -487,11 +566,11 @@
                     "color": "#d8c50f",
                     "cricketScore": [
                         {
-                            "runs": 0,
-                            "overs": "0",
-                            "balls": "0",
+                            "runs": 15,
+                            "overs": "2",
+                            "balls": "12",
                             "status": "IN_PROGRESS",
-                            "wickets": 0
+                            "wickets": 1
                         }
                     ],
                     "kabaddiScore": null,
@@ -547,9 +626,9 @@
                     "color": "#ff3d3d",
                     "cricketScore": [
                         {
-                            "runs": 33,
-                            "overs": "6",
-                            "balls": "36",
+                            "runs": 51,
+                            "overs": "7.5",
+                            "balls": "47",
                             "status": "IN_PROGRESS",
                             "wickets": 1
                         }
@@ -626,11 +705,11 @@
                     "color": "#c5d15e",
                     "cricketScore": [
                         {
-                            "runs": 15,
-                            "overs": "1",
-                            "balls": "7",
+                            "runs": 46,
+                            "overs": "4",
+                            "balls": "24",
                             "status": "IN_PROGRESS",
-                            "wickets": 1
+                            "wickets": 2
                         }
                     ],
                     "kabaddiScore": null,
@@ -670,6 +749,85 @@
                 "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/134144_english_hls_a815047fb252097ta-di_h264/index.m3u8",
                 "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/134144_english_hls_a815047fb252097ta-di_h264/index.m3u8",
                 "dai_google_cdn": "Unavailable",
+                "cloudfront_cdn": "Unavailable",
+                "language": "ENGLISH"
+            }
+        },
+        {
+            "category": "Cricket",
+            "title": "Germany Women Vs Italy Women",
+            "tournament": "ICC Women\u2019s T20 WC Europe Qualifier Division 1",
+            "match_id": 133750,
+            "status": "NOT_STARTED",
+            "streamingStatus": "STARTED",
+            "startTime": "21 August 2025 07:15 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/133750_5592_ITA-W_GER-W_fc-web.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/133750_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/133750_5592_ITA-W_GER-W_fc-web.jpg",
+                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/133750_5592_ITA-W_GER-W_fc-web.jpg",
+                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Europe_ICC-Pathways_Tour-Logo.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/133750_5592_ITA-W_GER-W_fc-web.jpg",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/133750_5592_ITA-W_GER-W_fc-app.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/133750_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "name": "Germany Women",
+                    "shortName": "GER-W",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GER@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#ea6363",
+                    "cricketScore": [
+                        {
+                            "runs": 0,
+                            "overs": "0",
+                            "balls": "0",
+                            "status": "IN_PROGRESS",
+                            "wickets": 0
+                        }
+                    ],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": true
+                        }
+                    }
+                },
+                {
+                    "name": "Italy Women",
+                    "shortName": "ITA-W",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ITA@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#df787f",
+                    "cricketScore": [],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/133750_english_hls_0e4d10c73f47088ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/WmpgBWTqQAOTsTome7pJ4g/master.m3u8",
+            "STREAMING_CDN": {
+                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/133750_english_hls_0e4d10c73f47088ta-di_h264/index.m3u8",
+                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/133750_english_hls_0e4d10c73f47088ta-di_h264/index.m3u8",
+                "dai_google_cdn": "https://dai.google.com/linear/hls/event/WmpgBWTqQAOTsTome7pJ4g/master.m3u8",
                 "cloudfront_cdn": "Unavailable",
                 "language": "ENGLISH"
             }
@@ -885,82 +1043,6 @@
                 "dai_google_cdn": "https://dai.google.com/linear/hls/event/DGuUM53-RZ-cc6Er12gsTw/master.m3u8",
                 "cloudfront_cdn": "Unavailable",
                 "language": "HINDI"
-            }
-        },
-        {
-            "category": "Cricket",
-            "title": "Shivamogga Lions Vs Bengaluru Blasters",
-            "tournament": "Maharaja T20 Trophy, 2025",
-            "match_id": 132806,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "21 August 2025 07:15 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/132806_5530_BB_SS_fc-Web_1755374793105.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/132806_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/132806_5530_BB_SS_fc-Web_1755374793105.jpg",
-                "PLAYBACK": null,
-                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/07/Maharaja-Trophy-KSCA-T20-Tour-Logo.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/132806_5530_BB_SS_fc-Web_1755374793105.jpg",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/132806_5530_BB_SS_fc-App_1755374802353.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/132806_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "name": "Shivamogga Lions",
-                    "shortName": "SS",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SHV@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#D59A14",
-                    "cricketScore": [
-                        {
-                            "runs": 0,
-                            "overs": "0",
-                            "balls": "0",
-                            "status": "IN_PROGRESS",
-                            "wickets": 0
-                        }
-                    ],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": true
-                        }
-                    }
-                },
-                {
-                    "name": "Bengaluru Blasters",
-                    "shortName": "BB",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KBR@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#16b9b7",
-                    "cricketScore": [],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
             }
         },
         {
@@ -1299,82 +1381,6 @@
                     },
                     "isWinner": null,
                     "color": "#621241",
-                    "cricketScore": [],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
-            }
-        },
-        {
-            "category": "Cricket",
-            "title": "Germany Women Vs Italy Women",
-            "tournament": "ICC Women\u2019s T20 WC Europe Qualifier Division 1",
-            "match_id": 133750,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "21 August 2025 07:15 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/133750_5592_ITA-W_GER-W_fc-web.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/133750_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/133750_5592_ITA-W_GER-W_fc-web.jpg",
-                "PLAYBACK": null,
-                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Europe_ICC-Pathways_Tour-Logo.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/133750_5592_ITA-W_GER-W_fc-web.jpg",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/133750_5592_ITA-W_GER-W_fc-app.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/133750_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "name": "Germany Women",
-                    "shortName": "GER-W",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GER@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#ea6363",
-                    "cricketScore": [
-                        {
-                            "runs": 0,
-                            "overs": "0",
-                            "balls": "0",
-                            "status": "IN_PROGRESS",
-                            "wickets": 0
-                        }
-                    ],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": true
-                        }
-                    }
-                },
-                {
-                    "name": "Italy Women",
-                    "shortName": "ITA-W",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ITA@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#df787f",
                     "cricketScore": [],
                     "kabaddiScore": null,
                     "footballScore": null,
@@ -2240,7 +2246,7 @@
                     },
                     "isWinner": null,
                     "color": "#B8142D",
-                    "cricketScore": null,
+                    "cricketScore": [],
                     "kabaddiScore": null,
                     "footballScore": null,
                     "basketBallScore": null,
@@ -2259,74 +2265,6 @@
                     },
                     "isWinner": null,
                     "color": "#0a2346",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
-            }
-        },
-        {
-            "category": "Cricket",
-            "title": "Toombul Vs Northern Suburbs",
-            "tournament": "KFC T20 Max, 2025",
-            "match_id": 134879,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "22 August 2025 01:30 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://images.fancode.com/aig/match/v1/134879_CASACARDS_APP.png",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/134879_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://images.fancode.com/aig/match/v1/134879_CASACARDS_APP.png",
-                "PLAYBACK": null,
-                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/08/KFC-T20-Max-Competition-2024-Tour-Logo.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-                "BG_IMAGE": "https://images.fancode.com/aig/match/v1/134879_CASACARDS_APP.png",
-                "SPORT_BY_IMAGE": "https://images.fancode.com/aig/match/v1/134879_CASACARDS_SPORTY_APP.png",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/134879_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "name": "Toombul",
-                    "shortName": "TMB",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/TMB-CR1@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#FFFFFF",
-                    "cricketScore": [],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "Northern Suburbs",
-                    "shortName": "NSB",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/NOP-CR1@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#0dc8b1",
                     "cricketScore": [],
                     "kabaddiScore": null,
                     "footballScore": null,
@@ -2417,6 +2355,74 @@
         },
         {
             "category": "Cricket",
+            "title": "Toombul Vs Northern Suburbs",
+            "tournament": "KFC T20 Max, 2025",
+            "match_id": 134879,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "22 August 2025 01:30 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://images.fancode.com/aig/match/v1/134879_CASACARDS_APP.png",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/134879_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://images.fancode.com/aig/match/v1/134879_CASACARDS_APP.png",
+                "PLAYBACK": null,
+                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/08/KFC-T20-Max-Competition-2024-Tour-Logo.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+                "BG_IMAGE": "https://images.fancode.com/aig/match/v1/134879_CASACARDS_APP.png",
+                "SPORT_BY_IMAGE": "https://images.fancode.com/aig/match/v1/134879_CASACARDS_SPORTY_APP.png",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/134879_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "name": "Toombul",
+                    "shortName": "TMB",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/TMB-CR1@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#FFFFFF",
+                    "cricketScore": [],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "Northern Suburbs",
+                    "shortName": "NSB",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/NOP-CR1@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#0dc8b1",
+                    "cricketScore": [],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "STREAMING_CDN": {
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
+            }
+        },
+        {
+            "category": "Cricket",
             "title": "Austria Vs Belgium",
             "tournament": "ECI Austria-Belgium, 2025",
             "match_id": 135001,
@@ -2463,74 +2469,6 @@
                     },
                     "isWinner": null,
                     "color": "#b3a91d",
-                    "cricketScore": [],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
-            }
-        },
-        {
-            "category": "Cricket",
-            "title": "North Delhi Strikers Women Vs East Delhi Riders Women",
-            "tournament": "Delhi Women's Premier League, 2025",
-            "match_id": 132976,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "22 August 2025 02:00 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/132976_5536_NDS-W_EDR-W_fc_web_1755513540618.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/132976_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/132976_5536_NDS-W_EDR-W_fc_web_1755513540618.jpg",
-                "PLAYBACK": null,
-                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Delhi-Premier-League,-2025_Tour-Logo.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/132976_5536_NDS-W_EDR-W_fc_web_1755513540618.jpg",
-                "SPORT_BY_IMAGE": "https://images.fancode.com/aig/match/v1/132976_CASACARDS_SPORTY_APP.png",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/132976_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "name": "North Delhi Strikers Women",
-                    "shortName": "NDS-W",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NDS@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#713c94",
-                    "cricketScore": [],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "East Delhi Riders Women",
-                    "shortName": "EDR-W",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-EDR@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#e7993a",
                     "cricketScore": [],
                     "kabaddiScore": null,
                     "footballScore": null,
@@ -2600,6 +2538,74 @@
                     "isWinner": null,
                     "color": "#eb9ba1",
                     "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "STREAMING_CDN": {
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
+            }
+        },
+        {
+            "category": "Cricket",
+            "title": "North Delhi Strikers Women Vs East Delhi Riders Women",
+            "tournament": "Delhi Women's Premier League, 2025",
+            "match_id": 132976,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "22 August 2025 02:00 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/132976_5536_NDS-W_EDR-W_fc_web_1755513540618.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/132976_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/132976_5536_NDS-W_EDR-W_fc_web_1755513540618.jpg",
+                "PLAYBACK": null,
+                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Delhi-Premier-League,-2025_Tour-Logo.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/132976_5536_NDS-W_EDR-W_fc_web_1755513540618.jpg",
+                "SPORT_BY_IMAGE": "https://images.fancode.com/aig/match/v1/132976_CASACARDS_SPORTY_APP.png",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/132976_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "name": "North Delhi Strikers Women",
+                    "shortName": "NDS-W",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NDS@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#713c94",
+                    "cricketScore": [],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "East Delhi Riders Women",
+                    "shortName": "EDR-W",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-EDR@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#e7993a",
+                    "cricketScore": [],
                     "kabaddiScore": null,
                     "footballScore": null,
                     "basketBallScore": null,
