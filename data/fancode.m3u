@@ -1,7 +1,7 @@
 #EXTM3U
 #DEVELOPED_BY_JITENDRA_PRO_DEV
 #AUTHOR:-JITENDRA_KUMAR
-#DATE:- Thursday 21 August, 2025 at 4:26:46 pm
+#DATE:- Thursday 21 August, 2025 at 4:30:58 pm
 #EXTINF:-1 tvg-id="133876" tvg-name="Calicut Globstars Vs Aries Kollam Sailors" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/133876_5600_AKS_CG_fc-Web_1755771731145.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Calicut Globstars Vs Aries Kollam Sailors
 https://in-mc-fdlive.fancode.com/mumbai/133876_english_hls_8a8b6c14a135362ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="133876" tvg-name="Calicut Globstars Vs Aries Kollam Sailors" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/133876_5600_AKS_CG_fc-Web_1755771731145.jpg" tvg-language="MALAYALAM" group-title="Cricket",MAL | Calicut Globstars Vs Aries Kollam Sailors
@@ -24,5 +24,7 @@ https://in-mc-fdlive.fancode.com/mumbai/133786_english_hls_bdbfc66a8c79980ta-di_
 https://in-mc-fdlive.fancode.com/mumbai/133785_english_hls_c67aa1231d40650ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="134940" tvg-name="Romania Vs Czechia" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ECN-Romania-Czechia-T20I,-2025_Match_card_1755759374155.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Romania Vs Czechia
 https://in-mc-fdlive.fancode.com/mumbai/134940_english_hls_f2ee353f6f91814ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
+#EXTINF:-1 tvg-id="134143" tvg-name="Berlin Cc Vs Sc Europa" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ECS-Germany,-Kiel,-2025_Match_card_.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Berlin Cc Vs Sc Europa
+https://in-mc-fdlive.fancode.com/mumbai/134143_english_hls_d3f2a32b3087007ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="133731" tvg-name="Krishna Defenders Vs Bhimavaram Guardians" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/133731_5591_KD_BG_fc-Web.jpg" tvg-language="ENGLISH" group-title="Kabaddi",ENG | Krishna Defenders Vs Bhimavaram Guardians
 https://in-mc-fdlive.fancode.com/mumbai/133731_english_hls_396b8c66fc77212ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
