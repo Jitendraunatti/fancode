@@ -1,14 +1,14 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "03:38:45 PM 21-08-2025",
+    "last_updated": "03:46:48 PM 21-08-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
     "total_matches": 39,
-    "live_matches": 12,
-    "upcoming_matches": 27,
+    "live_matches": 11,
+    "upcoming_matches": 28,
     "matches": [
         {
             "category": "Cricket",
@@ -41,11 +41,11 @@
                     "color": "#D26617",
                     "cricketScore": [
                         {
-                            "runs": 92,
-                            "overs": "11.2",
-                            "balls": "68",
+                            "runs": 106,
+                            "overs": "13.3",
+                            "balls": "81",
                             "status": "IN_PROGRESS",
-                            "wickets": 4
+                            "wickets": 5
                         }
                     ],
                     "kabaddiScore": null,
@@ -120,11 +120,11 @@
                     "color": "#D26617",
                     "cricketScore": [
                         {
-                            "runs": 92,
-                            "overs": "11.2",
-                            "balls": "68",
+                            "runs": 106,
+                            "overs": "13.3",
+                            "balls": "81",
                             "status": "IN_PROGRESS",
-                            "wickets": 4
+                            "wickets": 5
                         }
                     ],
                     "kabaddiScore": null,
@@ -199,9 +199,9 @@
                     "color": "#fea129",
                     "cricketScore": [
                         {
-                            "runs": 25,
-                            "overs": "4.1",
-                            "balls": "25",
+                            "runs": 53,
+                            "overs": "6",
+                            "balls": "36",
                             "status": "IN_PROGRESS",
                             "wickets": 0
                         }
@@ -357,9 +357,9 @@
                     "color": "#921b36",
                     "cricketScore": [
                         {
-                            "runs": 76,
-                            "overs": "14.5",
-                            "balls": "89",
+                            "runs": 92,
+                            "overs": "16.1",
+                            "balls": "97",
                             "status": "IN_PROGRESS",
                             "wickets": 2
                         }
@@ -436,9 +436,9 @@
                     "color": "#2c5ab3",
                     "cricketScore": [
                         {
-                            "runs": 103,
-                            "overs": "16.1",
-                            "balls": "97",
+                            "runs": 114,
+                            "overs": "17.4",
+                            "balls": "106",
                             "status": "IN_PROGRESS",
                             "wickets": 5
                         }
@@ -518,7 +518,7 @@
                             "runs": 133,
                             "overs": "10",
                             "balls": "60",
-                            "status": "IN_PROGRESS",
+                            "status": "COMPLETED",
                             "wickets": 3
                         }
                     ],
@@ -528,7 +528,7 @@
                     "hockeyScore": null,
                     "status": {
                         "cricket": {
-                            "isBatting": true
+                            "isBatting": false
                         }
                     }
                 },
@@ -540,14 +540,22 @@
                     },
                     "isWinner": null,
                     "color": "#948FAA",
-                    "cricketScore": [],
+                    "cricketScore": [
+                        {
+                            "runs": 13,
+                            "overs": "0.4",
+                            "balls": "4",
+                            "status": "IN_PROGRESS",
+                            "wickets": 0
+                        }
+                    ],
                     "kabaddiScore": null,
                     "footballScore": null,
                     "basketBallScore": null,
                     "hockeyScore": null,
                     "status": {
                         "cricket": {
-                            "isBatting": false
+                            "isBatting": true
                         }
                     }
                 }
@@ -594,9 +602,9 @@
                     "color": "#d48020",
                     "cricketScore": [
                         {
-                            "runs": 50,
-                            "overs": "7.5",
-                            "balls": "47",
+                            "runs": 67,
+                            "overs": "9.3",
+                            "balls": "57",
                             "status": "IN_PROGRESS",
                             "wickets": 3
                         }
@@ -673,9 +681,9 @@
                     "color": "#1e4609",
                     "cricketScore": [
                         {
-                            "runs": 3,
-                            "overs": "1",
-                            "balls": "6",
+                            "runs": 11,
+                            "overs": "3.1",
+                            "balls": "19",
                             "status": "IN_PROGRESS",
                             "wickets": 0
                         }
@@ -752,9 +760,9 @@
                     "color": "#5a8543",
                     "cricketScore": [
                         {
-                            "runs": 2,
-                            "overs": "1.2",
-                            "balls": "8",
+                            "runs": 16,
+                            "overs": "2.4",
+                            "balls": "16",
                             "status": "IN_PROGRESS",
                             "wickets": 1
                         }
@@ -805,7 +813,7 @@
             "title": "Krishna Defenders Vs Bhimavaram Guardians",
             "tournament": "Yuva Andhra Championship, 2025",
             "match_id": 133731,
-            "status": "NOT_STARTED",
+            "status": "LIVE",
             "streamingStatus": "STARTED",
             "startTime": "21 August 2025 03:45 PM",
             "startDate": "01 January 1970 05:30 AM",
@@ -830,7 +838,12 @@
                     "isWinner": null,
                     "color": "#e6ae3e",
                     "cricketScore": null,
-                    "kabaddiScore": null,
+                    "kabaddiScore": {
+                        "points": 0,
+                        "onFieldPlayers": 6,
+                        "totalFieldPlayers": 7,
+                        "raiding": true
+                    },
                     "footballScore": null,
                     "basketBallScore": null,
                     "hockeyScore": null,
@@ -849,7 +862,12 @@
                     "isWinner": null,
                     "color": "#f9ba8d",
                     "cricketScore": null,
-                    "kabaddiScore": null,
+                    "kabaddiScore": {
+                        "points": 1,
+                        "onFieldPlayers": 7,
+                        "totalFieldPlayers": 7,
+                        "raiding": null
+                    },
                     "footballScore": null,
                     "basketBallScore": null,
                     "hockeyScore": null,
@@ -867,93 +885,6 @@
                 "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/133731_english_hls_396b8c66fc77212ta-di_h264/index.m3u8",
                 "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/133731_english_hls_396b8c66fc77212ta-di_h264/index.m3u8",
                 "dai_google_cdn": "https://dai.google.com/linear/hls/event/ewvllKWLQGWgSRWP7DizfQ/master.m3u8",
-                "cloudfront_cdn": "Unavailable",
-                "language": "ENGLISH"
-            }
-        },
-        {
-            "category": "Cricket",
-            "title": "Czechia Vs Romania",
-            "tournament": "ECN Romania-Czechia T20I, 2025",
-            "match_id": 134939,
-            "status": "COMPLETED",
-            "streamingStatus": "STARTED",
-            "startTime": "21 August 2025 12:00 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/ECN-Romania-Czechia-T20I,-2025_Match_card_1755759374155.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/134939_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/ECN-Romania-Czechia-T20I,-2025_Match_card_1755759374155.jpg",
-                "PLAYBACK": "https://images.fancode.com/aig/match/v2/134939_CASACARDS_APP.png",
-                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/ECN-Tour-Logo_1753262759690.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/ECN-Romania-Czechia-T20I,-2025_Match_card_1755759374155.jpg",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/ECN-Romania-Czechia-T20I,-2025_Sporty_Match_card_1755759374144.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/134939_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "name": "Czechia",
-                    "shortName": "CZE",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CZR@2x.png"
-                    },
-                    "isWinner": true,
-                    "color": "#074FB4",
-                    "cricketScore": [
-                        {
-                            "runs": 149,
-                            "overs": "20",
-                            "balls": "120",
-                            "status": "COMPLETED",
-                            "wickets": 9
-                        }
-                    ],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "Romania",
-                    "shortName": "ROM",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ROMN@2x.png"
-                    },
-                    "isWinner": false,
-                    "color": "#d7bd39",
-                    "cricketScore": [
-                        {
-                            "runs": 131,
-                            "overs": "20",
-                            "balls": "120",
-                            "status": "IN_PROGRESS",
-                            "wickets": 8
-                        }
-                    ],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": true
-                        }
-                    }
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/134939_english_hls_b63ecfa45651323ta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/JwvF_gplSxeSnhLJLoFvHA/master.m3u8",
-            "STREAMING_CDN": {
-                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/134939_english_hls_b63ecfa45651323ta-di_h264/index.m3u8",
-                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/134939_english_hls_b63ecfa45651323ta-di_h264/index.m3u8",
-                "dai_google_cdn": "https://dai.google.com/linear/hls/event/JwvF_gplSxeSnhLJLoFvHA/master.m3u8",
                 "cloudfront_cdn": "Unavailable",
                 "language": "ENGLISH"
             }
@@ -2790,6 +2721,74 @@
                     },
                     "isWinner": null,
                     "color": "#b3a91d",
+                    "cricketScore": [],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "STREAMING_CDN": {
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
+            }
+        },
+        {
+            "category": "Cricket",
+            "title": "North Delhi Strikers Women Vs East Delhi Riders Women",
+            "tournament": "Delhi Women's Premier League, 2025",
+            "match_id": 132976,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "22 August 2025 02:00 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/132976_5536_NDS-W_EDR-W_fc_web_1755513540618.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/132976_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/132976_5536_NDS-W_EDR-W_fc_web_1755513540618.jpg",
+                "PLAYBACK": null,
+                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Delhi-Premier-League,-2025_Tour-Logo.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/132976_5536_NDS-W_EDR-W_fc_web_1755513540618.jpg",
+                "SPORT_BY_IMAGE": "https://images.fancode.com/aig/match/v1/132976_CASACARDS_SPORTY_APP.png",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/132976_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "name": "North Delhi Strikers Women",
+                    "shortName": "NDS-W",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NDS@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#713c94",
+                    "cricketScore": [],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "East Delhi Riders Women",
+                    "shortName": "EDR-W",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-EDR@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#e7993a",
                     "cricketScore": [],
                     "kabaddiScore": null,
                     "footballScore": null,
