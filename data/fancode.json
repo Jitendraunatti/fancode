@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "09:30:52 PM 21-08-2025",
+    "last_updated": "09:38:46 PM 21-08-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -68,9 +68,9 @@
                     "color": "#0082cb",
                     "cricketScore": [
                         {
-                            "runs": 23,
-                            "overs": "3.2",
-                            "balls": "20",
+                            "runs": 32,
+                            "overs": "5",
+                            "balls": "30",
                             "status": "IN_PROGRESS",
                             "wickets": 1
                         }
@@ -131,7 +131,7 @@
                             "runs": 111,
                             "overs": "20",
                             "balls": "120",
-                            "status": "IN_PROGRESS",
+                            "status": "COMPLETED",
                             "wickets": 9
                         }
                     ],
@@ -141,7 +141,7 @@
                     "hockeyScore": null,
                     "status": {
                         "cricket": {
-                            "isBatting": true
+                            "isBatting": false
                         }
                     }
                 },
@@ -153,14 +153,22 @@
                     },
                     "isWinner": null,
                     "color": "#16b9b7",
-                    "cricketScore": [],
+                    "cricketScore": [
+                        {
+                            "runs": 0,
+                            "overs": "0",
+                            "balls": "0",
+                            "status": "IN_PROGRESS",
+                            "wickets": 0
+                        }
+                    ],
                     "kabaddiScore": null,
                     "footballScore": null,
                     "basketBallScore": null,
                     "hockeyScore": null,
                     "status": {
                         "cricket": {
-                            "isBatting": false
+                            "isBatting": true
                         }
                     }
                 }
@@ -234,11 +242,11 @@
                     "color": "#d09b8a",
                     "cricketScore": [
                         {
-                            "runs": 60,
-                            "overs": "10",
-                            "balls": "50",
+                            "runs": 74,
+                            "overs": "12.1",
+                            "balls": "61",
                             "status": "IN_PROGRESS",
-                            "wickets": 2
+                            "wickets": 3
                         }
                     ],
                     "kabaddiScore": null,
@@ -479,9 +487,9 @@
                     "color": "#d15972",
                     "cricketScore": [
                         {
-                            "runs": 116,
-                            "overs": "23.1",
-                            "balls": "139",
+                            "runs": 128,
+                            "overs": "25",
+                            "balls": "150",
                             "status": "IN_PROGRESS",
                             "wickets": 3
                         }
@@ -504,93 +512,6 @@
                 "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/133785_english_hls_c67aa1231d40650ta-di_h264/index.m3u8",
                 "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/133785_english_hls_c67aa1231d40650ta-di_h264/index.m3u8",
                 "dai_google_cdn": "https://dai.google.com/linear/hls/event/0JAL63obSJiRh-Yq_XWEvQ/master.m3u8",
-                "cloudfront_cdn": "Unavailable",
-                "language": "ENGLISH"
-            }
-        },
-        {
-            "category": "Cricket",
-            "title": "Tungabhadra Warriors Vs Amaravathi Royals",
-            "tournament": "Andhra Premier League, 2025",
-            "match_id": 132782,
-            "status": "COMPLETED",
-            "streamingStatus": "STARTED",
-            "startTime": "21 August 2025 06:30 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/132765_5529_AMR_TBW_fc-Web.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/132782_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/132765_5529_AMR_TBW_fc-Web.jpg",
-                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/132765_5529_AMR_TBW_fc-Web.jpg",
-                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/APL-2025-Tour-Logo.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/132765_5529_AMR_TBW_fc-Web.jpg",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/132765_5529_AMR_TBW_fc-App.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/132782_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "name": "Tungabhadra Warriors",
-                    "shortName": "TBW",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TBW@2x.png"
-                    },
-                    "isWinner": false,
-                    "color": "#ff3d3d",
-                    "cricketScore": [
-                        {
-                            "runs": 136,
-                            "overs": "20",
-                            "balls": "120",
-                            "status": "COMPLETED",
-                            "wickets": 8
-                        }
-                    ],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "Amaravathi Royals",
-                    "shortName": "AMR",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AMRA@2x.png"
-                    },
-                    "isWinner": true,
-                    "color": "#d0b648",
-                    "cricketScore": [
-                        {
-                            "runs": 137,
-                            "overs": "14.2",
-                            "balls": "86",
-                            "status": "IN_PROGRESS",
-                            "wickets": 2
-                        }
-                    ],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": true
-                        }
-                    }
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/132782_english_hls_aae84f82d876938ta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/ExqNUfB0SeqKUud8LbqeCA/master.m3u8",
-            "STREAMING_CDN": {
-                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/132782_english_hls_aae84f82d876938ta-di_h264/index.m3u8",
-                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/132782_english_hls_aae84f82d876938ta-di_h264/index.m3u8",
-                "dai_google_cdn": "https://dai.google.com/linear/hls/event/ExqNUfB0SeqKUud8LbqeCA/master.m3u8",
                 "cloudfront_cdn": "Unavailable",
                 "language": "ENGLISH"
             }
@@ -653,11 +574,11 @@
                     "color": "#df787f",
                     "cricketScore": [
                         {
-                            "runs": 83,
-                            "overs": "10",
-                            "balls": "60",
+                            "runs": 98,
+                            "overs": "11.5",
+                            "balls": "71",
                             "status": "IN_PROGRESS",
-                            "wickets": 2
+                            "wickets": 3
                         }
                     ],
                     "kabaddiScore": null,
@@ -792,9 +713,9 @@
                     "color": "#138bc2",
                     "cricketScore": [
                         {
-                            "runs": 31,
-                            "overs": "5.3",
-                            "balls": "33",
+                            "runs": 44,
+                            "overs": "7.2",
+                            "balls": "44",
                             "status": "IN_PROGRESS",
                             "wickets": 2
                         }
@@ -1262,6 +1183,93 @@
                 "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/134073_english_hls_14f8dbab2a85359ta-di_h264/index.m3u8",
                 "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/134073_english_hls_14f8dbab2a85359ta-di_h264/index.m3u8",
                 "dai_google_cdn": "https://dai.google.com/linear/hls/event/yVCvb7kPQsWaD3lBNih-sg/master.m3u8",
+                "cloudfront_cdn": "Unavailable",
+                "language": "ENGLISH"
+            }
+        },
+        {
+            "category": "Cricket",
+            "title": "Tungabhadra Warriors Vs Amaravathi Royals",
+            "tournament": "Andhra Premier League, 2025",
+            "match_id": 132782,
+            "status": "COMPLETED",
+            "streamingStatus": "STARTED",
+            "startTime": "21 August 2025 06:30 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/132765_5529_AMR_TBW_fc-Web.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/132782_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/132765_5529_AMR_TBW_fc-Web.jpg",
+                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/132765_5529_AMR_TBW_fc-Web.jpg",
+                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/APL-2025-Tour-Logo.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/132765_5529_AMR_TBW_fc-Web.jpg",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/132765_5529_AMR_TBW_fc-App.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/132782_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "name": "Tungabhadra Warriors",
+                    "shortName": "TBW",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TBW@2x.png"
+                    },
+                    "isWinner": false,
+                    "color": "#ff3d3d",
+                    "cricketScore": [
+                        {
+                            "runs": 136,
+                            "overs": "20",
+                            "balls": "120",
+                            "status": "COMPLETED",
+                            "wickets": 8
+                        }
+                    ],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "Amaravathi Royals",
+                    "shortName": "AMR",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AMRA@2x.png"
+                    },
+                    "isWinner": true,
+                    "color": "#d0b648",
+                    "cricketScore": [
+                        {
+                            "runs": 137,
+                            "overs": "14.2",
+                            "balls": "86",
+                            "status": "IN_PROGRESS",
+                            "wickets": 2
+                        }
+                    ],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": true
+                        }
+                    }
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/132782_english_hls_aae84f82d876938ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/ExqNUfB0SeqKUud8LbqeCA/master.m3u8",
+            "STREAMING_CDN": {
+                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/132782_english_hls_aae84f82d876938ta-di_h264/index.m3u8",
+                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/132782_english_hls_aae84f82d876938ta-di_h264/index.m3u8",
+                "dai_google_cdn": "https://dai.google.com/linear/hls/event/ExqNUfB0SeqKUud8LbqeCA/master.m3u8",
                 "cloudfront_cdn": "Unavailable",
                 "language": "ENGLISH"
             }
