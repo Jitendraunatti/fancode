@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "02:02:46 PM 21-08-2025",
+    "last_updated": "02:10:45 PM 21-08-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -68,11 +68,11 @@
                     "color": "#d7bd39",
                     "cricketScore": [
                         {
-                            "runs": 5,
-                            "overs": "1",
-                            "balls": "6",
+                            "runs": 21,
+                            "overs": "2.3",
+                            "balls": "15",
                             "status": "IN_PROGRESS",
-                            "wickets": 1
+                            "wickets": 2
                         }
                     ],
                     "kabaddiScore": null,
@@ -155,11 +155,11 @@
                     "color": "#0F3276",
                     "cricketScore": [
                         {
-                            "runs": 84,
-                            "overs": "5.2",
-                            "balls": "32",
+                            "runs": 104,
+                            "overs": "6.4",
+                            "balls": "40",
                             "status": "IN_PROGRESS",
-                            "wickets": 1
+                            "wickets": 3
                         }
                     ],
                     "kabaddiScore": null,
@@ -215,9 +215,9 @@
                     "color": "#cf6063",
                     "cricketScore": [
                         {
-                            "runs": 34,
-                            "overs": "4.5",
-                            "balls": "29",
+                            "runs": 43,
+                            "overs": "5.5",
+                            "balls": "35",
                             "status": "IN_PROGRESS",
                             "wickets": 2
                         }
@@ -294,9 +294,9 @@
                     "color": "#921b36",
                     "cricketScore": [
                         {
-                            "runs": 1,
-                            "overs": "0",
-                            "balls": "1",
+                            "runs": 7,
+                            "overs": "2.1",
+                            "balls": "13",
                             "status": "IN_PROGRESS",
                             "wickets": 0
                         }
@@ -373,10 +373,10 @@
                     "color": "#c2c8fd",
                     "cricketScore": null,
                     "kabaddiScore": {
-                        "points": 43,
-                        "onFieldPlayers": 7,
+                        "points": 45,
+                        "onFieldPlayers": 6,
                         "totalFieldPlayers": 7,
-                        "raiding": null
+                        "raiding": true
                     },
                     "footballScore": null,
                     "basketBallScore": null,
@@ -397,10 +397,10 @@
                     "color": "#205d7e",
                     "cricketScore": null,
                     "kabaddiScore": {
-                        "points": 26,
-                        "onFieldPlayers": 1,
+                        "points": 39,
+                        "onFieldPlayers": 6,
                         "totalFieldPlayers": 7,
-                        "raiding": true
+                        "raiding": null
                     },
                     "footballScore": null,
                     "basketBallScore": null,
