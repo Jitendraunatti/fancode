@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "01:18:50 PM 21-08-2025",
+    "last_updated": "01:26:45 PM 21-08-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -68,9 +68,9 @@
                     "color": "#c2a851",
                     "cricketScore": [
                         {
-                            "runs": 88,
-                            "overs": "8",
-                            "balls": "48",
+                            "runs": 100,
+                            "overs": "9.5",
+                            "balls": "59",
                             "status": "IN_PROGRESS",
                             "wickets": 0
                         }
@@ -155,9 +155,9 @@
                     "color": "#c2a851",
                     "cricketScore": [
                         {
-                            "runs": 88,
-                            "overs": "8",
-                            "balls": "48",
+                            "runs": 100,
+                            "overs": "9.5",
+                            "balls": "59",
                             "status": "IN_PROGRESS",
                             "wickets": 0
                         }
@@ -215,11 +215,11 @@
                     "color": "#074FB4",
                     "cricketScore": [
                         {
-                            "runs": 124,
-                            "overs": "15.5",
-                            "balls": "95",
+                            "runs": 135,
+                            "overs": "17.2",
+                            "balls": "104",
                             "status": "IN_PROGRESS",
-                            "wickets": 6
+                            "wickets": 7
                         }
                     ],
                     "kabaddiScore": null,
@@ -294,11 +294,11 @@
                     "color": "#001C47",
                     "cricketScore": [
                         {
-                            "runs": 115,
-                            "overs": "8",
-                            "balls": "48",
+                            "runs": 161,
+                            "overs": "10",
+                            "balls": "60",
                             "status": "IN_PROGRESS",
-                            "wickets": 1
+                            "wickets": 2
                         }
                     ],
                     "kabaddiScore": null,
@@ -347,7 +347,7 @@
             "title": "Vijayawada Sunshiners Vs Bhimavaram Bulls",
             "tournament": "Andhra Premier League, 2025",
             "match_id": 132781,
-            "status": "NOT_STARTED",
+            "status": "LIVE",
             "streamingStatus": "STARTED",
             "startTime": "21 August 2025 01:30 PM",
             "startDate": "01 January 1970 05:30 AM",
@@ -452,10 +452,10 @@
                     "color": "#c2c8fd",
                     "cricketScore": null,
                     "kabaddiScore": {
-                        "points": 2,
-                        "onFieldPlayers": 7,
+                        "points": 14,
+                        "onFieldPlayers": 5,
                         "totalFieldPlayers": 7,
-                        "raiding": true
+                        "raiding": null
                     },
                     "footballScore": null,
                     "basketBallScore": null,
@@ -476,10 +476,10 @@
                     "color": "#205d7e",
                     "cricketScore": null,
                     "kabaddiScore": {
-                        "points": 1,
+                        "points": 7,
                         "onFieldPlayers": 6,
                         "totalFieldPlayers": 7,
-                        "raiding": null
+                        "raiding": true
                     },
                     "footballScore": null,
                     "basketBallScore": null,
