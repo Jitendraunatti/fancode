@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "02:30:51 AM 22-08-2025",
+    "last_updated": "02:38:46 AM 22-08-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -1421,7 +1421,7 @@
                     "name": "Toombul",
                     "shortName": "TMB",
                     "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/TMB-CR1@2x.png"
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TMB@2x.png"
                     },
                     "isWinner": null,
                     "color": "#FFFFFF",
@@ -1440,7 +1440,7 @@
                     "name": "Northern Suburbs",
                     "shortName": "NSB",
                     "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/NOP-CR1@2x.png"
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NSB@2x.png"
                     },
                     "isWinner": null,
                     "color": "#0dc8b1",
