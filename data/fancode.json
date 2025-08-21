@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "02:46:52 PM 21-08-2025",
+    "last_updated": "02:54:45 PM 21-08-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -41,9 +41,9 @@
                     "color": "#D26617",
                     "cricketScore": [
                         {
-                            "runs": 21,
-                            "overs": "2",
-                            "balls": "12",
+                            "runs": 30,
+                            "overs": "3.5",
+                            "balls": "23",
                             "status": "IN_PROGRESS",
                             "wickets": 0
                         }
@@ -120,9 +120,9 @@
                     "color": "#D26617",
                     "cricketScore": [
                         {
-                            "runs": 21,
-                            "overs": "2",
-                            "balls": "12",
+                            "runs": 30,
+                            "overs": "3.5",
+                            "balls": "23",
                             "status": "IN_PROGRESS",
                             "wickets": 0
                         }
@@ -226,9 +226,9 @@
                     "color": "#d7bd39",
                     "cricketScore": [
                         {
-                            "runs": 65,
-                            "overs": "11",
-                            "balls": "66",
+                            "runs": 87,
+                            "overs": "12.5",
+                            "balls": "77",
                             "status": "IN_PROGRESS",
                             "wickets": 3
                         }
@@ -286,9 +286,9 @@
                     "color": "#cf6063",
                     "cricketScore": [
                         {
-                            "runs": 103,
-                            "overs": "13.3",
-                            "balls": "81",
+                            "runs": 112,
+                            "overs": "14.3",
+                            "balls": "87",
                             "status": "IN_PROGRESS",
                             "wickets": 4
                         }
@@ -365,9 +365,9 @@
                     "color": "#921b36",
                     "cricketScore": [
                         {
-                            "runs": 39,
-                            "overs": "9.4",
-                            "balls": "58",
+                            "runs": 55,
+                            "overs": "11.3",
+                            "balls": "69",
                             "status": "IN_PROGRESS",
                             "wickets": 2
                         }
@@ -444,9 +444,9 @@
                     "color": "#2c5ab3",
                     "cricketScore": [
                         {
-                            "runs": 24,
-                            "overs": "4.1",
-                            "balls": "25",
+                            "runs": 40,
+                            "overs": "6.1",
+                            "balls": "37",
                             "status": "IN_PROGRESS",
                             "wickets": 0
                         }
@@ -523,11 +523,11 @@
                     "color": "#c5d15e",
                     "cricketScore": [
                         {
-                            "runs": 0,
-                            "overs": "0",
-                            "balls": "0",
+                            "runs": 14,
+                            "overs": "1.3",
+                            "balls": "9",
                             "status": "IN_PROGRESS",
-                            "wickets": 0
+                            "wickets": 1
                         }
                     ],
                     "kabaddiScore": null,
@@ -576,7 +576,7 @@
             "title": "Bangladesh A Vs Melbourne Stars Academy",
             "tournament": "Top End T20 Series, 2025",
             "match_id": 133524,
-            "status": "NOT_STARTED",
+            "status": "LIVE",
             "streamingStatus": "STARTED",
             "startTime": "21 August 2025 03:00 PM",
             "startDate": "01 January 1970 05:30 AM",
@@ -1239,14 +1239,22 @@
                     },
                     "isWinner": null,
                     "color": "#1e4609",
-                    "cricketScore": [],
+                    "cricketScore": [
+                        {
+                            "runs": 0,
+                            "overs": "0",
+                            "balls": "0",
+                            "status": "IN_PROGRESS",
+                            "wickets": 0
+                        }
+                    ],
                     "kabaddiScore": null,
                     "footballScore": null,
                     "basketBallScore": null,
                     "hockeyScore": null,
                     "status": {
                         "cricket": {
-                            "isBatting": false
+                            "isBatting": true
                         }
                     }
                 },
