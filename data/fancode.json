@@ -1,14 +1,14 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "10:10:50 PM 21-08-2025",
+    "last_updated": "10:18:54 PM 21-08-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
     "total_matches": 40,
-    "live_matches": 14,
-    "upcoming_matches": 26,
+    "live_matches": 16,
+    "upcoming_matches": 24,
     "matches": [
         {
             "category": "Cricket",
@@ -68,9 +68,9 @@
                     "color": "#0082cb",
                     "cricketScore": [
                         {
-                            "runs": 74,
-                            "overs": "10",
-                            "balls": "60",
+                            "runs": 84,
+                            "overs": "11.4",
+                            "balls": "70",
                             "status": "IN_PROGRESS",
                             "wickets": 2
                         }
@@ -155,11 +155,11 @@
                     "color": "#16b9b7",
                     "cricketScore": [
                         {
-                            "runs": 60,
-                            "overs": "7.5",
-                            "balls": "47",
+                            "runs": 63,
+                            "overs": "9.1",
+                            "balls": "55",
                             "status": "IN_PROGRESS",
-                            "wickets": 2
+                            "wickets": 3
                         }
                     ],
                     "kabaddiScore": null,
@@ -242,9 +242,9 @@
                     "color": "#01c0f6",
                     "cricketScore": [
                         {
-                            "runs": 29,
-                            "overs": "4.1",
-                            "balls": "25",
+                            "runs": 44,
+                            "overs": "6",
+                            "balls": "36",
                             "status": "IN_PROGRESS",
                             "wickets": 2
                         }
@@ -329,9 +329,9 @@
                     "color": "#01c0f6",
                     "cricketScore": [
                         {
-                            "runs": 29,
-                            "overs": "4.1",
-                            "balls": "25",
+                            "runs": 44,
+                            "overs": "6",
+                            "balls": "36",
                             "status": "IN_PROGRESS",
                             "wickets": 2
                         }
@@ -416,11 +416,11 @@
                     "color": "#d15972",
                     "cricketScore": [
                         {
-                            "runs": 176,
-                            "overs": "32.5",
-                            "balls": "197",
+                            "runs": 191,
+                            "overs": "34",
+                            "balls": "204",
                             "status": "IN_PROGRESS",
-                            "wickets": 3
+                            "wickets": 4
                         }
                     ],
                     "kabaddiScore": null,
@@ -441,93 +441,6 @@
                 "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/133785_english_hls_c67aa1231d40650ta-di_h264/index.m3u8",
                 "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/133785_english_hls_c67aa1231d40650ta-di_h264/index.m3u8",
                 "dai_google_cdn": "https://dai.google.com/linear/hls/event/0JAL63obSJiRh-Yq_XWEvQ/master.m3u8",
-                "cloudfront_cdn": "Unavailable",
-                "language": "ENGLISH"
-            }
-        },
-        {
-            "category": "Cricket",
-            "title": "Germany Women Vs Italy Women",
-            "tournament": "ICC Women\u2019s T20 WC Europe Qualifier Division 1",
-            "match_id": 133750,
-            "status": "COMPLETED",
-            "streamingStatus": "STARTED",
-            "startTime": "21 August 2025 07:15 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/133750_5592_ITA-W_GER-W_fc-web.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/133750_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/133750_5592_ITA-W_GER-W_fc-web.jpg",
-                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/133750_5592_ITA-W_GER-W_fc-web.jpg",
-                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Europe_ICC-Pathways_Tour-Logo.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/133750_5592_ITA-W_GER-W_fc-web.jpg",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/133750_5592_ITA-W_GER-W_fc-app.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/133750_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "name": "Germany Women",
-                    "shortName": "GER-W",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GER@2x.png"
-                    },
-                    "isWinner": false,
-                    "color": "#ea6363",
-                    "cricketScore": [
-                        {
-                            "runs": 113,
-                            "overs": "20",
-                            "balls": "120",
-                            "status": "COMPLETED",
-                            "wickets": 6
-                        }
-                    ],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "Italy Women",
-                    "shortName": "ITA-W",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ITA@2x.png"
-                    },
-                    "isWinner": true,
-                    "color": "#df787f",
-                    "cricketScore": [
-                        {
-                            "runs": 117,
-                            "overs": "15.4",
-                            "balls": "94",
-                            "status": "IN_PROGRESS",
-                            "wickets": 6
-                        }
-                    ],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": true
-                        }
-                    }
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/133750_english_hls_0e4d10c73f47088ta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/WmpgBWTqQAOTsTome7pJ4g/master.m3u8",
-            "STREAMING_CDN": {
-                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/133750_english_hls_0e4d10c73f47088ta-di_h264/index.m3u8",
-                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/133750_english_hls_0e4d10c73f47088ta-di_h264/index.m3u8",
-                "dai_google_cdn": "https://dai.google.com/linear/hls/event/WmpgBWTqQAOTsTome7pJ4g/master.m3u8",
                 "cloudfront_cdn": "Unavailable",
                 "language": "ENGLISH"
             }
@@ -590,11 +503,11 @@
                     "color": "#948FAA",
                     "cricketScore": [
                         {
-                            "runs": 73,
-                            "overs": "6.1",
-                            "balls": "37",
+                            "runs": 92,
+                            "overs": "8.3",
+                            "balls": "51",
                             "status": "IN_PROGRESS",
-                            "wickets": 4
+                            "wickets": 6
                         }
                     ],
                     "kabaddiScore": null,
@@ -650,11 +563,11 @@
                     "color": "#138bc2",
                     "cricketScore": [
                         {
-                            "runs": 87,
-                            "overs": "14.5",
-                            "balls": "89",
+                            "runs": 95,
+                            "overs": "16.3",
+                            "balls": "99",
                             "status": "IN_PROGRESS",
-                            "wickets": 3
+                            "wickets": 4
                         }
                     ],
                     "kabaddiScore": null,
@@ -729,9 +642,9 @@
                     "color": "#FFFF8F",
                     "cricketScore": [
                         {
-                            "runs": 0,
-                            "overs": "0",
-                            "balls": "0",
+                            "runs": 12,
+                            "overs": "0.5",
+                            "balls": "5",
                             "status": "IN_PROGRESS",
                             "wickets": 0
                         }
@@ -1204,41 +1117,183 @@
             }
         },
         {
-            "category": "Cricket",
-            "title": "Oval Invincibles Women Vs Trent Rockets Women",
-            "tournament": "The Hundred Women, 2025",
-            "match_id": 132278,
-            "status": "COMPLETED",
-            "streamingStatus": "COMPLETED",
-            "startTime": "21 August 2025 07:30 PM",
+            "category": "Golf",
+            "title": "Marquee Group   Day 1",
+            "tournament": "Tour Championship",
+            "match_id": 134074,
+            "status": "LIVE",
+            "streamingStatus": "STARTED",
+            "startTime": "21 August 2025 10:30 PM",
             "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/132278_5506_OVI-W_TRT-W_Fc-Web.jpg",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Tour_Championship_Old_match_card_1.jpg",
             "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/132278_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/132278_5506_OVI-W_TRT-W_Fc-Web.jpg",
-                "PLAYBACK": null,
-                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/06/The-Hundred_Tour-Logo.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/132278_5506_OVI-W_TRT-W_Fc-Web.jpg",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/132278_5506_OVI-W_TRT-W_Fc-App.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/132278_CASACARDS_PARTNER_16_9_1920_1080.png"
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/134074_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/Tour_Championship_Old_match_card_1.jpg",
+                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/Tour_Championship_Old_match_card_1.jpg",
+                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Tour-Championship-Tour-Logo.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Golf_Fallback_Old_match-card.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Tour_Championship_Old_match_card_1.jpg",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Championship_Sporty_match-card.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/134074_CASACARDS_PARTNER_16_9_1920_1080.png"
             },
             "teams": [
                 {
-                    "name": "Oval Invincibles Women",
-                    "shortName": "OVI-W",
+                    "name": "Marquee Group - Day 1",
+                    "shortName": "Marquee Group - Day 1",
                     "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-OVALINC@2x.png"
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-TCG@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#62646a",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "East Lake Golf Course",
+                    "shortName": "East Lake Golf Course",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#141414",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/134074_english_hls_cf22b95f1b28269ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/ncEK4qKrTAa1_5wDn6gDrA/master.m3u8",
+            "STREAMING_CDN": {
+                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/134074_english_hls_cf22b95f1b28269ta-di_h264/index.m3u8",
+                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/134074_english_hls_cf22b95f1b28269ta-di_h264/index.m3u8",
+                "dai_google_cdn": "https://dai.google.com/linear/hls/event/ncEK4qKrTAa1_5wDn6gDrA/master.m3u8",
+                "cloudfront_cdn": "Unavailable",
+                "language": "ENGLISH"
+            }
+        },
+        {
+            "category": "Golf",
+            "title": "World Feed   Day 1",
+            "tournament": "Tour Championship",
+            "match_id": 134075,
+            "status": "LIVE",
+            "streamingStatus": "STARTED",
+            "startTime": "21 August 2025 10:30 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Tour_Championship_Old_match_card_1.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/134075_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/Tour_Championship_Old_match_card_1.jpg",
+                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/Tour_Championship_Old_match_card_1.jpg",
+                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Tour-Championship-Tour-Logo.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Golf_Fallback_Old_match-card.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Tour_Championship_Old_match_card_1.jpg",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Championship_Sporty_match-card.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/134075_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "name": "World Feed - Day 1",
+                    "shortName": "World Feed - Day 1",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-TCG@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#62646a",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "East Lake Golf Course",
+                    "shortName": "East Lake Golf Course",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#141414",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/134075_english_hls_eeccd2f4bf51570ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/rL0Y4x72R36vfZIoS0QD-w/master.m3u8",
+            "STREAMING_CDN": {
+                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/134075_english_hls_eeccd2f4bf51570ta-di_h264/index.m3u8",
+                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/134075_english_hls_eeccd2f4bf51570ta-di_h264/index.m3u8",
+                "dai_google_cdn": "https://dai.google.com/linear/hls/event/rL0Y4x72R36vfZIoS0QD-w/master.m3u8",
+                "cloudfront_cdn": "Unavailable",
+                "language": "ENGLISH"
+            }
+        },
+        {
+            "category": "Cricket",
+            "title": "Germany Women Vs Italy Women",
+            "tournament": "ICC Women\u2019s T20 WC Europe Qualifier Division 1",
+            "match_id": 133750,
+            "status": "COMPLETED",
+            "streamingStatus": "STARTED",
+            "startTime": "21 August 2025 07:15 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/133750_5592_ITA-W_GER-W_fc-web.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/133750_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/133750_5592_ITA-W_GER-W_fc-web.jpg",
+                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/133750_5592_ITA-W_GER-W_fc-web.jpg",
+                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Europe_ICC-Pathways_Tour-Logo.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/133750_5592_ITA-W_GER-W_fc-web.jpg",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/133750_5592_ITA-W_GER-W_fc-app.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/133750_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "name": "Germany Women",
+                    "shortName": "GER-W",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GER@2x.png"
                     },
                     "isWinner": false,
-                    "color": "#b8b3ba",
+                    "color": "#ea6363",
                     "cricketScore": [
                         {
-                            "runs": 109,
+                            "runs": 113,
                             "overs": "20",
-                            "balls": "100",
+                            "balls": "120",
                             "status": "COMPLETED",
-                            "wickets": 7
+                            "wickets": 6
                         }
                     ],
                     "kabaddiScore": null,
@@ -1252,20 +1307,20 @@
                     }
                 },
                 {
-                    "name": "Trent Rockets Women",
-                    "shortName": "TRT-W",
+                    "name": "Italy Women",
+                    "shortName": "ITA-W",
                     "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TRENR@2x.png"
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ITA@2x.png"
                     },
                     "isWinner": true,
-                    "color": "#d09b8a",
+                    "color": "#df787f",
                     "cricketScore": [
                         {
-                            "runs": 113,
-                            "overs": "16.4",
-                            "balls": "84",
+                            "runs": 117,
+                            "overs": "15.4",
+                            "balls": "94",
                             "status": "IN_PROGRESS",
-                            "wickets": 4
+                            "wickets": 6
                         }
                     ],
                     "kabaddiScore": null,
@@ -1279,12 +1334,15 @@
                     }
                 }
             ],
-            "language": "BLOODY_SWEET",
-            "adfree_stream": null,
-            "dai_stream": null,
+            "language": "ENGLISH",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/133750_english_hls_0e4d10c73f47088ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/WmpgBWTqQAOTsTome7pJ4g/master.m3u8",
             "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
+                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/133750_english_hls_0e4d10c73f47088ta-di_h264/index.m3u8",
+                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/133750_english_hls_0e4d10c73f47088ta-di_h264/index.m3u8",
+                "dai_google_cdn": "https://dai.google.com/linear/hls/event/WmpgBWTqQAOTsTome7pJ4g/master.m3u8",
+                "cloudfront_cdn": "Unavailable",
+                "language": "ENGLISH"
             }
         },
         {
@@ -2839,74 +2897,6 @@
                     },
                     "isWinner": null,
                     "color": "#074FB4",
-                    "cricketScore": [],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
-            }
-        },
-        {
-            "category": "Cricket",
-            "title": "Majees Titans Vs Muscat Thunders",
-            "tournament": "Oman D20 League, 2025",
-            "match_id": 133685,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "22 August 2025 05:00 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/133685_5590_MAT_MUT_fc-Web.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/133685_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/133685_5590_MAT_MUT_fc-Web.jpg",
-                "PLAYBACK": null,
-                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2023/12/Tour-Placeholder.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/133685_5590_MAT_MUT_fc-Web.jpg",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/133685_5590_MAT_MUT_fc-App.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/133685_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "name": "Majees Titans",
-                    "shortName": "MAT",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MAJ@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#d8c50f",
-                    "cricketScore": [],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "Muscat Thunders",
-                    "shortName": "MUT",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MSCT@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#5438bd",
                     "cricketScore": [],
                     "kabaddiScore": null,
                     "footballScore": null,
