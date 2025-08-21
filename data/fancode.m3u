@@ -1,7 +1,7 @@
 #EXTM3U
 #DEVELOPED_BY_JITENDRA_PRO_DEV
 #AUTHOR:-JITENDRA_KUMAR
-#DATE:- Friday 22 August, 2025 at 1:26:49 am
+#DATE:- Friday 22 August, 2025 at 1:30:58 am
 #EXTINF:-1 tvg-id="132244" tvg-name="Trent Rockets Vs Oval Invincibles" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/132244_5505_OVI_TRT_fc-web.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Trent Rockets Vs Oval Invincibles
 https://dai.google.com/linear/hls/event/HynNobMPSu6nQCgpxsK0lQ/master.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="132172" tvg-name="Keraniganj Challengers Vs Sbs Cc" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/KCC-T10-Summer-League,-2025_match-card.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Keraniganj Challengers Vs Sbs Cc
@@ -16,7 +16,5 @@ https://in-mc-fdlive.fancode.com/mumbai/134073_english_hls_14f8dbab2a85359ta-di_
 https://in-mc-fdlive.fancode.com/mumbai/134075_english_hls_eeccd2f4bf51570ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="134074" tvg-name="Marquee Group   Day 1" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Tour_Championship_Old_match_card_1.jpg" tvg-language="ENGLISH" group-title="Golf",ENG | Marquee Group   Day 1
 https://in-mc-fdlive.fancode.com/mumbai/134074_english_hls_cf22b95f1b28269ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
-#EXTINF:-1 tvg-id="132875" tvg-name="Minnesota Twins Vs Oakland Athletics" tvg-logo="https://images.fancode.com/aig/match/v1/132875_CASACARDS_APP.png" tvg-language="ENGLISH" group-title="Baseball",ENG | Minnesota Twins Vs Oakland Athletics
-https://in-mc-fdlive.fancode.com/mumbai/132875_english_hls_cc9a6ae6bc44466ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="132876" tvg-name="Washington Nationals Vs New York Mets" tvg-logo="https://images.fancode.com/aig/match/v1/132876_CASACARDS_APP.png" tvg-language="ENGLISH" group-title="Baseball",ENG | Washington Nationals Vs New York Mets
 https://in-mc-fdlive.fancode.com/mumbai/132876_english_hls_44262fcee852973ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
