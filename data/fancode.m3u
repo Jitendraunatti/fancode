@@ -1,7 +1,7 @@
 #EXTM3U
 #DEVELOPED_BY_JITENDRA_PRO_DEV
 #AUTHOR:-JITENDRA_KUMAR
-#DATE:- Friday 22 August, 2025 at 5:27:02 pm
+#DATE:- Friday 22 August, 2025 at 5:31:10 pm
 #EXTINF:-1 tvg-id="133878" tvg-name="Alleppey Ripples Vs Thrissur Titans" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/133878_5600_AP_TT_fc-Web_1755771731127.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Alleppey Ripples Vs Thrissur Titans
 https://in-mc-fdlive.fancode.com/mumbai/133878_english_hls_e13b593a0e33851ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="133878" tvg-name="Alleppey Ripples Vs Thrissur Titans" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/133878_5600_AP_TT_fc-Web_1755771731127.jpg" tvg-language="MALAYALAM" group-title="Cricket",MAL | Alleppey Ripples Vs Thrissur Titans
@@ -16,8 +16,6 @@ https://in-mc-fdlive.fancode.com/mumbai/133527_english_hls_05e71943ec27195adfree
 https://in-mc-fdlive.fancode.com/mumbai/133787_english_hls_ef0207d26f66183ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="133685" tvg-name="Muscat Thunders Vs Majees Titans" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/133685_5590_MAT_MUT_fc-Web.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Muscat Thunders Vs Majees Titans
 https://in-mc-fdlive.fancode.com/mumbai/133685_english_hls_044c2b02b15211ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
-#EXTINF:-1 tvg-id="132083" tvg-name="Kashiwa Reysol Vs Urawa Red Diamonds" tvg-logo="https://images.fancode.com/aig/match/v1/132083_CASACARDS_APP.png" tvg-language="ENGLISH" group-title="Football",ENG | Kashiwa Reysol Vs Urawa Red Diamonds
-https://in-mc-fdlive.fancode.com/mumbai/132083_english_hls_a373a9916898296ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="133736" tvg-name="Tirupati Raiders Vs Kurnool Knights" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/133736_5591_TR_KKK_fc-Web.jpg" tvg-language="ENGLISH" group-title="Kabaddi",ENG | Tirupati Raiders Vs Kurnool Knights
 https://in-mc-fdlive.fancode.com/mumbai/133736_english_hls_137fc2a97663049ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="119160" tvg-name="Hungary Gp" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Moto-GP_Hungary_old_Match-card.jpg" tvg-language="ENGLISH" group-title="MotoGP",ENG | Hungary Gp
@@ -30,3 +28,7 @@ https://in-mc-fdlive.fancode.com/mumbai/133910_english_hls_07df185bb745505ta-di_
 https://in-mc-fdlive.fancode.com/mumbai/134078_english_hls_e07537a3a662882ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="134076" tvg-name="Main Feed   Day 2" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Tour_Championship_Old_match_card_1.jpg" tvg-language="ENGLISH" group-title="Golf",ENG | Main Feed   Day 2
 https://in-mc-fdlive.fancode.com/mumbai/134076_english_hls_f48196b72826960ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
+#EXTINF:-1 tvg-id="134077" tvg-name="Featured Holes   Day 2" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Tour_Championship_Old_match_card_1.jpg" tvg-language="ENGLISH" group-title="Golf",ENG | Featured Holes   Day 2
+https://in-mc-fdlive.fancode.com/mumbai/134077_english_hls_b9cc6bf5cb17132ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
+#EXTINF:-1 tvg-id="132083" tvg-name="Kashiwa Reysol Vs Urawa Red Diamonds" tvg-logo="https://images.fancode.com/aig/match/v1/132083_CASACARDS_APP.png" tvg-language="ENGLISH" group-title="Football",ENG | Kashiwa Reysol Vs Urawa Red Diamonds
+https://in-mc-fdlive.fancode.com/mumbai/132083_english_hls_a373a9916898296ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
