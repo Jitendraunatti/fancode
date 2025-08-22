@@ -1,10 +1,12 @@
 #EXTM3U
 #DEVELOPED_BY_JITENDRA_PRO_DEV
 #AUTHOR:-JITENDRA_KUMAR
-#DATE:- Saturday 23 August, 2025 at 4:10:55 am
+#DATE:- Saturday 23 August, 2025 at 4:18:59 am
 #EXTINF:-1 tvg-id="132354" tvg-name="Guyana Amazon Warriors Vs Antigua & Barbuda Falcons" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Antigua-Barbuda-Falcons-VS-Guyana-Amazon-Warriors_old.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Guyana Amazon Warriors Vs Antigua & Barbuda Falcons
 https://in-mc-fdlive.fancode.com/mumbai/132354_english_hls_03ab4def0e66997ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="132354" tvg-name="Guyana Amazon Warriors Vs Antigua & Barbuda Falcons" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Antigua-Barbuda-Falcons-VS-Guyana-Amazon-Warriors_old.jpg" tvg-language="HINDI AI(BETA)" group-title="Cricket",HIN | Guyana Amazon Warriors Vs Antigua & Barbuda Falcons
 https://in-mc-fdlive.fancode.com/mumbai/132354_hindi_hls_1333f0b4142288ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
+#EXTINF:-1 tvg-id="133235" tvg-name="India A Women Vs Australia A Women" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/IND_A_vs_AUS_Womens_Old_match-card-(2).jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | India A Women Vs Australia A Women
+https://in-mc-pdlive.fancode.com/mumbai/133235_english_hls_ba3b3d673330810ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="134078" tvg-name="Featured Group   Day 2" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Tour_Championship_Old_match_card_1.jpg" tvg-language="ENGLISH" group-title="Golf",ENG | Featured Group   Day 2
 https://in-mc-fdlive.fancode.com/mumbai/134078_english_hls_e07537a3a662882ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
