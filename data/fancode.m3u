@@ -1,7 +1,7 @@
 #EXTM3U
 #DEVELOPED_BY_JITENDRA_PRO_DEV
 #AUTHOR:-JITENDRA_KUMAR
-#DATE:- Friday 22 August, 2025 at 8:30:54 pm
+#DATE:- Friday 22 August, 2025 at 8:38:59 pm
 #EXTINF:-1 tvg-id="133879" tvg-name="Aries Kollam Sailors Vs Adani Trivandrum Royals" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/133879_5600_AKS_TR_fc-Web_1755771731280.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Aries Kollam Sailors Vs Adani Trivandrum Royals
 https://in-mc-fdlive.fancode.com/mumbai/133879_english_hls_8f255d9b763784ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="133879" tvg-name="Aries Kollam Sailors Vs Adani Trivandrum Royals" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/133879_5600_AKS_TR_fc-Web_1755771731280.jpg" tvg-language="MALAYALAM" group-title="Cricket",MAL | Aries Kollam Sailors Vs Adani Trivandrum Royals
@@ -14,8 +14,6 @@ https://in-mc-fdlive.fancode.com/mumbai/132808_english_hls_4103e4ee2518339ta-di_
 https://dai.google.com/linear/hls/event/YFrT82nQRjyh8HlIPYbPfw/master.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="133787" tvg-name="Denmark Vs Papua New Guinea" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/133787_4464_PNG_DEN_fc-Web.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Denmark Vs Papua New Guinea
 https://in-mc-fdlive.fancode.com/mumbai/133787_english_hls_ef0207d26f66183ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
-#EXTINF:-1 tvg-id="133685" tvg-name="Muscat Thunders Vs Majees Titans" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/133685_5590_MAT_MUT_fc-Web.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Muscat Thunders Vs Majees Titans
-https://in-mc-fdlive.fancode.com/mumbai/133685_english_hls_044c2b02b15211ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="132783" tvg-name="Bhimavaram Bulls Vs Tungabhadra Warriors" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/132772_5529_BVB_TBW_fc-Web.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Bhimavaram Bulls Vs Tungabhadra Warriors
 https://in-mc-fdlive.fancode.com/mumbai/132783_english_hls_c5f88fe2d128463ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="119160" tvg-name="Hungary Gp" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Moto-GP_Hungary_old_Match-card.jpg" tvg-language="ENGLISH" group-title="MotoGP",ENG | Hungary Gp
@@ -34,3 +32,5 @@ https://in-mc-fdlive.fancode.com/mumbai/134077_english_hls_b9cc6bf5cb17132ta-di_
 https://in-mc-fdlive.fancode.com/mumbai/134080_english_hls_2ea744979020639ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="134079" tvg-name="Marquee Group   Day 2" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Tour_Championship_Old_match_card_1.jpg" tvg-language="ENGLISH" group-title="Golf",ENG | Marquee Group   Day 2
 https://in-mc-fdlive.fancode.com/mumbai/134079_english_hls_54f5a4bc4581655ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
+#EXTINF:-1 tvg-id="133685" tvg-name="Muscat Thunders Vs Majees Titans" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/133685_5590_MAT_MUT_fc-Web.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Muscat Thunders Vs Majees Titans
+https://in-mc-fdlive.fancode.com/mumbai/133685_english_hls_044c2b02b15211ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
