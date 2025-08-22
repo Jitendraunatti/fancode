@@ -1,7 +1,7 @@
 #EXTM3U
 #DEVELOPED_BY_JITENDRA_PRO_DEV
 #AUTHOR:-JITENDRA_KUMAR
-#DATE:- Friday 22 August, 2025 at 6:19:03 pm
+#DATE:- Friday 22 August, 2025 at 6:27:02 pm
 #EXTINF:-1 tvg-id="132807" tvg-name="Gulbarga Mystics Vs Hubli Tigers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/132807_5530_HT_GMY_fc-Web_1755374792969.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Gulbarga Mystics Vs Hubli Tigers
 https://in-mc-fdlive.fancode.com/mumbai/132807_english_hls_048c4ea3a5462ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="133527" tvg-name="Pakistan Shaheens Vs Nepal" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/133527_5574_PKS_NEP_fc-web.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Pakistan Shaheens Vs Nepal
@@ -10,10 +10,8 @@ https://in-mc-fdlive.fancode.com/mumbai/133527_english_hls_05e71943ec27195adfree
 https://in-mc-fdlive.fancode.com/mumbai/133787_english_hls_ef0207d26f66183ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="133685" tvg-name="Muscat Thunders Vs Majees Titans" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/133685_5590_MAT_MUT_fc-Web.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Muscat Thunders Vs Majees Titans
 https://in-mc-fdlive.fancode.com/mumbai/133685_english_hls_044c2b02b15211ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
-#EXTINF:-1 tvg-id="132783" tvg-name="Tungabhadra Warriors Vs Bhimavaram Bulls" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/132772_5529_BVB_TBW_fc-Web.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Tungabhadra Warriors Vs Bhimavaram Bulls
+#EXTINF:-1 tvg-id="132783" tvg-name="Bhimavaram Bulls Vs Tungabhadra Warriors" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/132772_5529_BVB_TBW_fc-Web.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Bhimavaram Bulls Vs Tungabhadra Warriors
 https://in-mc-fdlive.fancode.com/mumbai/132783_english_hls_c5f88fe2d128463ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
-#EXTINF:-1 tvg-id="133736" tvg-name="Tirupati Raiders Vs Kurnool Knights" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/133736_5591_TR_KKK_fc-Web.jpg" tvg-language="ENGLISH" group-title="Kabaddi",ENG | Tirupati Raiders Vs Kurnool Knights
-https://in-mc-fdlive.fancode.com/mumbai/133736_english_hls_137fc2a97663049ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="119160" tvg-name="Hungary Gp" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Moto-GP_Hungary_old_Match-card.jpg" tvg-language="ENGLISH" group-title="MotoGP",ENG | Hungary Gp
 https://in-mc-fdlive.fancode.com/mumbai/119160_english_hls_5b8568520774776ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="119160" tvg-name="Hungary Gp" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Moto-GP_Hungary_old_Match-card.jpg" tvg-language="ENGLISH" group-title="MotoGP",ENG | Hungary Gp
@@ -26,9 +24,5 @@ https://in-mc-fdlive.fancode.com/mumbai/134078_english_hls_e07537a3a662882ta-di_
 https://in-mc-fdlive.fancode.com/mumbai/134076_english_hls_f48196b72826960ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="134077" tvg-name="Featured Holes   Day 2" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Tour_Championship_Old_match_card_1.jpg" tvg-language="ENGLISH" group-title="Golf",ENG | Featured Holes   Day 2
 https://in-mc-fdlive.fancode.com/mumbai/134077_english_hls_b9cc6bf5cb17132ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
-#EXTINF:-1 tvg-id="133878" tvg-name="Alleppey Ripples Vs Thrissur Titans" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/133878_5600_AP_TT_fc-Web_1755771731127.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Alleppey Ripples Vs Thrissur Titans
-https://in-mc-fdlive.fancode.com/mumbai/133878_english_hls_e13b593a0e33851ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
-#EXTINF:-1 tvg-id="133878" tvg-name="Alleppey Ripples Vs Thrissur Titans" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/133878_5600_AP_TT_fc-Web_1755771731127.jpg" tvg-language="MALAYALAM" group-title="Cricket",MAL | Alleppey Ripples Vs Thrissur Titans
-https://in-mc-fdlive.fancode.com/mumbai/133878_malayalam_hls_32dee60ecd24285ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
-#EXTINF:-1 tvg-id="132976" tvg-name="North Delhi Strikers Women Vs East Delhi Riders Women" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/132976_5536_NDS-W_EDR-W_fc_web_1755513540618.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | North Delhi Strikers Women Vs East Delhi Riders Women
-https://in-mc-fdlive.fancode.com/mumbai/132976_english_hls_44e5e3b54b44606ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
+#EXTINF:-1 tvg-id="133736" tvg-name="Tirupati Raiders Vs Kurnool Knights" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/133736_5591_TR_KKK_fc-Web.jpg" tvg-language="ENGLISH" group-title="Kabaddi",ENG | Tirupati Raiders Vs Kurnool Knights
+https://in-mc-fdlive.fancode.com/mumbai/133736_english_hls_137fc2a97663049ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
