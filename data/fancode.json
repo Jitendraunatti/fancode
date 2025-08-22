@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "10:46:49 PM 22-08-2025",
+    "last_updated": "10:54:48 PM 22-08-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -10,180 +10,6 @@
     "live_matches": 12,
     "upcoming_matches": 27,
     "matches": [
-        {
-            "category": "Cricket",
-            "title": "Aries Kollam Sailors Vs Adani Trivandrum Royals",
-            "tournament": "Kerala Cricket League, 2025",
-            "match_id": 133879,
-            "status": "LIVE",
-            "streamingStatus": "STARTED",
-            "startTime": "22 August 2025 06:45 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/133879_5600_AKS_TR_fc-Web_1755771731280.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/133879_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/133879_5600_AKS_TR_fc-Web_1755771731280.jpg",
-                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/133879_5600_AKS_TR_fc-Web_1755771731280.jpg",
-                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Kerala-Cricket-League-Tour-Logo-(1).png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/133879_5600_AKS_TR_fc-Web_1755771731280.jpg",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/133879_5600_AKS_TR_fc-App_1755771692348.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/133879_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "name": "Aries Kollam Sailors",
-                    "shortName": "AKS",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AKS@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#b7e330",
-                    "cricketScore": [
-                        {
-                            "runs": 164,
-                            "overs": "20",
-                            "balls": "120",
-                            "status": "COMPLETED",
-                            "wickets": 9
-                        }
-                    ],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "Adani Trivandrum Royals",
-                    "shortName": "TR",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TRK@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#74B8E1",
-                    "cricketScore": [
-                        {
-                            "runs": 158,
-                            "overs": "18.4",
-                            "balls": "113",
-                            "status": "IN_PROGRESS",
-                            "wickets": 6
-                        }
-                    ],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": true
-                        }
-                    }
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/133879_english_hls_8f255d9b763784ta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/ngt_usltTRe4KtOl0FVfrg/master.m3u8",
-            "STREAMING_CDN": {
-                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/133879_english_hls_8f255d9b763784ta-di_h264/index.m3u8",
-                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/133879_english_hls_8f255d9b763784ta-di_h264/index.m3u8",
-                "dai_google_cdn": "https://dai.google.com/linear/hls/event/ngt_usltTRe4KtOl0FVfrg/master.m3u8",
-                "cloudfront_cdn": "Unavailable",
-                "language": "ENGLISH"
-            }
-        },
-        {
-            "category": "Cricket",
-            "title": "Aries Kollam Sailors Vs Adani Trivandrum Royals",
-            "tournament": "Kerala Cricket League, 2025",
-            "match_id": 133879,
-            "status": "LIVE",
-            "streamingStatus": "STARTED",
-            "startTime": "22 August 2025 06:45 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/133879_5600_AKS_TR_fc-Web_1755771731280.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/133879_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/133879_5600_AKS_TR_fc-Web_1755771731280.jpg",
-                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/133879_5600_AKS_TR_fc-Web_1755771731280.jpg",
-                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Kerala-Cricket-League-Tour-Logo-(1).png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/133879_5600_AKS_TR_fc-Web_1755771731280.jpg",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/133879_5600_AKS_TR_fc-App_1755771692348.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/133879_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "name": "Aries Kollam Sailors",
-                    "shortName": "AKS",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AKS@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#b7e330",
-                    "cricketScore": [
-                        {
-                            "runs": 164,
-                            "overs": "20",
-                            "balls": "120",
-                            "status": "COMPLETED",
-                            "wickets": 9
-                        }
-                    ],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "Adani Trivandrum Royals",
-                    "shortName": "TR",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TRK@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#74B8E1",
-                    "cricketScore": [
-                        {
-                            "runs": 158,
-                            "overs": "18.4",
-                            "balls": "113",
-                            "status": "IN_PROGRESS",
-                            "wickets": 6
-                        }
-                    ],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": true
-                        }
-                    }
-                }
-            ],
-            "language": "MALAYALAM",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/133879_malayalam_hls_95e157052a42751ta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/CWH7E89bR3uFjXWv28dKig/master.m3u8",
-            "STREAMING_CDN": {
-                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/133879_malayalam_hls_95e157052a42751ta-di_h264/index.m3u8",
-                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/133879_malayalam_hls_95e157052a42751ta-di_h264/index.m3u8",
-                "dai_google_cdn": "https://dai.google.com/linear/hls/event/CWH7E89bR3uFjXWv28dKig/master.m3u8",
-                "cloudfront_cdn": "Unavailable",
-                "language": "MALAYALAM"
-            }
-        },
         {
             "category": "Cricket",
             "title": "Mangaluru Dragons Vs Shivamogga Lions",
@@ -242,11 +68,11 @@
                     "color": "#D59A14",
                     "cricketScore": [
                         {
-                            "runs": 160,
-                            "overs": "16.5",
-                            "balls": "101",
+                            "runs": 169,
+                            "overs": "18.1",
+                            "balls": "109",
                             "status": "IN_PROGRESS",
-                            "wickets": 4
+                            "wickets": 7
                         }
                     ],
                     "kabaddiScore": null,
@@ -267,93 +93,6 @@
                 "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/132808_english_hls_4103e4ee2518339ta-di_h264/index.m3u8",
                 "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/132808_english_hls_4103e4ee2518339ta-di_h264/index.m3u8",
                 "dai_google_cdn": "https://dai.google.com/linear/hls/event/qRJ3DRkyT2eBtBlIi6aAdg/master.m3u8",
-                "cloudfront_cdn": "Unavailable",
-                "language": "ENGLISH"
-            }
-        },
-        {
-            "category": "Cricket",
-            "title": "Denmark Vs Papua New Guinea",
-            "tournament": "ICC CWC Challenge League A, 2024-26",
-            "match_id": 133787,
-            "status": "LIVE",
-            "streamingStatus": "STARTED",
-            "startTime": "22 August 2025 03:30 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/133787_4464_PNG_DEN_fc-Web.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/133787_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/133787_4464_PNG_DEN_fc-Web.jpg",
-                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/133787_4464_PNG_DEN_fc-Web.jpg",
-                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/09/ICC-Mens-Cricket-World-Cup-Challenge-League-Tour-Logo.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/133787_4464_PNG_DEN_fc-Web.jpg",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/133787_4464_PNG_DEN_fc-App_1755587753950.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/133787_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "name": "Denmark",
-                    "shortName": "DEN",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DEN@2x.png"
-                    },
-                    "isWinner": true,
-                    "color": "#cb3529",
-                    "cricketScore": [
-                        {
-                            "runs": 223,
-                            "overs": "50",
-                            "balls": "300",
-                            "status": "COMPLETED",
-                            "wickets": 8
-                        }
-                    ],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "Papua New Guinea",
-                    "shortName": "PNG",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PNG@2x.png"
-                    },
-                    "isWinner": false,
-                    "color": "#f8dd5a",
-                    "cricketScore": [
-                        {
-                            "runs": 205,
-                            "overs": "48.2",
-                            "balls": "290",
-                            "status": "IN_PROGRESS",
-                            "wickets": 10
-                        }
-                    ],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": true
-                        }
-                    }
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/133787_english_hls_ef0207d26f66183ta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/j3TqFo-4RZ-XdhwXBbDpTw/master.m3u8",
-            "STREAMING_CDN": {
-                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/133787_english_hls_ef0207d26f66183ta-di_h264/index.m3u8",
-                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/133787_english_hls_ef0207d26f66183ta-di_h264/index.m3u8",
-                "dai_google_cdn": "https://dai.google.com/linear/hls/event/j3TqFo-4RZ-XdhwXBbDpTw/master.m3u8",
                 "cloudfront_cdn": "Unavailable",
                 "language": "ENGLISH"
             }
@@ -389,11 +128,11 @@
                     "color": "#138bc2",
                     "cricketScore": [
                         {
-                            "runs": 84,
-                            "overs": "15",
-                            "balls": "90",
+                            "runs": 104,
+                            "overs": "19.3",
+                            "balls": "117",
                             "status": "IN_PROGRESS",
-                            "wickets": 6
+                            "wickets": 10
                         }
                     ],
                     "kabaddiScore": null,
@@ -435,74 +174,6 @@
                 "dai_google_cdn": "https://dai.google.com/linear/hls/event/Ck_TdEX1SPaqK27hnnsDHg/master.m3u8",
                 "cloudfront_cdn": "Unavailable",
                 "language": "ENGLISH"
-            }
-        },
-        {
-            "category": "Golf",
-            "title": "Day 2",
-            "tournament": "Betfred British Masters 2025",
-            "match_id": 133910,
-            "status": "COMPLETED",
-            "streamingStatus": "COMPLETED",
-            "startTime": "22 August 2025 05:00 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Betfred-British-Masters_old.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/133910_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/Betfred-British-Masters_old.jpg",
-                "PLAYBACK": null,
-                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/FC-BB@2x.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Golf_Fallback_Old_match-card.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Betfred-British-Masters_old.jpg",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Betfred-British-Masters_Sporty.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/133910_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "name": "Day 2",
-                    "shortName": "Day 2",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-BB@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#682378",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "The Belfry, Sutton Coldfield",
-                    "shortName": "The Belfry, Sutton Coldfield",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#141414",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
             }
         },
         {
@@ -933,6 +604,180 @@
         },
         {
             "category": "Cricket",
+            "title": "Aries Kollam Sailors Vs Adani Trivandrum Royals",
+            "tournament": "Kerala Cricket League, 2025",
+            "match_id": 133879,
+            "status": "COMPLETED",
+            "streamingStatus": "STARTED",
+            "startTime": "22 August 2025 06:45 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/133879_5600_AKS_TR_fc-Web_1755771731280.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/133879_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/133879_5600_AKS_TR_fc-Web_1755771731280.jpg",
+                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/133879_5600_AKS_TR_fc-Web_1755771731280.jpg",
+                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Kerala-Cricket-League-Tour-Logo-(1).png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/133879_5600_AKS_TR_fc-Web_1755771731280.jpg",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/133879_5600_AKS_TR_fc-App_1755771692348.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/133879_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "name": "Aries Kollam Sailors",
+                    "shortName": "AKS",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AKS@2x.png"
+                    },
+                    "isWinner": false,
+                    "color": "#b7e330",
+                    "cricketScore": [
+                        {
+                            "runs": 164,
+                            "overs": "20",
+                            "balls": "120",
+                            "status": "COMPLETED",
+                            "wickets": 9
+                        }
+                    ],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "Adani Trivandrum Royals",
+                    "shortName": "TR",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TRK@2x.png"
+                    },
+                    "isWinner": true,
+                    "color": "#74B8E1",
+                    "cricketScore": [
+                        {
+                            "runs": 165,
+                            "overs": "19",
+                            "balls": "114",
+                            "status": "IN_PROGRESS",
+                            "wickets": 6
+                        }
+                    ],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": true
+                        }
+                    }
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/133879_english_hls_8f255d9b763784ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/ngt_usltTRe4KtOl0FVfrg/master.m3u8",
+            "STREAMING_CDN": {
+                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/133879_english_hls_8f255d9b763784ta-di_h264/index.m3u8",
+                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/133879_english_hls_8f255d9b763784ta-di_h264/index.m3u8",
+                "dai_google_cdn": "https://dai.google.com/linear/hls/event/ngt_usltTRe4KtOl0FVfrg/master.m3u8",
+                "cloudfront_cdn": "Unavailable",
+                "language": "ENGLISH"
+            }
+        },
+        {
+            "category": "Cricket",
+            "title": "Aries Kollam Sailors Vs Adani Trivandrum Royals",
+            "tournament": "Kerala Cricket League, 2025",
+            "match_id": 133879,
+            "status": "COMPLETED",
+            "streamingStatus": "STARTED",
+            "startTime": "22 August 2025 06:45 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/133879_5600_AKS_TR_fc-Web_1755771731280.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/133879_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/133879_5600_AKS_TR_fc-Web_1755771731280.jpg",
+                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/133879_5600_AKS_TR_fc-Web_1755771731280.jpg",
+                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Kerala-Cricket-League-Tour-Logo-(1).png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/133879_5600_AKS_TR_fc-Web_1755771731280.jpg",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/133879_5600_AKS_TR_fc-App_1755771692348.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/133879_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "name": "Aries Kollam Sailors",
+                    "shortName": "AKS",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AKS@2x.png"
+                    },
+                    "isWinner": false,
+                    "color": "#b7e330",
+                    "cricketScore": [
+                        {
+                            "runs": 164,
+                            "overs": "20",
+                            "balls": "120",
+                            "status": "COMPLETED",
+                            "wickets": 9
+                        }
+                    ],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "Adani Trivandrum Royals",
+                    "shortName": "TR",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TRK@2x.png"
+                    },
+                    "isWinner": true,
+                    "color": "#74B8E1",
+                    "cricketScore": [
+                        {
+                            "runs": 165,
+                            "overs": "19",
+                            "balls": "114",
+                            "status": "IN_PROGRESS",
+                            "wickets": 6
+                        }
+                    ],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": true
+                        }
+                    }
+                }
+            ],
+            "language": "MALAYALAM",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/133879_malayalam_hls_95e157052a42751ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/CWH7E89bR3uFjXWv28dKig/master.m3u8",
+            "STREAMING_CDN": {
+                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/133879_malayalam_hls_95e157052a42751ta-di_h264/index.m3u8",
+                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/133879_malayalam_hls_95e157052a42751ta-di_h264/index.m3u8",
+                "dai_google_cdn": "https://dai.google.com/linear/hls/event/CWH7E89bR3uFjXWv28dKig/master.m3u8",
+                "cloudfront_cdn": "Unavailable",
+                "language": "MALAYALAM"
+            }
+        },
+        {
+            "category": "Cricket",
             "title": "Outer Delhi Warriors Vs New Delhi Tigers",
             "tournament": "Delhi Premier League, 2025",
             "match_id": 132493,
@@ -1020,10 +865,97 @@
         },
         {
             "category": "Cricket",
+            "title": "Denmark Vs Papua New Guinea",
+            "tournament": "ICC CWC Challenge League A, 2024-26",
+            "match_id": 133787,
+            "status": "COMPLETED",
+            "streamingStatus": "STARTED",
+            "startTime": "22 August 2025 03:30 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/133787_4464_PNG_DEN_fc-Web.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/133787_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/133787_4464_PNG_DEN_fc-Web.jpg",
+                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/133787_4464_PNG_DEN_fc-Web.jpg",
+                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/09/ICC-Mens-Cricket-World-Cup-Challenge-League-Tour-Logo.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/133787_4464_PNG_DEN_fc-Web.jpg",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/133787_4464_PNG_DEN_fc-App_1755587753950.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/133787_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "name": "Denmark",
+                    "shortName": "DEN",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DEN@2x.png"
+                    },
+                    "isWinner": true,
+                    "color": "#cb3529",
+                    "cricketScore": [
+                        {
+                            "runs": 223,
+                            "overs": "50",
+                            "balls": "300",
+                            "status": "COMPLETED",
+                            "wickets": 8
+                        }
+                    ],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "Papua New Guinea",
+                    "shortName": "PNG",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PNG@2x.png"
+                    },
+                    "isWinner": false,
+                    "color": "#f8dd5a",
+                    "cricketScore": [
+                        {
+                            "runs": 205,
+                            "overs": "48.2",
+                            "balls": "290",
+                            "status": "IN_PROGRESS",
+                            "wickets": 10
+                        }
+                    ],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": true
+                        }
+                    }
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/133787_english_hls_ef0207d26f66183ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/j3TqFo-4RZ-XdhwXBbDpTw/master.m3u8",
+            "STREAMING_CDN": {
+                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/133787_english_hls_ef0207d26f66183ta-di_h264/index.m3u8",
+                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/133787_english_hls_ef0207d26f66183ta-di_h264/index.m3u8",
+                "dai_google_cdn": "https://dai.google.com/linear/hls/event/j3TqFo-4RZ-XdhwXBbDpTw/master.m3u8",
+                "cloudfront_cdn": "Unavailable",
+                "language": "ENGLISH"
+            }
+        },
+        {
+            "category": "Cricket",
             "title": "Birmingham Phoenix Vs Welsh Fire",
             "tournament": "The Hundred, 2025",
             "match_id": 135838,
-            "status": "NOT_STARTED",
+            "status": "LIVE",
             "streamingStatus": "NOT_STARTED",
             "startTime": "22 August 2025 11:00 PM",
             "startDate": "01 January 1970 05:30 AM",
@@ -1927,74 +1859,6 @@
             }
         },
         {
-            "category": "Football",
-            "title": "Real Betis Vs Alav\u00e9s",
-            "tournament": "LALIGA 2025-26",
-            "match_id": 130846,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "23 August 2025 01:00 AM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Real-Betis-VS-Alaves_Old_match-card-(1).jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/130846_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/Real-Betis-VS-Alaves_Old_match-card-(1).jpg",
-                "PLAYBACK": null,
-                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/LALIGA-2025-26-Tour.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Real-Betis-VS-Alaves_Old_match-card-(1).jpg",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Real-Betis-VS-Alaves_Match_card_4V4-(1).jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/130846_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "name": "Real Betis",
-                    "shortName": "RB",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-REALB@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#19a661",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "Alav\u00e9s",
-                    "shortName": "ALA",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ALA@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#537096",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
-            }
-        },
-        {
             "category": "Cricket",
             "title": "Chicago Kingsmen Vs Hobart Hurricanes Academy",
             "tournament": "Top End T20 Series, 2025",
@@ -2043,6 +1907,74 @@
                     "isWinner": null,
                     "color": "#771ad2",
                     "cricketScore": [],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "STREAMING_CDN": {
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
+            }
+        },
+        {
+            "category": "Football",
+            "title": "Real Betis Vs Alav\u00e9s",
+            "tournament": "LALIGA 2025-26",
+            "match_id": 130846,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "23 August 2025 01:00 AM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Real-Betis-VS-Alaves_Old_match-card-(1).jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/130846_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/Real-Betis-VS-Alaves_Old_match-card-(1).jpg",
+                "PLAYBACK": null,
+                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/LALIGA-2025-26-Tour.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Real-Betis-VS-Alaves_Old_match-card-(1).jpg",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Real-Betis-VS-Alaves_Match_card_4V4-(1).jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/130846_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "name": "Real Betis",
+                    "shortName": "RB",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-REALB@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#19a661",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "Alav\u00e9s",
+                    "shortName": "ALA",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ALA@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#537096",
+                    "cricketScore": null,
                     "kabaddiScore": null,
                     "footballScore": null,
                     "basketBallScore": null,
@@ -2791,6 +2723,74 @@
                     "isWinner": null,
                     "color": "#dcdcdc",
                     "cricketScore": [],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "STREAMING_CDN": {
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
+            }
+        },
+        {
+            "category": "Kabaddi",
+            "title": "Amaravati Crushers Vs Bhimavaram Guardians",
+            "tournament": "Yuva Andhra Championship, 2025",
+            "match_id": 133737,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "23 August 2025 10:15 AM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/133737_5591_AC_BG_fc-Web.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/133737_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/133737_5591_AC_BG_fc-Web.jpg",
+                "PLAYBACK": null,
+                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Yuva-Andhra-Championship,-2025-Tour-Logo.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Kabaddi-old-min.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/133737_5591_AC_BG_fc-Web.jpg",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/133737_5591_AC_BG_Fc-App.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/133737_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "name": "Amaravati Crushers",
+                    "shortName": "AC",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/kb-flags/FC-AC@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#ffcad6",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "Bhimavaram Guardians",
+                    "shortName": "BG",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/kb-flags/FC-BH@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#f9ba8d",
+                    "cricketScore": null,
                     "kabaddiScore": null,
                     "footballScore": null,
                     "basketBallScore": null,
