@@ -1,14 +1,14 @@
 #EXTM3U
 #DEVELOPED_BY_JITENDRA_PRO_DEV
 #AUTHOR:-JITENDRA_KUMAR
-#DATE:- Friday 22 August, 2025 at 11:30:14 am
+#DATE:- Friday 22 August, 2025 at 11:38:06 am
 #EXTINF:-1 tvg-id="133235" tvg-name="India A Women Vs Australia A Women" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/IND_A_vs_AUS_Womens_Old_match-card-(2).jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | India A Women Vs Australia A Women
 https://in-mc-pdlive.fancode.com/mumbai/133235_english_hls_ba3b3d673331519ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="133526" tvg-name="Northern Territory Strike Vs Perth Scorchers Academy" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/133526_5574_NTS_PSA_fc-web.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Northern Territory Strike Vs Perth Scorchers Academy
 https://in-mc-fdlive.fancode.com/mumbai/133526_english_hls_5cd75d3d4853931ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
+#EXTINF:-1 tvg-id="133734" tvg-name="Vizag Commandos Vs Bhimavaram Guardians" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/133734_5591_VC_BG_fc-Web.jpg" tvg-language="ENGLISH" group-title="Kabaddi",ENG | Vizag Commandos Vs Bhimavaram Guardians
+https://in-mc-fdlive.fancode.com/mumbai/133734_english_hls_ab058eafd816127ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="134924" tvg-name="Third Place & Finals" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Dream-Sports-MSSA-Football-Boys-U16-Div-Il_match-card.jpg" tvg-language="ENGLISH" group-title="Live events",ENG | Third Place & Finals
 https://in-mc-fdlive.fancode.com/mumbai/134924_english_hls_88624dd34985352ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="133733" tvg-name="Amaravati Crushers Vs Vizianagaram Ninjas" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/133733_5591_AC_VN_fc-Web.jpg" tvg-language="ENGLISH" group-title="Kabaddi",ENG | Amaravati Crushers Vs Vizianagaram Ninjas
 https://in-mc-fdlive.fancode.com/mumbai/133733_english_hls_d8c89da51e17303ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
-#EXTINF:-1 tvg-id="133734" tvg-name="Vizag Commandos Vs Bhimavaram Guardians" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/133734_5591_VC_BG_fc-Web.jpg" tvg-language="ENGLISH" group-title="Kabaddi",ENG | Vizag Commandos Vs Bhimavaram Guardians
-https://in-mc-fdlive.fancode.com/mumbai/133734_english_hls_ab058eafd816127ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
