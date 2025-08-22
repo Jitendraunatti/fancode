@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "11:10:06 AM 22-08-2025",
+    "last_updated": "11:18:06 AM 22-08-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -68,8 +68,8 @@
                     "color": "#4d66a3",
                     "cricketScore": [
                         {
-                            "runs": 93,
-                            "overs": "25.2",
+                            "runs": 103,
+                            "overs": "28",
                             "balls": "0",
                             "status": "IN_PROGRESS",
                             "wickets": 3
@@ -155,9 +155,9 @@
                     "color": "#9a4802",
                     "cricketScore": [
                         {
-                            "runs": 31,
-                            "overs": "4",
-                            "balls": "24",
+                            "runs": 52,
+                            "overs": "6",
+                            "balls": "36",
                             "status": "IN_PROGRESS",
                             "wickets": 2
                         }
@@ -215,7 +215,7 @@
                     "color": "#ffcad6",
                     "cricketScore": null,
                     "kabaddiScore": {
-                        "points": 47,
+                        "points": 50,
                         "onFieldPlayers": 7,
                         "totalFieldPlayers": 7,
                         "raiding": true
@@ -239,8 +239,8 @@
                     "color": "#205d7e",
                     "cricketScore": null,
                     "kabaddiScore": {
-                        "points": 35,
-                        "onFieldPlayers": 7,
+                        "points": 41,
+                        "onFieldPlayers": 4,
                         "totalFieldPlayers": 7,
                         "raiding": null
                     },
