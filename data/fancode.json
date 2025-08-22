@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "08:18:48 PM 22-08-2025",
+    "last_updated": "08:26:48 PM 22-08-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -41,9 +41,9 @@
                     "color": "#b7e330",
                     "cricketScore": [
                         {
-                            "runs": 119,
-                            "overs": "16.2",
-                            "balls": "98",
+                            "runs": 135,
+                            "overs": "17.2",
+                            "balls": "105",
                             "status": "IN_PROGRESS",
                             "wickets": 5
                         }
@@ -120,9 +120,9 @@
                     "color": "#b7e330",
                     "cricketScore": [
                         {
-                            "runs": 119,
-                            "overs": "16.2",
-                            "balls": "98",
+                            "runs": 135,
+                            "overs": "17.2",
+                            "balls": "105",
                             "status": "IN_PROGRESS",
                             "wickets": 5
                         }
@@ -199,11 +199,11 @@
                     "color": "#0a2346",
                     "cricketScore": [
                         {
-                            "runs": 90,
-                            "overs": "15.2",
-                            "balls": "92",
+                            "runs": 97,
+                            "overs": "16.2",
+                            "balls": "98",
                             "status": "IN_PROGRESS",
-                            "wickets": 5
+                            "wickets": 6
                         }
                     ],
                     "kabaddiScore": null,
@@ -278,9 +278,9 @@
                     "color": "#fea129",
                     "cricketScore": [
                         {
-                            "runs": 125,
-                            "overs": "12.4",
-                            "balls": "76",
+                            "runs": 143,
+                            "overs": "14.5",
+                            "balls": "89",
                             "status": "IN_PROGRESS",
                             "wickets": 3
                         }
@@ -357,11 +357,11 @@
                     "color": "#eb9ba1",
                     "cricketScore": [
                         {
-                            "runs": 84,
-                            "overs": "13",
-                            "balls": "65",
+                            "runs": 100,
+                            "overs": "15.3",
+                            "balls": "78",
                             "status": "IN_PROGRESS",
-                            "wickets": 1
+                            "wickets": 2
                         }
                     ],
                     "kabaddiScore": null,
@@ -463,11 +463,11 @@
                     "color": "#f8dd5a",
                     "cricketScore": [
                         {
-                            "runs": 43,
-                            "overs": "13.3",
-                            "balls": "81",
+                            "runs": 45,
+                            "overs": "15.1",
+                            "balls": "91",
                             "status": "IN_PROGRESS",
-                            "wickets": 1
+                            "wickets": 3
                         }
                     ],
                     "kabaddiScore": null,
@@ -519,7 +519,7 @@
                     "flag": {
                         "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MSCT@2x.png"
                     },
-                    "isWinner": null,
+                    "isWinner": false,
                     "color": "#5438bd",
                     "cricketScore": [
                         {
@@ -546,13 +546,13 @@
                     "flag": {
                         "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MAJ@2x.png"
                     },
-                    "isWinner": null,
+                    "isWinner": true,
                     "color": "#d8c50f",
                     "cricketScore": [
                         {
-                            "runs": 135,
-                            "overs": "16.3",
-                            "balls": "99",
+                            "runs": 139,
+                            "overs": "16.4",
+                            "balls": "100",
                             "status": "IN_PROGRESS",
                             "wickets": 5
                         }
@@ -2128,74 +2128,6 @@
         },
         {
             "category": "Cricket",
-            "title": "Australian Capital Territory Vs Melbourne Stars Academy",
-            "tournament": "Top End T20 Series, 2025",
-            "match_id": 133529,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "23 August 2025 10:00 AM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/133529_5574_ACT_MSA_fc-web.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/133529_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/133529_5574_ACT_MSA_fc-web.jpg",
-                "PLAYBACK": null,
-                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2023/12/Tour-Placeholder.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/133529_5574_ACT_MSA_fc-web.jpg",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/133529_5574_ACT_MSA_fc-app.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/133529_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "name": "Australian Capital Territory",
-                    "shortName": "ACT",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ACY@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#D9C113",
-                    "cricketScore": [],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "Melbourne Stars Academy",
-                    "shortName": "MSA",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MSA@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#0a8435",
-                    "cricketScore": [],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
-            }
-        },
-        {
-            "category": "Cricket",
             "title": "London Spirit Women Vs Southern Brave Women",
             "tournament": "The Hundred Women, 2025",
             "match_id": 132281,
@@ -2378,6 +2310,74 @@
                     },
                     "isWinner": null,
                     "color": "#c3333e",
+                    "cricketScore": [],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "STREAMING_CDN": {
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
+            }
+        },
+        {
+            "category": "Cricket",
+            "title": "Australian Capital Territory Vs Melbourne Stars Academy",
+            "tournament": "Top End T20 Series, 2025",
+            "match_id": 133529,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "23 August 2025 10:00 AM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/133529_5574_ACT_MSA_fc-web.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/133529_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/133529_5574_ACT_MSA_fc-web.jpg",
+                "PLAYBACK": null,
+                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2023/12/Tour-Placeholder.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/133529_5574_ACT_MSA_fc-web.jpg",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/133529_5574_ACT_MSA_fc-app.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/133529_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "name": "Australian Capital Territory",
+                    "shortName": "ACT",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ACY@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#D9C113",
+                    "cricketScore": [],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "Melbourne Stars Academy",
+                    "shortName": "MSA",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MSA@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#0a8435",
                     "cricketScore": [],
                     "kabaddiScore": null,
                     "footballScore": null,
