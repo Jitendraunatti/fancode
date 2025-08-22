@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "10:02:47 PM 22-08-2025",
+    "last_updated": "10:10:48 PM 22-08-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -68,9 +68,9 @@
                     "color": "#74B8E1",
                     "cricketScore": [
                         {
-                            "runs": 94,
-                            "overs": "12",
-                            "balls": "72",
+                            "runs": 101,
+                            "overs": "13.4",
+                            "balls": "82",
                             "status": "IN_PROGRESS",
                             "wickets": 3
                         }
@@ -155,9 +155,9 @@
                     "color": "#74B8E1",
                     "cricketScore": [
                         {
-                            "runs": 94,
-                            "overs": "12",
-                            "balls": "72",
+                            "runs": 101,
+                            "overs": "13.4",
+                            "balls": "82",
                             "status": "IN_PROGRESS",
                             "wickets": 3
                         }
@@ -242,11 +242,11 @@
                     "color": "#B8142D",
                     "cricketScore": [
                         {
-                            "runs": 101,
-                            "overs": "11.1",
-                            "balls": "67",
+                            "runs": 113,
+                            "overs": "12.2",
+                            "balls": "74",
                             "status": "IN_PROGRESS",
-                            "wickets": 0
+                            "wickets": 1
                         }
                     ],
                     "kabaddiScore": null,
@@ -329,9 +329,9 @@
                     "color": "#D59A14",
                     "cricketScore": [
                         {
-                            "runs": 93,
-                            "overs": "10",
-                            "balls": "60",
+                            "runs": 102,
+                            "overs": "11.2",
+                            "balls": "68",
                             "status": "IN_PROGRESS",
                             "wickets": 1
                         }
@@ -416,11 +416,11 @@
                     "color": "#eba095",
                     "cricketScore": [
                         {
-                            "runs": 106,
-                            "overs": "18",
-                            "balls": "90",
+                            "runs": 114,
+                            "overs": "20",
+                            "balls": "100",
                             "status": "IN_PROGRESS",
-                            "wickets": 6
+                            "wickets": 9
                         }
                     ],
                     "kabaddiScore": null,
@@ -503,11 +503,11 @@
                     "color": "#f8dd5a",
                     "cricketScore": [
                         {
-                            "runs": 162,
-                            "overs": "41",
-                            "balls": "246",
+                            "runs": 175,
+                            "overs": "43.1",
+                            "balls": "259",
                             "status": "IN_PROGRESS",
-                            "wickets": 5
+                            "wickets": 6
                         }
                     ],
                     "kabaddiScore": null,
@@ -537,7 +537,7 @@
             "title": "Bhimavaram Bulls Vs Tungabhadra Warriors",
             "tournament": "Andhra Premier League, 2025",
             "match_id": 132783,
-            "status": "LIVE",
+            "status": "COMPLETED",
             "streamingStatus": "STARTED",
             "startTime": "22 August 2025 06:30 PM",
             "startDate": "01 January 1970 05:30 AM",
@@ -559,7 +559,7 @@
                     "flag": {
                         "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BVB@2x.png"
                     },
-                    "isWinner": null,
+                    "isWinner": false,
                     "color": "#f79b46",
                     "cricketScore": [
                         {
@@ -586,13 +586,13 @@
                     "flag": {
                         "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TBW@2x.png"
                     },
-                    "isWinner": null,
+                    "isWinner": true,
                     "color": "#ff3d3d",
                     "cricketScore": [
                         {
-                            "runs": 179,
-                            "overs": "18",
-                            "balls": "108",
+                            "runs": 188,
+                            "overs": "19",
+                            "balls": "114",
                             "status": "IN_PROGRESS",
                             "wickets": 5
                         }
@@ -650,11 +650,11 @@
                     "color": "#138bc2",
                     "cricketScore": [
                         {
-                            "runs": 36,
-                            "overs": "6",
-                            "balls": "36",
+                            "runs": 44,
+                            "overs": "7",
+                            "balls": "42",
                             "status": "IN_PROGRESS",
-                            "wickets": 1
+                            "wickets": 2
                         }
                     ],
                     "kabaddiScore": null,
