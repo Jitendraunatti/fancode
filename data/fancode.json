@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "01:26:49 AM 23-08-2025",
+    "last_updated": "01:30:47 AM 23-08-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -15,7 +15,7 @@
             "title": "Birmingham Phoenix Vs Welsh Fire",
             "tournament": "The Hundred, 2025",
             "match_id": 135838,
-            "status": "LIVE",
+            "status": "COMPLETED",
             "streamingStatus": "STARTED",
             "startTime": "22 August 2025 11:00 PM",
             "startDate": "01 January 1970 05:30 AM",
@@ -37,7 +37,7 @@
                     "flag": {
                         "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BIRM@2x.png"
                     },
-                    "isWinner": null,
+                    "isWinner": false,
                     "color": "#e87c03",
                     "cricketScore": [
                         {
@@ -64,13 +64,13 @@
                     "flag": {
                         "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WELFS@2x.png"
                     },
-                    "isWinner": null,
+                    "isWinner": true,
                     "color": "#CB1414",
                     "cricketScore": [
                         {
-                            "runs": 135,
-                            "overs": "17.2",
-                            "balls": "87",
+                            "runs": 140,
+                            "overs": "17.4",
+                            "balls": "89",
                             "status": "IN_PROGRESS",
                             "wickets": 2
                         }
