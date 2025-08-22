@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "08:10:06 AM 22-08-2025",
+    "last_updated": "08:18:07 AM 22-08-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -41,8 +41,8 @@
                     "color": "#0f60de",
                     "cricketScore": [
                         {
-                            "runs": 234,
-                            "overs": "72.3",
+                            "runs": 251,
+                            "overs": "74.4",
                             "balls": "0",
                             "status": "IN_PROGRESS",
                             "wickets": 8
@@ -91,10 +91,89 @@
         },
         {
             "category": "Cricket",
+            "title": "Melbourne Renegades Academy Vs Adelaide Strikers Academy",
+            "tournament": "Top End T20 Series, 2025",
+            "match_id": 133525,
+            "status": "LIVE",
+            "streamingStatus": "STARTED",
+            "startTime": "22 August 2025 07:00 AM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/133525_5574_MRA_ASA_fc-web.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/133525_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/133525_5574_MRA_ASA_fc-web.jpg",
+                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/133525_5574_MRA_ASA_fc-web.jpg",
+                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2023/12/Tour-Placeholder.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/133525_5574_MRA_ASA_fc-web.jpg",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/133525_5574_MRA_ASA_fc-app.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/133525_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "name": "Melbourne Renegades Academy",
+                    "shortName": "MRA",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RNE@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#f6848b",
+                    "cricketScore": [
+                        {
+                            "runs": 100,
+                            "overs": "16",
+                            "balls": "96",
+                            "status": "IN_PROGRESS",
+                            "wickets": 7
+                        }
+                    ],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": true
+                        }
+                    }
+                },
+                {
+                    "name": "Adelaide Strikers Academy",
+                    "shortName": "ASA",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ADS@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#4caade",
+                    "cricketScore": [],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/133525_english_hls_1aea1184ac18145ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/5BP9Ja8xSa-Mtq8utxx7mQ/master.m3u8",
+            "STREAMING_CDN": {
+                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/133525_english_hls_1aea1184ac18145ta-di_h264/index.m3u8",
+                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/133525_english_hls_1aea1184ac18145ta-di_h264/index.m3u8",
+                "dai_google_cdn": "https://dai.google.com/linear/hls/event/5BP9Ja8xSa-Mtq8utxx7mQ/master.m3u8",
+                "cloudfront_cdn": "Unavailable",
+                "language": "ENGLISH"
+            }
+        },
+        {
+            "category": "Cricket",
             "title": "St Kitts And Nevis Patriots Vs Barbados Royals",
             "tournament": "Caribbean Premier League, 2025",
             "match_id": 132353,
-            "status": "LIVE",
+            "status": "COMPLETED",
             "streamingStatus": "STARTED",
             "startTime": "22 August 2025 04:30 AM",
             "startDate": "01 January 1970 05:30 AM",
@@ -181,7 +260,7 @@
             "title": "St Kitts And Nevis Patriots Vs Barbados Royals",
             "tournament": "Caribbean Premier League, 2025",
             "match_id": 132353,
-            "status": "LIVE",
+            "status": "COMPLETED",
             "streamingStatus": "STARTED",
             "startTime": "22 August 2025 04:30 AM",
             "startDate": "01 January 1970 05:30 AM",
@@ -261,85 +340,6 @@
                 "dai_google_cdn": "https://dai.google.com/linear/hls/event/Yq8KrxaCSDiLPuEbN4PwdQ/master.m3u8",
                 "cloudfront_cdn": "Unavailable",
                 "language": "HINDI AI(BETA)"
-            }
-        },
-        {
-            "category": "Cricket",
-            "title": "Melbourne Renegades Academy Vs Adelaide Strikers Academy",
-            "tournament": "Top End T20 Series, 2025",
-            "match_id": 133525,
-            "status": "LIVE",
-            "streamingStatus": "STARTED",
-            "startTime": "22 August 2025 07:00 AM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/133525_5574_MRA_ASA_fc-web.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/133525_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/133525_5574_MRA_ASA_fc-web.jpg",
-                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/133525_5574_MRA_ASA_fc-web.jpg",
-                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2023/12/Tour-Placeholder.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/133525_5574_MRA_ASA_fc-web.jpg",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/133525_5574_MRA_ASA_fc-app.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/133525_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "name": "Melbourne Renegades Academy",
-                    "shortName": "MRA",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RNE@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#f6848b",
-                    "cricketScore": [
-                        {
-                            "runs": 88,
-                            "overs": "14.3",
-                            "balls": "87",
-                            "status": "IN_PROGRESS",
-                            "wickets": 6
-                        }
-                    ],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": true
-                        }
-                    }
-                },
-                {
-                    "name": "Adelaide Strikers Academy",
-                    "shortName": "ASA",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ADS@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#4caade",
-                    "cricketScore": [],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/133525_english_hls_1aea1184ac18145ta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/5BP9Ja8xSa-Mtq8utxx7mQ/master.m3u8",
-            "STREAMING_CDN": {
-                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/133525_english_hls_1aea1184ac18145ta-di_h264/index.m3u8",
-                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/133525_english_hls_1aea1184ac18145ta-di_h264/index.m3u8",
-                "dai_google_cdn": "https://dai.google.com/linear/hls/event/5BP9Ja8xSa-Mtq8utxx7mQ/master.m3u8",
-                "cloudfront_cdn": "Unavailable",
-                "language": "ENGLISH"
             }
         },
         {
