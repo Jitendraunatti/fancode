@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "08:54:06 AM 22-08-2025",
+    "last_updated": "09:02:10 AM 22-08-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -41,8 +41,8 @@
                     "color": "#0f60de",
                     "cricketScore": [
                         {
-                            "runs": 288,
-                            "overs": "83.3",
+                            "runs": 296,
+                            "overs": "85.4",
                             "balls": "0",
                             "status": "IN_PROGRESS",
                             "wickets": 8
@@ -147,9 +147,9 @@
                     "color": "#4caade",
                     "cricketScore": [
                         {
-                            "runs": 0,
-                            "overs": "0",
-                            "balls": "0",
+                            "runs": 8,
+                            "overs": "2",
+                            "balls": "12",
                             "status": "IN_PROGRESS",
                             "wickets": 0
                         }
@@ -2500,6 +2500,74 @@
             }
         },
         {
+            "category": "Live events",
+            "title": "Third Place & Finals",
+            "tournament": "Dream Sports MSSA Football Boys U16 Div II",
+            "match_id": 134924,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "22 August 2025 10:00 AM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Dream-Sports-MSSA-Football-Boys-U16-Div-Il_match-card.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/134924_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/Dream-Sports-MSSA-Football-Boys-U16-Div-Il_match-card.jpg",
+                "PLAYBACK": null,
+                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/12/Mumbai-School-S-A_Tour-Logo.png",
+                "SPORTS": "https://fancode.com/skillup-uploads/prod-images/2023/08/FC_Sports_Default_Live-Event.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Dream-Sports-MSSA-Football-Boys-U16-Div-Il_match-card.jpg",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Dream-Sports-MSSA-Football-Boys-U16-Div-Il_Sporty_Match_card.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/134924_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "name": "Third Place & Finals",
+                    "shortName": "Third Place & Finals",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/le-flags/FC-MSS@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#bcbcbc",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "Mumbai",
+                    "shortName": "Mumbai",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/le-flags/FC-LOC@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#FFFFFF",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "STREAMING_CDN": {
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
+            }
+        },
+        {
             "category": "Football",
             "title": "Legan\u00e9s Vs C\u00e1diz",
             "tournament": "LALIGA Hypermotion 2025-26",
@@ -2548,74 +2616,6 @@
                     "isWinner": null,
                     "color": "#abc",
                     "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
-            }
-        },
-        {
-            "category": "Cricket",
-            "title": "Chicago Kingsmen Vs Hobart Hurricanes Academy",
-            "tournament": "Top End T20 Series, 2025",
-            "match_id": 133528,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "23 August 2025 07:00 AM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/133528_5574_CHK_HHA_fc-web.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/133528_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/133528_5574_CHK_HHA_fc-web.jpg",
-                "PLAYBACK": null,
-                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2023/12/Tour-Placeholder.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/133528_5574_CHK_HHA_fc-web.jpg",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/133528_5574_CHK_HHA_fc-app.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/133528_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "name": "Chicago Kingsmen",
-                    "shortName": "CHK",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KNGS@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#c2a851",
-                    "cricketScore": [],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "Hobart Hurricanes Academy",
-                    "shortName": "HHA",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-HURN@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#771ad2",
-                    "cricketScore": [],
                     "kabaddiScore": null,
                     "footballScore": null,
                     "basketBallScore": null,
