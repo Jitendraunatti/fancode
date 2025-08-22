@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "10:30:06 AM 22-08-2025",
+    "last_updated": "10:38:06 AM 22-08-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -68,8 +68,8 @@
                     "color": "#4d66a3",
                     "cricketScore": [
                         {
-                            "runs": 54,
-                            "overs": "13",
+                            "runs": 62,
+                            "overs": "15.1",
                             "balls": "0",
                             "status": "IN_PROGRESS",
                             "wickets": 1
@@ -128,11 +128,11 @@
                     "color": "#ea9a3d",
                     "cricketScore": [
                         {
-                            "runs": 134,
-                            "overs": "18.5",
-                            "balls": "113",
+                            "runs": 135,
+                            "overs": "19.2",
+                            "balls": "116",
                             "status": "IN_PROGRESS",
-                            "wickets": 9
+                            "wickets": 10
                         }
                     ],
                     "kabaddiScore": null,
@@ -207,10 +207,10 @@
                     "color": "#ffcad6",
                     "cricketScore": null,
                     "kabaddiScore": {
-                        "points": 12,
-                        "onFieldPlayers": 6,
+                        "points": 15,
+                        "onFieldPlayers": 3,
                         "totalFieldPlayers": 7,
-                        "raiding": null
+                        "raiding": true
                     },
                     "footballScore": null,
                     "basketBallScore": null,
@@ -231,10 +231,10 @@
                     "color": "#205d7e",
                     "cricketScore": null,
                     "kabaddiScore": {
-                        "points": 16,
+                        "points": 23,
                         "onFieldPlayers": 6,
                         "totalFieldPlayers": 7,
-                        "raiding": true
+                        "raiding": null
                     },
                     "footballScore": null,
                     "basketBallScore": null,
