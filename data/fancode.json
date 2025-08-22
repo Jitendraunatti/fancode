@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "09:26:08 AM 22-08-2025",
+    "last_updated": "09:30:07 AM 22-08-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -18,7 +18,7 @@
             "status": "LIVE",
             "streamingStatus": "STARTED",
             "startTime": "21 August 2025 04:30 AM",
-            "startDate": "22 August 2025 04:30 AM",
+            "startDate": "23 August 2025 04:30 AM",
             "image": "https://www.fancode.com/skillup-uploads/cms-media/IND_A_vs_AUS_Womens_Old_match-card-(2).jpg",
             "image_cdn": {
                 "TATAPLAY": "https://images.fancode.com/aig/match/v1/133235_CASACARDS_PARTNER_16_9_1920_1080.png",
@@ -147,9 +147,9 @@
                     "color": "#4caade",
                     "cricketScore": [
                         {
-                            "runs": 66,
-                            "overs": "8",
-                            "balls": "48",
+                            "runs": 68,
+                            "overs": "9",
+                            "balls": "54",
                             "status": "IN_PROGRESS",
                             "wickets": 1
                         }
@@ -207,11 +207,11 @@
                     "color": "#ea9a3d",
                     "cricketScore": [
                         {
-                            "runs": 40,
-                            "overs": "4.5",
-                            "balls": "29",
+                            "runs": 44,
+                            "overs": "6.1",
+                            "balls": "37",
                             "status": "IN_PROGRESS",
-                            "wickets": 2
+                            "wickets": 3
                         }
                     ],
                     "kabaddiScore": null,
@@ -2568,35 +2568,35 @@
             }
         },
         {
-            "category": "Football",
-            "title": "Legan\u00e9s Vs C\u00e1diz",
-            "tournament": "LALIGA Hypermotion 2025-26",
-            "match_id": 134943,
+            "category": "Cricket",
+            "title": "Chicago Kingsmen Vs Hobart Hurricanes Academy",
+            "tournament": "Top End T20 Series, 2025",
+            "match_id": 133528,
             "status": "NOT_STARTED",
             "streamingStatus": "NOT_STARTED",
-            "startTime": "23 August 2025 01:00 AM",
+            "startTime": "23 August 2025 07:00 AM",
             "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/133528_5574_CHK_HHA_fc-web.jpg",
             "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/134943_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/133528_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/133528_5574_CHK_HHA_fc-web.jpg",
                 "PLAYBACK": null,
-                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/LaLiga_Hypermotionv-Tour-Logo.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
-                "SPORT_BY_IMAGE": "https://fancode.com/skillup-uploads/prod-images/2023/08/FC_Sports_Default_Football.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/134943_CASACARDS_PARTNER_16_9_1920_1080.png"
+                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2023/12/Tour-Placeholder.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/133528_5574_CHK_HHA_fc-web.jpg",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/133528_5574_CHK_HHA_fc-app.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/133528_CASACARDS_PARTNER_16_9_1920_1080.png"
             },
             "teams": [
                 {
-                    "name": "Legan\u00e9s",
-                    "shortName": "LEG",
+                    "name": "Chicago Kingsmen",
+                    "shortName": "CHK",
                     "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-LEGA@2x.png"
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KNGS@2x.png"
                     },
                     "isWinner": null,
-                    "color": "#efd84e",
-                    "cricketScore": null,
+                    "color": "#c2a851",
+                    "cricketScore": [],
                     "kabaddiScore": null,
                     "footballScore": null,
                     "basketBallScore": null,
@@ -2608,14 +2608,14 @@
                     }
                 },
                 {
-                    "name": "C\u00e1diz",
-                    "shortName": "CDZ",
+                    "name": "Hobart Hurricanes Academy",
+                    "shortName": "HHA",
                     "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-CDZ@2x.png"
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-HURN@2x.png"
                     },
                     "isWinner": null,
-                    "color": "#abc",
-                    "cricketScore": null,
+                    "color": "#771ad2",
+                    "cricketScore": [],
                     "kabaddiScore": null,
                     "footballScore": null,
                     "basketBallScore": null,
