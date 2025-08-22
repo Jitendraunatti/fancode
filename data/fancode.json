@@ -1,14 +1,14 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "08:54:48 PM 22-08-2025",
+    "last_updated": "09:02:48 PM 22-08-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
     "total_matches": 39,
-    "live_matches": 15,
-    "upcoming_matches": 24,
+    "live_matches": 14,
+    "upcoming_matches": 25,
     "matches": [
         {
             "category": "Cricket",
@@ -44,7 +44,7 @@
                             "runs": 164,
                             "overs": "20",
                             "balls": "120",
-                            "status": "IN_PROGRESS",
+                            "status": "COMPLETED",
                             "wickets": 9
                         }
                     ],
@@ -54,7 +54,7 @@
                     "hockeyScore": null,
                     "status": {
                         "cricket": {
-                            "isBatting": true
+                            "isBatting": false
                         }
                     }
                 },
@@ -66,14 +66,22 @@
                     },
                     "isWinner": null,
                     "color": "#74B8E1",
-                    "cricketScore": [],
+                    "cricketScore": [
+                        {
+                            "runs": 0,
+                            "overs": "0",
+                            "balls": "0",
+                            "status": "IN_PROGRESS",
+                            "wickets": 0
+                        }
+                    ],
                     "kabaddiScore": null,
                     "footballScore": null,
                     "basketBallScore": null,
                     "hockeyScore": null,
                     "status": {
                         "cricket": {
-                            "isBatting": false
+                            "isBatting": true
                         }
                     }
                 }
@@ -123,7 +131,7 @@
                             "runs": 164,
                             "overs": "20",
                             "balls": "120",
-                            "status": "IN_PROGRESS",
+                            "status": "COMPLETED",
                             "wickets": 9
                         }
                     ],
@@ -133,7 +141,7 @@
                     "hockeyScore": null,
                     "status": {
                         "cricket": {
-                            "isBatting": true
+                            "isBatting": false
                         }
                     }
                 },
@@ -145,14 +153,22 @@
                     },
                     "isWinner": null,
                     "color": "#74B8E1",
-                    "cricketScore": [],
+                    "cricketScore": [
+                        {
+                            "runs": 0,
+                            "overs": "0",
+                            "balls": "0",
+                            "status": "IN_PROGRESS",
+                            "wickets": 0
+                        }
+                    ],
                     "kabaddiScore": null,
                     "footballScore": null,
                     "basketBallScore": null,
                     "hockeyScore": null,
                     "status": {
                         "cricket": {
-                            "isBatting": false
+                            "isBatting": true
                         }
                     }
                 }
@@ -278,11 +294,11 @@
                     "color": "#fea129",
                     "cricketScore": [
                         {
-                            "runs": 189,
-                            "overs": "19.1",
-                            "balls": "115",
+                            "runs": 200,
+                            "overs": "20",
+                            "balls": "120",
                             "status": "IN_PROGRESS",
-                            "wickets": 4
+                            "wickets": 5
                         }
                     ],
                     "kabaddiScore": null,
@@ -360,7 +376,7 @@
                             "runs": 150,
                             "overs": "20",
                             "balls": "100",
-                            "status": "IN_PROGRESS",
+                            "status": "COMPLETED",
                             "wickets": 3
                         }
                     ],
@@ -370,7 +386,7 @@
                     "hockeyScore": null,
                     "status": {
                         "cricket": {
-                            "isBatting": true
+                            "isBatting": false
                         }
                     }
                 },
@@ -382,14 +398,22 @@
                     },
                     "isWinner": null,
                     "color": "#eba095",
-                    "cricketScore": [],
+                    "cricketScore": [
+                        {
+                            "runs": 5,
+                            "overs": "1.1",
+                            "balls": "6",
+                            "status": "IN_PROGRESS",
+                            "wickets": 2
+                        }
+                    ],
                     "kabaddiScore": null,
                     "footballScore": null,
                     "basketBallScore": null,
                     "hockeyScore": null,
                     "status": {
                         "cricket": {
-                            "isBatting": false
+                            "isBatting": true
                         }
                     }
                 }
@@ -463,9 +487,9 @@
                     "color": "#f8dd5a",
                     "cricketScore": [
                         {
-                            "runs": 57,
-                            "overs": "21.3",
-                            "balls": "129",
+                            "runs": 75,
+                            "overs": "23.5",
+                            "balls": "143",
                             "status": "IN_PROGRESS",
                             "wickets": 4
                         }
@@ -550,11 +574,11 @@
                     "color": "#ff3d3d",
                     "cricketScore": [
                         {
-                            "runs": 14,
-                            "overs": "2.5",
-                            "balls": "17",
+                            "runs": 42,
+                            "overs": "5.4",
+                            "balls": "34",
                             "status": "IN_PROGRESS",
-                            "wickets": 2
+                            "wickets": 3
                         }
                     ],
                     "kabaddiScore": null,
@@ -1086,93 +1110,6 @@
         },
         {
             "category": "Cricket",
-            "title": "Muscat Thunders Vs Majees Titans",
-            "tournament": "Oman D20 League, 2025",
-            "match_id": 133685,
-            "status": "COMPLETED",
-            "streamingStatus": "STARTED",
-            "startTime": "22 August 2025 05:00 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/133685_5590_MAT_MUT_fc-Web.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/133685_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/133685_5590_MAT_MUT_fc-Web.jpg",
-                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/133685_5590_MAT_MUT_fc-Web.jpg",
-                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2023/12/Tour-Placeholder.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/133685_5590_MAT_MUT_fc-Web.jpg",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/133685_5590_MAT_MUT_fc-App.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/133685_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "name": "Muscat Thunders",
-                    "shortName": "MUT",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MSCT@2x.png"
-                    },
-                    "isWinner": false,
-                    "color": "#5438bd",
-                    "cricketScore": [
-                        {
-                            "runs": 136,
-                            "overs": "20",
-                            "balls": "120",
-                            "status": "COMPLETED",
-                            "wickets": 5
-                        }
-                    ],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "Majees Titans",
-                    "shortName": "MAT",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MAJ@2x.png"
-                    },
-                    "isWinner": true,
-                    "color": "#d8c50f",
-                    "cricketScore": [
-                        {
-                            "runs": 139,
-                            "overs": "16.4",
-                            "balls": "100",
-                            "status": "IN_PROGRESS",
-                            "wickets": 5
-                        }
-                    ],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": true
-                        }
-                    }
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/133685_english_hls_044c2b02b15211ta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/GMDEgybySb67Zif3rVhtYg/master.m3u8",
-            "STREAMING_CDN": {
-                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/133685_english_hls_044c2b02b15211ta-di_h264/index.m3u8",
-                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/133685_english_hls_044c2b02b15211ta-di_h264/index.m3u8",
-                "dai_google_cdn": "https://dai.google.com/linear/hls/event/GMDEgybySb67Zif3rVhtYg/master.m3u8",
-                "cloudfront_cdn": "Unavailable",
-                "language": "ENGLISH"
-            }
-        },
-        {
-            "category": "Cricket",
             "title": "India A Women Vs Australia A Women",
             "tournament": "India A Women tour of Australia, 2025",
             "match_id": 133235,
@@ -1664,6 +1601,74 @@
             }
         },
         {
+            "category": "Cricket",
+            "title": "Thrissur Titans Vs Calicut Globstars",
+            "tournament": "Kerala Cricket League, 2025",
+            "match_id": 133881,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "23 August 2025 06:45 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/133881_5600_TT_CG_fc-Web_1755771731159.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/133881_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/133881_5600_TT_CG_fc-Web_1755771731159.jpg",
+                "PLAYBACK": null,
+                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Kerala-Cricket-League-Tour-Logo-(1).png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/133881_5600_TT_CG_fc-Web_1755771731159.jpg",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/133881_5600_TT_CG_fc-App_1755771692383.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/133881_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "name": "Thrissur Titans",
+                    "shortName": "TT",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TTK@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#b8a61d",
+                    "cricketScore": [],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "Calicut Globstars",
+                    "shortName": "CG",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CGKL@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#D26617",
+                    "cricketScore": [],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "STREAMING_CDN": {
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
+            }
+        },
+        {
             "category": "Football",
             "title": "Derby County Vs Bristol City",
             "tournament": "EFL Championship 2025-26",
@@ -1780,74 +1785,6 @@
                     "isWinner": null,
                     "color": "#537096",
                     "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
-            }
-        },
-        {
-            "category": "Cricket",
-            "title": "Thrissur Titans Vs Calicut Globstars",
-            "tournament": "Kerala Cricket League, 2025",
-            "match_id": 133881,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "23 August 2025 06:45 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/133881_5600_TT_CG_fc-Web_1755771731159.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/133881_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/133881_5600_TT_CG_fc-Web_1755771731159.jpg",
-                "PLAYBACK": null,
-                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Kerala-Cricket-League-Tour-Logo-(1).png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/133881_5600_TT_CG_fc-Web_1755771731159.jpg",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/133881_5600_TT_CG_fc-App_1755771692383.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/133881_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "name": "Thrissur Titans",
-                    "shortName": "TT",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TTK@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#b8a61d",
-                    "cricketScore": [],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "Calicut Globstars",
-                    "shortName": "CG",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CGKL@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#D26617",
-                    "cricketScore": [],
                     "kabaddiScore": null,
                     "footballScore": null,
                     "basketBallScore": null,
@@ -2799,6 +2736,74 @@
                     },
                     "isWinner": null,
                     "color": "#fbc32c",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "STREAMING_CDN": {
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
+            }
+        },
+        {
+            "category": "Kabaddi",
+            "title": "Amaravati Crushers Vs Bhimavaram Guardians",
+            "tournament": "Yuva Andhra Championship, 2025",
+            "match_id": 133737,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "23 August 2025 10:15 AM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/133737_5591_AC_BG_fc-Web.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/133737_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/133737_5591_AC_BG_fc-Web.jpg",
+                "PLAYBACK": null,
+                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Yuva-Andhra-Championship,-2025-Tour-Logo.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Kabaddi-old-min.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/133737_5591_AC_BG_fc-Web.jpg",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/133737_5591_AC_BG_Fc-App.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/133737_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "name": "Amaravati Crushers",
+                    "shortName": "AC",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/kb-flags/FC-AC@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#ffcad6",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "Bhimavaram Guardians",
+                    "shortName": "BG",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/kb-flags/FC-BH@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#f9ba8d",
                     "cricketScore": null,
                     "kabaddiScore": null,
                     "footballScore": null,
