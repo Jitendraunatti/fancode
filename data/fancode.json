@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "06:03:00 PM 22-08-2025",
+    "last_updated": "06:10:59 PM 22-08-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -15,7 +15,7 @@
             "title": "Alleppey Ripples Vs Thrissur Titans",
             "tournament": "Kerala Cricket League, 2025",
             "match_id": 133878,
-            "status": "LIVE",
+            "status": "COMPLETED",
             "streamingStatus": "STARTED",
             "startTime": "22 August 2025 02:30 PM",
             "startDate": "01 January 1970 05:30 AM",
@@ -102,7 +102,7 @@
             "title": "Alleppey Ripples Vs Thrissur Titans",
             "tournament": "Kerala Cricket League, 2025",
             "match_id": 133878,
-            "status": "LIVE",
+            "status": "COMPLETED",
             "streamingStatus": "STARTED",
             "startTime": "22 August 2025 02:30 PM",
             "startDate": "01 January 1970 05:30 AM",
@@ -242,9 +242,9 @@
                     "color": "#272993",
                     "cricketScore": [
                         {
-                            "runs": 68,
-                            "overs": "9",
-                            "balls": "54",
+                            "runs": 80,
+                            "overs": "10.2",
+                            "balls": "62",
                             "status": "IN_PROGRESS",
                             "wickets": 1
                         }
@@ -276,7 +276,7 @@
             "title": "North Delhi Strikers Women Vs East Delhi Riders Women",
             "tournament": "Delhi Women's Premier League, 2025",
             "match_id": 132976,
-            "status": "LIVE",
+            "status": "COMPLETED",
             "streamingStatus": "STARTED",
             "startTime": "22 August 2025 02:00 PM",
             "startDate": "01 January 1970 05:30 AM",
@@ -468,11 +468,11 @@
                     "color": "#cb3529",
                     "cricketScore": [
                         {
-                            "runs": 145,
-                            "overs": "38.3",
-                            "balls": "231",
+                            "runs": 152,
+                            "overs": "40.2",
+                            "balls": "242",
                             "status": "IN_PROGRESS",
-                            "wickets": 5
+                            "wickets": 6
                         }
                     ],
                     "kabaddiScore": null,
@@ -626,7 +626,7 @@
                     "color": "#e26252",
                     "cricketScore": null,
                     "kabaddiScore": {
-                        "points": 20,
+                        "points": 28,
                         "onFieldPlayers": 7,
                         "totalFieldPlayers": 7,
                         "raiding": null
@@ -650,8 +650,8 @@
                     "color": "#e4bea2",
                     "cricketScore": null,
                     "kabaddiScore": {
-                        "points": 28,
-                        "onFieldPlayers": 2,
+                        "points": 38,
+                        "onFieldPlayers": 7,
                         "totalFieldPlayers": 7,
                         "raiding": true
                     },
@@ -1868,74 +1868,6 @@
         },
         {
             "category": "Cricket",
-            "title": "Royal Oman Stallions Vs Ias Invincibles",
-            "tournament": "Oman D20 League, 2025",
-            "match_id": 133686,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "22 August 2025 09:00 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/133686_5590_ROS_IAI_fc-Web.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/133686_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/133686_5590_ROS_IAI_fc-Web.jpg",
-                "PLAYBACK": null,
-                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2023/12/Tour-Placeholder.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/133686_5590_ROS_IAI_fc-Web.jpg",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/133686_5590_ROS_IAI_fc-App.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/133686_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "name": "Royal Oman Stallions",
-                    "shortName": "ROS",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ROS@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#d3b252",
-                    "cricketScore": [],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "IAS Invincibles",
-                    "shortName": "IAI",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-IAI@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#138bc2",
-                    "cricketScore": [],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
-            }
-        },
-        {
-            "category": "Cricket",
             "title": "Northern Superchargers Women Vs Oval Invincibles Women",
             "tournament": "The Hundred Women, 2025",
             "match_id": 132280,
@@ -1982,6 +1914,74 @@
                     },
                     "isWinner": null,
                     "color": "#b8b3ba",
+                    "cricketScore": [],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "STREAMING_CDN": {
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
+            }
+        },
+        {
+            "category": "Cricket",
+            "title": "Royal Oman Stallions Vs Ias Invincibles",
+            "tournament": "Oman D20 League, 2025",
+            "match_id": 133686,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "22 August 2025 09:00 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/133686_5590_ROS_IAI_fc-Web.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/133686_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/133686_5590_ROS_IAI_fc-Web.jpg",
+                "PLAYBACK": null,
+                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2023/12/Tour-Placeholder.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/133686_5590_ROS_IAI_fc-Web.jpg",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/133686_5590_ROS_IAI_fc-App.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/133686_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "name": "Royal Oman Stallions",
+                    "shortName": "ROS",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ROS@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#d3b252",
+                    "cricketScore": [],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "IAS Invincibles",
+                    "shortName": "IAI",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-IAI@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#138bc2",
                     "cricketScore": [],
                     "kabaddiScore": null,
                     "footballScore": null,
