@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "11:46:10 AM 22-08-2025",
+    "last_updated": "11:54:06 AM 22-08-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -68,8 +68,8 @@
                     "color": "#4d66a3",
                     "cricketScore": [
                         {
-                            "runs": 118,
-                            "overs": "34.2",
+                            "runs": 126,
+                            "overs": "36.2",
                             "balls": "0",
                             "status": "IN_PROGRESS",
                             "wickets": 5
@@ -155,9 +155,9 @@
                     "color": "#9a4802",
                     "cricketScore": [
                         {
-                            "runs": 100,
-                            "overs": "13.2",
-                            "balls": "80",
+                            "runs": 119,
+                            "overs": "15",
+                            "balls": "90",
                             "status": "IN_PROGRESS",
                             "wickets": 3
                         }
@@ -189,7 +189,7 @@
             "title": "Romania Vs Czechia",
             "tournament": "ECN Romania-Czechia T20I, 2025",
             "match_id": 134941,
-            "status": "NOT_STARTED",
+            "status": "LIVE",
             "streamingStatus": "STARTED",
             "startTime": "22 August 2025 12:00 PM",
             "startDate": "01 January 1970 05:30 AM",
@@ -268,7 +268,7 @@
             "title": "Vizag Commandos Vs Bhimavaram Guardians",
             "tournament": "Yuva Andhra Championship, 2025",
             "match_id": 133734,
-            "status": "NOT_STARTED",
+            "status": "LIVE",
             "streamingStatus": "STARTED",
             "startTime": "22 August 2025 11:45 AM",
             "startDate": "01 January 1970 05:30 AM",
@@ -293,7 +293,12 @@
                     "isWinner": null,
                     "color": "#c2c8fd",
                     "cricketScore": null,
-                    "kabaddiScore": null,
+                    "kabaddiScore": {
+                        "points": 13,
+                        "onFieldPlayers": 6,
+                        "totalFieldPlayers": 7,
+                        "raiding": true
+                    },
                     "footballScore": null,
                     "basketBallScore": null,
                     "hockeyScore": null,
@@ -312,7 +317,12 @@
                     "isWinner": null,
                     "color": "#f9ba8d",
                     "cricketScore": null,
-                    "kabaddiScore": null,
+                    "kabaddiScore": {
+                        "points": 3,
+                        "onFieldPlayers": 5,
+                        "totalFieldPlayers": 7,
+                        "raiding": null
+                    },
                     "footballScore": null,
                     "basketBallScore": null,
                     "hockeyScore": null,
@@ -2582,35 +2592,35 @@
             }
         },
         {
-            "category": "MotoGP",
-            "title": "Hungary Gp",
-            "tournament": "GRAND PRIX OF HUNGARY",
-            "match_id": 119160,
+            "category": "Cricket",
+            "title": "Western Suburbs Vs University Of Queensland",
+            "tournament": "KFC T20 Max, 2025",
+            "match_id": 134881,
             "status": "NOT_STARTED",
             "streamingStatus": "NOT_STARTED",
-            "startTime": "22 August 2025 12:30 PM",
+            "startTime": "23 August 2025 08:45 AM",
             "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Moto-GP_Hungary_old_Match-card.jpg",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/134881_5623_WSS_UOQ_Fc-Web_1755807575994.jpg",
             "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/119160_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/Moto-GP_Hungary_old_Match-card.jpg",
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/134881_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/134881_5623_WSS_UOQ_Fc-Web_1755807575994.jpg",
                 "PLAYBACK": null,
-                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/GP14-Hungary_1748921637770.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Moto_GP-1440-x-360.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Moto-GP_Hungary_old_Match-card.jpg",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Hungary-Moto-GP_Sporty_1755584258182.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/119160_CASACARDS_PARTNER_16_9_1920_1080.png"
+                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/08/KFC-T20-Max-Competition-2024-Tour-Logo.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/134881_5623_WSS_UOQ_Fc-Web_1755807575994.jpg",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/134881_5623_WSS_UOQ_FC-App_1755807588855.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/134881_CASACARDS_PARTNER_16_9_1920_1080.png"
             },
             "teams": [
                 {
-                    "name": "Day 1",
-                    "shortName": "PP",
+                    "name": "Western Suburbs",
+                    "shortName": "WSS",
                     "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/motogp-flags/FC-MG@2x.png"
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WSS@2x.png"
                     },
                     "isWinner": null,
-                    "color": "#EE0000",
-                    "cricketScore": null,
+                    "color": "#2581B3",
+                    "cricketScore": [],
                     "kabaddiScore": null,
                     "footballScore": null,
                     "basketBallScore": null,
@@ -2622,14 +2632,14 @@
                     }
                 },
                 {
-                    "name": "Balaton Park",
-                    "shortName": "Balaton Park",
+                    "name": "University Of Queensland",
+                    "shortName": "UOQ",
                     "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/motogp-flags/FC-LOT@2x.png"
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-UOQ@2x.png"
                     },
                     "isWinner": null,
-                    "color": "#EE0000",
-                    "cricketScore": null,
+                    "color": "#dfa61e",
+                    "cricketScore": [],
                     "kabaddiScore": null,
                     "footballScore": null,
                     "basketBallScore": null,
