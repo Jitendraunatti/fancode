@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "07:30:06 AM 22-08-2025",
+    "last_updated": "07:38:06 AM 22-08-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -147,11 +147,11 @@
                     "color": "#621241",
                     "cricketScore": [
                         {
-                            "runs": 117,
-                            "overs": "13.2",
-                            "balls": "80",
+                            "runs": 126,
+                            "overs": "14.3",
+                            "balls": "87",
                             "status": "IN_PROGRESS",
-                            "wickets": 4
+                            "wickets": 6
                         }
                     ],
                     "kabaddiScore": null,
@@ -234,11 +234,11 @@
                     "color": "#621241",
                     "cricketScore": [
                         {
-                            "runs": 117,
-                            "overs": "13.2",
-                            "balls": "80",
+                            "runs": 126,
+                            "overs": "14.3",
+                            "balls": "87",
                             "status": "IN_PROGRESS",
-                            "wickets": 4
+                            "wickets": 6
                         }
                     ],
                     "kabaddiScore": null,
@@ -294,9 +294,9 @@
                     "color": "#f6848b",
                     "cricketScore": [
                         {
-                            "runs": 30,
-                            "overs": "4.4",
-                            "balls": "28",
+                            "runs": 44,
+                            "overs": "6.4",
+                            "balls": "40",
                             "status": "IN_PROGRESS",
                             "wickets": 4
                         }
