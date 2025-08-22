@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "05:39:00 PM 22-08-2025",
+    "last_updated": "05:47:01 PM 22-08-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -68,11 +68,11 @@
                     "color": "#b8a61d",
                     "cricketScore": [
                         {
-                            "runs": 108,
-                            "overs": "11.3",
-                            "balls": "69",
+                            "runs": 125,
+                            "overs": "13",
+                            "balls": "78",
                             "status": "IN_PROGRESS",
-                            "wickets": 0
+                            "wickets": 1
                         }
                     ],
                     "kabaddiScore": null,
@@ -155,11 +155,11 @@
                     "color": "#b8a61d",
                     "cricketScore": [
                         {
-                            "runs": 108,
-                            "overs": "11.3",
-                            "balls": "69",
+                            "runs": 125,
+                            "overs": "13",
+                            "balls": "78",
                             "status": "IN_PROGRESS",
-                            "wickets": 0
+                            "wickets": 1
                         }
                     ],
                     "kabaddiScore": null,
@@ -242,9 +242,9 @@
                     "color": "#272993",
                     "cricketScore": [
                         {
-                            "runs": 28,
-                            "overs": "3.3",
-                            "balls": "21",
+                            "runs": 39,
+                            "overs": "5",
+                            "balls": "30",
                             "status": "IN_PROGRESS",
                             "wickets": 1
                         }
@@ -329,9 +329,9 @@
                     "color": "#e7993a",
                     "cricketScore": [
                         {
-                            "runs": 95,
-                            "overs": "13.4",
-                            "balls": "82",
+                            "runs": 101,
+                            "overs": "15",
+                            "balls": "90",
                             "status": "IN_PROGRESS",
                             "wickets": 2
                         }
@@ -468,9 +468,9 @@
                     "color": "#cb3529",
                     "cricketScore": [
                         {
-                            "runs": 129,
-                            "overs": "32.1",
-                            "balls": "193",
+                            "runs": 139,
+                            "overs": "34.4",
+                            "balls": "208",
                             "status": "IN_PROGRESS",
                             "wickets": 4
                         }
@@ -626,10 +626,10 @@
                     "color": "#e26252",
                     "cricketScore": null,
                     "kabaddiScore": {
-                        "points": 3,
-                        "onFieldPlayers": 3,
+                        "points": 7,
+                        "onFieldPlayers": 4,
                         "totalFieldPlayers": 7,
-                        "raiding": null
+                        "raiding": true
                     },
                     "footballScore": null,
                     "basketBallScore": null,
@@ -650,10 +650,10 @@
                     "color": "#e4bea2",
                     "cricketScore": null,
                     "kabaddiScore": {
-                        "points": 7,
+                        "points": 16,
                         "onFieldPlayers": 7,
                         "totalFieldPlayers": 7,
-                        "raiding": true
+                        "raiding": null
                     },
                     "footballScore": null,
                     "basketBallScore": null,
@@ -1219,6 +1219,74 @@
         },
         {
             "category": "Cricket",
+            "title": "Aries Kollam Sailors Vs Adani Trivandrum Royals",
+            "tournament": "Kerala Cricket League, 2025",
+            "match_id": 133879,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "22 August 2025 06:45 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/133879_5600_AKS_TR_fc-Web_1755771731280.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/133879_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/133879_5600_AKS_TR_fc-Web_1755771731280.jpg",
+                "PLAYBACK": null,
+                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Kerala-Cricket-League-Tour-Logo-(1).png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/133879_5600_AKS_TR_fc-Web_1755771731280.jpg",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/133879_5600_AKS_TR_fc-App_1755771692348.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/133879_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "name": "Aries Kollam Sailors",
+                    "shortName": "AKS",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AKS@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#b7e330",
+                    "cricketScore": [],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "Adani Trivandrum Royals",
+                    "shortName": "TR",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TRK@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#74B8E1",
+                    "cricketScore": [],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "STREAMING_CDN": {
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
+            }
+        },
+        {
+            "category": "Cricket",
             "title": "India A Women Vs Australia A Women",
             "tournament": "India A Women tour of Australia, 2025",
             "match_id": 133235,
@@ -1289,74 +1357,6 @@
                     "status": {
                         "cricket": {
                             "isBatting": true
-                        }
-                    }
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
-            }
-        },
-        {
-            "category": "Cricket",
-            "title": "Aries Kollam Sailors Vs Adani Trivandrum Royals",
-            "tournament": "Kerala Cricket League, 2025",
-            "match_id": 133879,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "22 August 2025 06:45 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/133879_5600_AKS_TR_fc-Web_1755771731280.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/133879_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/133879_5600_AKS_TR_fc-Web_1755771731280.jpg",
-                "PLAYBACK": null,
-                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Kerala-Cricket-League-Tour-Logo-(1).png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/133879_5600_AKS_TR_fc-Web_1755771731280.jpg",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/133879_5600_AKS_TR_fc-App_1755771692348.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/133879_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "name": "Aries Kollam Sailors",
-                    "shortName": "AKS",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AKS@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#b7e330",
-                    "cricketScore": [],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "Adani Trivandrum Royals",
-                    "shortName": "TR",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TRK@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#74B8E1",
-                    "cricketScore": [],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
                         }
                     }
                 }
