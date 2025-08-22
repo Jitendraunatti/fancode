@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "04:11:00 PM 22-08-2025",
+    "last_updated": "04:19:00 PM 22-08-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -41,9 +41,9 @@
                     "color": "#8e5bf0",
                     "cricketScore": [
                         {
-                            "runs": 131,
-                            "overs": "18",
-                            "balls": "108",
+                            "runs": 141,
+                            "overs": "19.2",
+                            "balls": "116",
                             "status": "IN_PROGRESS",
                             "wickets": 7
                         }
@@ -120,9 +120,9 @@
                     "color": "#8e5bf0",
                     "cricketScore": [
                         {
-                            "runs": 131,
-                            "overs": "18",
-                            "balls": "108",
+                            "runs": 141,
+                            "overs": "19.2",
+                            "balls": "116",
                             "status": "IN_PROGRESS",
                             "wickets": 7
                         }
@@ -199,11 +199,11 @@
                     "color": "#2d9dbb",
                     "cricketScore": [
                         {
-                            "runs": 79,
-                            "overs": "10",
-                            "balls": "60",
+                            "runs": 92,
+                            "overs": "11.3",
+                            "balls": "69",
                             "status": "IN_PROGRESS",
-                            "wickets": 4
+                            "wickets": 5
                         }
                     ],
                     "kabaddiScore": null,
@@ -357,11 +357,11 @@
                     "color": "#713c94",
                     "cricketScore": [
                         {
-                            "runs": 91,
-                            "overs": "14.1",
-                            "balls": "85",
+                            "runs": 98,
+                            "overs": "15.3",
+                            "balls": "93",
                             "status": "IN_PROGRESS",
-                            "wickets": 3
+                            "wickets": 5
                         }
                     ],
                     "kabaddiScore": null,
@@ -436,9 +436,9 @@
                     "color": "#d8a918",
                     "cricketScore": [
                         {
-                            "runs": 50,
-                            "overs": "8.5",
-                            "balls": "53",
+                            "runs": 54,
+                            "overs": "9.4",
+                            "balls": "58",
                             "status": "IN_PROGRESS",
                             "wickets": 4
                         }
@@ -515,9 +515,9 @@
                     "color": "#cb3529",
                     "cricketScore": [
                         {
-                            "runs": 41,
-                            "overs": "9",
-                            "balls": "54",
+                            "runs": 48,
+                            "overs": "11",
+                            "balls": "66",
                             "status": "IN_PROGRESS",
                             "wickets": 1
                         }
@@ -617,13 +617,19 @@
                     "cricketScore": null,
                     "kabaddiScore": null,
                     "footballScore": {
-                        "points": 1,
+                        "points": 2,
                         "goals": [
                             {
                                 "id": "223269",
                                 "shortName": "Y Naganuma",
                                 "isOwnGoal": false,
                                 "goalTime": "5'"
+                            },
+                            {
+                                "id": "504165",
+                                "shortName": "Y Matsuo",
+                                "isOwnGoal": false,
+                                "goalTime": "43'"
                             }
                         ]
                     },
@@ -678,8 +684,8 @@
                     "color": "#e6ae3e",
                     "cricketScore": null,
                     "kabaddiScore": {
-                        "points": 29,
-                        "onFieldPlayers": 6,
+                        "points": 34,
+                        "onFieldPlayers": 5,
                         "totalFieldPlayers": 7,
                         "raiding": true
                     },
@@ -702,8 +708,8 @@
                     "color": "#c1c1c1",
                     "cricketScore": null,
                     "kabaddiScore": {
-                        "points": 13,
-                        "onFieldPlayers": 6,
+                        "points": 17,
+                        "onFieldPlayers": 5,
                         "totalFieldPlayers": 7,
                         "raiding": null
                     },
