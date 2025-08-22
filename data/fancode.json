@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "09:02:10 AM 22-08-2025",
+    "last_updated": "09:10:06 AM 22-08-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -41,11 +41,11 @@
                     "color": "#0f60de",
                     "cricketScore": [
                         {
-                            "runs": 296,
-                            "overs": "85.4",
+                            "runs": 299,
+                            "overs": "88",
                             "balls": "0",
                             "status": "IN_PROGRESS",
-                            "wickets": 8
+                            "wickets": 9
                         }
                     ],
                     "kabaddiScore": null,
@@ -147,9 +147,9 @@
                     "color": "#4caade",
                     "cricketScore": [
                         {
-                            "runs": 8,
-                            "overs": "2",
-                            "balls": "12",
+                            "runs": 25,
+                            "overs": "4",
+                            "balls": "24",
                             "status": "IN_PROGRESS",
                             "wickets": 0
                         }
@@ -207,9 +207,9 @@
                     "color": "#ea9a3d",
                     "cricketScore": [
                         {
-                            "runs": 0,
-                            "overs": "0",
-                            "balls": "0",
+                            "runs": 15,
+                            "overs": "1.4",
+                            "balls": "10",
                             "status": "IN_PROGRESS",
                             "wickets": 0
                         }
@@ -1753,7 +1753,7 @@
         },
         {
             "category": "Cricket",
-            "title": "Tbc Vs Tbc",
+            "title": "Tungabhadra Warriors Vs Bhimavaram Bulls",
             "tournament": "Andhra Premier League, 2025",
             "match_id": 132783,
             "status": "NOT_STARTED",
@@ -1773,13 +1773,13 @@
             },
             "teams": [
                 {
-                    "name": "TBC",
-                    "shortName": "TBC",
+                    "name": "Tungabhadra Warriors",
+                    "shortName": "TBW",
                     "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/TBC-CR1@2x.png"
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TBW@2x.png"
                     },
                     "isWinner": null,
-                    "color": "#dcdcdc",
+                    "color": "#ff3d3d",
                     "cricketScore": [],
                     "kabaddiScore": null,
                     "footballScore": null,
@@ -1792,13 +1792,13 @@
                     }
                 },
                 {
-                    "name": "TBC",
-                    "shortName": "TBC",
+                    "name": "Bhimavaram Bulls",
+                    "shortName": "BVB",
                     "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/TBC-CR1@2x.png"
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BVB@2x.png"
                     },
                     "isWinner": null,
-                    "color": "#dcdcdc",
+                    "color": "#f79b46",
                     "cricketScore": [],
                     "kabaddiScore": null,
                     "footballScore": null,
