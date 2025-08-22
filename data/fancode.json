@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "12:47:01 PM 22-08-2025",
+    "last_updated": "12:55:00 PM 22-08-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -822,11 +822,11 @@
                     "color": "#D61DAF",
                     "cricketScore": [
                         {
-                            "runs": 0,
-                            "overs": "0",
-                            "balls": "0",
+                            "runs": 19,
+                            "overs": "1.5",
+                            "balls": "11",
                             "status": "IN_PROGRESS",
-                            "wickets": 0
+                            "wickets": 3
                         }
                     ],
                     "kabaddiScore": null,
@@ -847,6 +847,74 @@
                     },
                     "isWinner": null,
                     "color": "#0F3276",
+                    "cricketScore": [],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "STREAMING_CDN": {
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
+            }
+        },
+        {
+            "category": "Cricket",
+            "title": "Antigua & Barbuda Falcons Vs Guyana Amazon Warriors",
+            "tournament": "Caribbean Premier League, 2025",
+            "match_id": 132354,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "23 August 2025 04:30 AM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Antigua-Barbuda-Falcons-VS-Guyana-Amazon-Warriors_old.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/132354_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/Antigua-Barbuda-Falcons-VS-Guyana-Amazon-Warriors_old.jpg",
+                "PLAYBACK": null,
+                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/08/CPL.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Antigua-Barbuda-Falcons-VS-Guyana-Amazon-Warriors_old.jpg",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Antigua-Barbuda-Falcons-VS-Guyana-Amazon-Warriors_Sporty_1755669867725.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/132354_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "name": "Antigua & Barbuda Falcons",
+                    "shortName": "ABF",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ABF@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#CC0001",
+                    "cricketScore": [],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "Guyana Amazon Warriors",
+                    "shortName": "GUY",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GUWA@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#b01018",
                     "cricketScore": [],
                     "kabaddiScore": null,
                     "footballScore": null,
@@ -937,7 +1005,7 @@
         },
         {
             "category": "Cricket",
-            "title": "Austria Vs Belgium",
+            "title": "Belgium Vs Austria",
             "tournament": "ECI Austria-Belgium, 2025",
             "match_id": 135001,
             "status": "NOT_STARTED",
@@ -957,6 +1025,33 @@
             },
             "teams": [
                 {
+                    "name": "Belgium",
+                    "shortName": "BEL",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BEL@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#b3a91d",
+                    "cricketScore": [
+                        {
+                            "runs": 0,
+                            "overs": "0",
+                            "balls": "0",
+                            "status": "IN_PROGRESS",
+                            "wickets": 0
+                        }
+                    ],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": true
+                        }
+                    }
+                },
+                {
                     "name": "Austria",
                     "shortName": "AUT",
                     "flag": {
@@ -966,171 +1061,6 @@
                     "color": "#af1b24",
                     "cricketScore": [],
                     "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "Belgium",
-                    "shortName": "BEL",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BEL@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#b3a91d",
-                    "cricketScore": [],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
-            }
-        },
-        {
-            "category": "Cricket",
-            "title": "Antigua & Barbuda Falcons Vs Guyana Amazon Warriors",
-            "tournament": "Caribbean Premier League, 2025",
-            "match_id": 132354,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "23 August 2025 04:30 AM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Antigua-Barbuda-Falcons-VS-Guyana-Amazon-Warriors_old.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/132354_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/Antigua-Barbuda-Falcons-VS-Guyana-Amazon-Warriors_old.jpg",
-                "PLAYBACK": null,
-                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/08/CPL.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Antigua-Barbuda-Falcons-VS-Guyana-Amazon-Warriors_old.jpg",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Antigua-Barbuda-Falcons-VS-Guyana-Amazon-Warriors_Sporty_1755669867725.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/132354_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "name": "Antigua & Barbuda Falcons",
-                    "shortName": "ABF",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ABF@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#CC0001",
-                    "cricketScore": [],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "Guyana Amazon Warriors",
-                    "shortName": "GUY",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GUWA@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#b01018",
-                    "cricketScore": [],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
-            }
-        },
-        {
-            "category": "Kabaddi",
-            "title": "Vizag Commandos Vs Bhimavaram Guardians",
-            "tournament": "Yuva Andhra Championship, 2025",
-            "match_id": 133734,
-            "status": "COMPLETED",
-            "streamingStatus": "COMPLETED",
-            "startTime": "22 August 2025 11:45 AM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/133734_5591_VC_BG_fc-Web.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/133734_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/133734_5591_VC_BG_fc-Web.jpg",
-                "PLAYBACK": null,
-                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Yuva-Andhra-Championship,-2025-Tour-Logo.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Kabaddi-old-min.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/133734_5591_VC_BG_fc-Web.jpg",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/133734_5591_VC_BG_Fc-App.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/133734_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "name": "Vizag Commandos",
-                    "shortName": "VC",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/kb-flags/FC-VC@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#c2c8fd",
-                    "cricketScore": null,
-                    "kabaddiScore": {
-                        "points": 43,
-                        "onFieldPlayers": 6,
-                        "totalFieldPlayers": 7,
-                        "raiding": true
-                    },
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "Bhimavaram Guardians",
-                    "shortName": "BG",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/kb-flags/FC-BH@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#f9ba8d",
-                    "cricketScore": null,
-                    "kabaddiScore": {
-                        "points": 43,
-                        "onFieldPlayers": 5,
-                        "totalFieldPlayers": 7,
-                        "raiding": null
-                    },
                     "footballScore": null,
                     "basketBallScore": null,
                     "hockeyScore": null,
@@ -2625,6 +2555,74 @@
                     },
                     "isWinner": null,
                     "color": "#abc",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "STREAMING_CDN": {
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
+            }
+        },
+        {
+            "category": "Cricket",
+            "title": "Kochi Blue Tigers Vs Alleppey Ripples",
+            "tournament": "Kerala Cricket League, 2025",
+            "match_id": 133880,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "23 August 2025 02:30 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/133880_5600_KBT_AP_fc-Web_1755771731183.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/133880_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/133880_5600_KBT_AP_fc-Web_1755771731183.jpg",
+                "PLAYBACK": null,
+                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Kerala-Cricket-League-Tour-Logo-(1).png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/133880_5600_KBT_AP_fc-Web_1755771731183.jpg",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/133880_5600_KBT_AP_fc-App_1755771692404.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/133880_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "name": "Kochi Blue Tigers",
+                    "shortName": "KBT",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KBT@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#01c0f6",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "Alleppey Ripples",
+                    "shortName": "AP",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-APK@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#8e5bf0",
                     "cricketScore": null,
                     "kabaddiScore": null,
                     "footballScore": null,
