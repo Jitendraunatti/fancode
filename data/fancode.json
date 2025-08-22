@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "03:47:00 PM 22-08-2025",
+    "last_updated": "03:55:00 PM 22-08-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -41,11 +41,11 @@
                     "color": "#8e5bf0",
                     "cricketScore": [
                         {
-                            "runs": 91,
-                            "overs": "12.4",
-                            "balls": "76",
+                            "runs": 104,
+                            "overs": "15",
+                            "balls": "90",
                             "status": "IN_PROGRESS",
-                            "wickets": 5
+                            "wickets": 6
                         }
                     ],
                     "kabaddiScore": null,
@@ -120,11 +120,11 @@
                     "color": "#8e5bf0",
                     "cricketScore": [
                         {
-                            "runs": 91,
-                            "overs": "12.4",
-                            "balls": "76",
+                            "runs": 104,
+                            "overs": "15",
+                            "balls": "90",
                             "status": "IN_PROGRESS",
-                            "wickets": 5
+                            "wickets": 6
                         }
                     ],
                     "kabaddiScore": null,
@@ -199,9 +199,9 @@
                     "color": "#2d9dbb",
                     "cricketScore": [
                         {
-                            "runs": 57,
-                            "overs": "5.4",
-                            "balls": "34",
+                            "runs": 67,
+                            "overs": "7",
+                            "balls": "42",
                             "status": "IN_PROGRESS",
                             "wickets": 2
                         }
@@ -243,93 +243,6 @@
                 "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/132807_english_hls_048c4ea3a5462ta-di_h264/index.m3u8",
                 "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/132807_english_hls_048c4ea3a5462ta-di_h264/index.m3u8",
                 "dai_google_cdn": "https://dai.google.com/linear/hls/event/4wRO81utTKGLoWNRZdBmzg/master.m3u8",
-                "cloudfront_cdn": "Unavailable",
-                "language": "ENGLISH"
-            }
-        },
-        {
-            "category": "Cricket",
-            "title": "Yalla Shabab Giants Vs Renaissance Challengers",
-            "tournament": "Oman D20 League, 2025",
-            "match_id": 133684,
-            "status": "LIVE",
-            "streamingStatus": "STARTED",
-            "startTime": "22 August 2025 12:30 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/133684_5590_RNC_YSG_fc-Web.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/133684_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/133684_5590_RNC_YSG_fc-Web.jpg",
-                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/133684_5590_RNC_YSG_fc-Web.jpg",
-                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2023/12/Tour-Placeholder.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/133684_5590_RNC_YSG_fc-Web.jpg",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/133684_5590_RNC_YSG_fc-App.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/133684_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "name": "Yalla Shabab Giants",
-                    "shortName": "YSG",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-YSG@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#D11919",
-                    "cricketScore": [
-                        {
-                            "runs": 152,
-                            "overs": "20",
-                            "balls": "120",
-                            "status": "COMPLETED",
-                            "wickets": 8
-                        }
-                    ],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "Renaissance Challengers",
-                    "shortName": "RNC",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RNC@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#bb4335",
-                    "cricketScore": [
-                        {
-                            "runs": 123,
-                            "overs": "19.1",
-                            "balls": "115",
-                            "status": "IN_PROGRESS",
-                            "wickets": 8
-                        }
-                    ],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": true
-                        }
-                    }
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/133684_english_hls_2c6ae2310258303ta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/YT1eRyPIRV-D6ovmQxJt8w/master.m3u8",
-            "STREAMING_CDN": {
-                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/133684_english_hls_2c6ae2310258303ta-di_h264/index.m3u8",
-                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/133684_english_hls_2c6ae2310258303ta-di_h264/index.m3u8",
-                "dai_google_cdn": "https://dai.google.com/linear/hls/event/YT1eRyPIRV-D6ovmQxJt8w/master.m3u8",
                 "cloudfront_cdn": "Unavailable",
                 "language": "ENGLISH"
             }
@@ -444,9 +357,9 @@
                     "color": "#713c94",
                     "cricketScore": [
                         {
-                            "runs": 42,
-                            "overs": "10.1",
-                            "balls": "61",
+                            "runs": 65,
+                            "overs": "12",
+                            "balls": "72",
                             "status": "IN_PROGRESS",
                             "wickets": 3
                         }
@@ -602,11 +515,11 @@
                     "color": "#cb3529",
                     "cricketScore": [
                         {
-                            "runs": 14,
-                            "overs": "3.5",
-                            "balls": "23",
+                            "runs": 17,
+                            "overs": "5.2",
+                            "balls": "32",
                             "status": "IN_PROGRESS",
-                            "wickets": 0
+                            "wickets": 1
                         }
                     ],
                     "kabaddiScore": null,
@@ -739,7 +652,7 @@
             "title": "Krishna Defenders Vs Kakinada Kraken",
             "tournament": "Yuva Andhra Championship, 2025",
             "match_id": 133735,
-            "status": "NOT_STARTED",
+            "status": "LIVE",
             "streamingStatus": "STARTED",
             "startTime": "22 August 2025 03:45 PM",
             "startDate": "01 January 1970 05:30 AM",
@@ -764,7 +677,12 @@
                     "isWinner": null,
                     "color": "#e6ae3e",
                     "cricketScore": null,
-                    "kabaddiScore": null,
+                    "kabaddiScore": {
+                        "points": 10,
+                        "onFieldPlayers": 5,
+                        "totalFieldPlayers": 7,
+                        "raiding": null
+                    },
                     "footballScore": null,
                     "basketBallScore": null,
                     "hockeyScore": null,
@@ -783,7 +701,12 @@
                     "isWinner": null,
                     "color": "#c1c1c1",
                     "cricketScore": null,
-                    "kabaddiScore": null,
+                    "kabaddiScore": {
+                        "points": 4,
+                        "onFieldPlayers": 7,
+                        "totalFieldPlayers": 7,
+                        "raiding": true
+                    },
                     "footballScore": null,
                     "basketBallScore": null,
                     "hockeyScore": null,
@@ -1014,6 +937,93 @@
                 "Primary_Playback_URL": "https://mls3.fancode.com/0e844818-d608-45c3-b25e-8bbb2548eb5c/index.m3u8",
                 "fancode_cdn": "https://mls3.fancode.com/0e844818-d608-45c3-b25e-8bbb2548eb5c/index.m3u8",
                 "dai_google_cdn": "Unavailable",
+                "cloudfront_cdn": "Unavailable",
+                "language": "ENGLISH"
+            }
+        },
+        {
+            "category": "Cricket",
+            "title": "Yalla Shabab Giants Vs Renaissance Challengers",
+            "tournament": "Oman D20 League, 2025",
+            "match_id": 133684,
+            "status": "COMPLETED",
+            "streamingStatus": "STARTED",
+            "startTime": "22 August 2025 12:30 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/133684_5590_RNC_YSG_fc-Web.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/133684_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/133684_5590_RNC_YSG_fc-Web.jpg",
+                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/133684_5590_RNC_YSG_fc-Web.jpg",
+                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2023/12/Tour-Placeholder.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/133684_5590_RNC_YSG_fc-Web.jpg",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/133684_5590_RNC_YSG_fc-App.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/133684_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "name": "Yalla Shabab Giants",
+                    "shortName": "YSG",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-YSG@2x.png"
+                    },
+                    "isWinner": true,
+                    "color": "#D11919",
+                    "cricketScore": [
+                        {
+                            "runs": 152,
+                            "overs": "20",
+                            "balls": "120",
+                            "status": "COMPLETED",
+                            "wickets": 8
+                        }
+                    ],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "Renaissance Challengers",
+                    "shortName": "RNC",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RNC@2x.png"
+                    },
+                    "isWinner": false,
+                    "color": "#bb4335",
+                    "cricketScore": [
+                        {
+                            "runs": 124,
+                            "overs": "20",
+                            "balls": "120",
+                            "status": "IN_PROGRESS",
+                            "wickets": 9
+                        }
+                    ],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": true
+                        }
+                    }
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/133684_english_hls_2c6ae2310258303ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/YT1eRyPIRV-D6ovmQxJt8w/master.m3u8",
+            "STREAMING_CDN": {
+                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/133684_english_hls_2c6ae2310258303ta-di_h264/index.m3u8",
+                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/133684_english_hls_2c6ae2310258303ta-di_h264/index.m3u8",
+                "dai_google_cdn": "https://dai.google.com/linear/hls/event/YT1eRyPIRV-D6ovmQxJt8w/master.m3u8",
                 "cloudfront_cdn": "Unavailable",
                 "language": "ENGLISH"
             }
@@ -1783,74 +1793,6 @@
             }
         },
         {
-            "category": "Football",
-            "title": "Real Betis Vs Alav\u00e9s",
-            "tournament": "LALIGA 2025-26",
-            "match_id": 130846,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "23 August 2025 01:00 AM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Real-Betis-VS-Alaves_Old_match-card-(1).jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/130846_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/Real-Betis-VS-Alaves_Old_match-card-(1).jpg",
-                "PLAYBACK": null,
-                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/LALIGA-2025-26-Tour.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Real-Betis-VS-Alaves_Old_match-card-(1).jpg",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Real-Betis-VS-Alaves_Match_card_4V4-(1).jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/130846_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "name": "Real Betis",
-                    "shortName": "RB",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-REALB@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#19a661",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "Alav\u00e9s",
-                    "shortName": "ALA",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ALA@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#537096",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
-            }
-        },
-        {
             "category": "Cricket",
             "title": "North Delhi Strikers Vs East Delhi Riders",
             "tournament": "Delhi Premier League, 2025",
@@ -1899,6 +1841,74 @@
                     "isWinner": null,
                     "color": "#e7993a",
                     "cricketScore": [],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "STREAMING_CDN": {
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
+            }
+        },
+        {
+            "category": "Football",
+            "title": "Real Betis Vs Alav\u00e9s",
+            "tournament": "LALIGA 2025-26",
+            "match_id": 130846,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "23 August 2025 01:00 AM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Real-Betis-VS-Alaves_Old_match-card-(1).jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/130846_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/Real-Betis-VS-Alaves_Old_match-card-(1).jpg",
+                "PLAYBACK": null,
+                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/LALIGA-2025-26-Tour.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Real-Betis-VS-Alaves_Old_match-card-(1).jpg",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Real-Betis-VS-Alaves_Match_card_4V4-(1).jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/130846_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "name": "Real Betis",
+                    "shortName": "RB",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-REALB@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#19a661",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "Alav\u00e9s",
+                    "shortName": "ALA",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ALA@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#537096",
+                    "cricketScore": null,
                     "kabaddiScore": null,
                     "footballScore": null,
                     "basketBallScore": null,
