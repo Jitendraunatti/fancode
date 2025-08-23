@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "10:26:53 AM 23-08-2025",
+    "last_updated": "10:30:57 AM 23-08-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -48,8 +48,8 @@
                             "wickets": 10
                         },
                         {
-                            "runs": 164,
-                            "overs": "41",
+                            "runs": 167,
+                            "overs": "41.5",
                             "balls": "0",
                             "status": "IN_PROGRESS",
                             "wickets": 4
@@ -109,7 +109,7 @@
             "title": "Chicago Kingsmen Vs Hobart Hurricanes Academy",
             "tournament": "Top End T20 Series, 2025",
             "match_id": 133528,
-            "status": "LIVE",
+            "status": "COMPLETED",
             "streamingStatus": "STARTED",
             "startTime": "23 August 2025 07:00 AM",
             "startDate": "01 January 1970 05:30 AM",
@@ -372,7 +372,7 @@
                     "color": "#ffcad6",
                     "cricketScore": null,
                     "kabaddiScore": {
-                        "points": 14,
+                        "points": 20,
                         "onFieldPlayers": 7,
                         "totalFieldPlayers": 7,
                         "raiding": null
@@ -396,8 +396,8 @@
                     "color": "#f9ba8d",
                     "cricketScore": null,
                     "kabaddiScore": {
-                        "points": 8,
-                        "onFieldPlayers": 7,
+                        "points": 13,
+                        "onFieldPlayers": 4,
                         "totalFieldPlayers": 7,
                         "raiding": true
                     },
