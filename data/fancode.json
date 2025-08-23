@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "08:30:57 AM 23-08-2025",
+    "last_updated": "08:38:54 AM 23-08-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -48,8 +48,8 @@
                             "wickets": 10
                         },
                         {
-                            "runs": 58,
-                            "overs": "15",
+                            "runs": 70,
+                            "overs": "17.4",
                             "balls": "0",
                             "status": "IN_PROGRESS",
                             "wickets": 1
@@ -162,11 +162,11 @@
                     "color": "#CC0001",
                     "cricketScore": [
                         {
-                            "runs": 105,
-                            "overs": "11",
-                            "balls": "66",
+                            "runs": 111,
+                            "overs": "12.2",
+                            "balls": "74",
                             "status": "IN_PROGRESS",
-                            "wickets": 6
+                            "wickets": 7
                         }
                     ],
                     "kabaddiScore": null,
@@ -249,11 +249,11 @@
                     "color": "#CC0001",
                     "cricketScore": [
                         {
-                            "runs": 105,
-                            "overs": "11",
-                            "balls": "66",
+                            "runs": 111,
+                            "overs": "12.2",
+                            "balls": "74",
                             "status": "IN_PROGRESS",
-                            "wickets": 6
+                            "wickets": 7
                         }
                     ],
                     "kabaddiScore": null,
@@ -362,7 +362,7 @@
             "title": "Western Suburbs Vs University Of Queensland",
             "tournament": "KFC T20 Max, 2025",
             "match_id": 134881,
-            "status": "NOT_STARTED",
+            "status": "LIVE",
             "streamingStatus": "STARTED",
             "startTime": "23 August 2025 08:45 AM",
             "startDate": "01 January 1970 05:30 AM",
