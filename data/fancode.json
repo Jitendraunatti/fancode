@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "09:26:53 AM 23-08-2025",
+    "last_updated": "09:30:56 AM 23-08-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -18,7 +18,7 @@
             "status": "LIVE",
             "streamingStatus": "STARTED",
             "startTime": "21 August 2025 04:30 AM",
-            "startDate": "23 August 2025 04:30 AM",
+            "startDate": "24 August 2025 04:30 AM",
             "image": "https://www.fancode.com/skillup-uploads/cms-media/IND_A_vs_AUS_Womens_Old_match-card-(2).jpg",
             "image_cdn": {
                 "TATAPLAY": "https://images.fancode.com/aig/match/v1/133235_CASACARDS_PARTNER_16_9_1920_1080.png",
@@ -48,8 +48,8 @@
                             "wickets": 10
                         },
                         {
-                            "runs": 126,
-                            "overs": "30.1",
+                            "runs": 133,
+                            "overs": "31.1",
                             "balls": "0",
                             "status": "IN_PROGRESS",
                             "wickets": 3
