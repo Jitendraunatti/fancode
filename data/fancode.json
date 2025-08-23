@@ -1,14 +1,14 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "09:26:51 PM 23-08-2025",
+    "last_updated": "09:31:04 PM 23-08-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
     "total_matches": 41,
-    "live_matches": 13,
-    "upcoming_matches": 28,
+    "live_matches": 15,
+    "upcoming_matches": 26,
     "matches": [
         {
             "category": "Cricket",
@@ -68,11 +68,11 @@
                     "color": "#D26617",
                     "cricketScore": [
                         {
-                            "runs": 26,
-                            "overs": "3.3",
-                            "balls": "21",
+                            "runs": 34,
+                            "overs": "4",
+                            "balls": "24",
                             "status": "IN_PROGRESS",
-                            "wickets": 3
+                            "wickets": 2
                         }
                     ],
                     "kabaddiScore": null,
@@ -155,11 +155,11 @@
                     "color": "#D26617",
                     "cricketScore": [
                         {
-                            "runs": 26,
-                            "overs": "3.3",
-                            "balls": "21",
+                            "runs": 34,
+                            "overs": "4",
+                            "balls": "24",
                             "status": "IN_PROGRESS",
-                            "wickets": 3
+                            "wickets": 2
                         }
                     ],
                     "kabaddiScore": null,
@@ -189,7 +189,7 @@
             "title": "London Spirit Women Vs Southern Brave Women",
             "tournament": "The Hundred Women, 2025",
             "match_id": 132281,
-            "status": "LIVE",
+            "status": "COMPLETED",
             "streamingStatus": "STARTED",
             "startTime": "23 August 2025 07:00 PM",
             "startDate": "01 January 1970 05:30 AM",
@@ -211,7 +211,7 @@
                     "flag": {
                         "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-LONDS@2x.png"
                     },
-                    "isWinner": null,
+                    "isWinner": false,
                     "color": "#a0a0d4",
                     "cricketScore": [
                         {
@@ -238,13 +238,13 @@
                     "flag": {
                         "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SOUTHB@2x.png"
                     },
-                    "isWinner": null,
+                    "isWinner": true,
                     "color": "#97c8a5",
                     "cricketScore": [
                         {
-                            "runs": 119,
-                            "overs": "18",
-                            "balls": "90",
+                            "runs": 126,
+                            "overs": "18.4",
+                            "balls": "94",
                             "status": "IN_PROGRESS",
                             "wickets": 2
                         }
@@ -329,9 +329,9 @@
                     "color": "#189941",
                     "cricketScore": [
                         {
-                            "runs": 124,
-                            "overs": "15",
-                            "balls": "75",
+                            "runs": 128,
+                            "overs": "16",
+                            "balls": "80",
                             "status": "IN_PROGRESS",
                             "wickets": 4
                         }
@@ -416,9 +416,9 @@
                     "color": "#2d9dbb",
                     "cricketScore": [
                         {
-                            "runs": 25,
-                            "overs": "2.3",
-                            "balls": "15",
+                            "runs": 30,
+                            "overs": "3.2",
+                            "balls": "20",
                             "status": "IN_PROGRESS",
                             "wickets": 0
                         }
@@ -503,11 +503,11 @@
                     "color": "#D7B524",
                     "cricketScore": [
                         {
-                            "runs": 153,
-                            "overs": "35",
-                            "balls": "210",
+                            "runs": 155,
+                            "overs": "36",
+                            "balls": "216",
                             "status": "IN_PROGRESS",
-                            "wickets": 4
+                            "wickets": 5
                         }
                     ],
                     "kabaddiScore": null,
@@ -590,9 +590,9 @@
                     "color": "#ff3d3d",
                     "cricketScore": [
                         {
-                            "runs": 109,
-                            "overs": "10",
-                            "balls": "60",
+                            "runs": 124,
+                            "overs": "11.2",
+                            "balls": "68",
                             "status": "IN_PROGRESS",
                             "wickets": 2
                         }
@@ -677,9 +677,9 @@
                     "color": "#ea6363",
                     "cricketScore": [
                         {
-                            "runs": 22,
-                            "overs": "7.4",
-                            "balls": "46",
+                            "runs": 26,
+                            "overs": "9.2",
+                            "balls": "56",
                             "status": "IN_PROGRESS",
                             "wickets": 4
                         }
@@ -781,103 +781,6 @@
                 "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/133689_english_hls_d5ece8af9656119ta-di_h264/index.m3u8",
                 "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/133689_english_hls_d5ece8af9656119ta-di_h264/index.m3u8",
                 "dai_google_cdn": "https://dai.google.com/linear/hls/event/lpcXE0-nTJyKc143guszHQ/master.m3u8",
-                "cloudfront_cdn": "Unavailable",
-                "language": "ENGLISH"
-            }
-        },
-        {
-            "category": "Football",
-            "title": "Norwich City Vs Middlesbrough",
-            "tournament": "EFL Championship 2025-26",
-            "match_id": 131997,
-            "status": "LIVE",
-            "streamingStatus": "STARTED",
-            "startTime": "23 August 2025 07:30 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/131997_5489_NOR_MIDD_fc-web.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/131997_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/131997_5489_NOR_MIDD_fc-web.jpg",
-                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/131997_5489_NOR_MIDD_fc-web.jpg",
-                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/07/EFl-Championship.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/131997_5489_NOR_MIDD_fc-web.jpg",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/131997_5489_NOR_MIDD_fc-app.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/131997_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "name": "Norwich City",
-                    "shortName": "NOR",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-NORC@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#beb511",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": {
-                        "points": 1,
-                        "goals": [
-                            {
-                                "id": "215476",
-                                "shortName": "J Sargent",
-                                "isOwnGoal": false,
-                                "goalTime": "85'"
-                            }
-                        ]
-                    },
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "Middlesbrough",
-                    "shortName": "MIDD",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-MIDDB@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#e62722",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": {
-                        "points": 2,
-                        "goals": [
-                            {
-                                "id": "232416",
-                                "shortName": "F Azaz",
-                                "isOwnGoal": false,
-                                "goalTime": "43'"
-                            },
-                            {
-                                "id": "472312",
-                                "shortName": "T Conway",
-                                "isOwnGoal": false,
-                                "goalTime": "45'"
-                            }
-                        ]
-                    },
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/131997_english_hls_c8b9fdb08512172ta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/FmZjuQKuQjW-LyLJOMwi_Q/master.m3u8",
-            "STREAMING_CDN": {
-                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/131997_english_hls_c8b9fdb08512172ta-di_h264/index.m3u8",
-                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/131997_english_hls_c8b9fdb08512172ta-di_h264/index.m3u8",
-                "dai_google_cdn": "https://dai.google.com/linear/hls/event/FmZjuQKuQjW-LyLJOMwi_Q/master.m3u8",
                 "cloudfront_cdn": "Unavailable",
                 "language": "ENGLISH"
             }
@@ -1109,6 +1012,313 @@
             }
         },
         {
+            "category": "Golf",
+            "title": "Main Feed   Day 3",
+            "tournament": "Tour Championship",
+            "match_id": 134084,
+            "status": "LIVE",
+            "streamingStatus": "STARTED",
+            "startTime": "23 August 2025 09:45 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Tour_Championship_Old_match_card_1.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/134084_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/Tour_Championship_Old_match_card_1.jpg",
+                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/Tour_Championship_Old_match_card_1.jpg",
+                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Tour-Championship-Tour-Logo.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Golf_Fallback_Old_match-card.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Tour_Championship_Old_match_card_1.jpg",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Championship_Sporty_match-card.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/134084_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "name": "Main Feed - Day 3",
+                    "shortName": "Main Feed - Day 3",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-TCG@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#62646a",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "East Lake Golf Course",
+                    "shortName": "East Lake Golf Course",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#141414",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/134084_english_hls_13169ed34553946ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/NOFUb8GwTV6f8KIeGpEcvg/master.m3u8",
+            "STREAMING_CDN": {
+                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/134084_english_hls_13169ed34553946ta-di_h264/index.m3u8",
+                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/134084_english_hls_13169ed34553946ta-di_h264/index.m3u8",
+                "dai_google_cdn": "https://dai.google.com/linear/hls/event/NOFUb8GwTV6f8KIeGpEcvg/master.m3u8",
+                "cloudfront_cdn": "Unavailable",
+                "language": "ENGLISH"
+            }
+        },
+        {
+            "category": "Golf",
+            "title": "Marquee Group   Day 3",
+            "tournament": "Tour Championship",
+            "match_id": 134082,
+            "status": "LIVE",
+            "streamingStatus": "STARTED",
+            "startTime": "23 August 2025 09:45 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Tour_Championship_Old_match_card_1.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/134082_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/Tour_Championship_Old_match_card_1.jpg",
+                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/Tour_Championship_Old_match_card_1.jpg",
+                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Tour-Championship-Tour-Logo.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Golf_Fallback_Old_match-card.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Tour_Championship_Old_match_card_1.jpg",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Championship_Sporty_match-card.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/134082_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "name": "Marquee Group - Day 3",
+                    "shortName": "Marquee Group - Day 3",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-TCG@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#62646a",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "East Lake Golf Course",
+                    "shortName": "East Lake Golf Course",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#141414",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/134082_english_hls_da30551c5776043ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/jv7SikArQ3Wj0vyVmF0Jew/master.m3u8",
+            "STREAMING_CDN": {
+                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/134082_english_hls_da30551c5776043ta-di_h264/index.m3u8",
+                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/134082_english_hls_da30551c5776043ta-di_h264/index.m3u8",
+                "dai_google_cdn": "https://dai.google.com/linear/hls/event/jv7SikArQ3Wj0vyVmF0Jew/master.m3u8",
+                "cloudfront_cdn": "Unavailable",
+                "language": "ENGLISH"
+            }
+        },
+        {
+            "category": "Football",
+            "title": "Norwich City Vs Middlesbrough",
+            "tournament": "EFL Championship 2025-26",
+            "match_id": 131997,
+            "status": "COMPLETED",
+            "streamingStatus": "STARTED",
+            "startTime": "23 August 2025 07:30 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/131997_5489_NOR_MIDD_fc-web.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/131997_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/131997_5489_NOR_MIDD_fc-web.jpg",
+                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/131997_5489_NOR_MIDD_fc-web.jpg",
+                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/07/EFl-Championship.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/131997_5489_NOR_MIDD_fc-web.jpg",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/131997_5489_NOR_MIDD_fc-app.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/131997_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "name": "Norwich City",
+                    "shortName": "NOR",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-NORC@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#beb511",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": {
+                        "points": 1,
+                        "goals": [
+                            {
+                                "id": "215476",
+                                "shortName": "J Sargent",
+                                "isOwnGoal": false,
+                                "goalTime": "85'"
+                            }
+                        ]
+                    },
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "Middlesbrough",
+                    "shortName": "MIDD",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-MIDDB@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#e62722",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": {
+                        "points": 2,
+                        "goals": [
+                            {
+                                "id": "232416",
+                                "shortName": "F Azaz",
+                                "isOwnGoal": false,
+                                "goalTime": "43'"
+                            },
+                            {
+                                "id": "472312",
+                                "shortName": "T Conway",
+                                "isOwnGoal": false,
+                                "goalTime": "45'"
+                            }
+                        ]
+                    },
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/131997_english_hls_c8b9fdb08512172ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/FmZjuQKuQjW-LyLJOMwi_Q/master.m3u8",
+            "STREAMING_CDN": {
+                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/131997_english_hls_c8b9fdb08512172ta-di_h264/index.m3u8",
+                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/131997_english_hls_c8b9fdb08512172ta-di_h264/index.m3u8",
+                "dai_google_cdn": "https://dai.google.com/linear/hls/event/FmZjuQKuQjW-LyLJOMwi_Q/master.m3u8",
+                "cloudfront_cdn": "Unavailable",
+                "language": "ENGLISH"
+            }
+        },
+        {
+            "category": "Cricket",
+            "title": "London Spirit Vs Southern Brave",
+            "tournament": "The Hundred, 2025",
+            "match_id": 135840,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "23 August 2025 10:30 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/132247_5505_LNS_SOB_fc-web.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/135840_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/132247_5505_LNS_SOB_fc-web.jpg",
+                "PLAYBACK": null,
+                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/06/The-Hundred_Tour-Logo.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/132247_5505_LNS_SOB_fc-web.jpg",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/132247_5505_LNS_SOB_fc-app.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/135840_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "name": "London Spirit",
+                    "shortName": "LNS",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-LONDS@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#1a7ee4",
+                    "cricketScore": [],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "Southern Brave",
+                    "shortName": "SOB",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SOUTHB@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#97c8a5",
+                    "cricketScore": [],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "STREAMING_CDN": {
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
+            }
+        },
+        {
             "category": "Cricket",
             "title": "India A Women Vs Australia A Women",
             "tournament": "India A Women tour of Australia, 2025",
@@ -1180,74 +1390,6 @@
                             "wickets": 10
                         }
                     ],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
-            }
-        },
-        {
-            "category": "Cricket",
-            "title": "London Spirit Vs Southern Brave",
-            "tournament": "The Hundred, 2025",
-            "match_id": 135840,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "23 August 2025 10:30 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/132247_5505_LNS_SOB_fc-web.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/135840_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/132247_5505_LNS_SOB_fc-web.jpg",
-                "PLAYBACK": null,
-                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/06/The-Hundred_Tour-Logo.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/132247_5505_LNS_SOB_fc-web.jpg",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/132247_5505_LNS_SOB_fc-app.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/135840_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "name": "London Spirit",
-                    "shortName": "LNS",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-LONDS@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#1a7ee4",
-                    "cricketScore": [],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "Southern Brave",
-                    "shortName": "SOB",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SOUTHB@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#97c8a5",
-                    "cricketScore": [],
                     "kabaddiScore": null,
                     "footballScore": null,
                     "basketBallScore": null,
@@ -1663,6 +1805,90 @@
                     "status": {
                         "cricket": {
                             "isBatting": false
+                        }
+                    }
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "STREAMING_CDN": {
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
+            }
+        },
+        {
+            "category": "Cricket",
+            "title": "University Of Queensland Vs Western Suburbs",
+            "tournament": "KFC T20 Max, 2025",
+            "match_id": 134881,
+            "status": "COMPLETED",
+            "streamingStatus": "COMPLETED",
+            "startTime": "23 August 2025 08:45 AM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/134881_5623_WSS_UOQ_Fc-Web_1755807575994.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/134881_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/134881_5623_WSS_UOQ_Fc-Web_1755807575994.jpg",
+                "PLAYBACK": null,
+                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/08/KFC-T20-Max-Competition-2024-Tour-Logo.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/134881_5623_WSS_UOQ_Fc-Web_1755807575994.jpg",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/134881_5623_WSS_UOQ_FC-App_1755807588855.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/134881_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "name": "University Of Queensland",
+                    "shortName": "UOQ",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-UOQ@2x.png"
+                    },
+                    "isWinner": false,
+                    "color": "#dfa61e",
+                    "cricketScore": [
+                        {
+                            "runs": 161,
+                            "overs": "20",
+                            "balls": "120",
+                            "status": "COMPLETED",
+                            "wickets": 3
+                        }
+                    ],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "Western Suburbs",
+                    "shortName": "WSS",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WSS@2x.png"
+                    },
+                    "isWinner": true,
+                    "color": "#2581B3",
+                    "cricketScore": [
+                        {
+                            "runs": 163,
+                            "overs": "18.2",
+                            "balls": "110",
+                            "status": "IN_PROGRESS",
+                            "wickets": 1
+                        }
+                    ],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": true
                         }
                     }
                 }
@@ -2811,210 +3037,6 @@
                     },
                     "isWinner": null,
                     "color": "#141414",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
-            }
-        },
-        {
-            "category": "Cricket",
-            "title": "Yalla Shabab Giants Vs Royal Oman Stallions",
-            "tournament": "Oman D20 League, 2025",
-            "match_id": 133690,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "24 August 2025 05:00 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/133690_5590_YSG_ROS_fc-Web.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/133690_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/133690_5590_YSG_ROS_fc-Web.jpg",
-                "PLAYBACK": null,
-                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2023/12/Tour-Placeholder.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/133690_5590_YSG_ROS_fc-Web.jpg",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/133690_5590_YSG_ROS_fc-App.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/133690_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "name": "Yalla Shabab Giants",
-                    "shortName": "YSG",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-YSG@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#D11919",
-                    "cricketScore": [],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "Royal Oman Stallions",
-                    "shortName": "ROS",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ROS@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#d3b252",
-                    "cricketScore": [],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
-            }
-        },
-        {
-            "category": "Cricket",
-            "title": "Manchester Originals Vs Birmingham Phoenix",
-            "tournament": "The Hundred, 2025",
-            "match_id": 132249,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "24 August 2025 10:30 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/132249_5505_MNR_BPH_fc-web.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/132249_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/132249_5505_MNR_BPH_fc-web.jpg",
-                "PLAYBACK": null,
-                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/06/The-Hundred_Tour-Logo.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/132249_5505_MNR_BPH_fc-web.jpg",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/132249_5505_MNR_BPH_fc-app.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/132249_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "name": "Manchester Originals",
-                    "shortName": "MNR",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MANCO@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#adb6b9",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "Birmingham Phoenix",
-                    "shortName": "BPH",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BIRM@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#e87c03",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
-            }
-        },
-        {
-            "category": "Kabaddi",
-            "title": "Kurnool Knights Vs Vizianagaram Ninjas",
-            "tournament": "Yuva Andhra Championship, 2025",
-            "match_id": 133741,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "24 August 2025 10:15 AM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/133724_5591_VN_KKK_fc-Web.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/133741_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/133724_5591_VN_KKK_fc-Web.jpg",
-                "PLAYBACK": null,
-                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Yuva-Andhra-Championship,-2025-Tour-Logo.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Kabaddi-old-min.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/133724_5591_VN_KKK_fc-Web.jpg",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/133724_5591_VN_KKK_Fc-App.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/133741_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "name": "Kurnool Knights",
-                    "shortName": "KKK",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/kb-flags/FC-KT@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#e4bea2",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "Vizianagaram Ninjas",
-                    "shortName": "VN",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/kb-flags/FC-VN@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#205d7e",
                     "cricketScore": null,
                     "kabaddiScore": null,
                     "footballScore": null,
