@@ -1,14 +1,14 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "08:26:53 AM 23-08-2025",
+    "last_updated": "08:30:57 AM 23-08-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
     "total_matches": 39,
-    "live_matches": 5,
-    "upcoming_matches": 34,
+    "live_matches": 6,
+    "upcoming_matches": 33,
     "matches": [
         {
             "category": "Cricket",
@@ -48,8 +48,8 @@
                             "wickets": 10
                         },
                         {
-                            "runs": 48,
-                            "overs": "13.4",
+                            "runs": 58,
+                            "overs": "15",
                             "balls": "0",
                             "status": "IN_PROGRESS",
                             "wickets": 1
@@ -162,9 +162,9 @@
                     "color": "#CC0001",
                     "cricketScore": [
                         {
-                            "runs": 97,
-                            "overs": "10.2",
-                            "balls": "62",
+                            "runs": 105,
+                            "overs": "11",
+                            "balls": "66",
                             "status": "IN_PROGRESS",
                             "wickets": 6
                         }
@@ -249,9 +249,9 @@
                     "color": "#CC0001",
                     "cricketScore": [
                         {
-                            "runs": 97,
-                            "overs": "10.2",
-                            "balls": "62",
+                            "runs": 105,
+                            "overs": "11",
+                            "balls": "66",
                             "status": "IN_PROGRESS",
                             "wickets": 6
                         }
@@ -352,6 +352,77 @@
             "STREAMING_CDN": {
                 "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/133528_english_hls_2677102b426078adfreeta-di_h264/index.m3u8",
                 "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/133528_english_hls_2677102b426078adfreeta-di_h264/index.m3u8",
+                "dai_google_cdn": "Unavailable",
+                "cloudfront_cdn": "Unavailable",
+                "language": "ENGLISH"
+            }
+        },
+        {
+            "category": "Cricket",
+            "title": "Western Suburbs Vs University Of Queensland",
+            "tournament": "KFC T20 Max, 2025",
+            "match_id": 134881,
+            "status": "NOT_STARTED",
+            "streamingStatus": "STARTED",
+            "startTime": "23 August 2025 08:45 AM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/134881_5623_WSS_UOQ_Fc-Web_1755807575994.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/134881_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/134881_5623_WSS_UOQ_Fc-Web_1755807575994.jpg",
+                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/134881_5623_WSS_UOQ_Fc-Web_1755807575994.jpg",
+                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/08/KFC-T20-Max-Competition-2024-Tour-Logo.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/134881_5623_WSS_UOQ_Fc-Web_1755807575994.jpg",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/134881_5623_WSS_UOQ_FC-App_1755807588855.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/134881_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "name": "Western Suburbs",
+                    "shortName": "WSS",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WSS@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#2581B3",
+                    "cricketScore": [],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "University Of Queensland",
+                    "shortName": "UOQ",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-UOQ@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#dfa61e",
+                    "cricketScore": [],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/134881_english_hls_a68c6ee96f67827adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Unavailable",
+            "STREAMING_CDN": {
+                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/134881_english_hls_a68c6ee96f67827adfreeta-di_h264/index.m3u8",
+                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/134881_english_hls_a68c6ee96f67827adfreeta-di_h264/index.m3u8",
                 "dai_google_cdn": "Unavailable",
                 "cloudfront_cdn": "Unavailable",
                 "language": "ENGLISH"
@@ -1088,74 +1159,6 @@
                     },
                     "isWinner": null,
                     "color": "#97c8a5",
-                    "cricketScore": [],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
-            }
-        },
-        {
-            "category": "Cricket",
-            "title": "Western Suburbs Vs University Of Queensland",
-            "tournament": "KFC T20 Max, 2025",
-            "match_id": 134881,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "23 August 2025 08:45 AM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/134881_5623_WSS_UOQ_Fc-Web_1755807575994.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/134881_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/134881_5623_WSS_UOQ_Fc-Web_1755807575994.jpg",
-                "PLAYBACK": null,
-                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/08/KFC-T20-Max-Competition-2024-Tour-Logo.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/134881_5623_WSS_UOQ_Fc-Web_1755807575994.jpg",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/134881_5623_WSS_UOQ_FC-App_1755807588855.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/134881_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "name": "Western Suburbs",
-                    "shortName": "WSS",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WSS@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#2581B3",
-                    "cricketScore": [],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "University Of Queensland",
-                    "shortName": "UOQ",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-UOQ@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#dfa61e",
                     "cricketScore": [],
                     "kabaddiScore": null,
                     "footballScore": null,
