@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "09:46:54 AM 23-08-2025",
+    "last_updated": "09:54:54 AM 23-08-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -162,11 +162,11 @@
                     "color": "#771ad2",
                     "cricketScore": [
                         {
-                            "runs": 70,
-                            "overs": "9",
-                            "balls": "54",
+                            "runs": 99,
+                            "overs": "12",
+                            "balls": "72",
                             "status": "IN_PROGRESS",
-                            "wickets": 1
+                            "wickets": 2
                         }
                     ],
                     "kabaddiScore": null,
@@ -267,7 +267,7 @@
             "title": "Australian Capital Territory Vs Melbourne Stars Academy",
             "tournament": "Top End T20 Series, 2025",
             "match_id": 133529,
-            "status": "NOT_STARTED",
+            "status": "LIVE",
             "streamingStatus": "STARTED",
             "startTime": "23 August 2025 10:00 AM",
             "startDate": "01 January 1970 05:30 AM",
