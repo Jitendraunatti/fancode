@@ -1,7 +1,7 @@
 #EXTM3U
 #DEVELOPED_BY_JITENDRA_PRO_DEV
 #AUTHOR:-JITENDRA_KUMAR
-#DATE:- Saturday 23 August, 2025 at 6:10:53 pm
+#DATE:- Saturday 23 August, 2025 at 6:18:54 pm
 #EXTINF:-1 tvg-id="133880" tvg-name="Kochi Blue Tigers Vs Alleppey Ripples" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/133880_5600_KBT_AP_fc-Web_1755771731183.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Kochi Blue Tigers Vs Alleppey Ripples
 https://in-mc-fdlive.fancode.com/mumbai/133880_english_hls_7bdeaa46307601ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="133880" tvg-name="Kochi Blue Tigers Vs Alleppey Ripples" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/133880_5600_KBT_AP_fc-Web_1755771731183.jpg" tvg-language="MALAYALAM" group-title="Cricket",MAL | Kochi Blue Tigers Vs Alleppey Ripples
@@ -16,6 +16,8 @@ https://in-mc-fdlive.fancode.com/mumbai/133788_english_hls_4338f004933111ta-di_h
 https://in-mc-fdlive.fancode.com/mumbai/133688_english_hls_4daecfe50489632ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="131995" tvg-name="Charlton Athletic Vs Leicester City" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131995_5489_CHL_LEI_fc-web.jpg" tvg-language="ENGLISH" group-title="Football",ENG | Charlton Athletic Vs Leicester City
 https://in-mc-fdlive.fancode.com/mumbai/131995_english_hls_a3d435f86c65781ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
+#EXTINF:-1 tvg-id="132784" tvg-name="Amaravathi Royals Vs Tungabhadra Warriors" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/132765_5529_AMR_TBW_fc-Web.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Amaravathi Royals Vs Tungabhadra Warriors
+https://in-mc-fdlive.fancode.com/mumbai/132784_english_hls_6836e85d787762ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="133740" tvg-name="Tirupati Raiders Vs Vizianagaram Ninjas" tvg-logo="https://images.fancode.com/aig/match/v1/133740_CASACARDS_APP.png" tvg-language="ENGLISH" group-title="Kabaddi",ENG | Tirupati Raiders Vs Vizianagaram Ninjas
 https://in-mc-pdlive.fancode.com/mumbai/133740_english_hls_9f84930db254175ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="119163" tvg-name="Hungary Gp" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Moto-GP_Hungary_old_Match-card.jpg" tvg-language="ENGLISH" group-title="MotoGP",ENG | Hungary Gp
