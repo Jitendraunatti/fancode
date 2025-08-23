@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "07:03:05 PM 23-08-2025",
+    "last_updated": "07:10:56 PM 23-08-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -41,9 +41,9 @@
                     "color": "#b8a61d",
                     "cricketScore": [
                         {
-                            "runs": 20,
-                            "overs": "1.5",
-                            "balls": "11",
+                            "runs": 27,
+                            "overs": "3",
+                            "balls": "18",
                             "status": "IN_PROGRESS",
                             "wickets": 0
                         }
@@ -120,9 +120,9 @@
                     "color": "#b8a61d",
                     "cricketScore": [
                         {
-                            "runs": 20,
-                            "overs": "1.5",
-                            "balls": "11",
+                            "runs": 27,
+                            "overs": "3",
+                            "balls": "18",
                             "status": "IN_PROGRESS",
                             "wickets": 0
                         }
@@ -199,11 +199,11 @@
                     "color": "#a0a0d4",
                     "cricketScore": [
                         {
-                            "runs": 2,
-                            "overs": "0.2",
-                            "balls": "2",
+                            "runs": 13,
+                            "overs": "2.4",
+                            "balls": "14",
                             "status": "IN_PROGRESS",
-                            "wickets": 0
+                            "wickets": 1
                         }
                     ],
                     "kabaddiScore": null,
@@ -349,9 +349,9 @@
                     "color": "#b9a3c7",
                     "cricketScore": [
                         {
-                            "runs": 6,
-                            "overs": "0.4",
-                            "balls": "4",
+                            "runs": 21,
+                            "overs": "2.4",
+                            "balls": "14",
                             "status": "IN_PROGRESS",
                             "wickets": 0
                         }
@@ -387,12 +387,12 @@
                 }
             ],
             "language": "ENGLISH",
-            "adfree_stream": null,
-            "dai_stream": "Unavailable",
+            "adfree_stream": "https://dai.google.com/linear/hls/event/HynNobMPSu6nQCgpxsK0lQ/master.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/HynNobMPSu6nQCgpxsK0lQ/master.m3u8",
             "STREAMING_CDN": {
-                "Primary_Playback_URL": null,
+                "Primary_Playback_URL": "https://dai.google.com/linear/hls/event/HynNobMPSu6nQCgpxsK0lQ/master.m3u8",
                 "fancode_cdn": "Unavailable",
-                "dai_google_cdn": "Unavailable",
+                "dai_google_cdn": "https://dai.google.com/linear/hls/event/HynNobMPSu6nQCgpxsK0lQ/master.m3u8",
                 "cloudfront_cdn": "Unavailable",
                 "language": "ENGLISH"
             }
@@ -402,7 +402,7 @@
             "title": "Bengaluru Blasters Vs Gulbarga Mystics",
             "tournament": "Maharaja T20 Trophy, 2025",
             "match_id": 132810,
-            "status": "NOT_STARTED",
+            "status": "LIVE",
             "streamingStatus": "STARTED",
             "startTime": "23 August 2025 07:15 PM",
             "startDate": "01 January 1970 05:30 AM",
@@ -657,9 +657,9 @@
                     "color": "#d0b648",
                     "cricketScore": [
                         {
-                            "runs": 70,
-                            "overs": "6",
-                            "balls": "36",
+                            "runs": 82,
+                            "overs": "7.3",
+                            "balls": "45",
                             "status": "IN_PROGRESS",
                             "wickets": 1
                         }
@@ -710,7 +710,7 @@
             "title": "Netherlands Women Vs Germany Women",
             "tournament": "ICC Women\u2019s T20 WC Europe Qualifier Division 1",
             "match_id": 133752,
-            "status": "NOT_STARTED",
+            "status": "LIVE",
             "streamingStatus": "STARTED",
             "startTime": "23 August 2025 07:15 PM",
             "startDate": "01 January 1970 05:30 AM",
