@@ -1,7 +1,7 @@
 #EXTM3U
 #DEVELOPED_BY_JITENDRA_PRO_DEV
 #AUTHOR:-JITENDRA_KUMAR
-#DATE:- Saturday 23 August, 2025 at 10:11:01 pm
+#DATE:- Saturday 23 August, 2025 at 10:19:05 pm
 #EXTINF:-1 tvg-id="133881" tvg-name="Thrissur Titans Vs Calicut Globstars" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/133881_5600_TT_CG_fc-Web_1755771731159.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Thrissur Titans Vs Calicut Globstars
 https://in-mc-fdlive.fancode.com/mumbai/133881_english_hls_2a156dd5d930438ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="133881" tvg-name="Thrissur Titans Vs Calicut Globstars" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/133881_5600_TT_CG_fc-Web_1755771731159.jpg" tvg-language="MALAYALAM" group-title="Cricket",MAL | Thrissur Titans Vs Calicut Globstars
@@ -10,10 +10,6 @@ https://in-mc-fdlive.fancode.com/mumbai/133881_malayalam_hls_cc7d7df2fd51184ta-d
 https://in-mc-fdlive.fancode.com/mumbai/132810_english_hls_da5a863a4485513ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="133788" tvg-name="Kuwait Vs Jersey" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/133788_4464_KUW_JER_fc-Web.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Kuwait Vs Jersey
 https://in-mc-fdlive.fancode.com/mumbai/133788_english_hls_4338f004933111ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
-#EXTINF:-1 tvg-id="132784" tvg-name="Amaravathi Royals Vs Tungabhadra Warriors" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/132765_5529_AMR_TBW_fc-Web.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Amaravathi Royals Vs Tungabhadra Warriors
-https://in-mc-fdlive.fancode.com/mumbai/132784_english_hls_6836e85d787762ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
-#EXTINF:-1 tvg-id="133752" tvg-name="Netherlands Women Vs Germany Women" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/133752_5592_ND-W_GER-W_fc-web.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Netherlands Women Vs Germany Women
-https://in-mc-fdlive.fancode.com/mumbai/133752_english_hls_eb41a2213c24980ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="133689" tvg-name="Royal Oman Stallions Vs Majees Titans" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/133689_5590_ROS_MAT_fc-Web.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Royal Oman Stallions Vs Majees Titans
 https://in-mc-fdlive.fancode.com/mumbai/133689_english_hls_d5ece8af9656119ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="132173" tvg-name="Khan Zalmi Kings Vs Tally Rangers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/KCC-T10-Summer-League,-2025_match-card.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Khan Zalmi Kings Vs Tally Rangers
@@ -28,3 +24,7 @@ https://in-mc-fdlive.fancode.com/mumbai/134084_english_hls_13169ed34553946ta-di_
 https://in-mc-fdlive.fancode.com/mumbai/134082_english_hls_da30551c5776043ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="134081" tvg-name="Featured Holes   Day 3" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Tour_Championship_Old_match_card_1.jpg" tvg-language="ENGLISH" group-title="Golf",ENG | Featured Holes   Day 3
 https://in-mc-fdlive.fancode.com/mumbai/134081_english_hls_eab5dae1a990994ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
+#EXTINF:-1 tvg-id="134085" tvg-name="World Feed   Day 3" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Tour_Championship_Old_match_card_1.jpg" tvg-language="ENGLISH" group-title="Golf",ENG | World Feed   Day 3
+https://in-mc-fdlive.fancode.com/mumbai/134085_english_hls_07ffbb950019575ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
+#EXTINF:-1 tvg-id="132784" tvg-name="Amaravathi Royals Vs Tungabhadra Warriors" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/132765_5529_AMR_TBW_fc-Web.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Amaravathi Royals Vs Tungabhadra Warriors
+https://in-mc-fdlive.fancode.com/mumbai/132784_english_hls_6836e85d787762ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
