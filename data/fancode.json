@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "11:38:54 AM 23-08-2025",
+    "last_updated": "11:46:53 AM 23-08-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -48,8 +48,8 @@
                             "wickets": 10
                         },
                         {
-                            "runs": 242,
-                            "overs": "61.3",
+                            "runs": 249,
+                            "overs": "64.5",
                             "balls": "0",
                             "status": "IN_PROGRESS",
                             "wickets": 7
@@ -206,11 +206,11 @@
                     "color": "#0a8435",
                     "cricketScore": [
                         {
-                            "runs": 59,
-                            "overs": "8.5",
-                            "balls": "53",
+                            "runs": 158,
+                            "overs": "19.4",
+                            "balls": "118",
                             "status": "IN_PROGRESS",
-                            "wickets": 4
+                            "wickets": 8
                         }
                     ],
                     "kabaddiScore": null,
@@ -259,7 +259,7 @@
             "title": "Vizag Commandos Vs Kakinada Kraken",
             "tournament": "Yuva Andhra Championship, 2025",
             "match_id": 133738,
-            "status": "NOT_STARTED",
+            "status": "LIVE",
             "streamingStatus": "STARTED",
             "startTime": "23 August 2025 11:45 AM",
             "startDate": "01 January 1970 05:30 AM",
@@ -284,7 +284,12 @@
                     "isWinner": null,
                     "color": "#c2c8fd",
                     "cricketScore": null,
-                    "kabaddiScore": null,
+                    "kabaddiScore": {
+                        "points": 0,
+                        "onFieldPlayers": 7,
+                        "totalFieldPlayers": 7,
+                        "raiding": true
+                    },
                     "footballScore": null,
                     "basketBallScore": null,
                     "hockeyScore": null,
@@ -303,7 +308,12 @@
                     "isWinner": null,
                     "color": "#c1c1c1",
                     "cricketScore": null,
-                    "kabaddiScore": null,
+                    "kabaddiScore": {
+                        "points": 0,
+                        "onFieldPlayers": 7,
+                        "totalFieldPlayers": 7,
+                        "raiding": null
+                    },
                     "footballScore": null,
                     "basketBallScore": null,
                     "hockeyScore": null,
