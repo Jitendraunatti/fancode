@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "05:02:38 PM 23-08-2025",
+    "last_updated": "05:10:36 PM 23-08-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -68,9 +68,9 @@
                     "color": "#8e5bf0",
                     "cricketScore": [
                         {
-                            "runs": 45,
-                            "overs": "6.2",
-                            "balls": "38",
+                            "runs": 51,
+                            "overs": "7.5",
+                            "balls": "47",
                             "status": "IN_PROGRESS",
                             "wickets": 1
                         }
@@ -155,9 +155,9 @@
                     "color": "#8e5bf0",
                     "cricketScore": [
                         {
-                            "runs": 45,
-                            "overs": "6.2",
-                            "balls": "38",
+                            "runs": 51,
+                            "overs": "7.5",
+                            "balls": "47",
                             "status": "IN_PROGRESS",
                             "wickets": 1
                         }
@@ -321,9 +321,9 @@
                     "color": "#b9a3c7",
                     "cricketScore": [
                         {
-                            "runs": 0,
-                            "overs": "1.1",
-                            "balls": "6",
+                            "runs": 12,
+                            "overs": "3.1",
+                            "balls": "16",
                             "status": "IN_PROGRESS",
                             "wickets": 0
                         }
@@ -408,11 +408,11 @@
                     "color": "#df787f",
                     "cricketScore": [
                         {
-                            "runs": 80,
-                            "overs": "14.1",
-                            "balls": "85",
+                            "runs": 89,
+                            "overs": "16.1",
+                            "balls": "97",
                             "status": "IN_PROGRESS",
-                            "wickets": 5
+                            "wickets": 6
                         }
                     ],
                     "kabaddiScore": null,
@@ -468,9 +468,9 @@
                     "color": "#5a8543",
                     "cricketScore": [
                         {
-                            "runs": 83,
-                            "overs": "23",
-                            "balls": "138",
+                            "runs": 92,
+                            "overs": "25.4",
+                            "balls": "154",
                             "status": "IN_PROGRESS",
                             "wickets": 3
                         }
@@ -518,7 +518,7 @@
         },
         {
             "category": "Cricket",
-            "title": "Renaissance Challengers Vs Ias Invincibles",
+            "title": "Ias Invincibles Vs Renaissance Challengers",
             "tournament": "Oman D20 League, 2025",
             "match_id": 133688,
             "status": "LIVE",
@@ -538,25 +538,6 @@
             },
             "teams": [
                 {
-                    "name": "Renaissance Challengers",
-                    "shortName": "RNC",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RNC@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#bb4335",
-                    "cricketScore": [],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
                     "name": "IAS Invincibles",
                     "shortName": "IAI",
                     "flag": {
@@ -564,6 +545,33 @@
                     },
                     "isWinner": null,
                     "color": "#138bc2",
+                    "cricketScore": [
+                        {
+                            "runs": 2,
+                            "overs": "0.1",
+                            "balls": "1",
+                            "status": "IN_PROGRESS",
+                            "wickets": 0
+                        }
+                    ],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": true
+                        }
+                    }
+                },
+                {
+                    "name": "Renaissance Challengers",
+                    "shortName": "RNC",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RNC@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#bb4335",
                     "cricketScore": [],
                     "kabaddiScore": null,
                     "footballScore": null,
@@ -1121,7 +1129,7 @@
             "title": "North Delhi Strikers Vs East Delhi Riders",
             "tournament": "Delhi Premier League, 2025",
             "match_id": 132494,
-            "status": "LIVE",
+            "status": "ABANDONED",
             "streamingStatus": "COMPLETED",
             "startTime": "23 August 2025 02:00 PM",
             "startDate": "01 January 1970 05:30 AM",
@@ -1965,6 +1973,74 @@
         },
         {
             "category": "Cricket",
+            "title": "Calicut Globstars Vs Adani Trivandrum Royals",
+            "tournament": "Kerala Cricket League, 2025",
+            "match_id": 133882,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "24 August 2025 02:30 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/133882_5600_CG_TR_fc-Web_1755771731184.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/133882_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/133882_5600_CG_TR_fc-Web_1755771731184.jpg",
+                "PLAYBACK": null,
+                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Kerala-Cricket-League-Tour-Logo-(1).png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/133882_5600_CG_TR_fc-Web_1755771731184.jpg",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/133882_5600_CG_TR_fc-App_1755771692387.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/133882_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "name": "Calicut Globstars",
+                    "shortName": "CG",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CGKL@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#D26617",
+                    "cricketScore": [],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "Adani Trivandrum Royals",
+                    "shortName": "TR",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TRK@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#74B8E1",
+                    "cricketScore": [],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "STREAMING_CDN": {
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
+            }
+        },
+        {
+            "category": "Cricket",
             "title": "Netherlands Women Vs Germany Women",
             "tournament": "ICC Women\u2019s T20 WC Europe Qualifier Division 1",
             "match_id": 133752,
@@ -2079,74 +2155,6 @@
                     },
                     "isWinner": null,
                     "color": "#d8c50f",
-                    "cricketScore": [],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
-            }
-        },
-        {
-            "category": "Cricket",
-            "title": "Calicut Globstars Vs Adani Trivandrum Royals",
-            "tournament": "Kerala Cricket League, 2025",
-            "match_id": 133882,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "24 August 2025 02:30 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/133882_5600_CG_TR_fc-Web_1755771731184.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/133882_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/133882_5600_CG_TR_fc-Web_1755771731184.jpg",
-                "PLAYBACK": null,
-                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Kerala-Cricket-League-Tour-Logo-(1).png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/133882_5600_CG_TR_fc-Web_1755771731184.jpg",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/133882_5600_CG_TR_fc-App_1755771692387.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/133882_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "name": "Calicut Globstars",
-                    "shortName": "CG",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CGKL@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#D26617",
-                    "cricketScore": [],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "Adani Trivandrum Royals",
-                    "shortName": "TR",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TRK@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#74B8E1",
                     "cricketScore": [],
                     "kabaddiScore": null,
                     "footballScore": null,
@@ -2645,6 +2653,74 @@
         },
         {
             "category": "Cricket",
+            "title": "Welsh Fire Women Vs Trent Rockets Women",
+            "tournament": "The Hundred Women, 2025",
+            "match_id": 132282,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "24 August 2025 03:30 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/132282_5506_WEF-W_TRT-W_Fc-Web.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/132282_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/132282_5506_WEF-W_TRT-W_Fc-Web.jpg",
+                "PLAYBACK": null,
+                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/06/The-Hundred_Tour-Logo.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/132282_5506_WEF-W_TRT-W_Fc-Web.jpg",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/132282_5506_WEF-W_TRT-W_Fc-App.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/132282_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "name": "Welsh Fire Women",
+                    "shortName": "WEF-W",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WELFS@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#eb9ba1",
+                    "cricketScore": [],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "Trent Rockets Women",
+                    "shortName": "TRT-W",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TRENR@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#d09b8a",
+                    "cricketScore": [],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "STREAMING_CDN": {
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
+            }
+        },
+        {
+            "category": "Cricket",
             "title": "Tbc Vs Tbc",
             "tournament": "Top End T20 Series, 2025",
             "match_id": 133532,
@@ -2759,74 +2835,6 @@
                     },
                     "isWinner": null,
                     "color": "#dcdcdc",
-                    "cricketScore": [],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
-            }
-        },
-        {
-            "category": "Cricket",
-            "title": "Welsh Fire Women Vs Trent Rockets Women",
-            "tournament": "The Hundred Women, 2025",
-            "match_id": 132282,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "24 August 2025 03:30 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/132282_5506_WEF-W_TRT-W_Fc-Web.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/132282_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/132282_5506_WEF-W_TRT-W_Fc-Web.jpg",
-                "PLAYBACK": null,
-                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/06/The-Hundred_Tour-Logo.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/132282_5506_WEF-W_TRT-W_Fc-Web.jpg",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/132282_5506_WEF-W_TRT-W_Fc-App.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/132282_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "name": "Welsh Fire Women",
-                    "shortName": "WEF-W",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WELFS@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#eb9ba1",
-                    "cricketScore": [],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "Trent Rockets Women",
-                    "shortName": "TRT-W",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TRENR@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#d09b8a",
                     "cricketScore": [],
                     "kabaddiScore": null,
                     "footballScore": null,
