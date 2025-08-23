@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "08:03:03 PM 23-08-2025",
+    "last_updated": "08:10:52 PM 23-08-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -41,9 +41,9 @@
                     "color": "#b8a61d",
                     "cricketScore": [
                         {
-                            "runs": 126,
-                            "overs": "13",
-                            "balls": "78",
+                            "runs": 146,
+                            "overs": "14.5",
+                            "balls": "89",
                             "status": "IN_PROGRESS",
                             "wickets": 2
                         }
@@ -120,9 +120,9 @@
                     "color": "#b8a61d",
                     "cricketScore": [
                         {
-                            "runs": 126,
-                            "overs": "13",
-                            "balls": "78",
+                            "runs": 146,
+                            "overs": "14.5",
+                            "balls": "89",
                             "status": "IN_PROGRESS",
                             "wickets": 2
                         }
@@ -199,11 +199,11 @@
                     "color": "#a0a0d4",
                     "cricketScore": [
                         {
-                            "runs": 115,
-                            "overs": "17.3",
-                            "balls": "88",
+                            "runs": 125,
+                            "overs": "19.4",
+                            "balls": "99",
                             "status": "IN_PROGRESS",
-                            "wickets": 6
+                            "wickets": 7
                         }
                     ],
                     "kabaddiScore": null,
@@ -349,9 +349,9 @@
                     "color": "#b9a3c7",
                     "cricketScore": [
                         {
-                            "runs": 145,
-                            "overs": "16.1",
-                            "balls": "81",
+                            "runs": 171,
+                            "overs": "18.1",
+                            "balls": "91",
                             "status": "IN_PROGRESS",
                             "wickets": 3
                         }
@@ -428,11 +428,11 @@
                     "color": "#16b9b7",
                     "cricketScore": [
                         {
-                            "runs": 62,
-                            "overs": "9",
-                            "balls": "54",
+                            "runs": 64,
+                            "overs": "9.5",
+                            "balls": "59",
                             "status": "IN_PROGRESS",
-                            "wickets": 4
+                            "wickets": 5
                         }
                     ],
                     "kabaddiScore": null,
@@ -534,9 +534,9 @@
                     "color": "#D7B524",
                     "cricketScore": [
                         {
-                            "runs": 45,
-                            "overs": "11.1",
-                            "balls": "67",
+                            "runs": 57,
+                            "overs": "13.4",
+                            "balls": "82",
                             "status": "IN_PROGRESS",
                             "wickets": 1
                         }
@@ -621,11 +621,11 @@
                     "color": "#bb4335",
                     "cricketScore": [
                         {
-                            "runs": 91,
-                            "overs": "11",
-                            "balls": "66",
+                            "runs": 118,
+                            "overs": "14.2",
+                            "balls": "86",
                             "status": "IN_PROGRESS",
-                            "wickets": 2
+                            "wickets": 3
                         }
                     ],
                     "kabaddiScore": null,
@@ -681,11 +681,11 @@
                     "color": "#d0b648",
                     "cricketScore": [
                         {
-                            "runs": 163,
-                            "overs": "17.1",
-                            "balls": "103",
+                            "runs": 178,
+                            "overs": "18.3",
+                            "balls": "111",
                             "status": "IN_PROGRESS",
-                            "wickets": 5
+                            "wickets": 6
                         }
                     ],
                     "kabaddiScore": null,
@@ -760,9 +760,9 @@
                     "color": "#2c5ab3",
                     "cricketScore": [
                         {
-                            "runs": 118,
-                            "overs": "10.2",
-                            "balls": "62",
+                            "runs": 153,
+                            "overs": "12",
+                            "balls": "72",
                             "status": "IN_PROGRESS",
                             "wickets": 1
                         }
@@ -2828,35 +2828,35 @@
             }
         },
         {
-            "category": "Football",
-            "title": "Real Zaragoza Vs Fc Andorra",
-            "tournament": "LALIGA Hypermotion 2025-26",
-            "match_id": 134944,
+            "category": "Cricket",
+            "title": "Papua New Guinea Vs Kuwait",
+            "tournament": "ICC CWC Challenge League A, 2024-26",
+            "match_id": 133790,
             "status": "NOT_STARTED",
             "streamingStatus": "NOT_STARTED",
-            "startTime": "24 August 2025 01:00 AM",
+            "startTime": "24 August 2025 03:30 PM",
             "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/134944_5572_RZ_AND_fc-Web.jpg",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/133790_4464_PNG_KUW_fc-Web.jpg",
             "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/134944_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/134944_5572_RZ_AND_fc-Web.jpg",
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/133790_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/133790_4464_PNG_KUW_fc-Web.jpg",
                 "PLAYBACK": null,
-                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/LaLiga_Hypermotionv-Tour-Logo.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/134944_5572_RZ_AND_fc-Web.jpg",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/134944_5572_RZ_AND_fc-App.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/134944_CASACARDS_PARTNER_16_9_1920_1080.png"
+                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/09/ICC-Mens-Cricket-World-Cup-Challenge-League-Tour-Logo.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/133790_4464_PNG_KUW_fc-Web.jpg",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/133790_4464_PNG_KUW_fc-App_1755587753225.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/133790_CASACARDS_PARTNER_16_9_1920_1080.png"
             },
             "teams": [
                 {
-                    "name": "Real Zaragoza",
-                    "shortName": "RZ",
+                    "name": "Papua New Guinea",
+                    "shortName": "PNG",
                     "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/DEF-FT1@2x.png"
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PNG@2x.png"
                     },
                     "isWinner": null,
-                    "color": "#B8142D",
-                    "cricketScore": null,
+                    "color": "#f8dd5a",
+                    "cricketScore": [],
                     "kabaddiScore": null,
                     "footballScore": null,
                     "basketBallScore": null,
@@ -2868,14 +2868,14 @@
                     }
                 },
                 {
-                    "name": "FC Andorra",
-                    "shortName": "AND",
+                    "name": "Kuwait",
+                    "shortName": "KUW",
                     "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/DEF-FT13@2x.png"
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KUW@2x.png"
                     },
                     "isWinner": null,
-                    "color": "#141414",
-                    "cricketScore": null,
+                    "color": "#5a8543",
+                    "cricketScore": [],
                     "kabaddiScore": null,
                     "footballScore": null,
                     "basketBallScore": null,
