@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "10:02:56 AM 23-08-2025",
+    "last_updated": "10:11:01 AM 23-08-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -48,8 +48,8 @@
                             "wickets": 10
                         },
                         {
-                            "runs": 144,
-                            "overs": "34",
+                            "runs": 150,
+                            "overs": "36.1",
                             "balls": "0",
                             "status": "IN_PROGRESS",
                             "wickets": 4
@@ -162,11 +162,11 @@
                     "color": "#771ad2",
                     "cricketScore": [
                         {
-                            "runs": 99,
-                            "overs": "12",
-                            "balls": "72",
+                            "runs": 116,
+                            "overs": "16",
+                            "balls": "96",
                             "status": "IN_PROGRESS",
-                            "wickets": 2
+                            "wickets": 5
                         }
                     ],
                     "kabaddiScore": null,
@@ -264,7 +264,7 @@
         },
         {
             "category": "Cricket",
-            "title": "Australian Capital Territory Vs Melbourne Stars Academy",
+            "title": "Melbourne Stars Academy Vs Australian Capital Territory",
             "tournament": "Top End T20 Series, 2025",
             "match_id": 133529,
             "status": "LIVE",
@@ -284,25 +284,6 @@
             },
             "teams": [
                 {
-                    "name": "Australian Capital Territory",
-                    "shortName": "ACT",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ACY@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#D9C113",
-                    "cricketScore": [],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
                     "name": "Melbourne Stars Academy",
                     "shortName": "MSA",
                     "flag": {
@@ -310,6 +291,33 @@
                     },
                     "isWinner": null,
                     "color": "#0a8435",
+                    "cricketScore": [
+                        {
+                            "runs": 8,
+                            "overs": "1",
+                            "balls": "6",
+                            "status": "IN_PROGRESS",
+                            "wickets": 1
+                        }
+                    ],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": true
+                        }
+                    }
+                },
+                {
+                    "name": "Australian Capital Territory",
+                    "shortName": "ACT",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ACY@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#D9C113",
                     "cricketScore": [],
                     "kabaddiScore": null,
                     "footballScore": null,
