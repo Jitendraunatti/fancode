@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "07:26:56 PM 23-08-2025",
+    "last_updated": "07:30:53 PM 23-08-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -41,9 +41,9 @@
                     "color": "#b8a61d",
                     "cricketScore": [
                         {
-                            "runs": 54,
-                            "overs": "6",
-                            "balls": "36",
+                            "runs": 63,
+                            "overs": "6.4",
+                            "balls": "41",
                             "status": "IN_PROGRESS",
                             "wickets": 1
                         }
@@ -120,9 +120,9 @@
                     "color": "#b8a61d",
                     "cricketScore": [
                         {
-                            "runs": 54,
-                            "overs": "6",
-                            "balls": "36",
+                            "runs": 63,
+                            "overs": "6.4",
+                            "balls": "41",
                             "status": "IN_PROGRESS",
                             "wickets": 1
                         }
@@ -199,9 +199,9 @@
                     "color": "#a0a0d4",
                     "cricketScore": [
                         {
-                            "runs": 36,
-                            "overs": "7",
-                            "balls": "35",
+                            "runs": 43,
+                            "overs": "8.1",
+                            "balls": "41",
                             "status": "IN_PROGRESS",
                             "wickets": 3
                         }
@@ -349,11 +349,11 @@
                     "color": "#b9a3c7",
                     "cricketScore": [
                         {
-                            "runs": 76,
-                            "overs": "7.3",
-                            "balls": "38",
+                            "runs": 79,
+                            "overs": "8.3",
+                            "balls": "43",
                             "status": "IN_PROGRESS",
-                            "wickets": 0
+                            "wickets": 1
                         }
                     ],
                     "kabaddiScore": null,
@@ -428,9 +428,9 @@
                     "color": "#16b9b7",
                     "cricketScore": [
                         {
-                            "runs": 24,
-                            "overs": "2.3",
-                            "balls": "15",
+                            "runs": 39,
+                            "overs": "3.3",
+                            "balls": "21",
                             "status": "IN_PROGRESS",
                             "wickets": 0
                         }
@@ -534,9 +534,9 @@
                     "color": "#D7B524",
                     "cricketScore": [
                         {
-                            "runs": 1,
-                            "overs": "1.2",
-                            "balls": "8",
+                            "runs": 2,
+                            "overs": "2.5",
+                            "balls": "17",
                             "status": "IN_PROGRESS",
                             "wickets": 1
                         }
@@ -681,9 +681,9 @@
                     "color": "#d0b648",
                     "cricketScore": [
                         {
-                            "runs": 104,
-                            "overs": "11",
-                            "balls": "66",
+                            "runs": 110,
+                            "overs": "12",
+                            "balls": "72",
                             "status": "IN_PROGRESS",
                             "wickets": 2
                         }
@@ -760,9 +760,9 @@
                     "color": "#2c5ab3",
                     "cricketScore": [
                         {
-                            "runs": 22,
-                            "overs": "2.4",
-                            "balls": "16",
+                            "runs": 29,
+                            "overs": "3.2",
+                            "balls": "20",
                             "status": "IN_PROGRESS",
                             "wickets": 0
                         }
@@ -1391,6 +1391,74 @@
             }
         },
         {
+            "category": "Football",
+            "title": "Mallorca Vs Celta De Vigo",
+            "tournament": "LALIGA 2025-26",
+            "match_id": 130848,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "23 August 2025 08:30 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Mallorca-VS-Celta-de-Vigo_Old_match-card.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/130848_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/Mallorca-VS-Celta-de-Vigo_Old_match-card.jpg",
+                "PLAYBACK": null,
+                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/LALIGA-2025-26-Tour.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Mallorca-VS-Celta-de-Vigo_Old_match-card.jpg",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Mallorca-VS-Celta-de-Vigo_Match_card_4V4.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/130848_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "name": "Mallorca",
+                    "shortName": "MRC",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-MRC@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#FBCCD1",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "Celta de Vigo",
+                    "shortName": "CEV",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-CEV@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#b1d4f5",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "STREAMING_CDN": {
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
+            }
+        },
+        {
             "category": "Cricket",
             "title": "New Delhi Tigers Vs Central Delhi Kings",
             "tournament": "Delhi Premier League, 2025",
@@ -1847,74 +1915,6 @@
                     "isWinner": null,
                     "color": "#bf9737",
                     "cricketScore": [],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
-            }
-        },
-        {
-            "category": "Football",
-            "title": "Mallorca Vs Celta De Vigo",
-            "tournament": "LALIGA 2025-26",
-            "match_id": 130848,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "23 August 2025 08:30 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Mallorca-VS-Celta-de-Vigo_Old_match-card.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/130848_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/Mallorca-VS-Celta-de-Vigo_Old_match-card.jpg",
-                "PLAYBACK": null,
-                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/LALIGA-2025-26-Tour.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Mallorca-VS-Celta-de-Vigo_Old_match-card.jpg",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Mallorca-VS-Celta-de-Vigo_Match_card_4V4.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/130848_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "name": "Mallorca",
-                    "shortName": "MRC",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-MRC@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#FBCCD1",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "Celta de Vigo",
-                    "shortName": "CEV",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-CEV@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#b1d4f5",
-                    "cricketScore": null,
                     "kabaddiScore": null,
                     "footballScore": null,
                     "basketBallScore": null,
@@ -2820,34 +2820,34 @@
         },
         {
             "category": "Cricket",
-            "title": "Papua New Guinea Vs Kuwait",
-            "tournament": "ICC CWC Challenge League A, 2024-26",
-            "match_id": 133790,
+            "title": "Antigua & Barbuda Falcons Vs St Kitts And Nevis Patriots",
+            "tournament": "Caribbean Premier League, 2025",
+            "match_id": 132356,
             "status": "NOT_STARTED",
             "streamingStatus": "NOT_STARTED",
-            "startTime": "24 August 2025 03:30 PM",
+            "startTime": "24 August 2025 08:30 PM",
             "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/133790_4464_PNG_KUW_fc-Web.jpg",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/132356_5512_ABF_SKN_fc-web.jpg",
             "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/133790_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/133790_4464_PNG_KUW_fc-Web.jpg",
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/132356_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/132356_5512_ABF_SKN_fc-web.jpg",
                 "PLAYBACK": null,
-                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/09/ICC-Mens-Cricket-World-Cup-Challenge-League-Tour-Logo.png",
+                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/08/CPL.png",
                 "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/133790_4464_PNG_KUW_fc-Web.jpg",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/133790_4464_PNG_KUW_fc-App_1755587753225.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/133790_CASACARDS_PARTNER_16_9_1920_1080.png"
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/132356_5512_ABF_SKN_fc-web.jpg",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/132356_5512_ABF_SKN_fc-app.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/132356_CASACARDS_PARTNER_16_9_1920_1080.png"
             },
             "teams": [
                 {
-                    "name": "Papua New Guinea",
-                    "shortName": "PNG",
+                    "name": "Antigua & Barbuda Falcons",
+                    "shortName": "ABF",
                     "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PNG@2x.png"
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ABF@2x.png"
                     },
                     "isWinner": null,
-                    "color": "#f8dd5a",
-                    "cricketScore": [],
+                    "color": "#CC0001",
+                    "cricketScore": null,
                     "kabaddiScore": null,
                     "footballScore": null,
                     "basketBallScore": null,
@@ -2859,14 +2859,14 @@
                     }
                 },
                 {
-                    "name": "Kuwait",
-                    "shortName": "KUW",
+                    "name": "St Kitts and Nevis Patriots",
+                    "shortName": "SKN",
                     "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KUW@2x.png"
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SKPA@2x.png"
                     },
                     "isWinner": null,
-                    "color": "#5a8543",
-                    "cricketScore": [],
+                    "color": "#3fd379",
+                    "cricketScore": null,
                     "kabaddiScore": null,
                     "footballScore": null,
                     "basketBallScore": null,
