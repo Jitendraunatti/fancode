@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "01:54:51 AM 24-08-2025",
+    "last_updated": "02:02:51 AM 24-08-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -42,13 +42,19 @@
                     "cricketScore": null,
                     "kabaddiScore": null,
                     "footballScore": {
-                        "points": 1,
+                        "points": 2,
                         "goals": [
                             {
                                 "id": "521508",
                                 "shortName": "I Romero",
                                 "isOwnGoal": false,
                                 "goalTime": "15'"
+                            },
+                            {
+                                "id": "165375",
+                                "shortName": "JL Morales",
+                                "isOwnGoal": false,
+                                "goalTime": "52'"
                             }
                         ]
                     },
@@ -126,13 +132,19 @@
                     "cricketScore": null,
                     "kabaddiScore": null,
                     "footballScore": {
-                        "points": 1,
+                        "points": 2,
                         "goals": [
                             {
                                 "id": "521508",
                                 "shortName": "I Romero",
                                 "isOwnGoal": false,
                                 "goalTime": "15'"
+                            },
+                            {
+                                "id": "165375",
+                                "shortName": "JL Morales",
+                                "isOwnGoal": false,
+                                "goalTime": "52'"
                             }
                         ]
                     },
@@ -210,13 +222,19 @@
                     "cricketScore": null,
                     "kabaddiScore": null,
                     "footballScore": {
-                        "points": 1,
+                        "points": 2,
                         "goals": [
                             {
                                 "id": "521508",
                                 "shortName": "I Romero",
                                 "isOwnGoal": false,
                                 "goalTime": "15'"
+                            },
+                            {
+                                "id": "165375",
+                                "shortName": "JL Morales",
+                                "isOwnGoal": false,
+                                "goalTime": "52'"
                             }
                         ]
                     },
@@ -2768,62 +2786,54 @@
             }
         },
         {
-            "category": "Cricket",
-            "title": "North Delhi Strikers Vs East Delhi Riders",
-            "tournament": "Delhi Premier League, 2025",
-            "match_id": 132494,
-            "status": "ABANDONED",
-            "streamingStatus": "COMPLETED",
-            "startTime": "23 August 2025 02:00 PM",
+            "category": "Football",
+            "title": "Fc Tokyo Vs Kyoto Sanga",
+            "tournament": "J League 2025",
+            "match_id": 132084,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "24 August 2025 03:30 PM",
             "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/132494_5521_NDS_EDR_fc-Web.jpg",
+            "image": "https://images.fancode.com/aig/match/v1/132084_CASACARDS_APP.png",
             "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/132494_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/132494_5521_NDS_EDR_fc-Web.jpg",
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/132084_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://images.fancode.com/aig/match/v1/132084_CASACARDS_APP.png",
                 "PLAYBACK": null,
-                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/DPL_Tour_Logo.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/132494_5521_NDS_EDR_fc-Web.jpg",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/132494_5521_NDS_EDR_fc-App.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/132494_CASACARDS_PARTNER_16_9_1920_1080.png"
+                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2023/04/J-League_2023.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
+                "BG_IMAGE": "https://images.fancode.com/aig/match/v1/132084_CASACARDS_APP.png",
+                "SPORT_BY_IMAGE": "https://images.fancode.com/aig/match/v1/132084_CASACARDS_SPORTY_APP.png",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/132084_CASACARDS_PARTNER_16_9_1920_1080.png"
             },
             "teams": [
                 {
-                    "name": "North Delhi Strikers",
-                    "shortName": "NDS",
+                    "name": "FC Tokyo",
+                    "shortName": "TKY",
                     "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NDS@2x.png"
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-TYO@2x.png"
                     },
                     "isWinner": null,
-                    "color": "#4686c7",
-                    "cricketScore": [
-                        {
-                            "runs": 8,
-                            "overs": "0.2",
-                            "balls": "2",
-                            "status": "IN_PROGRESS",
-                            "wickets": 0
-                        }
-                    ],
+                    "color": "#1a39a8",
+                    "cricketScore": null,
                     "kabaddiScore": null,
                     "footballScore": null,
                     "basketBallScore": null,
                     "hockeyScore": null,
                     "status": {
                         "cricket": {
-                            "isBatting": true
+                            "isBatting": false
                         }
                     }
                 },
                 {
-                    "name": "East Delhi Riders",
-                    "shortName": "EDR",
+                    "name": "Kyoto Sanga",
+                    "shortName": "KYS",
                     "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-EDR@2x.png"
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-KSN@2x.png"
                     },
                     "isWinner": null,
-                    "color": "#e7993a",
-                    "cricketScore": [],
+                    "color": "#651968",
+                    "cricketScore": null,
                     "kabaddiScore": null,
                     "footballScore": null,
                     "basketBallScore": null,
