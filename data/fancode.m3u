@@ -1,11 +1,9 @@
 #EXTM3U
 #DEVELOPED_BY_JITENDRA_PRO_DEV
 #AUTHOR:-JITENDRA_KUMAR
-#DATE:- Sunday 24 August, 2025 at 12:38:54 am
+#DATE:- Sunday 24 August, 2025 at 12:46:58 am
 #EXTINF:-1 tvg-id="135840" tvg-name="London Spirit Vs Southern Brave" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/132247_5505_LNS_SOB_fc-web.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | London Spirit Vs Southern Brave
 https://dai.google.com/linear/hls/event/HynNobMPSu6nQCgpxsK0lQ/master.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
-#EXTINF:-1 tvg-id="133689" tvg-name="Royal Oman Stallions Vs Majees Titans" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/133689_5590_ROS_MAT_fc-Web.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Royal Oman Stallions Vs Majees Titans
-https://in-mc-fdlive.fancode.com/mumbai/133689_english_hls_d5ece8af9656119ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="132174" tvg-name="Ncm Investment Vs Cecc" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/KCC-T10-Summer-League,-2025_match-card.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Ncm Investment Vs Cecc
 https://in-mc-fdlive.fancode.com/mumbai/132174_english_hls_e7db028c6547496ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="130843" tvg-name="Atlético De Madrid Vs Elche" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Atletico-de-Madrid-vs-Elche_Old_match-card.jpg" tvg-language="ENGLISH" group-title="Football",ENG | Atlético De Madrid Vs Elche
@@ -16,6 +14,8 @@ https://in-mc-fdlive.fancode.com/mumbai/130847_english_hls_0ef8c162e346480ta-di_
 https://in-mc-fdlive.fancode.com/mumbai/130847_hindi_hls_c56d4cf28722320ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="130847" tvg-name="Levante Vs Barcelona" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Levante-vs-FC-Barcelona_Old_match-card.jpg" tvg-language="BENGALI" group-title="Football",BEN | Levante Vs Barcelona
 https://in-mc-fdlive.fancode.com/mumbai/130847_bengali_hls_c628b4232a99103ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
+#EXTINF:-1 tvg-id="134944" tvg-name="Real Zaragoza Vs Fc Andorra" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/134944_5572_RZ_AND_fc-Web.jpg" tvg-language="ENGLISH" group-title="Football",ENG | Real Zaragoza Vs Fc Andorra
+https://in-mc-fdlive.fancode.com/mumbai/134944_english_hls_e988465b5488941ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="133808" tvg-name="Semifinals" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/LIV-Golf-Michigan_Old_match-card.jpg" tvg-language="ENGLISH" group-title="Golf",ENG | Semifinals
 https://in-mc-fdlive.fancode.com/mumbai/133808_english_hls_13a3eb944c15553ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="134084" tvg-name="Main Feed   Day 3" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Tour_Championship_Old_match_card_1.jpg" tvg-language="ENGLISH" group-title="Golf",ENG | Main Feed   Day 3
