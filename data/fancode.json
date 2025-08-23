@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "04:02:36 PM 23-08-2025",
+    "last_updated": "04:10:39 PM 23-08-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -120,11 +120,11 @@
                     "color": "#01c0f6",
                     "cricketScore": [
                         {
-                            "runs": 146,
-                            "overs": "18",
-                            "balls": "108",
+                            "runs": 164,
+                            "overs": "19.2",
+                            "balls": "116",
                             "status": "IN_PROGRESS",
-                            "wickets": 7
+                            "wickets": 8
                         }
                     ],
                     "kabaddiScore": null,
@@ -199,11 +199,11 @@
                     "color": "#01c0f6",
                     "cricketScore": [
                         {
-                            "runs": 146,
-                            "overs": "18",
-                            "balls": "108",
+                            "runs": 164,
+                            "overs": "19.2",
+                            "balls": "116",
                             "status": "IN_PROGRESS",
-                            "wickets": 7
+                            "wickets": 8
                         }
                     ],
                     "kabaddiScore": null,
@@ -278,11 +278,11 @@
                     "color": "#ffed00",
                     "cricketScore": [
                         {
-                            "runs": 66,
-                            "overs": "9.1",
-                            "balls": "55",
+                            "runs": 72,
+                            "overs": "10.5",
+                            "balls": "65",
                             "status": "IN_PROGRESS",
-                            "wickets": 1
+                            "wickets": 2
                         }
                     ],
                     "kabaddiScore": null,
@@ -357,9 +357,9 @@
                     "color": "#b8b3ba",
                     "cricketScore": [
                         {
-                            "runs": 40,
-                            "overs": "8.4",
-                            "balls": "44",
+                            "runs": 58,
+                            "overs": "11.1",
+                            "balls": "56",
                             "status": "IN_PROGRESS",
                             "wickets": 3
                         }
@@ -463,9 +463,9 @@
                     "color": "#5438bd",
                     "cricketScore": [
                         {
-                            "runs": 103,
-                            "overs": "18",
-                            "balls": "108",
+                            "runs": 107,
+                            "overs": "18.5",
+                            "balls": "113",
                             "status": "IN_PROGRESS",
                             "wickets": 6
                         }
@@ -613,7 +613,7 @@
                             "runs": 166,
                             "overs": "20",
                             "balls": "120",
-                            "status": "IN_PROGRESS",
+                            "status": "COMPLETED",
                             "wickets": 4
                         }
                     ],
@@ -623,7 +623,7 @@
                     "hockeyScore": null,
                     "status": {
                         "cricket": {
-                            "isBatting": true
+                            "isBatting": false
                         }
                     }
                 },
@@ -635,14 +635,22 @@
                     },
                     "isWinner": null,
                     "color": "#df787f",
-                    "cricketScore": [],
+                    "cricketScore": [
+                        {
+                            "runs": 3,
+                            "overs": "1",
+                            "balls": "6",
+                            "status": "IN_PROGRESS",
+                            "wickets": 1
+                        }
+                    ],
                     "kabaddiScore": null,
                     "footballScore": null,
                     "basketBallScore": null,
                     "hockeyScore": null,
                     "status": {
                         "cricket": {
-                            "isBatting": false
+                            "isBatting": true
                         }
                     }
                 }
@@ -690,10 +698,10 @@
                     "cricketScore": [
                         {
                             "runs": 30,
-                            "overs": "7.4",
-                            "balls": "46",
+                            "overs": "9",
+                            "balls": "54",
                             "status": "IN_PROGRESS",
-                            "wickets": 1
+                            "wickets": 2
                         }
                     ],
                     "kabaddiScore": null,
@@ -769,8 +777,15 @@
                     "cricketScore": null,
                     "kabaddiScore": null,
                     "footballScore": {
-                        "points": 0,
-                        "goals": []
+                        "points": 1,
+                        "goals": [
+                            {
+                                "id": "83090",
+                                "shortName": "S Kagawa",
+                                "isOwnGoal": false,
+                                "goalTime": "35'"
+                            }
+                        ]
                     },
                     "basketBallScore": null,
                     "hockeyScore": null,
@@ -845,8 +860,8 @@
                     "color": "#e6ae3e",
                     "cricketScore": null,
                     "kabaddiScore": {
-                        "points": 7,
-                        "onFieldPlayers": 7,
+                        "points": 9,
+                        "onFieldPlayers": 3,
                         "totalFieldPlayers": 7,
                         "raiding": true
                     },
@@ -869,7 +884,7 @@
                     "color": "#e4bea2",
                     "cricketScore": null,
                     "kabaddiScore": {
-                        "points": 11,
+                        "points": 19,
                         "onFieldPlayers": 7,
                         "totalFieldPlayers": 7,
                         "raiding": null
@@ -900,7 +915,7 @@
             "title": "Yokohama F. Marinos Vs Machida Zelvia",
             "tournament": "J League 2025",
             "match_id": 132085,
-            "status": "NOT_STARTED",
+            "status": "LIVE",
             "streamingStatus": "STARTED",
             "startTime": "23 August 2025 04:00 PM",
             "startDate": "01 January 1970 05:30 AM",
@@ -926,7 +941,10 @@
                     "color": "#bd1c45",
                     "cricketScore": null,
                     "kabaddiScore": null,
-                    "footballScore": null,
+                    "footballScore": {
+                        "points": 0,
+                        "goals": []
+                    },
                     "basketBallScore": null,
                     "hockeyScore": null,
                     "status": {
@@ -945,7 +963,10 @@
                     "color": "#248eff",
                     "cricketScore": null,
                     "kabaddiScore": null,
-                    "footballScore": null,
+                    "footballScore": {
+                        "points": 0,
+                        "goals": []
+                    },
                     "basketBallScore": null,
                     "hockeyScore": null,
                     "status": {
@@ -2288,74 +2309,6 @@
             }
         },
         {
-            "category": "Football",
-            "title": "Atl\u00e9tico De Madrid Vs Elche",
-            "tournament": "LALIGA 2025-26",
-            "match_id": 130843,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "23 August 2025 11:00 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Atletico-de-Madrid-vs-Elche_Old_match-card.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/130843_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/Atletico-de-Madrid-vs-Elche_Old_match-card.jpg",
-                "PLAYBACK": null,
-                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/LALIGA-2025-26-Tour.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Atletico-de-Madrid-vs-Elche_Old_match-card.jpg",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Atletico-de-Madrid-vs-Elche_Match_card_4V4.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/130843_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "name": "Atl\u00e9tico de Madrid",
-                    "shortName": "ATL",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ATLH@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#ca2917",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "Elche",
-                    "shortName": "ELC",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/ELC-FT1@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#253611",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
-            }
-        },
-        {
             "category": "Cricket",
             "title": "New Delhi Tigers Vs Central Delhi Kings",
             "tournament": "Delhi Premier League, 2025",
@@ -2404,6 +2357,74 @@
                     "isWinner": null,
                     "color": "#0082cb",
                     "cricketScore": [],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "STREAMING_CDN": {
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
+            }
+        },
+        {
+            "category": "Football",
+            "title": "Atl\u00e9tico De Madrid Vs Elche",
+            "tournament": "LALIGA 2025-26",
+            "match_id": 130843,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "23 August 2025 11:00 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Atletico-de-Madrid-vs-Elche_Old_match-card.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/130843_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/Atletico-de-Madrid-vs-Elche_Old_match-card.jpg",
+                "PLAYBACK": null,
+                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/LALIGA-2025-26-Tour.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Atletico-de-Madrid-vs-Elche_Old_match-card.jpg",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Atletico-de-Madrid-vs-Elche_Match_card_4V4.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/130843_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "name": "Atl\u00e9tico de Madrid",
+                    "shortName": "ATL",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ATLH@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#ca2917",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "Elche",
+                    "shortName": "ELC",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/ELC-FT1@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#253611",
+                    "cricketScore": null,
                     "kabaddiScore": null,
                     "footballScore": null,
                     "basketBallScore": null,
