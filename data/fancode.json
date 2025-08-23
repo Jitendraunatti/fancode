@@ -1,14 +1,14 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "03:10:35 PM 23-08-2025",
+    "last_updated": "03:18:41 PM 23-08-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
     "total_matches": 40,
-    "live_matches": 8,
-    "upcoming_matches": 32,
+    "live_matches": 10,
+    "upcoming_matches": 30,
     "matches": [
         {
             "category": "Cricket",
@@ -120,9 +120,9 @@
                     "color": "#01c0f6",
                     "cricketScore": [
                         {
-                            "runs": 87,
-                            "overs": "6",
-                            "balls": "36",
+                            "runs": 106,
+                            "overs": "8",
+                            "balls": "48",
                             "status": "IN_PROGRESS",
                             "wickets": 3
                         }
@@ -199,9 +199,9 @@
                     "color": "#01c0f6",
                     "cricketScore": [
                         {
-                            "runs": 87,
-                            "overs": "6",
-                            "balls": "36",
+                            "runs": 106,
+                            "overs": "8",
+                            "balls": "48",
                             "status": "IN_PROGRESS",
                             "wickets": 3
                         }
@@ -249,7 +249,7 @@
         },
         {
             "category": "Cricket",
-            "title": "Hubli Tigers Vs Mysore Warriors",
+            "title": "Mysore Warriors Vs Hubli Tigers",
             "tournament": "Maharaja T20 Trophy, 2025",
             "match_id": 132809,
             "status": "LIVE",
@@ -269,25 +269,6 @@
             },
             "teams": [
                 {
-                    "name": "Hubli Tigers",
-                    "shortName": "HT",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-HBT@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#272993",
-                    "cricketScore": [],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
                     "name": "Mysore Warriors",
                     "shortName": "MW",
                     "flag": {
@@ -295,6 +276,33 @@
                     },
                     "isWinner": null,
                     "color": "#ffed00",
+                    "cricketScore": [
+                        {
+                            "runs": 2,
+                            "overs": "0.4",
+                            "balls": "4",
+                            "status": "IN_PROGRESS",
+                            "wickets": 0
+                        }
+                    ],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": true
+                        }
+                    }
+                },
+                {
+                    "name": "Hubli Tigers",
+                    "shortName": "HT",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-HBT@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#272993",
                     "cricketScore": [],
                     "kabaddiScore": null,
                     "footballScore": null,
@@ -376,9 +384,9 @@
                     "color": "#5438bd",
                     "cricketScore": [
                         {
-                            "runs": 34,
-                            "overs": "7",
-                            "balls": "42",
+                            "runs": 40,
+                            "overs": "8.4",
+                            "balls": "52",
                             "status": "IN_PROGRESS",
                             "wickets": 4
                         }
@@ -515,9 +523,9 @@
                     "color": "#32752E",
                     "cricketScore": [
                         {
-                            "runs": 74,
-                            "overs": "10",
-                            "balls": "60",
+                            "runs": 86,
+                            "overs": "11.1",
+                            "balls": "67",
                             "status": "IN_PROGRESS",
                             "wickets": 2
                         }
@@ -559,6 +567,156 @@
                 "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/133751_english_hls_4f43cfab0672640ta-di_h264/index.m3u8",
                 "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/133751_english_hls_4f43cfab0672640ta-di_h264/index.m3u8",
                 "dai_google_cdn": "https://dai.google.com/linear/hls/event/0aWe8918R6yyfskGLMh06g/master.m3u8",
+                "cloudfront_cdn": "Unavailable",
+                "language": "ENGLISH"
+            }
+        },
+        {
+            "category": "Cricket",
+            "title": "Kuwait Vs Jersey",
+            "tournament": "ICC CWC Challenge League A, 2024-26",
+            "match_id": 133788,
+            "status": "NOT_STARTED",
+            "streamingStatus": "STARTED",
+            "startTime": "23 August 2025 03:30 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/133788_4464_KUW_JER_fc-Web.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/133788_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/133788_4464_KUW_JER_fc-Web.jpg",
+                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/133788_4464_KUW_JER_fc-Web.jpg",
+                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/09/ICC-Mens-Cricket-World-Cup-Challenge-League-Tour-Logo.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/133788_4464_KUW_JER_fc-Web.jpg",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/133788_4464_KUW_JER_fc-App_1755587753213.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/133788_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "name": "Kuwait",
+                    "shortName": "KUW",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KUW@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#5a8543",
+                    "cricketScore": [
+                        {
+                            "runs": 0,
+                            "overs": "0",
+                            "balls": "0",
+                            "status": "IN_PROGRESS",
+                            "wickets": 0
+                        }
+                    ],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": true
+                        }
+                    }
+                },
+                {
+                    "name": "Jersey",
+                    "shortName": "JER",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-JERSE@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#D7B524",
+                    "cricketScore": [],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/133788_english_hls_4338f004933111ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/uAfuyW8ZT2uk7p77lfatBQ/master.m3u8",
+            "STREAMING_CDN": {
+                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/133788_english_hls_4338f004933111ta-di_h264/index.m3u8",
+                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/133788_english_hls_4338f004933111ta-di_h264/index.m3u8",
+                "dai_google_cdn": "https://dai.google.com/linear/hls/event/uAfuyW8ZT2uk7p77lfatBQ/master.m3u8",
+                "cloudfront_cdn": "Unavailable",
+                "language": "ENGLISH"
+            }
+        },
+        {
+            "category": "Football",
+            "title": "Cerezo Osaka Vs Vissel Kobe",
+            "tournament": "J League 2025",
+            "match_id": 132086,
+            "status": "NOT_STARTED",
+            "streamingStatus": "STARTED",
+            "startTime": "23 August 2025 03:30 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://images.fancode.com/aig/match/v1/132086_CASACARDS_APP.png",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/132086_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://images.fancode.com/aig/match/v1/132086_CASACARDS_APP.png",
+                "PLAYBACK": "https://images.fancode.com/aig/match/v1/132086_CASACARDS_APP.png",
+                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2023/04/J-League_2023.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
+                "BG_IMAGE": "https://images.fancode.com/aig/match/v1/132086_CASACARDS_APP.png",
+                "SPORT_BY_IMAGE": "https://images.fancode.com/aig/match/v1/132086_CASACARDS_SPORTY_APP.png",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/132086_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "name": "Cerezo Osaka",
+                    "shortName": "OSA",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-COS@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#2a2a63",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "Vissel Kobe",
+                    "shortName": "VIS",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-VKO@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#761d30",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/132086_english_hls_66e4e4b18595059ta-di_h264/index.m3u8",
+            "dai_stream": "Unavailable",
+            "STREAMING_CDN": {
+                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/132086_english_hls_66e4e4b18595059ta-di_h264/index.m3u8",
+                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/132086_english_hls_66e4e4b18595059ta-di_h264/index.m3u8",
+                "dai_google_cdn": "Unavailable",
                 "cloudfront_cdn": "Unavailable",
                 "language": "ENGLISH"
             }
@@ -1329,150 +1487,6 @@
                     "isWinner": null,
                     "color": "#311659",
                     "cricketScore": [],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
-            }
-        },
-        {
-            "category": "Cricket",
-            "title": "Kuwait Vs Jersey",
-            "tournament": "ICC CWC Challenge League A, 2024-26",
-            "match_id": 133788,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "23 August 2025 03:30 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/133788_4464_KUW_JER_fc-Web.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/133788_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/133788_4464_KUW_JER_fc-Web.jpg",
-                "PLAYBACK": null,
-                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/09/ICC-Mens-Cricket-World-Cup-Challenge-League-Tour-Logo.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/133788_4464_KUW_JER_fc-Web.jpg",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/133788_4464_KUW_JER_fc-App_1755587753213.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/133788_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "name": "Kuwait",
-                    "shortName": "KUW",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KUW@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#5a8543",
-                    "cricketScore": [
-                        {
-                            "runs": 0,
-                            "overs": "0",
-                            "balls": "0",
-                            "status": "IN_PROGRESS",
-                            "wickets": 0
-                        }
-                    ],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": true
-                        }
-                    }
-                },
-                {
-                    "name": "Jersey",
-                    "shortName": "JER",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-JERSE@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#D7B524",
-                    "cricketScore": [],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
-            }
-        },
-        {
-            "category": "Football",
-            "title": "Cerezo Osaka Vs Vissel Kobe",
-            "tournament": "J League 2025",
-            "match_id": 132086,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "23 August 2025 03:30 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://images.fancode.com/aig/match/v1/132086_CASACARDS_APP.png",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/132086_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://images.fancode.com/aig/match/v1/132086_CASACARDS_APP.png",
-                "PLAYBACK": null,
-                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2023/04/J-League_2023.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
-                "BG_IMAGE": "https://images.fancode.com/aig/match/v1/132086_CASACARDS_APP.png",
-                "SPORT_BY_IMAGE": "https://images.fancode.com/aig/match/v1/132086_CASACARDS_SPORTY_APP.png",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/132086_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "name": "Cerezo Osaka",
-                    "shortName": "OSA",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-COS@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#2a2a63",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "Vissel Kobe",
-                    "shortName": "VIS",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-VKO@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#761d30",
-                    "cricketScore": null,
                     "kabaddiScore": null,
                     "footballScore": null,
                     "basketBallScore": null,
@@ -2677,7 +2691,7 @@
                     },
                     "isWinner": null,
                     "color": "#16b9b7",
-                    "cricketScore": null,
+                    "cricketScore": [],
                     "kabaddiScore": null,
                     "footballScore": null,
                     "basketBallScore": null,
@@ -2696,7 +2710,7 @@
                     },
                     "isWinner": null,
                     "color": "#fea129",
-                    "cricketScore": null,
+                    "cricketScore": [],
                     "kabaddiScore": null,
                     "footballScore": null,
                     "basketBallScore": null,
