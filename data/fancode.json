@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "02:46:51 AM 24-08-2025",
+    "last_updated": "02:54:51 AM 24-08-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -317,109 +317,6 @@
                 "dai_google_cdn": "Unavailable",
                 "cloudfront_cdn": "Unavailable",
                 "language": "BENGALI"
-            }
-        },
-        {
-            "category": "Football",
-            "title": "Real Zaragoza Vs Fc Andorra",
-            "tournament": "LALIGA Hypermotion 2025-26",
-            "match_id": 134944,
-            "status": "LIVE",
-            "streamingStatus": "STARTED",
-            "startTime": "24 August 2025 01:00 AM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/134944_5572_RZ_AND_fc-Web.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/134944_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/134944_5572_RZ_AND_fc-Web.jpg",
-                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/134944_5572_RZ_AND_fc-Web.jpg",
-                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/LaLiga_Hypermotionv-Tour-Logo.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/134944_5572_RZ_AND_fc-Web.jpg",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/134944_5572_RZ_AND_fc-App.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/134944_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "name": "Real Zaragoza",
-                    "shortName": "RZ",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/DEF-FT1@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#B8142D",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": {
-                        "points": 1,
-                        "goals": [
-                            {
-                                "id": "539294",
-                                "shortName": "S Bazdar",
-                                "isOwnGoal": false,
-                                "goalTime": "78'"
-                            }
-                        ]
-                    },
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "FC Andorra",
-                    "shortName": "AND",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/DEF-FT13@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#141414",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": {
-                        "points": 3,
-                        "goals": [
-                            {
-                                "id": "518336",
-                                "shortName": "L Le\u00f3n",
-                                "isOwnGoal": false,
-                                "goalTime": "9'"
-                            },
-                            {
-                                "id": "508444",
-                                "shortName": "D Villahermosa",
-                                "isOwnGoal": false,
-                                "goalTime": "68'"
-                            },
-                            {
-                                "id": "538649",
-                                "shortName": "G Alonso",
-                                "isOwnGoal": false,
-                                "goalTime": "73'"
-                            }
-                        ]
-                    },
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/134944_english_hls_e988465b5488941ta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/LTYhJZlHTdirAjNEVMMvDA/master.m3u8",
-            "STREAMING_CDN": {
-                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/134944_english_hls_e988465b5488941ta-di_h264/index.m3u8",
-                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/134944_english_hls_e988465b5488941ta-di_h264/index.m3u8",
-                "dai_google_cdn": "https://dai.google.com/linear/hls/event/LTYhJZlHTdirAjNEVMMvDA/master.m3u8",
-                "cloudfront_cdn": "Unavailable",
-                "language": "ENGLISH"
             }
         },
         {
@@ -844,6 +741,109 @@
                 "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/132879_english_hls_b5e61ba78747153ta-di_h264/index.m3u8",
                 "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/132879_english_hls_b5e61ba78747153ta-di_h264/index.m3u8",
                 "dai_google_cdn": "Unavailable",
+                "cloudfront_cdn": "Unavailable",
+                "language": "ENGLISH"
+            }
+        },
+        {
+            "category": "Football",
+            "title": "Real Zaragoza Vs Fc Andorra",
+            "tournament": "LALIGA Hypermotion 2025-26",
+            "match_id": 134944,
+            "status": "COMPLETED",
+            "streamingStatus": "STARTED",
+            "startTime": "24 August 2025 01:00 AM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/134944_5572_RZ_AND_fc-Web.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/134944_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/134944_5572_RZ_AND_fc-Web.jpg",
+                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/134944_5572_RZ_AND_fc-Web.jpg",
+                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/LaLiga_Hypermotionv-Tour-Logo.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/134944_5572_RZ_AND_fc-Web.jpg",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/134944_5572_RZ_AND_fc-App.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/134944_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "name": "Real Zaragoza",
+                    "shortName": "RZ",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/DEF-FT1@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#B8142D",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": {
+                        "points": 1,
+                        "goals": [
+                            {
+                                "id": "539294",
+                                "shortName": "S Bazdar",
+                                "isOwnGoal": false,
+                                "goalTime": "78'"
+                            }
+                        ]
+                    },
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "FC Andorra",
+                    "shortName": "AND",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/DEF-FT13@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#141414",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": {
+                        "points": 3,
+                        "goals": [
+                            {
+                                "id": "518336",
+                                "shortName": "L Le\u00f3n",
+                                "isOwnGoal": false,
+                                "goalTime": "9'"
+                            },
+                            {
+                                "id": "508444",
+                                "shortName": "D Villahermosa",
+                                "isOwnGoal": false,
+                                "goalTime": "68'"
+                            },
+                            {
+                                "id": "538649",
+                                "shortName": "G Alonso",
+                                "isOwnGoal": false,
+                                "goalTime": "73'"
+                            }
+                        ]
+                    },
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/134944_english_hls_e988465b5488941ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/LTYhJZlHTdirAjNEVMMvDA/master.m3u8",
+            "STREAMING_CDN": {
+                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/134944_english_hls_e988465b5488941ta-di_h264/index.m3u8",
+                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/134944_english_hls_e988465b5488941ta-di_h264/index.m3u8",
+                "dai_google_cdn": "https://dai.google.com/linear/hls/event/LTYhJZlHTdirAjNEVMMvDA/master.m3u8",
                 "cloudfront_cdn": "Unavailable",
                 "language": "ENGLISH"
             }
@@ -2845,33 +2845,33 @@
         },
         {
             "category": "Football",
-            "title": "Fc Tokyo Vs Kyoto Sanga",
-            "tournament": "J League 2025",
-            "match_id": 132084,
+            "title": "Real Sociedad Vs Espanyol",
+            "tournament": "LALIGA 2025-26",
+            "match_id": 130849,
             "status": "NOT_STARTED",
             "streamingStatus": "NOT_STARTED",
-            "startTime": "24 August 2025 03:30 PM",
+            "startTime": "24 August 2025 11:00 PM",
             "startDate": "01 January 1970 05:30 AM",
-            "image": "https://images.fancode.com/aig/match/v1/132084_CASACARDS_APP.png",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Real-Sociedad-vs-RCD-Espanyol_Old_match-card.jpg",
             "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/132084_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://images.fancode.com/aig/match/v1/132084_CASACARDS_APP.png",
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/130849_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/Real-Sociedad-vs-RCD-Espanyol_Old_match-card.jpg",
                 "PLAYBACK": null,
-                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2023/04/J-League_2023.png",
+                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/LALIGA-2025-26-Tour.png",
                 "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
-                "BG_IMAGE": "https://images.fancode.com/aig/match/v1/132084_CASACARDS_APP.png",
-                "SPORT_BY_IMAGE": "https://images.fancode.com/aig/match/v1/132084_CASACARDS_SPORTY_APP.png",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/132084_CASACARDS_PARTNER_16_9_1920_1080.png"
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Real-Sociedad-vs-RCD-Espanyol_Old_match-card.jpg",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Real-Sociedad-vs-RCD-Espanyol_Match_card.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/130849_CASACARDS_PARTNER_16_9_1920_1080.png"
             },
             "teams": [
                 {
-                    "name": "FC Tokyo",
-                    "shortName": "TKY",
+                    "name": "Real Sociedad",
+                    "shortName": "RS",
                     "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-TYO@2x.png"
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-RSO@2x.png"
                     },
                     "isWinner": null,
-                    "color": "#1a39a8",
+                    "color": "#ae7a05",
                     "cricketScore": null,
                     "kabaddiScore": null,
                     "footballScore": null,
@@ -2884,13 +2884,13 @@
                     }
                 },
                 {
-                    "name": "Kyoto Sanga",
-                    "shortName": "KYS",
+                    "name": "Espanyol",
+                    "shortName": "ESL",
                     "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-KSN@2x.png"
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ESL@2x.png"
                     },
                     "isWinner": null,
-                    "color": "#651968",
+                    "color": "#fff3db",
                     "cricketScore": null,
                     "kabaddiScore": null,
                     "footballScore": null,
