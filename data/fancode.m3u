@@ -1,16 +1,16 @@
 #EXTM3U
 #DEVELOPED_BY_JITENDRA_PRO_DEV
 #AUTHOR:-JITENDRA_KUMAR
-#DATE:- Saturday 23 August, 2025 at 12:30:45 pm
+#DATE:- Saturday 23 August, 2025 at 12:38:36 pm
 #EXTINF:-1 tvg-id="133529" tvg-name="Melbourne Stars Academy Vs Australian Capital Territory" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/133529_5574_ACT_MSA_fc-web.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Melbourne Stars Academy Vs Australian Capital Territory
 https://in-mc-fdlive.fancode.com/mumbai/133529_english_hls_3a0bd2ac6e72984adfreeta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="133687" tvg-name="Yalla Shabab Giants Vs Muscat Thunders" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/133687_5590_YSG_MUT_fc-Web.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Yalla Shabab Giants Vs Muscat Thunders
 https://in-mc-fdlive.fancode.com/mumbai/133687_english_hls_6c1dce2ac167258ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
-#EXTINF:-1 tvg-id="133738" tvg-name="Vizag Commandos Vs Kakinada Kraken" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/133738_5591_VC_KK_fc-Web.jpg" tvg-language="ENGLISH" group-title="Kabaddi",ENG | Vizag Commandos Vs Kakinada Kraken
-https://in-mc-fdlive.fancode.com/mumbai/133738_english_hls_5bcae9b54016368ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="119163" tvg-name="Hungary Gp" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Moto-GP_Hungary_old_Match-card.jpg" tvg-language="ENGLISH" group-title="MotoGP",ENG | Hungary Gp
 https://in-mc-fdlive.fancode.com/mumbai/119163_english_hls_6b5f77b97925659ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="119163" tvg-name="Hungary Gp" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Moto-GP_Hungary_old_Match-card.jpg" tvg-language="ENGLISH" group-title="MotoGP",ENG | Hungary Gp
 https://in-mc-fdlive.fancode.com/mumbai/119163_english_hls_6b5f77b97925659ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="134993" tvg-name="Qualifying 1" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/DTM_2025_old_1755600452483.jpg" tvg-language="ENGLISH" group-title="Motorsports",ENG | Qualifying 1
 https://in-mc-fdlive.fancode.com/mumbai/134993_english_hls_06944686d962460ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
+#EXTINF:-1 tvg-id="133738" tvg-name="Vizag Commandos Vs Kakinada Kraken" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/133738_5591_VC_KK_fc-Web.jpg" tvg-language="ENGLISH" group-title="Kabaddi",ENG | Vizag Commandos Vs Kakinada Kraken
+https://in-mc-fdlive.fancode.com/mumbai/133738_english_hls_5bcae9b54016368ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
