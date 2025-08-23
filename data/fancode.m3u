@@ -1,13 +1,15 @@
 #EXTM3U
 #DEVELOPED_BY_JITENDRA_PRO_DEV
 #AUTHOR:-JITENDRA_KUMAR
-#DATE:- Saturday 23 August, 2025 at 2:54:41 pm
+#DATE:- Saturday 23 August, 2025 at 3:02:41 pm
 #EXTINF:-1 tvg-id="132494" tvg-name="North Delhi Strikers Vs East Delhi Riders" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/132494_5521_NDS_EDR_fc-Web.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | North Delhi Strikers Vs East Delhi Riders
 https://in-mc-fdlive.fancode.com/mumbai/132494_english_hls_73ea8946cf7698ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="133880" tvg-name="Kochi Blue Tigers Vs Alleppey Ripples" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/133880_5600_KBT_AP_fc-Web_1755771731183.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Kochi Blue Tigers Vs Alleppey Ripples
 https://in-mc-fdlive.fancode.com/mumbai/133880_english_hls_7bdeaa46307601ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="133880" tvg-name="Kochi Blue Tigers Vs Alleppey Ripples" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/133880_5600_KBT_AP_fc-Web_1755771731183.jpg" tvg-language="MALAYALAM" group-title="Cricket",MAL | Kochi Blue Tigers Vs Alleppey Ripples
 https://in-mc-fdlive.fancode.com/mumbai/133880_malayalam_hls_6b296b685572404ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
+#EXTINF:-1 tvg-id="132809" tvg-name="Hubli Tigers Vs Mysore Warriors" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/132809_5530_HT_MW_fc-Web_1755374792972.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Hubli Tigers Vs Mysore Warriors
+https://in-mc-fdlive.fancode.com/mumbai/132809_english_hls_fd6eb765c41326ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="133687" tvg-name="Yalla Shabab Giants Vs Muscat Thunders" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/133687_5590_YSG_MUT_fc-Web.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Yalla Shabab Giants Vs Muscat Thunders
 https://in-mc-fdlive.fancode.com/mumbai/133687_english_hls_6c1dce2ac167258ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="133530" tvg-name="Bangladesh A Vs Adelaide Strikers Academy" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/133530_5574_BN-A_ASA_fc-web.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Bangladesh A Vs Adelaide Strikers Academy
