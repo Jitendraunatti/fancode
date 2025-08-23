@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "09:02:55 AM 23-08-2025",
+    "last_updated": "09:10:54 AM 23-08-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -48,11 +48,11 @@
                             "wickets": 10
                         },
                         {
-                            "runs": 97,
-                            "overs": "24",
+                            "runs": 115,
+                            "overs": "26",
                             "balls": "0",
                             "status": "IN_PROGRESS",
-                            "wickets": 2
+                            "wickets": 3
                         }
                     ],
                     "kabaddiScore": null,
@@ -109,7 +109,7 @@
             "title": "Guyana Amazon Warriors Vs Antigua & Barbuda Falcons",
             "tournament": "Caribbean Premier League, 2025",
             "match_id": 132354,
-            "status": "LIVE",
+            "status": "COMPLETED",
             "streamingStatus": "STARTED",
             "startTime": "23 August 2025 04:30 AM",
             "startDate": "01 January 1970 05:30 AM",
@@ -196,7 +196,7 @@
             "title": "Guyana Amazon Warriors Vs Antigua & Barbuda Falcons",
             "tournament": "Caribbean Premier League, 2025",
             "match_id": 132354,
-            "status": "LIVE",
+            "status": "COMPLETED",
             "streamingStatus": "STARTED",
             "startTime": "23 August 2025 04:30 AM",
             "startDate": "01 January 1970 05:30 AM",
