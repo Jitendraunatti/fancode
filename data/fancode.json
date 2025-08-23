@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "12:46:37 PM 23-08-2025",
+    "last_updated": "12:54:35 PM 23-08-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -173,7 +173,7 @@
             "title": "Bangladesh A Vs Adelaide Strikers Academy",
             "tournament": "Top End T20 Series, 2025",
             "match_id": 133530,
-            "status": "NOT_STARTED",
+            "status": "LIVE",
             "streamingStatus": "STARTED",
             "startTime": "23 August 2025 01:00 PM",
             "startDate": "01 January 1970 05:30 AM",
