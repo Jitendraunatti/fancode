@@ -1,7 +1,7 @@
 #EXTM3U
 #DEVELOPED_BY_JITENDRA_PRO_DEV
 #AUTHOR:-JITENDRA_KUMAR
-#DATE:- Saturday 23 August, 2025 at 8:26:54 am
+#DATE:- Saturday 23 August, 2025 at 8:30:59 am
 #EXTINF:-1 tvg-id="133235" tvg-name="India A Women Vs Australia A Women" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/IND_A_vs_AUS_Womens_Old_match-card-(2).jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | India A Women Vs Australia A Women
 https://in-mc-pdlive.fancode.com/mumbai/133235_english_hls_ba3b3d673330810ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="132354" tvg-name="Guyana Amazon Warriors Vs Antigua & Barbuda Falcons" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Antigua-Barbuda-Falcons-VS-Guyana-Amazon-Warriors_old.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Guyana Amazon Warriors Vs Antigua & Barbuda Falcons
@@ -10,5 +10,7 @@ https://in-mc-fdlive.fancode.com/mumbai/132354_english_hls_03ab4def0e66997ta-di_
 https://in-mc-fdlive.fancode.com/mumbai/132354_hindi_hls_1333f0b4142288ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="133528" tvg-name="Chicago Kingsmen Vs Hobart Hurricanes Academy" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/133528_5574_CHK_HHA_fc-web.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Chicago Kingsmen Vs Hobart Hurricanes Academy
 https://in-mc-fdlive.fancode.com/mumbai/133528_english_hls_2677102b426078adfreeta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
+#EXTINF:-1 tvg-id="134881" tvg-name="Western Suburbs Vs University Of Queensland" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/134881_5623_WSS_UOQ_Fc-Web_1755807575994.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Western Suburbs Vs University Of Queensland
+https://in-mc-fdlive.fancode.com/mumbai/134881_english_hls_a68c6ee96f67827adfreeta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="132877" tvg-name="San Diego Padres Vs Los Angeles Dodgers" tvg-logo="https://images.fancode.com/aig/match/v1/132877_CASACARDS_APP.png" tvg-language="ENGLISH" group-title="Baseball",ENG | San Diego Padres Vs Los Angeles Dodgers
 https://in-mc-fdlive.fancode.com/mumbai/132877_english_hls_7b9259466639652ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
