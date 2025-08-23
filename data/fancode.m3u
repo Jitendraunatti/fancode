@@ -1,24 +1,30 @@
 #EXTM3U
 #DEVELOPED_BY_JITENDRA_PRO_DEV
 #AUTHOR:-JITENDRA_KUMAR
-#DATE:- Saturday 23 August, 2025 at 6:54:53 pm
+#DATE:- Saturday 23 August, 2025 at 7:03:06 pm
 #EXTINF:-1 tvg-id="133881" tvg-name="Thrissur Titans Vs Calicut Globstars" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/133881_5600_TT_CG_fc-Web_1755771731159.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Thrissur Titans Vs Calicut Globstars
 https://in-mc-fdlive.fancode.com/mumbai/133881_english_hls_2a156dd5d930438ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="133881" tvg-name="Thrissur Titans Vs Calicut Globstars" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/133881_5600_TT_CG_fc-Web_1755771731159.jpg" tvg-language="MALAYALAM" group-title="Cricket",MAL | Thrissur Titans Vs Calicut Globstars
 https://in-mc-fdlive.fancode.com/mumbai/133881_malayalam_hls_cc7d7df2fd51184ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
+#EXTINF:-1 tvg-id="132281" tvg-name="London Spirit Women Vs Southern Brave Women" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/132281_5506_LNS-W_SOB-W_Fc-Web.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | London Spirit Women Vs Southern Brave Women
+https://dai.google.com/linear/hls/event/YFrT82nQRjyh8HlIPYbPfw/master.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="132495" tvg-name="West Delhi Lions Vs Purani Delhi 6" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/132495_5521_WDL_PD_fc-Web.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | West Delhi Lions Vs Purani Delhi 6
 https://in-mc-fdlive.fancode.com/mumbai/132495_english_hls_7e4017ebb49033ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
+#EXTINF:-1 tvg-id="132810" tvg-name="Bengaluru Blasters Vs Gulbarga Mystics" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/132810_5530_BB_GMY_fc-Web_1755374793029.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Bengaluru Blasters Vs Gulbarga Mystics
+https://in-mc-fdlive.fancode.com/mumbai/132810_english_hls_da5a863a4485513ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="133788" tvg-name="Kuwait Vs Jersey" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/133788_4464_KUW_JER_fc-Web.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Kuwait Vs Jersey
 https://in-mc-fdlive.fancode.com/mumbai/133788_english_hls_4338f004933111ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="133688" tvg-name="Ias Invincibles Vs Renaissance Challengers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/133688_5590_RNC_IAI_fc-Web.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Ias Invincibles Vs Renaissance Challengers
 https://in-mc-fdlive.fancode.com/mumbai/133688_english_hls_4daecfe50489632ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="132784" tvg-name="Amaravathi Royals Vs Tungabhadra Warriors" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/132765_5529_AMR_TBW_fc-Web.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Amaravathi Royals Vs Tungabhadra Warriors
 https://in-mc-fdlive.fancode.com/mumbai/132784_english_hls_6836e85d787762ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
-#EXTINF:-1 tvg-id="131995" tvg-name="Charlton Athletic Vs Leicester City" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131995_5489_CHL_LEI_fc-web.jpg" tvg-language="ENGLISH" group-title="Football",ENG | Charlton Athletic Vs Leicester City
-https://in-mc-fdlive.fancode.com/mumbai/131995_english_hls_a3d435f86c65781ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
+#EXTINF:-1 tvg-id="133752" tvg-name="Netherlands Women Vs Germany Women" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/133752_5592_ND-W_GER-W_fc-web.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Netherlands Women Vs Germany Women
+https://in-mc-fdlive.fancode.com/mumbai/133752_english_hls_eb41a2213c24980ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="119163" tvg-name="Hungary Gp" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Moto-GP_Hungary_old_Match-card.jpg" tvg-language="ENGLISH" group-title="MotoGP",ENG | Hungary Gp
 https://in-mc-fdlive.fancode.com/mumbai/119163_english_hls_6b5f77b97925659ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="119163" tvg-name="Hungary Gp" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Moto-GP_Hungary_old_Match-card.jpg" tvg-language="ENGLISH" group-title="MotoGP",ENG | Hungary Gp
 https://in-mc-fdlive.fancode.com/mumbai/119163_english_hls_6b5f77b97925659ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="133911" tvg-name="Day 3" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Betfred-British-Masters_old.jpg" tvg-language="ENGLISH" group-title="Golf",ENG | Day 3
 https://in-mc-fdlive.fancode.com/mumbai/133911_english_hls_76fe12e9f260993ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
+#EXTINF:-1 tvg-id="131995" tvg-name="Charlton Athletic Vs Leicester City" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131995_5489_CHL_LEI_fc-web.jpg" tvg-language="ENGLISH" group-title="Football",ENG | Charlton Athletic Vs Leicester City
+https://in-mc-fdlive.fancode.com/mumbai/131995_english_hls_a3d435f86c65781ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
