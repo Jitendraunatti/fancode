@@ -1,4 +1,34 @@
 #EXTM3U
 #DEVELOPED_BY_JITENDRA_PRO_DEV
 #AUTHOR:-JITENDRA_KUMAR
-#DATE:- Saturday 23 August, 2025 at 4:38:44 pm
+#DATE:- Saturday 23 August, 2025 at 4:46:53 pm
+#EXTINF:-1 tvg-id="132494" tvg-name="North Delhi Strikers Vs East Delhi Riders" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/132494_5521_NDS_EDR_fc-Web.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | North Delhi Strikers Vs East Delhi Riders
+https://in-mc-fdlive.fancode.com/mumbai/132494_english_hls_73ea8946cf7698ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
+#EXTINF:-1 tvg-id="133880" tvg-name="Kochi Blue Tigers Vs Alleppey Ripples" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/133880_5600_KBT_AP_fc-Web_1755771731183.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Kochi Blue Tigers Vs Alleppey Ripples
+https://in-mc-fdlive.fancode.com/mumbai/133880_english_hls_7bdeaa46307601ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
+#EXTINF:-1 tvg-id="133880" tvg-name="Kochi Blue Tigers Vs Alleppey Ripples" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/133880_5600_KBT_AP_fc-Web_1755771731183.jpg" tvg-language="MALAYALAM" group-title="Cricket",MAL | Kochi Blue Tigers Vs Alleppey Ripples
+https://in-mc-fdlive.fancode.com/mumbai/133880_malayalam_hls_6b296b685572404ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
+#EXTINF:-1 tvg-id="132809" tvg-name="Mysore Warriors Vs Hubli Tigers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/132809_5530_HT_MW_fc-Web_1755374792972.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Mysore Warriors Vs Hubli Tigers
+https://in-mc-fdlive.fancode.com/mumbai/132809_english_hls_fd6eb765c41326ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
+#EXTINF:-1 tvg-id="132280" tvg-name="Oval Invincibles Women Vs Northern Superchargers Women" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/132280_5506_NOS-W_OVI-W_Fc-Web.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Oval Invincibles Women Vs Northern Superchargers Women
+https://dai.google.com/linear/hls/event/YFrT82nQRjyh8HlIPYbPfw/master.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
+#EXTINF:-1 tvg-id="133751" tvg-name="Ireland Women Vs Italy Women" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/133751_5592_IR-W_ITA-W_fc-web.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Ireland Women Vs Italy Women
+https://in-mc-fdlive.fancode.com/mumbai/133751_english_hls_4f43cfab0672640ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
+#EXTINF:-1 tvg-id="133788" tvg-name="Kuwait Vs Jersey" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/133788_4464_KUW_JER_fc-Web.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Kuwait Vs Jersey
+https://in-mc-fdlive.fancode.com/mumbai/133788_english_hls_4338f004933111ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
+#EXTINF:-1 tvg-id="133688" tvg-name="Renaissance Challengers Vs Ias Invincibles" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/133688_5590_RNC_IAI_fc-Web.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Renaissance Challengers Vs Ias Invincibles
+https://in-mc-fdlive.fancode.com/mumbai/133688_english_hls_4daecfe50489632ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
+#EXTINF:-1 tvg-id="131995" tvg-name="Charlton Athletic Vs Leicester City" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131995_5489_CHL_LEI_fc-web.jpg" tvg-language="ENGLISH" group-title="Football",ENG | Charlton Athletic Vs Leicester City
+https://in-mc-fdlive.fancode.com/mumbai/131995_english_hls_a3d435f86c65781ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
+#EXTINF:-1 tvg-id="132086" tvg-name="Cerezo Osaka Vs Vissel Kobe" tvg-logo="https://images.fancode.com/aig/match/v1/132086_CASACARDS_APP.png" tvg-language="ENGLISH" group-title="Football",ENG | Cerezo Osaka Vs Vissel Kobe
+https://in-mc-fdlive.fancode.com/mumbai/132086_english_hls_66e4e4b18595059ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
+#EXTINF:-1 tvg-id="133739" tvg-name="Krishna Defenders Vs Kurnool Knights" tvg-logo="https://images.fancode.com/aig/match/v1/133739_CASACARDS_APP.png" tvg-language="ENGLISH" group-title="Kabaddi",ENG | Krishna Defenders Vs Kurnool Knights
+https://in-mc-fdlive.fancode.com/mumbai/133739_english_hls_dc1292e7af40543ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
+#EXTINF:-1 tvg-id="132085" tvg-name="Yokohama F. Marinos Vs Machida Zelvia" tvg-logo="https://images.fancode.com/aig/match/v1/132085_CASACARDS_APP.png" tvg-language="ENGLISH" group-title="Football",ENG | Yokohama F. Marinos Vs Machida Zelvia
+https://in-mc-fdlive.fancode.com/mumbai/132085_english_hls_15a99ae8465310ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
+#EXTINF:-1 tvg-id="119163" tvg-name="Hungary Gp" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Moto-GP_Hungary_old_Match-card.jpg" tvg-language="ENGLISH" group-title="MotoGP",ENG | Hungary Gp
+https://in-mc-fdlive.fancode.com/mumbai/119163_english_hls_6b5f77b97925659ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
+#EXTINF:-1 tvg-id="119163" tvg-name="Hungary Gp" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Moto-GP_Hungary_old_Match-card.jpg" tvg-language="ENGLISH" group-title="MotoGP",ENG | Hungary Gp
+https://in-mc-fdlive.fancode.com/mumbai/119163_english_hls_6b5f77b97925659ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
+#EXTINF:-1 tvg-id="133911" tvg-name="Day 3" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Betfred-British-Masters_old.jpg" tvg-language="ENGLISH" group-title="Golf",ENG | Day 3
+https://in-mc-fdlive.fancode.com/mumbai/133911_english_hls_76fe12e9f260993ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
