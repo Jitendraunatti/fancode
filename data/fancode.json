@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "10:54:54 AM 23-08-2025",
+    "last_updated": "11:02:56 AM 23-08-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -48,11 +48,11 @@
                             "wickets": 10
                         },
                         {
-                            "runs": 200,
-                            "overs": "50.5",
+                            "runs": 208,
+                            "overs": "52",
                             "balls": "0",
                             "status": "IN_PROGRESS",
-                            "wickets": 4
+                            "wickets": 6
                         }
                     ],
                     "kabaddiScore": null,
@@ -206,9 +206,9 @@
                     "color": "#0a8435",
                     "cricketScore": [
                         {
-                            "runs": 10,
-                            "overs": "1.5",
-                            "balls": "11",
+                            "runs": 19,
+                            "overs": "3",
+                            "balls": "18",
                             "status": "IN_PROGRESS",
                             "wickets": 1
                         }
@@ -285,7 +285,7 @@
                     "color": "#ffcad6",
                     "cricketScore": null,
                     "kabaddiScore": {
-                        "points": 46,
+                        "points": 55,
                         "onFieldPlayers": 5,
                         "totalFieldPlayers": 7,
                         "raiding": null
@@ -309,8 +309,8 @@
                     "color": "#f9ba8d",
                     "cricketScore": null,
                     "kabaddiScore": {
-                        "points": 30,
-                        "onFieldPlayers": 6,
+                        "points": 41,
+                        "onFieldPlayers": 5,
                         "totalFieldPlayers": 7,
                         "raiding": true
                     },
