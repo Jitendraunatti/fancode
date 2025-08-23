@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "10:11:01 AM 23-08-2025",
+    "last_updated": "10:18:55 AM 23-08-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -48,8 +48,8 @@
                             "wickets": 10
                         },
                         {
-                            "runs": 150,
-                            "overs": "36.1",
+                            "runs": 158,
+                            "overs": "38.4",
                             "balls": "0",
                             "status": "IN_PROGRESS",
                             "wickets": 4
@@ -346,7 +346,7 @@
             "title": "Amaravati Crushers Vs Bhimavaram Guardians",
             "tournament": "Yuva Andhra Championship, 2025",
             "match_id": 133737,
-            "status": "NOT_STARTED",
+            "status": "LIVE",
             "streamingStatus": "STARTED",
             "startTime": "23 August 2025 10:15 AM",
             "startDate": "01 January 1970 05:30 AM",
@@ -371,7 +371,12 @@
                     "isWinner": null,
                     "color": "#ffcad6",
                     "cricketScore": null,
-                    "kabaddiScore": null,
+                    "kabaddiScore": {
+                        "points": 2,
+                        "onFieldPlayers": 6,
+                        "totalFieldPlayers": 7,
+                        "raiding": null
+                    },
                     "footballScore": null,
                     "basketBallScore": null,
                     "hockeyScore": null,
@@ -390,7 +395,12 @@
                     "isWinner": null,
                     "color": "#f9ba8d",
                     "cricketScore": null,
-                    "kabaddiScore": null,
+                    "kabaddiScore": {
+                        "points": 1,
+                        "onFieldPlayers": 6,
+                        "totalFieldPlayers": 7,
+                        "raiding": true
+                    },
                     "footballScore": null,
                     "basketBallScore": null,
                     "hockeyScore": null,
