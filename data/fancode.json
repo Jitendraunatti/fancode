@@ -1,86 +1,15 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "03:26:52 AM 24-08-2025",
+    "last_updated": "03:30:48 AM 24-08-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 40,
-    "live_matches": 8,
+    "total_matches": 38,
+    "live_matches": 6,
     "upcoming_matches": 32,
     "matches": [
-        {
-            "category": "Golf",
-            "title": "Main Feed   Day 3",
-            "tournament": "Tour Championship",
-            "match_id": 134084,
-            "status": "LIVE",
-            "streamingStatus": "STARTED",
-            "startTime": "23 August 2025 09:45 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Tour_Championship_Old_match_card_1.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/134084_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/Tour_Championship_Old_match_card_1.jpg",
-                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/Tour_Championship_Old_match_card_1.jpg",
-                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Tour-Championship-Tour-Logo.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Golf_Fallback_Old_match-card.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Tour_Championship_Old_match_card_1.jpg",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Championship_Sporty_match-card.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/134084_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "name": "Main Feed - Day 3",
-                    "shortName": "Main Feed - Day 3",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-TCG@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#62646a",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "East Lake Golf Course",
-                    "shortName": "East Lake Golf Course",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#141414",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/134084_english_hls_13169ed34553946ta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/NOFUb8GwTV6f8KIeGpEcvg/master.m3u8",
-            "STREAMING_CDN": {
-                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/134084_english_hls_13169ed34553946ta-di_h264/index.m3u8",
-                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/134084_english_hls_13169ed34553946ta-di_h264/index.m3u8",
-                "dai_google_cdn": "https://dai.google.com/linear/hls/event/NOFUb8GwTV6f8KIeGpEcvg/master.m3u8",
-                "cloudfront_cdn": "Unavailable",
-                "language": "ENGLISH"
-            }
-        },
         {
             "category": "Golf",
             "title": "Marquee Group   Day 3",
@@ -442,14 +371,14 @@
             "tournament": "LALIGA 2025-26",
             "match_id": 130847,
             "status": "COMPLETED",
-            "streamingStatus": "STARTED",
+            "streamingStatus": "COMPLETED",
             "startTime": "24 August 2025 01:00 AM",
             "startDate": "01 January 1970 05:30 AM",
             "image": "https://www.fancode.com/skillup-uploads/cms-media/Levante-vs-FC-Barcelona_Old_match-card.jpg",
             "image_cdn": {
                 "TATAPLAY": "https://images.fancode.com/aig/match/v1/130847_CASACARDS_PARTNER_16_9_1920_1080.png",
                 "APP": "https://www.fancode.com/skillup-uploads/cms-media/Levante-vs-FC-Barcelona_Old_match-card.jpg",
-                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/Levante-vs-FC-Barcelona_Old_match-card.jpg",
+                "PLAYBACK": null,
                 "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/LALIGA-2025-26-Tour.png",
                 "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
                 "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Levante-vs-FC-Barcelona_Old_match-card.jpg",
@@ -534,65 +463,46 @@
                     }
                 }
             ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/130847_english_hls_0ef8c162e346480ta-di_h264/index.m3u8",
-            "dai_stream": "Unavailable",
+            "language": "BLOODY_SWEET",
+            "adfree_stream": null,
+            "dai_stream": null,
             "STREAMING_CDN": {
-                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/130847_english_hls_0ef8c162e346480ta-di_h264/index.m3u8",
-                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/130847_english_hls_0ef8c162e346480ta-di_h264/index.m3u8",
-                "dai_google_cdn": "Unavailable",
-                "cloudfront_cdn": "Unavailable",
-                "language": "ENGLISH"
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
             }
         },
         {
-            "category": "Football",
-            "title": "Levante Vs Barcelona",
-            "tournament": "LALIGA 2025-26",
-            "match_id": 130847,
-            "status": "COMPLETED",
-            "streamingStatus": "STARTED",
-            "startTime": "24 August 2025 01:00 AM",
+            "category": "Cricket",
+            "title": "Saint Lucia Kings Vs Trinbago Knight Riders",
+            "tournament": "Caribbean Premier League, 2025",
+            "match_id": 132355,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "24 August 2025 04:30 AM",
             "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Levante-vs-FC-Barcelona_Old_match-card.jpg",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/132355_5512_SLK_TKR_fc-web.jpg",
             "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/130847_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/Levante-vs-FC-Barcelona_Old_match-card.jpg",
-                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/Levante-vs-FC-Barcelona_Old_match-card.jpg",
-                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/LALIGA-2025-26-Tour.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Levante-vs-FC-Barcelona_Old_match-card.jpg",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Levante-vs-FC-Barcelona_Match_card_4V4.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/130847_CASACARDS_PARTNER_16_9_1920_1080.png"
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/132355_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/132355_5512_SLK_TKR_fc-web.jpg",
+                "PLAYBACK": null,
+                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/08/CPL.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/132355_5512_SLK_TKR_fc-web.jpg",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/132355_5512_SLK_TKR_fc-app.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/132355_CASACARDS_PARTNER_16_9_1920_1080.png"
             },
             "teams": [
                 {
-                    "name": "Levante",
-                    "shortName": "LE",
+                    "name": "Saint Lucia Kings",
+                    "shortName": "SLK",
                     "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-LET@2x.png"
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KIGS@2x.png"
                     },
                     "isWinner": null,
-                    "color": "#598bc1",
-                    "cricketScore": null,
+                    "color": "#1e6583",
+                    "cricketScore": [],
                     "kabaddiScore": null,
-                    "footballScore": {
-                        "points": 2,
-                        "goals": [
-                            {
-                                "id": "521508",
-                                "shortName": "I Romero",
-                                "isOwnGoal": false,
-                                "goalTime": "15'"
-                            },
-                            {
-                                "id": "165375",
-                                "shortName": "JL Morales",
-                                "isOwnGoal": false,
-                                "goalTime": "52'"
-                            }
-                        ]
-                    },
+                    "footballScore": null,
                     "basketBallScore": null,
                     "hockeyScore": null,
                     "status": {
@@ -602,38 +512,16 @@
                     }
                 },
                 {
-                    "name": "Barcelona",
-                    "shortName": "BAR",
+                    "name": "Trinbago Knight Riders",
+                    "shortName": "TKR",
                     "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/BAR-FT2@2x.png"
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TKRD@2x.png"
                     },
                     "isWinner": null,
-                    "color": "#fee64e",
-                    "cricketScore": null,
+                    "color": "#311659",
+                    "cricketScore": [],
                     "kabaddiScore": null,
-                    "footballScore": {
-                        "points": 3,
-                        "goals": [
-                            {
-                                "id": "490541",
-                                "shortName": "Pedri",
-                                "isOwnGoal": false,
-                                "goalTime": "49'"
-                            },
-                            {
-                                "id": "224444",
-                                "shortName": "F Torres",
-                                "isOwnGoal": false,
-                                "goalTime": "52'"
-                            },
-                            {
-                                "id": "219885",
-                                "shortName": "U Elgezabal",
-                                "isOwnGoal": true,
-                                "goalTime": "91'"
-                            }
-                        ]
-                    },
+                    "footballScore": null,
                     "basketBallScore": null,
                     "hockeyScore": null,
                     "status": {
@@ -643,124 +531,12 @@
                     }
                 }
             ],
-            "language": "HINDI",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/130847_hindi_hls_c56d4cf28722320ta-di_h264/index.m3u8",
-            "dai_stream": "Unavailable",
+            "language": "BLOODY_SWEET",
+            "adfree_stream": null,
+            "dai_stream": null,
             "STREAMING_CDN": {
-                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/130847_hindi_hls_c56d4cf28722320ta-di_h264/index.m3u8",
-                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/130847_hindi_hls_c56d4cf28722320ta-di_h264/index.m3u8",
-                "dai_google_cdn": "Unavailable",
-                "cloudfront_cdn": "Unavailable",
-                "language": "HINDI"
-            }
-        },
-        {
-            "category": "Football",
-            "title": "Levante Vs Barcelona",
-            "tournament": "LALIGA 2025-26",
-            "match_id": 130847,
-            "status": "COMPLETED",
-            "streamingStatus": "STARTED",
-            "startTime": "24 August 2025 01:00 AM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Levante-vs-FC-Barcelona_Old_match-card.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/130847_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/Levante-vs-FC-Barcelona_Old_match-card.jpg",
-                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/Levante-vs-FC-Barcelona_Old_match-card.jpg",
-                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/LALIGA-2025-26-Tour.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Levante-vs-FC-Barcelona_Old_match-card.jpg",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Levante-vs-FC-Barcelona_Match_card_4V4.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/130847_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "name": "Levante",
-                    "shortName": "LE",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-LET@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#598bc1",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": {
-                        "points": 2,
-                        "goals": [
-                            {
-                                "id": "521508",
-                                "shortName": "I Romero",
-                                "isOwnGoal": false,
-                                "goalTime": "15'"
-                            },
-                            {
-                                "id": "165375",
-                                "shortName": "JL Morales",
-                                "isOwnGoal": false,
-                                "goalTime": "52'"
-                            }
-                        ]
-                    },
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "Barcelona",
-                    "shortName": "BAR",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/BAR-FT2@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#fee64e",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": {
-                        "points": 3,
-                        "goals": [
-                            {
-                                "id": "490541",
-                                "shortName": "Pedri",
-                                "isOwnGoal": false,
-                                "goalTime": "49'"
-                            },
-                            {
-                                "id": "224444",
-                                "shortName": "F Torres",
-                                "isOwnGoal": false,
-                                "goalTime": "52'"
-                            },
-                            {
-                                "id": "219885",
-                                "shortName": "U Elgezabal",
-                                "isOwnGoal": true,
-                                "goalTime": "91'"
-                            }
-                        ]
-                    },
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                }
-            ],
-            "language": "BENGALI",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/130847_bengali_hls_c628b4232a99103ta-di_h264/index.m3u8",
-            "dai_stream": "Unavailable",
-            "STREAMING_CDN": {
-                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/130847_bengali_hls_c628b4232a99103ta-di_h264/index.m3u8",
-                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/130847_bengali_hls_c628b4232a99103ta-di_h264/index.m3u8",
-                "dai_google_cdn": "Unavailable",
-                "cloudfront_cdn": "Unavailable",
-                "language": "BENGALI"
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
             }
         },
         {
@@ -835,74 +611,6 @@
                             "wickets": 10
                         }
                     ],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
-            }
-        },
-        {
-            "category": "Cricket",
-            "title": "Saint Lucia Kings Vs Trinbago Knight Riders",
-            "tournament": "Caribbean Premier League, 2025",
-            "match_id": 132355,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "24 August 2025 04:30 AM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/132355_5512_SLK_TKR_fc-web.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/132355_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/132355_5512_SLK_TKR_fc-web.jpg",
-                "PLAYBACK": null,
-                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/08/CPL.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/132355_5512_SLK_TKR_fc-web.jpg",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/132355_5512_SLK_TKR_fc-app.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/132355_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "name": "Saint Lucia Kings",
-                    "shortName": "SLK",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KIGS@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#1e6583",
-                    "cricketScore": [],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "Trinbago Knight Riders",
-                    "shortName": "TKR",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TKRD@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#311659",
-                    "cricketScore": [],
                     "kabaddiScore": null,
                     "footballScore": null,
                     "basketBallScore": null,
@@ -2738,6 +2446,74 @@
                     },
                     "isWinner": null,
                     "color": "#c2c8fd",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "STREAMING_CDN": {
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
+            }
+        },
+        {
+            "category": "Cricket",
+            "title": "Saint Lucia Kings Vs Barbados Royals",
+            "tournament": "Caribbean Premier League, 2025",
+            "match_id": 132357,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "25 August 2025 04:30 AM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/132357_5512_SLK_BR_fc-web.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/132357_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/132357_5512_SLK_BR_fc-web.jpg",
+                "PLAYBACK": null,
+                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/08/CPL.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/132357_5512_SLK_BR_fc-web.jpg",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/132357_5512_SLK_BR_fc-app.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/132357_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "name": "Saint Lucia Kings",
+                    "shortName": "SLK",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KIGS@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#1e6583",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "Barbados Royals",
+                    "shortName": "BR",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BROL@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#621241",
                     "cricketScore": null,
                     "kabaddiScore": null,
                     "footballScore": null,
