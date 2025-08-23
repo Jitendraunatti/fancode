@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "03:54:41 PM 23-08-2025",
+    "last_updated": "04:02:36 PM 23-08-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -120,11 +120,11 @@
                     "color": "#01c0f6",
                     "cricketScore": [
                         {
-                            "runs": 136,
-                            "overs": "16.1",
-                            "balls": "97",
+                            "runs": 146,
+                            "overs": "18",
+                            "balls": "108",
                             "status": "IN_PROGRESS",
-                            "wickets": 5
+                            "wickets": 7
                         }
                     ],
                     "kabaddiScore": null,
@@ -199,11 +199,11 @@
                     "color": "#01c0f6",
                     "cricketScore": [
                         {
-                            "runs": 136,
-                            "overs": "16.1",
-                            "balls": "97",
+                            "runs": 146,
+                            "overs": "18",
+                            "balls": "108",
                             "status": "IN_PROGRESS",
-                            "wickets": 5
+                            "wickets": 7
                         }
                     ],
                     "kabaddiScore": null,
@@ -278,9 +278,9 @@
                     "color": "#ffed00",
                     "cricketScore": [
                         {
-                            "runs": 52,
-                            "overs": "7.3",
-                            "balls": "45",
+                            "runs": 66,
+                            "overs": "9.1",
+                            "balls": "55",
                             "status": "IN_PROGRESS",
                             "wickets": 1
                         }
@@ -357,11 +357,11 @@
                     "color": "#b8b3ba",
                     "cricketScore": [
                         {
-                            "runs": 28,
-                            "overs": "6.3",
-                            "balls": "33",
+                            "runs": 40,
+                            "overs": "8.4",
+                            "balls": "44",
                             "status": "IN_PROGRESS",
-                            "wickets": 2
+                            "wickets": 3
                         }
                     ],
                     "kabaddiScore": null,
@@ -463,11 +463,11 @@
                     "color": "#5438bd",
                     "cricketScore": [
                         {
-                            "runs": 80,
-                            "overs": "15",
-                            "balls": "90",
+                            "runs": 103,
+                            "overs": "18",
+                            "balls": "108",
                             "status": "IN_PROGRESS",
-                            "wickets": 5
+                            "wickets": 6
                         }
                     ],
                     "kabaddiScore": null,
@@ -689,9 +689,9 @@
                     "color": "#5a8543",
                     "cricketScore": [
                         {
-                            "runs": 19,
-                            "overs": "5.4",
-                            "balls": "34",
+                            "runs": 30,
+                            "overs": "7.4",
+                            "balls": "46",
                             "status": "IN_PROGRESS",
                             "wickets": 1
                         }
@@ -845,8 +845,8 @@
                     "color": "#e6ae3e",
                     "cricketScore": null,
                     "kabaddiScore": {
-                        "points": 4,
-                        "onFieldPlayers": 5,
+                        "points": 7,
+                        "onFieldPlayers": 7,
                         "totalFieldPlayers": 7,
                         "raiding": true
                     },
@@ -869,7 +869,7 @@
                     "color": "#e4bea2",
                     "cricketScore": null,
                     "kabaddiScore": {
-                        "points": 5,
+                        "points": 11,
                         "onFieldPlayers": 7,
                         "totalFieldPlayers": 7,
                         "raiding": null
@@ -1744,6 +1744,74 @@
             }
         },
         {
+            "category": "Football",
+            "title": "Charlton Athletic Vs Leicester City",
+            "tournament": "EFL Championship 2025-26",
+            "match_id": 131995,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "23 August 2025 05:00 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/131995_5489_CHL_LEI_fc-web.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/131995_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/131995_5489_CHL_LEI_fc-web.jpg",
+                "PLAYBACK": null,
+                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/07/EFl-Championship.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/131995_5489_CHL_LEI_fc-web.jpg",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/131995_5489_CHL_LEI_fc-app.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/131995_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "name": "Charlton Athletic",
+                    "shortName": "CHL",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-CHL@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#50E907",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "Leicester City",
+                    "shortName": "LEI",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-LEICS@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#fbc32c",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "STREAMING_CDN": {
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
+            }
+        },
+        {
             "category": "Cricket",
             "title": "Amaravathi Royals Vs Tungabhadra Warriors",
             "tournament": "Andhra Premier League, 2025",
@@ -1996,74 +2064,6 @@
                     "isWinner": null,
                     "color": "#CC1D1C",
                     "cricketScore": [],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
-            }
-        },
-        {
-            "category": "Football",
-            "title": "Charlton Athletic Vs Leicester City",
-            "tournament": "EFL Championship 2025-26",
-            "match_id": 131995,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "23 August 2025 05:00 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/131995_5489_CHL_LEI_fc-web.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/131995_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/131995_5489_CHL_LEI_fc-web.jpg",
-                "PLAYBACK": null,
-                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/07/EFl-Championship.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/131995_5489_CHL_LEI_fc-web.jpg",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/131995_5489_CHL_LEI_fc-app.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/131995_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "name": "Charlton Athletic",
-                    "shortName": "CHL",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-CHL@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#50E907",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "Leicester City",
-                    "shortName": "LEI",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-LEICS@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#fbc32c",
-                    "cricketScore": null,
                     "kabaddiScore": null,
                     "footballScore": null,
                     "basketBallScore": null,
