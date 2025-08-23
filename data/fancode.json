@@ -1,14 +1,14 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "10:19:01 PM 23-08-2025",
+    "last_updated": "10:26:58 PM 23-08-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
     "total_matches": 39,
-    "live_matches": 13,
-    "upcoming_matches": 26,
+    "live_matches": 15,
+    "upcoming_matches": 24,
     "matches": [
         {
             "category": "Cricket",
@@ -68,9 +68,9 @@
                     "color": "#D26617",
                     "cricketScore": [
                         {
-                            "runs": 107,
-                            "overs": "11",
-                            "balls": "66",
+                            "runs": 123,
+                            "overs": "12.4",
+                            "balls": "76",
                             "status": "IN_PROGRESS",
                             "wickets": 3
                         }
@@ -155,9 +155,9 @@
                     "color": "#D26617",
                     "cricketScore": [
                         {
-                            "runs": 107,
-                            "overs": "11",
-                            "balls": "66",
+                            "runs": 123,
+                            "overs": "12.4",
+                            "balls": "76",
                             "status": "IN_PROGRESS",
                             "wickets": 3
                         }
@@ -242,9 +242,9 @@
                     "color": "#2d9dbb",
                     "cricketScore": [
                         {
-                            "runs": 78,
-                            "overs": "12",
-                            "balls": "72",
+                            "runs": 113,
+                            "overs": "14.1",
+                            "balls": "85",
                             "status": "IN_PROGRESS",
                             "wickets": 2
                         }
@@ -267,6 +267,85 @@
                 "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/132810_english_hls_da5a863a4485513ta-di_h264/index.m3u8",
                 "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/132810_english_hls_da5a863a4485513ta-di_h264/index.m3u8",
                 "dai_google_cdn": "https://dai.google.com/linear/hls/event/NX8kwBemRLquJGAibLVEVA/master.m3u8",
+                "cloudfront_cdn": "Unavailable",
+                "language": "ENGLISH"
+            }
+        },
+        {
+            "category": "Cricket",
+            "title": "London Spirit Vs Southern Brave",
+            "tournament": "The Hundred, 2025",
+            "match_id": 135840,
+            "status": "LIVE",
+            "streamingStatus": "STARTED",
+            "startTime": "23 August 2025 10:30 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/132247_5505_LNS_SOB_fc-web.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/135840_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/132247_5505_LNS_SOB_fc-web.jpg",
+                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/132247_5505_LNS_SOB_fc-web.jpg",
+                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/06/The-Hundred_Tour-Logo.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/132247_5505_LNS_SOB_fc-web.jpg",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/132247_5505_LNS_SOB_fc-app.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/135840_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "name": "London Spirit",
+                    "shortName": "LNS",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-LONDS@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#1a7ee4",
+                    "cricketScore": [
+                        {
+                            "runs": 0,
+                            "overs": "0",
+                            "balls": "0",
+                            "status": "IN_PROGRESS",
+                            "wickets": 0
+                        }
+                    ],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": true
+                        }
+                    }
+                },
+                {
+                    "name": "Southern Brave",
+                    "shortName": "SOB",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SOUTHB@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#97c8a5",
+                    "cricketScore": [],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://dai.google.com/linear/hls/event/HynNobMPSu6nQCgpxsK0lQ/master.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/HynNobMPSu6nQCgpxsK0lQ/master.m3u8",
+            "STREAMING_CDN": {
+                "Primary_Playback_URL": "https://dai.google.com/linear/hls/event/HynNobMPSu6nQCgpxsK0lQ/master.m3u8",
+                "fancode_cdn": "Unavailable",
+                "dai_google_cdn": "https://dai.google.com/linear/hls/event/HynNobMPSu6nQCgpxsK0lQ/master.m3u8",
                 "cloudfront_cdn": "Unavailable",
                 "language": "ENGLISH"
             }
@@ -329,9 +408,9 @@
                     "color": "#D7B524",
                     "cricketScore": [
                         {
-                            "runs": 218,
-                            "overs": "47.1",
-                            "balls": "283",
+                            "runs": 222,
+                            "overs": "49",
+                            "balls": "294",
                             "status": "IN_PROGRESS",
                             "wickets": 7
                         }
@@ -955,6 +1034,77 @@
             }
         },
         {
+            "category": "Baseball",
+            "title": "New York Yankees Vs Boston Red Sox",
+            "tournament": "Major League Baseball, 2025",
+            "match_id": 132878,
+            "status": "LIVE",
+            "streamingStatus": "STARTED",
+            "startTime": "23 August 2025 10:35 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://images.fancode.com/aig/match/v1/132878_CASACARDS_APP.png",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/132878_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://images.fancode.com/aig/match/v1/132878_CASACARDS_APP.png",
+                "PLAYBACK": "https://images.fancode.com/aig/match/v1/132878_CASACARDS_APP.png",
+                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/04/MLB-Tour-Logo.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Baseball-1440-x-360.jpg",
+                "BG_IMAGE": "https://images.fancode.com/aig/match/v1/132878_CASACARDS_APP.png",
+                "SPORT_BY_IMAGE": "https://images.fancode.com/aig/match/v1/132878_CASACARDS_SPORTY_APP.png",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/132878_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "name": "New York Yankees",
+                    "shortName": "NEY",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-NYYAN@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#ced4e5",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "Boston Red Sox",
+                    "shortName": "BRS",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-BOSTON@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#97182d",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/132878_english_hls_f6154094a572936ta-di_h264/index.m3u8",
+            "dai_stream": "Unavailable",
+            "STREAMING_CDN": {
+                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/132878_english_hls_f6154094a572936ta-di_h264/index.m3u8",
+                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/132878_english_hls_f6154094a572936ta-di_h264/index.m3u8",
+                "dai_google_cdn": "Unavailable",
+                "cloudfront_cdn": "Unavailable",
+                "language": "ENGLISH"
+            }
+        },
+        {
             "category": "Cricket",
             "title": "Amaravathi Royals Vs Tungabhadra Warriors",
             "tournament": "Andhra Premier League, 2025",
@@ -1039,82 +1189,6 @@
                 "dai_google_cdn": "Unavailable",
                 "cloudfront_cdn": "Unavailable",
                 "language": "ENGLISH"
-            }
-        },
-        {
-            "category": "Cricket",
-            "title": "London Spirit Vs Southern Brave",
-            "tournament": "The Hundred, 2025",
-            "match_id": 135840,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "23 August 2025 10:30 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/132247_5505_LNS_SOB_fc-web.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/135840_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/132247_5505_LNS_SOB_fc-web.jpg",
-                "PLAYBACK": null,
-                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/06/The-Hundred_Tour-Logo.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/132247_5505_LNS_SOB_fc-web.jpg",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/132247_5505_LNS_SOB_fc-app.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/135840_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "name": "London Spirit",
-                    "shortName": "LNS",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-LONDS@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#1a7ee4",
-                    "cricketScore": [
-                        {
-                            "runs": 0,
-                            "overs": "0",
-                            "balls": "0",
-                            "status": "IN_PROGRESS",
-                            "wickets": 0
-                        }
-                    ],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": true
-                        }
-                    }
-                },
-                {
-                    "name": "Southern Brave",
-                    "shortName": "SOB",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SOUTHB@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#97c8a5",
-                    "cricketScore": [],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
             }
         },
         {
@@ -2753,74 +2827,6 @@
                     "isWinner": null,
                     "color": "#d3b252",
                     "cricketScore": [],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
-            }
-        },
-        {
-            "category": "Football",
-            "title": "Real Zaragoza Vs Fc Andorra",
-            "tournament": "LALIGA Hypermotion 2025-26",
-            "match_id": 134944,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "24 August 2025 01:00 AM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/134944_5572_RZ_AND_fc-Web.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/134944_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/134944_5572_RZ_AND_fc-Web.jpg",
-                "PLAYBACK": null,
-                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/LaLiga_Hypermotionv-Tour-Logo.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/134944_5572_RZ_AND_fc-Web.jpg",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/134944_5572_RZ_AND_fc-App.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/134944_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "name": "Real Zaragoza",
-                    "shortName": "RZ",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/DEF-FT1@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#B8142D",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "FC Andorra",
-                    "shortName": "AND",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/DEF-FT13@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#141414",
-                    "cricketScore": null,
                     "kabaddiScore": null,
                     "footballScore": null,
                     "basketBallScore": null,
