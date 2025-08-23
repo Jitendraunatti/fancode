@@ -1,11 +1,11 @@
 #EXTM3U
 #DEVELOPED_BY_JITENDRA_PRO_DEV
 #AUTHOR:-JITENDRA_KUMAR
-#DATE:- Saturday 23 August, 2025 at 12:10:37 pm
-#EXTINF:-1 tvg-id="133235" tvg-name="India A Women Vs Australia A Women" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/IND_A_vs_AUS_Womens_Old_match-card-(2).jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | India A Women Vs Australia A Women
-https://in-mc-pdlive.fancode.com/mumbai/133235_english_hls_ba3b3d673330810ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
+#DATE:- Saturday 23 August, 2025 at 12:18:39 pm
 #EXTINF:-1 tvg-id="133529" tvg-name="Melbourne Stars Academy Vs Australian Capital Territory" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/133529_5574_ACT_MSA_fc-web.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Melbourne Stars Academy Vs Australian Capital Territory
 https://in-mc-fdlive.fancode.com/mumbai/133529_english_hls_3a0bd2ac6e72984adfreeta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
+#EXTINF:-1 tvg-id="133687" tvg-name="Yalla Shabab Giants Vs Muscat Thunders" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/133687_5590_YSG_MUT_fc-Web.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Yalla Shabab Giants Vs Muscat Thunders
+https://in-mc-fdlive.fancode.com/mumbai/133687_english_hls_6c1dce2ac167258ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="133738" tvg-name="Vizag Commandos Vs Kakinada Kraken" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/133738_5591_VC_KK_fc-Web.jpg" tvg-language="ENGLISH" group-title="Kabaddi",ENG | Vizag Commandos Vs Kakinada Kraken
 https://in-mc-fdlive.fancode.com/mumbai/133738_english_hls_5bcae9b54016368ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="119163" tvg-name="Hungary Gp" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Moto-GP_Hungary_old_Match-card.jpg" tvg-language="ENGLISH" group-title="MotoGP",ENG | Hungary Gp
