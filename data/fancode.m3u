@@ -1,7 +1,7 @@
 #EXTM3U
 #DEVELOPED_BY_JITENDRA_PRO_DEV
 #AUTHOR:-JITENDRA_KUMAR
-#DATE:- Saturday 23 August, 2025 at 3:38:43 pm
+#DATE:- Saturday 23 August, 2025 at 3:46:47 pm
 #EXTINF:-1 tvg-id="132494" tvg-name="North Delhi Strikers Vs East Delhi Riders" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/132494_5521_NDS_EDR_fc-Web.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | North Delhi Strikers Vs East Delhi Riders
 https://in-mc-fdlive.fancode.com/mumbai/132494_english_hls_73ea8946cf7698ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="133880" tvg-name="Kochi Blue Tigers Vs Alleppey Ripples" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/133880_5600_KBT_AP_fc-Web_1755771731183.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Kochi Blue Tigers Vs Alleppey Ripples
@@ -24,6 +24,8 @@ https://in-mc-fdlive.fancode.com/mumbai/133788_english_hls_4338f004933111ta-di_h
 https://in-mc-fdlive.fancode.com/mumbai/132086_english_hls_66e4e4b18595059ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="133739" tvg-name="Krishna Defenders Vs Kurnool Knights" tvg-logo="https://images.fancode.com/aig/match/v1/133739_CASACARDS_APP.png" tvg-language="ENGLISH" group-title="Kabaddi",ENG | Krishna Defenders Vs Kurnool Knights
 https://in-mc-fdlive.fancode.com/mumbai/133739_english_hls_dc1292e7af40543ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
+#EXTINF:-1 tvg-id="132085" tvg-name="Yokohama F. Marinos Vs Machida Zelvia" tvg-logo="https://images.fancode.com/aig/match/v1/132085_CASACARDS_APP.png" tvg-language="ENGLISH" group-title="Football",ENG | Yokohama F. Marinos Vs Machida Zelvia
+https://in-mc-fdlive.fancode.com/mumbai/132085_english_hls_15a99ae8465310ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="119163" tvg-name="Hungary Gp" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Moto-GP_Hungary_old_Match-card.jpg" tvg-language="ENGLISH" group-title="MotoGP",ENG | Hungary Gp
 https://in-mc-fdlive.fancode.com/mumbai/119163_english_hls_6b5f77b97925659ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="119163" tvg-name="Hungary Gp" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Moto-GP_Hungary_old_Match-card.jpg" tvg-language="ENGLISH" group-title="MotoGP",ENG | Hungary Gp
