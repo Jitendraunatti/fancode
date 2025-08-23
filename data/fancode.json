@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "07:54:54 AM 23-08-2025",
+    "last_updated": "08:02:54 AM 23-08-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -48,8 +48,8 @@
                             "wickets": 10
                         },
                         {
-                            "runs": 22,
-                            "overs": "5.1",
+                            "runs": 26,
+                            "overs": "7.2",
                             "balls": "0",
                             "status": "IN_PROGRESS",
                             "wickets": 0
@@ -162,9 +162,9 @@
                     "color": "#CC0001",
                     "cricketScore": [
                         {
-                            "runs": 66,
-                            "overs": "4.3",
-                            "balls": "27",
+                            "runs": 77,
+                            "overs": "6",
+                            "balls": "36",
                             "status": "IN_PROGRESS",
                             "wickets": 3
                         }
@@ -249,9 +249,9 @@
                     "color": "#CC0001",
                     "cricketScore": [
                         {
-                            "runs": 66,
-                            "overs": "4.3",
-                            "balls": "27",
+                            "runs": 77,
+                            "overs": "6",
+                            "balls": "36",
                             "status": "IN_PROGRESS",
                             "wickets": 3
                         }
@@ -309,11 +309,11 @@
                     "color": "#c2a851",
                     "cricketScore": [
                         {
-                            "runs": 59,
-                            "overs": "8",
-                            "balls": "48",
+                            "runs": 94,
+                            "overs": "11",
+                            "balls": "66",
                             "status": "IN_PROGRESS",
-                            "wickets": 1
+                            "wickets": 2
                         }
                     ],
                     "kabaddiScore": null,
