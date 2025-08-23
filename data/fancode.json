@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "08:38:54 AM 23-08-2025",
+    "last_updated": "08:46:54 AM 23-08-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -48,8 +48,8 @@
                             "wickets": 10
                         },
                         {
-                            "runs": 70,
-                            "overs": "17.4",
+                            "runs": 78,
+                            "overs": "19.2",
                             "balls": "0",
                             "status": "IN_PROGRESS",
                             "wickets": 1
@@ -162,11 +162,11 @@
                     "color": "#CC0001",
                     "cricketScore": [
                         {
-                            "runs": 111,
-                            "overs": "12.2",
-                            "balls": "74",
+                            "runs": 116,
+                            "overs": "13.5",
+                            "balls": "83",
                             "status": "IN_PROGRESS",
-                            "wickets": 7
+                            "wickets": 9
                         }
                     ],
                     "kabaddiScore": null,
@@ -249,11 +249,11 @@
                     "color": "#CC0001",
                     "cricketScore": [
                         {
-                            "runs": 111,
-                            "overs": "12.2",
-                            "balls": "74",
+                            "runs": 116,
+                            "overs": "13.5",
+                            "balls": "83",
                             "status": "IN_PROGRESS",
-                            "wickets": 7
+                            "wickets": 9
                         }
                     ],
                     "kabaddiScore": null,
@@ -309,9 +309,9 @@
                     "color": "#c2a851",
                     "cricketScore": [
                         {
-                            "runs": 121,
-                            "overs": "16",
-                            "balls": "96",
+                            "runs": 135,
+                            "overs": "17",
+                            "balls": "102",
                             "status": "IN_PROGRESS",
                             "wickets": 5
                         }
