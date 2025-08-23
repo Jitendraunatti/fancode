@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "01:10:51 AM 24-08-2025",
+    "last_updated": "01:18:51 AM 24-08-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -37,7 +37,7 @@
                     "flag": {
                         "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-LONDS@2x.png"
                     },
-                    "isWinner": null,
+                    "isWinner": true,
                     "color": "#1a7ee4",
                     "cricketScore": [
                         {
@@ -64,15 +64,15 @@
                     "flag": {
                         "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SOUTHB@2x.png"
                     },
-                    "isWinner": null,
+                    "isWinner": false,
                     "color": "#97c8a5",
                     "cricketScore": [
                         {
                             "runs": 139,
-                            "overs": "18.1",
-                            "balls": "91",
+                            "overs": "18.2",
+                            "balls": "92",
                             "status": "IN_PROGRESS",
-                            "wickets": 8
+                            "wickets": 10
                         }
                     ],
                     "kabaddiScore": null,
