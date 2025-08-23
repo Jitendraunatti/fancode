@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "11:38:51 PM 23-08-2025",
+    "last_updated": "11:46:51 PM 23-08-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -41,9 +41,9 @@
                     "color": "#1a7ee4",
                     "cricketScore": [
                         {
-                            "runs": 168,
-                            "overs": "18.3",
-                            "balls": "93",
+                            "runs": 186,
+                            "overs": "20",
+                            "balls": "100",
                             "status": "IN_PROGRESS",
                             "wickets": 4
                         }
@@ -147,11 +147,11 @@
                     "color": "#d8c50f",
                     "cricketScore": [
                         {
-                            "runs": 38,
-                            "overs": "5",
-                            "balls": "30",
+                            "runs": 84,
+                            "overs": "10",
+                            "balls": "60",
                             "status": "IN_PROGRESS",
-                            "wickets": 2
+                            "wickets": 3
                         }
                     ],
                     "kabaddiScore": null,
@@ -207,11 +207,11 @@
                     "color": "#FFFF8F",
                     "cricketScore": [
                         {
-                            "runs": 0,
-                            "overs": "0",
-                            "balls": "0",
+                            "runs": 146,
+                            "overs": "10",
+                            "balls": "60",
                             "status": "IN_PROGRESS",
-                            "wickets": 0
+                            "wickets": 6
                         }
                     ],
                     "kabaddiScore": null,
