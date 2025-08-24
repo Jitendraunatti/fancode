@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "07:10:48 AM 24-08-2025",
+    "last_updated": "07:18:47 AM 24-08-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -169,9 +169,9 @@
                     "color": "#1e6583",
                     "cricketScore": [
                         {
-                            "runs": 74,
-                            "overs": "8.3",
-                            "balls": "51",
+                            "runs": 84,
+                            "overs": "10",
+                            "balls": "60",
                             "status": "IN_PROGRESS",
                             "wickets": 1
                         }
@@ -256,9 +256,9 @@
                     "color": "#1e6583",
                     "cricketScore": [
                         {
-                            "runs": 74,
-                            "overs": "8.3",
-                            "balls": "51",
+                            "runs": 84,
+                            "overs": "10",
+                            "balls": "60",
                             "status": "IN_PROGRESS",
                             "wickets": 1
                         }
@@ -316,11 +316,11 @@
                     "color": "#9a4802",
                     "cricketScore": [
                         {
-                            "runs": 81,
-                            "overs": "12.3",
-                            "balls": "75",
+                            "runs": 122,
+                            "overs": "17",
+                            "balls": "102",
                             "status": "IN_PROGRESS",
-                            "wickets": 6
+                            "wickets": 7
                         }
                     ],
                     "kabaddiScore": null,
@@ -393,14 +393,22 @@
                     },
                     "isWinner": null,
                     "color": "#c2a851",
-                    "cricketScore": [],
+                    "cricketScore": [
+                        {
+                            "runs": 49,
+                            "overs": "7",
+                            "balls": "42",
+                            "status": "IN_PROGRESS",
+                            "wickets": 2
+                        }
+                    ],
                     "kabaddiScore": null,
                     "footballScore": null,
                     "basketBallScore": null,
                     "hockeyScore": null,
                     "status": {
                         "cricket": {
-                            "isBatting": false
+                            "isBatting": true
                         }
                     }
                 },
