@@ -1,7 +1,7 @@
 #EXTM3U
 #DEVELOPED_BY_JITENDRA_PRO_DEV
 #AUTHOR:-JITENDRA_KUMAR
-#DATE:- Sunday 24 August, 2025 at 7:54:25 pm
+#DATE:- Sunday 24 August, 2025 at 8:02:29 pm
 #EXTINF:-1 tvg-id="133883" tvg-name="Aries Kollam Sailors Vs Kochi Blue Tigers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/133903_5600_AKS_KBT_fc-Web_1755771731188.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Aries Kollam Sailors Vs Kochi Blue Tigers
 https://in-mc-fdlive.fancode.com/mumbai/133883_english_hls_1778a227bb30251ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="133883" tvg-name="Aries Kollam Sailors Vs Kochi Blue Tigers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/133903_5600_AKS_KBT_fc-Web_1755771731188.jpg" tvg-language="MALAYALAM" group-title="Cricket",MAL | Aries Kollam Sailors Vs Kochi Blue Tigers
@@ -12,6 +12,10 @@ https://dai.google.com/linear/hls/event/YFrT82nQRjyh8HlIPYbPfw/master.m3u8|User-
 https://dai.google.com/linear/hls/event/HynNobMPSu6nQCgpxsK0lQ/master.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="132812" tvg-name="Mysore Warriors Vs Shivamogga Lions" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/132812_5530_SS_MW_fc-Web_1755374793076.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Mysore Warriors Vs Shivamogga Lions
 https://in-mc-fdlive.fancode.com/mumbai/132812_english_hls_91a3cf027434415ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
+#EXTINF:-1 tvg-id="132356" tvg-name="St Kitts And Nevis Patriots Vs Antigua & Barbuda Falcons" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/132356_5512_ABF_SKN_fc-web.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | St Kitts And Nevis Patriots Vs Antigua & Barbuda Falcons
+https://in-mc-fdlive.fancode.com/mumbai/132356_english_hls_54d02e7a1136612ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
+#EXTINF:-1 tvg-id="132356" tvg-name="St Kitts And Nevis Patriots Vs Antigua & Barbuda Falcons" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/132356_5512_ABF_SKN_fc-web.jpg" tvg-language="HINDI AI(BETA)" group-title="Cricket",HIN | St Kitts And Nevis Patriots Vs Antigua & Barbuda Falcons
+https://in-mc-fdlive.fancode.com/mumbai/132356_hindi_hls_1363cbf2f445621ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="133790" tvg-name="Papua New Guinea Vs Kuwait" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/133790_4464_PNG_KUW_fc-Web.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Papua New Guinea Vs Kuwait
 https://in-mc-fdlive.fancode.com/mumbai/133790_english_hls_ed7023c28e54678ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="133789" tvg-name="Kenya Vs Qatar" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/133789_4464_QAT_KEN_fc-Web.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Kenya Vs Qatar
@@ -24,5 +28,7 @@ https://in-mc-fdlive.fancode.com/mumbai/135796_english_hls_7e6441be8e98362ta-di_
 https://in-mc-fdlive.fancode.com/mumbai/132977_english_hls_d6759e4c6243814ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="133754" tvg-name="Italy Women Vs Netherlands Women" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/133754_5592_ITA-W_ND-W_fc-web.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Italy Women Vs Netherlands Women
 https://in-mc-fdlive.fancode.com/mumbai/133754_english_hls_f106cfa82d43375ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
+#EXTINF:-1 tvg-id="130844" tvg-name="Osasuna Vs Valencia" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Osasuna-vs-Valencia_Old_match-card.jpg" tvg-language="ENGLISH" group-title="Football",ENG | Osasuna Vs Valencia
+https://in-mc-fdlive.fancode.com/mumbai/130844_english_hls_eb3a12022292620adfreeta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="133912" tvg-name="Day 4" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Betfred-British-Masters_old.jpg" tvg-language="ENGLISH" group-title="Golf",ENG | Day 4
 https://in-mc-fdlive.fancode.com/mumbai/133912_english_hls_01997cc0b518011ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
