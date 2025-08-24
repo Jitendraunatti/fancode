@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "01:38:25 AM 25-08-2025",
+    "last_updated": "01:46:24 AM 25-08-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -222,8 +222,15 @@
                     "cricketScore": null,
                     "kabaddiScore": null,
                     "footballScore": {
-                        "points": 0,
-                        "goals": []
+                        "points": 1,
+                        "goals": [
+                            {
+                                "id": "220160",
+                                "shortName": "K Mbapp\u00e9",
+                                "isOwnGoal": false,
+                                "goalTime": "37'"
+                            }
+                        ]
                     },
                     "basketBallScore": null,
                     "hockeyScore": null,
@@ -299,8 +306,15 @@
                     "cricketScore": null,
                     "kabaddiScore": null,
                     "footballScore": {
-                        "points": 0,
-                        "goals": []
+                        "points": 1,
+                        "goals": [
+                            {
+                                "id": "220160",
+                                "shortName": "K Mbapp\u00e9",
+                                "isOwnGoal": false,
+                                "goalTime": "37'"
+                            }
+                        ]
                     },
                     "basketBallScore": null,
                     "hockeyScore": null,
@@ -376,8 +390,15 @@
                     "cricketScore": null,
                     "kabaddiScore": null,
                     "footballScore": {
-                        "points": 0,
-                        "goals": []
+                        "points": 1,
+                        "goals": [
+                            {
+                                "id": "220160",
+                                "shortName": "K Mbapp\u00e9",
+                                "isOwnGoal": false,
+                                "goalTime": "37'"
+                            }
+                        ]
                     },
                     "basketBallScore": null,
                     "hockeyScore": null,
