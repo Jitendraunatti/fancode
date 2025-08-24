@@ -1,14 +1,14 @@
 #EXTM3U
 #DEVELOPED_BY_JITENDRA_PRO_DEV
 #AUTHOR:-JITENDRA_KUMAR
-#DATE:- Sunday 24 August, 2025 at 6:30:52 am
+#DATE:- Sunday 24 August, 2025 at 6:38:49 am
 #EXTINF:-1 tvg-id="133235" tvg-name="India A Women Vs Australia A Women" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/IND_A_vs_AUS_Womens_Old_match-card-(2).jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | India A Women Vs Australia A Women
 https://in-mc-pdlive.fancode.com/mumbai/133235_english_hls_ba3b3d673333129ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="132355" tvg-name="Trinbago Knight Riders Vs Saint Lucia Kings" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/132355_5512_SLK_TKR_fc-web.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Trinbago Knight Riders Vs Saint Lucia Kings
 https://in-mc-fdlive.fancode.com/mumbai/132355_english_hls_e482cd6c6692504ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="132355" tvg-name="Trinbago Knight Riders Vs Saint Lucia Kings" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/132355_5512_SLK_TKR_fc-web.jpg" tvg-language="HINDI AI(BETA)" group-title="Cricket",HIN | Trinbago Knight Riders Vs Saint Lucia Kings
 https://in-mc-fdlive.fancode.com/mumbai/132355_hindi_hls_e33af646dd65255ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
-#EXTINF:-1 tvg-id="133532" tvg-name="Pakistan Shaheens Vs Perth Scorchers Academy" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Pakistan Shaheens Vs Perth Scorchers Academy
+#EXTINF:-1 tvg-id="133532" tvg-name="Perth Scorchers Academy Vs Pakistan Shaheens" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Perth Scorchers Academy Vs Pakistan Shaheens
 https://in-mc-fdlive.fancode.com/mumbai/133532_english_hls_4b0bc72e7e37152ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="133531" tvg-name="Chicago Kingsmen Vs Adelaide Strikers Academy" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Chicago Kingsmen Vs Adelaide Strikers Academy
 https://in-mc-fdlive.fancode.com/mumbai/133531_english_hls_61e2df1d0f22685ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
