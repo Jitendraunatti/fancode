@@ -1,14 +1,14 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "04:47:02 PM 24-08-2025",
+    "last_updated": "04:54:52 PM 24-08-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
     "total_matches": 39,
-    "live_matches": 14,
-    "upcoming_matches": 25,
+    "live_matches": 13,
+    "upcoming_matches": 26,
     "matches": [
         {
             "category": "Cricket",
@@ -123,7 +123,7 @@
                             "runs": 173,
                             "overs": "20",
                             "balls": "120",
-                            "status": "IN_PROGRESS",
+                            "status": "COMPLETED",
                             "wickets": 7
                         }
                     ],
@@ -133,7 +133,7 @@
                     "hockeyScore": null,
                     "status": {
                         "cricket": {
-                            "isBatting": true
+                            "isBatting": false
                         }
                     }
                 },
@@ -145,14 +145,22 @@
                     },
                     "isWinner": null,
                     "color": "#D26617",
-                    "cricketScore": [],
+                    "cricketScore": [
+                        {
+                            "runs": 6,
+                            "overs": "0.1",
+                            "balls": "2",
+                            "status": "IN_PROGRESS",
+                            "wickets": 0
+                        }
+                    ],
                     "kabaddiScore": null,
                     "footballScore": null,
                     "basketBallScore": null,
                     "hockeyScore": null,
                     "status": {
                         "cricket": {
-                            "isBatting": false
+                            "isBatting": true
                         }
                     }
                 }
@@ -202,7 +210,7 @@
                             "runs": 173,
                             "overs": "20",
                             "balls": "120",
-                            "status": "IN_PROGRESS",
+                            "status": "COMPLETED",
                             "wickets": 7
                         }
                     ],
@@ -212,7 +220,7 @@
                     "hockeyScore": null,
                     "status": {
                         "cricket": {
-                            "isBatting": true
+                            "isBatting": false
                         }
                     }
                 },
@@ -224,14 +232,22 @@
                     },
                     "isWinner": null,
                     "color": "#D26617",
-                    "cricketScore": [],
+                    "cricketScore": [
+                        {
+                            "runs": 6,
+                            "overs": "0.1",
+                            "balls": "2",
+                            "status": "IN_PROGRESS",
+                            "wickets": 0
+                        }
+                    ],
                     "kabaddiScore": null,
                     "footballScore": null,
                     "basketBallScore": null,
                     "hockeyScore": null,
                     "status": {
                         "cricket": {
-                            "isBatting": false
+                            "isBatting": true
                         }
                     }
                 }
@@ -278,9 +294,9 @@
                     "color": "#16b9b7",
                     "cricketScore": [
                         {
-                            "runs": 119,
-                            "overs": "18.2",
-                            "balls": "110",
+                            "runs": 146,
+                            "overs": "19.5",
+                            "balls": "119",
                             "status": "IN_PROGRESS",
                             "wickets": 8
                         }
@@ -357,11 +373,11 @@
                     "color": "#d09b8a",
                     "cricketScore": [
                         {
-                            "runs": 143,
-                            "overs": "19.3",
-                            "balls": "98",
+                            "runs": 145,
+                            "overs": "20",
+                            "balls": "100",
                             "status": "IN_PROGRESS",
-                            "wickets": 5
+                            "wickets": 6
                         }
                     ],
                     "kabaddiScore": null,
@@ -463,11 +479,11 @@
                     "color": "#ea6363",
                     "cricketScore": [
                         {
-                            "runs": 21,
-                            "overs": "7.1",
-                            "balls": "43",
+                            "runs": 23,
+                            "overs": "9.1",
+                            "balls": "55",
                             "status": "IN_PROGRESS",
-                            "wickets": 3
+                            "wickets": 4
                         }
                     ],
                     "kabaddiScore": null,
@@ -523,9 +539,9 @@
                     "color": "#f8dd5a",
                     "cricketScore": [
                         {
-                            "runs": 89,
-                            "overs": "18",
-                            "balls": "108",
+                            "runs": 102,
+                            "overs": "20.1",
+                            "balls": "121",
                             "status": "IN_PROGRESS",
                             "wickets": 3
                         }
@@ -602,9 +618,9 @@
                     "color": "#1e4609",
                     "cricketScore": [
                         {
-                            "runs": 73,
-                            "overs": "16",
-                            "balls": "96",
+                            "runs": 78,
+                            "overs": "19",
+                            "balls": "114",
                             "status": "IN_PROGRESS",
                             "wickets": 3
                         }
@@ -655,7 +671,7 @@
             "title": "Yalla Shabab Giants Vs Royal Oman Stallions",
             "tournament": "Oman D20 League, 2025",
             "match_id": 133690,
-            "status": "NOT_STARTED",
+            "status": "LIVE",
             "streamingStatus": "STARTED",
             "startTime": "24 August 2025 05:00 PM",
             "startDate": "01 January 1970 05:30 AM",
@@ -968,41 +984,36 @@
             }
         },
         {
-            "category": "Kabaddi",
-            "title": "Vizianagaram Ninjas Vs Amaravati Crushers",
-            "tournament": "Yuva Andhra Championship, 2025",
-            "match_id": 133743,
-            "status": "COMPLETED",
+            "category": "Motorsports",
+            "title": "Race 2",
+            "tournament": "DTM Sachsenring",
+            "match_id": 134996,
+            "status": "LIVE",
             "streamingStatus": "STARTED",
-            "startTime": "24 August 2025 03:45 PM",
+            "startTime": "24 August 2025 05:00 PM",
             "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/133733_5591_AC_VN_fc-Web.jpg",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/DTM_2025_old_1755600452483.jpg",
             "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/133743_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/133733_5591_AC_VN_fc-Web.jpg",
-                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/133733_5591_AC_VN_fc-Web.jpg",
-                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Yuva-Andhra-Championship,-2025-Tour-Logo.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Kabaddi-old-min.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/133733_5591_AC_VN_fc-Web.jpg",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/133733_5591_AC_VN_Fc-App.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/133743_CASACARDS_PARTNER_16_9_1920_1080.png"
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/134996_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/DTM_2025_old_1755600452483.jpg",
+                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/DTM_2025_old_1755600452483.jpg",
+                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/04/DTM-Tour-Logo.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Motorsports-1440-x-360_2.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/DTM_2025_old_1755600452483.jpg",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/DTM_2025_Sporty_1755600452438.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/134996_CASACARDS_PARTNER_16_9_1920_1080.png"
             },
             "teams": [
                 {
-                    "name": "Vizianagaram Ninjas",
-                    "shortName": "VN",
+                    "name": "Race 2",
+                    "shortName": "Race 2",
                     "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/kb-flags/FC-VN@2x.png"
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-DTM@2x.png"
                     },
                     "isWinner": null,
-                    "color": "#205d7e",
+                    "color": "#FFCC00",
                     "cricketScore": null,
-                    "kabaddiScore": {
-                        "points": 47,
-                        "onFieldPlayers": 7,
-                        "totalFieldPlayers": 7,
-                        "raiding": true
-                    },
+                    "kabaddiScore": null,
                     "footballScore": null,
                     "basketBallScore": null,
                     "hockeyScore": null,
@@ -1013,20 +1024,15 @@
                     }
                 },
                 {
-                    "name": "Amaravati Crushers",
-                    "shortName": "AC",
+                    "name": "Germany",
+                    "shortName": "Germany",
                     "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/kb-flags/FC-AC@2x.png"
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-LOC@2x.png"
                     },
                     "isWinner": null,
-                    "color": "#ffcad6",
+                    "color": "#123456",
                     "cricketScore": null,
-                    "kabaddiScore": {
-                        "points": 46,
-                        "onFieldPlayers": 5,
-                        "totalFieldPlayers": 7,
-                        "raiding": null
-                    },
+                    "kabaddiScore": null,
                     "footballScore": null,
                     "basketBallScore": null,
                     "hockeyScore": null,
@@ -1038,12 +1044,12 @@
                 }
             ],
             "language": "ENGLISH",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/133743_english_hls_98170f12be97010ta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/7FwMzr4RQZ-ru04rBRIIcg/master.m3u8",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/134996_english_hls_bbfeb06a2023932ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/iLYxpDrkSCCmSQef-G9iww/master.m3u8",
             "STREAMING_CDN": {
-                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/133743_english_hls_98170f12be97010ta-di_h264/index.m3u8",
-                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/133743_english_hls_98170f12be97010ta-di_h264/index.m3u8",
-                "dai_google_cdn": "https://dai.google.com/linear/hls/event/7FwMzr4RQZ-ru04rBRIIcg/master.m3u8",
+                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/134996_english_hls_bbfeb06a2023932ta-di_h264/index.m3u8",
+                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/134996_english_hls_bbfeb06a2023932ta-di_h264/index.m3u8",
+                "dai_google_cdn": "https://dai.google.com/linear/hls/event/iLYxpDrkSCCmSQef-G9iww/master.m3u8",
                 "cloudfront_cdn": "Unavailable",
                 "language": "ENGLISH"
             }
@@ -2070,74 +2076,6 @@
         },
         {
             "category": "Cricket",
-            "title": "Bader & Nie Cricket Club Vs Kuwait Swedish",
-            "tournament": "KCC T10 Summer League, 2025",
-            "match_id": 132176,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "25 August 2025 12:15 AM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/KCC-T10-Summer-League,-2025_match-card.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/132176_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/KCC-T10-Summer-League,-2025_match-card.jpg",
-                "PLAYBACK": null,
-                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2023/12/Tour-Placeholder.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/KCC-T10-Summer-League,-2025_match-card.jpg",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/KCC-T10-Summer-League,-2025_Sporty_Match_card.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/132176_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "name": "Bader & Nie Cricket Club",
-                    "shortName": "BNC",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BNC@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#0d395a",
-                    "cricketScore": [],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "Kuwait Swedish",
-                    "shortName": "KS",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KUSW@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#2125DA",
-                    "cricketScore": [],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
-            }
-        },
-        {
-            "category": "Cricket",
             "title": "Aries Kollam Sailors Vs Thrissur Titans",
             "tournament": "Kerala Cricket League, 2025",
             "match_id": 133884,
@@ -2184,6 +2122,74 @@
                     },
                     "isWinner": null,
                     "color": "#b8a61d",
+                    "cricketScore": [],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "STREAMING_CDN": {
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
+            }
+        },
+        {
+            "category": "Cricket",
+            "title": "Bader & Nie Cricket Club Vs Kuwait Swedish",
+            "tournament": "KCC T10 Summer League, 2025",
+            "match_id": 132176,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "25 August 2025 12:15 AM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/KCC-T10-Summer-League,-2025_match-card.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/132176_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/KCC-T10-Summer-League,-2025_match-card.jpg",
+                "PLAYBACK": null,
+                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2023/12/Tour-Placeholder.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/KCC-T10-Summer-League,-2025_match-card.jpg",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/KCC-T10-Summer-League,-2025_Sporty_Match_card.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/132176_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "name": "Bader & Nie Cricket Club",
+                    "shortName": "BNC",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BNC@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#0d395a",
+                    "cricketScore": [],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "Kuwait Swedish",
+                    "shortName": "KS",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KUSW@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#2125DA",
                     "cricketScore": [],
                     "kabaddiScore": null,
                     "footballScore": null,
@@ -2757,34 +2763,34 @@
             }
         },
         {
-            "category": "Motorsports",
-            "title": "Race 2",
-            "tournament": "DTM Sachsenring",
-            "match_id": 134996,
-            "status": "LIVE",
-            "streamingStatus": "STARTED",
-            "startTime": "24 August 2025 05:00 PM",
+            "category": "Cricket",
+            "title": "Sharjah Warriorz Development Vs Abu Dhabi Knight Riders Development",
+            "tournament": "DP World ILT20 Development Tournament, 2025",
+            "match_id": 135798,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "25 August 2025 06:30 PM",
             "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/DTM_2025_old_1755600452483.jpg",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/135798_5636_SWD_ADK_fc-web.jpg",
             "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/134996_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/DTM_2025_old_1755600452483.jpg",
-                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/DTM_2025_old_1755600452483.jpg",
-                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/04/DTM-Tour-Logo.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Motorsports-1440-x-360_2.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/DTM_2025_old_1755600452483.jpg",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/DTM_2025_Sporty_1755600452438.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/134996_CASACARDS_PARTNER_16_9_1920_1080.png"
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/135798_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/135798_5636_SWD_ADK_fc-web.jpg",
+                "PLAYBACK": null,
+                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/DPW-ILT20-Tour-Logo.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/135798_5636_SWD_ADK_fc-web.jpg",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/135798_5636_SWD_ADK_fc-app.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/135798_CASACARDS_PARTNER_16_9_1920_1080.png"
             },
             "teams": [
                 {
-                    "name": "Race 2",
-                    "shortName": "Race 2",
+                    "name": "Sharjah Warriorz Development",
+                    "shortName": "SWD",
                     "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-DTM@2x.png"
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SWR@2x.png"
                     },
                     "isWinner": null,
-                    "color": "#FFCC00",
+                    "color": "#d93025",
                     "cricketScore": null,
                     "kabaddiScore": null,
                     "footballScore": null,
@@ -2797,13 +2803,13 @@
                     }
                 },
                 {
-                    "name": "Germany",
-                    "shortName": "Germany",
+                    "name": "Abu Dhabi Knight Riders Development",
+                    "shortName": "ADK",
                     "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-LOC@2x.png"
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ADKR@2x.png"
                     },
                     "isWinner": null,
-                    "color": "#123456",
+                    "color": "#3a0f6a",
                     "cricketScore": null,
                     "kabaddiScore": null,
                     "footballScore": null,
@@ -2816,15 +2822,12 @@
                     }
                 }
             ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/134996_english_hls_bbfeb06a2023932ta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/iLYxpDrkSCCmSQef-G9iww/master.m3u8",
+            "language": "BLOODY_SWEET",
+            "adfree_stream": null,
+            "dai_stream": null,
             "STREAMING_CDN": {
-                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/134996_english_hls_bbfeb06a2023932ta-di_h264/index.m3u8",
-                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/134996_english_hls_bbfeb06a2023932ta-di_h264/index.m3u8",
-                "dai_google_cdn": "https://dai.google.com/linear/hls/event/iLYxpDrkSCCmSQef-G9iww/master.m3u8",
-                "cloudfront_cdn": "Unavailable",
-                "language": "ENGLISH"
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
             }
         }
     ]
