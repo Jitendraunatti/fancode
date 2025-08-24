@@ -1,7 +1,7 @@
 #EXTM3U
 #DEVELOPED_BY_JITENDRA_PRO_DEV
 #AUTHOR:-JITENDRA_KUMAR
-#DATE:- Sunday 24 August, 2025 at 11:54:25 pm
+#DATE:- Monday 25 August, 2025 at 12:02:29 am
 #EXTINF:-1 tvg-id="132356" tvg-name="St Kitts And Nevis Patriots Vs Antigua & Barbuda Falcons" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/132356_5512_ABF_SKN_fc-web.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | St Kitts And Nevis Patriots Vs Antigua & Barbuda Falcons
 https://in-mc-fdlive.fancode.com/mumbai/132356_english_hls_54d02e7a1136612ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="132356" tvg-name="St Kitts And Nevis Patriots Vs Antigua & Barbuda Falcons" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/132356_5512_ABF_SKN_fc-web.jpg" tvg-language="HINDI AI(BETA)" group-title="Cricket",HIN | St Kitts And Nevis Patriots Vs Antigua & Barbuda Falcons
@@ -18,6 +18,8 @@ https://in-mc-fdlive.fancode.com/mumbai/135797_english_hls_7e156483e173270ta-di_
 https://in-mc-fdlive.fancode.com/mumbai/130849_english_hls_0a818f848247830adfreeta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="130841" tvg-name="Villarreal Vs Girona" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Villarreal-VS-Girona_Old_match-card.jpg" tvg-language="ENGLISH" group-title="Football",ENG | Villarreal Vs Girona
 https://in-mc-fdlive.fancode.com/mumbai/130841_english_hls_7f65ad62f988079adfreeta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
+#EXTINF:-1 tvg-id="132176" tvg-name="Bader & Nie Cricket Club Vs Kuwait Swedish" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/KCC-T10-Summer-League,-2025_match-card.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Bader & Nie Cricket Club Vs Kuwait Swedish
+https://in-mc-fdlive.fancode.com/mumbai/132176_english_hls_b52fd1269396163ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="134086" tvg-name="Main Feed   Day 4" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Tour_Championship_Old_match_card_1.jpg" tvg-language="ENGLISH" group-title="Golf",ENG | Main Feed   Day 4
 https://in-mc-fdlive.fancode.com/mumbai/134086_english_hls_d9b60d94f948400ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="134087" tvg-name="Featured Holes   Day 4" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Tour_Championship_Old_match_card_1.jpg" tvg-language="ENGLISH" group-title="Golf",ENG | Featured Holes   Day 4
