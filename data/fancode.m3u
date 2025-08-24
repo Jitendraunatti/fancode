@@ -1,25 +1,19 @@
 #EXTM3U
 #DEVELOPED_BY_JITENDRA_PRO_DEV
 #AUTHOR:-JITENDRA_KUMAR
-#DATE:- Monday 25 August, 2025 at 2:02:25 am
+#DATE:- Monday 25 August, 2025 at 2:18:27 am
 #EXTINF:-1 tvg-id="135797" tvg-name="Mi Emirates Development Vs Gulf Giants Development" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/135797_5636_MED_GGD_fc-web.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Mi Emirates Development Vs Gulf Giants Development
 https://in-mc-fdlive.fancode.com/mumbai/135797_english_hls_7e156483e173270ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
-#EXTINF:-1 tvg-id="132176" tvg-name="Kuwait Swedish Vs Bader & Nie Cricket Club" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/KCC-T10-Summer-League,-2025_match-card.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Kuwait Swedish Vs Bader & Nie Cricket Club
-https://in-mc-fdlive.fancode.com/mumbai/132176_english_hls_b52fd1269396163ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="130845" tvg-name="Real Oviedo Vs Real Madrid" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Real-Oviedo-VS-Real-Madrid_Old_match-card_1755766788093.jpg" tvg-language="ENGLISH" group-title="Football",ENG | Real Oviedo Vs Real Madrid
 https://in-mc-fdlive.fancode.com/mumbai/130845_english_hls_ce8c8f13dd18216adfreeta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="130845" tvg-name="Real Oviedo Vs Real Madrid" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Real-Oviedo-VS-Real-Madrid_Old_match-card_1755766788093.jpg" tvg-language="HINDI" group-title="Football",HIN | Real Oviedo Vs Real Madrid
 https://in-mc-fdlive.fancode.com/mumbai/130845_hindi_hls_0877d5af6051151adfreeta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="130845" tvg-name="Real Oviedo Vs Real Madrid" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Real-Oviedo-VS-Real-Madrid_Old_match-card_1755766788093.jpg" tvg-language="BENGALI" group-title="Football",BEN | Real Oviedo Vs Real Madrid
 https://in-mc-fdlive.fancode.com/mumbai/130845_bengali_hls_606693a54945204adfreeta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
-#EXTINF:-1 tvg-id="134086" tvg-name="Main Feed   Day 4" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Tour_Championship_Old_match_card_1.jpg" tvg-language="ENGLISH" group-title="Golf",ENG | Main Feed   Day 4
-https://in-mc-fdlive.fancode.com/mumbai/134086_english_hls_d9b60d94f948400ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="134087" tvg-name="Featured Holes   Day 4" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Tour_Championship_Old_match_card_1.jpg" tvg-language="ENGLISH" group-title="Golf",ENG | Featured Holes   Day 4
 https://in-mc-fdlive.fancode.com/mumbai/134087_english_hls_09e5eeba3d87649ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="134090" tvg-name="World Feed   Day 4" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Tour_Championship_Old_match_card_1.jpg" tvg-language="ENGLISH" group-title="Golf",ENG | World Feed   Day 4
 https://in-mc-fdlive.fancode.com/mumbai/134090_english_hls_ee73d18bbf2711ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
-#EXTINF:-1 tvg-id="134089" tvg-name="Marquee Group   Day 4" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Tour_Championship_Old_match_card_1.jpg" tvg-language="ENGLISH" group-title="Golf",ENG | Marquee Group   Day 4
-https://in-mc-fdlive.fancode.com/mumbai/134089_english_hls_41fb7e989a46754ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="134088" tvg-name="Featured Group   Day 4" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Tour_Championship_Old_match_card_1.jpg" tvg-language="ENGLISH" group-title="Golf",ENG | Featured Group   Day 4
 https://in-mc-fdlive.fancode.com/mumbai/134088_english_hls_b07dd5188840829ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="133809" tvg-name="Finals" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/LIV-Golf-Michigan_Old_match-card.jpg" tvg-language="ENGLISH" group-title="Golf",ENG | Finals
