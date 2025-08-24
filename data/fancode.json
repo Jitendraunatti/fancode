@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "09:30:25 PM 24-08-2025",
+    "last_updated": "09:38:25 PM 24-08-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -68,11 +68,11 @@
                     "color": "#01c0f6",
                     "cricketScore": [
                         {
-                            "runs": 47,
-                            "overs": "3.1",
-                            "balls": "19",
+                            "runs": 64,
+                            "overs": "4.1",
+                            "balls": "25",
                             "status": "IN_PROGRESS",
-                            "wickets": 0
+                            "wickets": 1
                         }
                     ],
                     "kabaddiScore": null,
@@ -155,11 +155,11 @@
                     "color": "#01c0f6",
                     "cricketScore": [
                         {
-                            "runs": 47,
-                            "overs": "3.1",
-                            "balls": "19",
+                            "runs": 64,
+                            "overs": "4.1",
+                            "balls": "25",
                             "status": "IN_PROGRESS",
-                            "wickets": 0
+                            "wickets": 1
                         }
                     ],
                     "kabaddiScore": null,
@@ -242,11 +242,11 @@
                     "color": "#adb6b9",
                     "cricketScore": [
                         {
-                            "runs": 85,
-                            "overs": "17.4",
-                            "balls": "89",
+                            "runs": 94,
+                            "overs": "19.4",
+                            "balls": "99",
                             "status": "IN_PROGRESS",
-                            "wickets": 7
+                            "wickets": 9
                         }
                     ],
                     "kabaddiScore": null,
@@ -329,11 +329,11 @@
                     "color": "#d09b8a",
                     "cricketScore": [
                         {
-                            "runs": 116,
-                            "overs": "15",
-                            "balls": "75",
+                            "runs": 129,
+                            "overs": "16.4",
+                            "balls": "84",
                             "status": "IN_PROGRESS",
-                            "wickets": 2
+                            "wickets": 4
                         }
                     ],
                     "kabaddiScore": null,
@@ -416,11 +416,11 @@
                     "color": "#D59A14",
                     "cricketScore": [
                         {
-                            "runs": 17,
-                            "overs": "3",
-                            "balls": "18",
+                            "runs": 30,
+                            "overs": "4.1",
+                            "balls": "25",
                             "status": "IN_PROGRESS",
-                            "wickets": 2
+                            "wickets": 3
                         }
                     ],
                     "kabaddiScore": null,
@@ -476,11 +476,11 @@
                     "color": "#3fd379",
                     "cricketScore": [
                         {
-                            "runs": 73,
-                            "overs": "11.5",
-                            "balls": "71",
+                            "runs": 81,
+                            "overs": "13.1",
+                            "balls": "79",
                             "status": "IN_PROGRESS",
-                            "wickets": 2
+                            "wickets": 3
                         }
                     ],
                     "kabaddiScore": null,
@@ -555,11 +555,11 @@
                     "color": "#3fd379",
                     "cricketScore": [
                         {
-                            "runs": 73,
-                            "overs": "11.5",
-                            "balls": "71",
+                            "runs": 81,
+                            "overs": "13.1",
+                            "balls": "79",
                             "status": "IN_PROGRESS",
-                            "wickets": 2
+                            "wickets": 3
                         }
                     ],
                     "kabaddiScore": null,
@@ -661,9 +661,9 @@
                     "color": "#d15972",
                     "cricketScore": [
                         {
-                            "runs": 145,
-                            "overs": "24.4",
-                            "balls": "148",
+                            "runs": 153,
+                            "overs": "27",
+                            "balls": "162",
                             "status": "IN_PROGRESS",
                             "wickets": 1
                         }
@@ -906,9 +906,9 @@
                     "color": "#2c5ab3",
                     "cricketScore": [
                         {
-                            "runs": 66,
-                            "overs": "10.4",
-                            "balls": "65",
+                            "runs": 72,
+                            "overs": "12.5",
+                            "balls": "77",
                             "status": "IN_PROGRESS",
                             "wickets": 2
                         }
@@ -966,11 +966,11 @@
                     "color": "#bb4335",
                     "cricketScore": [
                         {
-                            "runs": 11,
-                            "overs": "1.5",
-                            "balls": "11",
+                            "runs": 30,
+                            "overs": "6",
+                            "balls": "36",
                             "status": "IN_PROGRESS",
-                            "wickets": 0
+                            "wickets": 3
                         }
                     ],
                     "kabaddiScore": null,
@@ -2282,6 +2282,74 @@
             }
         },
         {
+            "category": "Cricket",
+            "title": "Mangaluru Dragons Vs Gulbarga Mystics",
+            "tournament": "Maharaja T20 Trophy, 2025",
+            "match_id": 132814,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "25 August 2025 07:15 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/132814_5530_MD_GMY_fc-Web_1755374792907.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/132814_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/132814_5530_MD_GMY_fc-Web_1755374792907.jpg",
+                "PLAYBACK": null,
+                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/07/Maharaja-Trophy-KSCA-T20-Tour-Logo.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/132814_5530_MD_GMY_fc-Web_1755374792907.jpg",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/132814_5530_MD_GMY_fc-App_1755374802553.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/132814_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "name": "Mangaluru Dragons",
+                    "shortName": "MD",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MDR@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#fea129",
+                    "cricketScore": [],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "Gulbarga Mystics",
+                    "shortName": "GMY",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GMY@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#2d9dbb",
+                    "cricketScore": [],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "STREAMING_CDN": {
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
+            }
+        },
+        {
             "category": "Football",
             "title": "Real Sociedad Vs Espanyol",
             "tournament": "LALIGA 2025-26",
@@ -2466,74 +2534,6 @@
                     "isWinner": null,
                     "color": "#ffdf50",
                     "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
-            }
-        },
-        {
-            "category": "Cricket",
-            "title": "Mangaluru Dragons Vs Gulbarga Mystics",
-            "tournament": "Maharaja T20 Trophy, 2025",
-            "match_id": 132814,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "25 August 2025 07:15 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/132814_5530_MD_GMY_fc-Web_1755374792907.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/132814_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/132814_5530_MD_GMY_fc-Web_1755374792907.jpg",
-                "PLAYBACK": null,
-                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/07/Maharaja-Trophy-KSCA-T20-Tour-Logo.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/132814_5530_MD_GMY_fc-Web_1755374792907.jpg",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/132814_5530_MD_GMY_fc-App_1755374802553.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/132814_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "name": "Mangaluru Dragons",
-                    "shortName": "MD",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MDR@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#fea129",
-                    "cricketScore": [],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "Gulbarga Mystics",
-                    "shortName": "GMY",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GMY@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#2d9dbb",
-                    "cricketScore": [],
                     "kabaddiScore": null,
                     "footballScore": null,
                     "basketBallScore": null,
