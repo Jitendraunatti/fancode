@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "12:18:52 PM 24-08-2025",
+    "last_updated": "12:26:53 PM 24-08-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -41,11 +41,11 @@
                     "color": "#9a4802",
                     "cricketScore": [
                         {
-                            "runs": 22,
-                            "overs": "2",
-                            "balls": "12",
+                            "runs": 34,
+                            "overs": "3",
+                            "balls": "18",
                             "status": "IN_PROGRESS",
-                            "wickets": 0
+                            "wickets": 1
                         }
                     ],
                     "kabaddiScore": null,
@@ -191,10 +191,10 @@
                     "color": "#ffcad6",
                     "cricketScore": null,
                     "kabaddiScore": {
-                        "points": 36,
-                        "onFieldPlayers": 7,
+                        "points": 45,
+                        "onFieldPlayers": 5,
                         "totalFieldPlayers": 7,
-                        "raiding": null
+                        "raiding": true
                     },
                     "footballScore": null,
                     "basketBallScore": null,
@@ -215,10 +215,10 @@
                     "color": "#c2c8fd",
                     "cricketScore": null,
                     "kabaddiScore": {
-                        "points": 25,
-                        "onFieldPlayers": 2,
+                        "points": 28,
+                        "onFieldPlayers": 5,
                         "totalFieldPlayers": 7,
-                        "raiding": true
+                        "raiding": null
                     },
                     "footballScore": null,
                     "basketBallScore": null,
