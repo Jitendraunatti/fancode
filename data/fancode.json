@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "08:46:31 PM 24-08-2025",
+    "last_updated": "08:54:25 PM 24-08-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -41,11 +41,11 @@
                     "color": "#b7e330",
                     "cricketScore": [
                         {
-                            "runs": 212,
-                            "overs": "18.2",
-                            "balls": "110",
+                            "runs": 228,
+                            "overs": "19.4",
+                            "balls": "118",
                             "status": "IN_PROGRESS",
-                            "wickets": 4
+                            "wickets": 5
                         }
                     ],
                     "kabaddiScore": null,
@@ -120,11 +120,11 @@
                     "color": "#b7e330",
                     "cricketScore": [
                         {
-                            "runs": 212,
-                            "overs": "18.2",
-                            "balls": "110",
+                            "runs": 228,
+                            "overs": "19.4",
+                            "balls": "118",
                             "status": "IN_PROGRESS",
-                            "wickets": 4
+                            "wickets": 5
                         }
                     ],
                     "kabaddiScore": null,
@@ -226,11 +226,11 @@
                     "color": "#adb6b9",
                     "cricketScore": [
                         {
-                            "runs": 14,
-                            "overs": "4",
-                            "balls": "20",
+                            "runs": 19,
+                            "overs": "7",
+                            "balls": "35",
                             "status": "IN_PROGRESS",
-                            "wickets": 3
+                            "wickets": 4
                         }
                     ],
                     "kabaddiScore": null,
@@ -313,9 +313,9 @@
                     "color": "#d09b8a",
                     "cricketScore": [
                         {
-                            "runs": 28,
-                            "overs": "2.3",
-                            "balls": "13",
+                            "runs": 45,
+                            "overs": "4.4",
+                            "balls": "24",
                             "status": "IN_PROGRESS",
                             "wickets": 0
                         }
@@ -373,9 +373,9 @@
                     "color": "#ffed00",
                     "cricketScore": [
                         {
-                            "runs": 141,
-                            "overs": "17.5",
-                            "balls": "107",
+                            "runs": 165,
+                            "overs": "19.3",
+                            "balls": "117",
                             "status": "IN_PROGRESS",
                             "wickets": 6
                         }
@@ -452,11 +452,11 @@
                     "color": "#3fd379",
                     "cricketScore": [
                         {
-                            "runs": 19,
-                            "overs": "3",
-                            "balls": "18",
+                            "runs": 20,
+                            "overs": "4",
+                            "balls": "24",
                             "status": "IN_PROGRESS",
-                            "wickets": 0
+                            "wickets": 1
                         }
                     ],
                     "kabaddiScore": null,
@@ -531,11 +531,11 @@
                     "color": "#3fd379",
                     "cricketScore": [
                         {
-                            "runs": 19,
-                            "overs": "3",
-                            "balls": "18",
+                            "runs": 20,
+                            "overs": "4",
+                            "balls": "24",
                             "status": "IN_PROGRESS",
-                            "wickets": 0
+                            "wickets": 1
                         }
                     ],
                     "kabaddiScore": null,
@@ -637,9 +637,9 @@
                     "color": "#d15972",
                     "cricketScore": [
                         {
-                            "runs": 75,
-                            "overs": "14.3",
-                            "balls": "87",
+                            "runs": 84,
+                            "overs": "15.5",
+                            "balls": "95",
                             "status": "IN_PROGRESS",
                             "wickets": 1
                         }
@@ -771,7 +771,7 @@
                             "runs": 121,
                             "overs": "20",
                             "balls": "120",
-                            "status": "IN_PROGRESS",
+                            "status": "COMPLETED",
                             "wickets": 8
                         }
                     ],
@@ -781,7 +781,7 @@
                     "hockeyScore": null,
                     "status": {
                         "cricket": {
-                            "isBatting": true
+                            "isBatting": false
                         }
                     }
                 },
@@ -793,14 +793,22 @@
                     },
                     "isWinner": null,
                     "color": "#3aae2a",
-                    "cricketScore": [],
+                    "cricketScore": [
+                        {
+                            "runs": 0,
+                            "overs": "0",
+                            "balls": "0",
+                            "status": "IN_PROGRESS",
+                            "wickets": 0
+                        }
+                    ],
                     "kabaddiScore": null,
                     "footballScore": null,
                     "basketBallScore": null,
                     "hockeyScore": null,
                     "status": {
                         "cricket": {
-                            "isBatting": false
+                            "isBatting": true
                         }
                     }
                 }
@@ -850,7 +858,7 @@
                             "runs": 86,
                             "overs": "20",
                             "balls": "120",
-                            "status": "IN_PROGRESS",
+                            "status": "COMPLETED",
                             "wickets": 9
                         }
                     ],
@@ -860,7 +868,7 @@
                     "hockeyScore": null,
                     "status": {
                         "cricket": {
-                            "isBatting": true
+                            "isBatting": false
                         }
                     }
                 },
@@ -872,6 +880,85 @@
                     },
                     "isWinner": null,
                     "color": "#2c5ab3",
+                    "cricketScore": [
+                        {
+                            "runs": 0,
+                            "overs": "0.1",
+                            "balls": "1",
+                            "status": "IN_PROGRESS",
+                            "wickets": 0
+                        }
+                    ],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": true
+                        }
+                    }
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/133754_english_hls_f106cfa82d43375ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/yQZfyOZaTH6EQumlfRaDSw/master.m3u8",
+            "STREAMING_CDN": {
+                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/133754_english_hls_f106cfa82d43375ta-di_h264/index.m3u8",
+                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/133754_english_hls_f106cfa82d43375ta-di_h264/index.m3u8",
+                "dai_google_cdn": "https://dai.google.com/linear/hls/event/yQZfyOZaTH6EQumlfRaDSw/master.m3u8",
+                "cloudfront_cdn": "Unavailable",
+                "language": "ENGLISH"
+            }
+        },
+        {
+            "category": "Cricket",
+            "title": "Majees Titans Vs Renaissance Challengers",
+            "tournament": "Oman D20 League, 2025",
+            "match_id": 133691,
+            "status": "LIVE",
+            "streamingStatus": "STARTED",
+            "startTime": "24 August 2025 09:00 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/133691_5590_MAT_RNC_fc-Web.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/133691_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/133691_5590_MAT_RNC_fc-Web.jpg",
+                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/133691_5590_MAT_RNC_fc-Web.jpg",
+                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2023/12/Tour-Placeholder.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/133691_5590_MAT_RNC_fc-Web.jpg",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/133691_5590_MAT_RNC_fc-App.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/133691_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "name": "Majees Titans",
+                    "shortName": "MAT",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MAJ@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#d8c50f",
+                    "cricketScore": [],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "Renaissance Challengers",
+                    "shortName": "RNC",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RNC@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#bb4335",
                     "cricketScore": [],
                     "kabaddiScore": null,
                     "footballScore": null,
@@ -885,12 +972,12 @@
                 }
             ],
             "language": "ENGLISH",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/133754_english_hls_f106cfa82d43375ta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/yQZfyOZaTH6EQumlfRaDSw/master.m3u8",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/133691_english_hls_8e5b93169723903ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/VUc63hT8QnOPwqR3hdze-g/master.m3u8",
             "STREAMING_CDN": {
-                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/133754_english_hls_f106cfa82d43375ta-di_h264/index.m3u8",
-                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/133754_english_hls_f106cfa82d43375ta-di_h264/index.m3u8",
-                "dai_google_cdn": "https://dai.google.com/linear/hls/event/yQZfyOZaTH6EQumlfRaDSw/master.m3u8",
+                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/133691_english_hls_8e5b93169723903ta-di_h264/index.m3u8",
+                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/133691_english_hls_8e5b93169723903ta-di_h264/index.m3u8",
+                "dai_google_cdn": "https://dai.google.com/linear/hls/event/VUc63hT8QnOPwqR3hdze-g/master.m3u8",
                 "cloudfront_cdn": "Unavailable",
                 "language": "ENGLISH"
             }
@@ -975,77 +1062,6 @@
                 "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/130844_english_hls_eb3a12022292620adfreeta-di_h264/index.m3u8",
                 "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/130844_english_hls_eb3a12022292620adfreeta-di_h264/index.m3u8",
                 "dai_google_cdn": "Unavailable",
-                "cloudfront_cdn": "Unavailable",
-                "language": "ENGLISH"
-            }
-        },
-        {
-            "category": "Cricket",
-            "title": "Majees Titans Vs Renaissance Challengers",
-            "tournament": "Oman D20 League, 2025",
-            "match_id": 133691,
-            "status": "NOT_STARTED",
-            "streamingStatus": "STARTED",
-            "startTime": "24 August 2025 09:00 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/133691_5590_MAT_RNC_fc-Web.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/133691_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/133691_5590_MAT_RNC_fc-Web.jpg",
-                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/133691_5590_MAT_RNC_fc-Web.jpg",
-                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2023/12/Tour-Placeholder.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/133691_5590_MAT_RNC_fc-Web.jpg",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/133691_5590_MAT_RNC_fc-App.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/133691_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "name": "Majees Titans",
-                    "shortName": "MAT",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MAJ@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#d8c50f",
-                    "cricketScore": [],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "Renaissance Challengers",
-                    "shortName": "RNC",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RNC@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#bb4335",
-                    "cricketScore": [],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/133691_english_hls_8e5b93169723903ta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/VUc63hT8QnOPwqR3hdze-g/master.m3u8",
-            "STREAMING_CDN": {
-                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/133691_english_hls_8e5b93169723903ta-di_h264/index.m3u8",
-                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/133691_english_hls_8e5b93169723903ta-di_h264/index.m3u8",
-                "dai_google_cdn": "https://dai.google.com/linear/hls/event/VUc63hT8QnOPwqR3hdze-g/master.m3u8",
                 "cloudfront_cdn": "Unavailable",
                 "language": "ENGLISH"
             }
