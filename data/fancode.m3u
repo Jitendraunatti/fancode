@@ -1,7 +1,11 @@
 #EXTM3U
 #DEVELOPED_BY_JITENDRA_PRO_DEV
 #AUTHOR:-JITENDRA_KUMAR
-#DATE:- Monday 25 August, 2025 at 3:54:56 am
+#DATE:- Monday 25 August, 2025 at 4:03:01 am
+#EXTINF:-1 tvg-id="132357" tvg-name="Saint Lucia Kings Vs Barbados Royals" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/132357_5512_SLK_BR_fc-web.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Saint Lucia Kings Vs Barbados Royals
+https://in-mc-fdlive.fancode.com/mumbai/132357_english_hls_691b841f7179886ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
+#EXTINF:-1 tvg-id="132357" tvg-name="Saint Lucia Kings Vs Barbados Royals" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/132357_5512_SLK_BR_fc-web.jpg" tvg-language="HINDI AI(BETA)" group-title="Cricket",HIN | Saint Lucia Kings Vs Barbados Royals
+https://in-mc-fdlive.fancode.com/mumbai/132357_hindi_hls_b96f46b1b173941ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="133809" tvg-name="Finals" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/LIV-Golf-Michigan_Old_match-card.jpg" tvg-language="ENGLISH" group-title="Golf",ENG | Finals
 https://in-mc-fdlive.fancode.com/mumbai/133809_english_hls_93886de1dc47356ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="132883" tvg-name="Seattle Mariners Vs Oakland Athletics" tvg-logo="https://images.fancode.com/aig/match/v1/132883_CASACARDS_APP.png" tvg-language="ENGLISH" group-title="Baseball",ENG | Seattle Mariners Vs Oakland Athletics
