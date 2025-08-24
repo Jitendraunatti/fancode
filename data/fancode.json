@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "02:19:08 PM 24-08-2025",
+    "last_updated": "02:26:52 PM 24-08-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -41,11 +41,11 @@
                     "color": "#0082cb",
                     "cricketScore": [
                         {
-                            "runs": 28,
-                            "overs": "3.3",
-                            "balls": "21",
+                            "runs": 41,
+                            "overs": "5",
+                            "balls": "30",
                             "status": "IN_PROGRESS",
-                            "wickets": 0
+                            "wickets": 1
                         }
                     ],
                     "kabaddiScore": null,
@@ -94,7 +94,7 @@
             "title": "Adani Trivandrum Royals Vs Calicut Globstars",
             "tournament": "Kerala Cricket League, 2025",
             "match_id": 133882,
-            "status": "NOT_STARTED",
+            "status": "LIVE",
             "streamingStatus": "STARTED",
             "startTime": "24 August 2025 02:30 PM",
             "startDate": "01 January 1970 05:30 AM",
@@ -173,7 +173,7 @@
             "title": "Adani Trivandrum Royals Vs Calicut Globstars",
             "tournament": "Kerala Cricket League, 2025",
             "match_id": 133882,
-            "status": "NOT_STARTED",
+            "status": "LIVE",
             "streamingStatus": "STARTED",
             "startTime": "24 August 2025 02:30 PM",
             "startDate": "01 January 1970 05:30 AM",
@@ -305,9 +305,9 @@
                     "color": "#4caade",
                     "cricketScore": [
                         {
-                            "runs": 36,
-                            "overs": "4",
-                            "balls": "24",
+                            "runs": 68,
+                            "overs": "7",
+                            "balls": "42",
                             "status": "IN_PROGRESS",
                             "wickets": 1
                         }
@@ -418,7 +418,7 @@
             "title": "Ireland Women Vs Germany Women",
             "tournament": "ICC Women\u2019s T20 WC Europe Qualifier Division 1",
             "match_id": 133753,
-            "status": "NOT_STARTED",
+            "status": "LIVE",
             "streamingStatus": "STARTED",
             "startTime": "24 August 2025 02:30 PM",
             "startDate": "01 January 1970 05:30 AM",
