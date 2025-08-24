@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "02:54:55 AM 25-08-2025",
+    "last_updated": "03:02:56 AM 25-08-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -37,7 +37,7 @@
                     "flag": {
                         "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MIE@2x.png"
                     },
-                    "isWinner": null,
+                    "isWinner": false,
                     "color": "#bf4216",
                     "cricketScore": [
                         {
@@ -64,15 +64,15 @@
                     "flag": {
                         "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GGD@2x.png"
                     },
-                    "isWinner": null,
+                    "isWinner": true,
                     "color": "#f3e778",
                     "cricketScore": [
                         {
-                            "runs": 0,
-                            "overs": "0",
-                            "balls": "0",
+                            "runs": 196,
+                            "overs": "20",
+                            "balls": "120",
                             "status": "IN_PROGRESS",
-                            "wickets": 0
+                            "wickets": 8
                         }
                     ],
                     "kabaddiScore": null,
@@ -95,276 +95,6 @@
                 "dai_google_cdn": "https://dai.google.com/linear/hls/event/5CFCtOhZQeqD_x-Rh7IIRw/master.m3u8",
                 "cloudfront_cdn": "Unavailable",
                 "language": "ENGLISH"
-            }
-        },
-        {
-            "category": "Football",
-            "title": "Real Oviedo Vs Real Madrid",
-            "tournament": "LALIGA 2025-26",
-            "match_id": 130845,
-            "status": "LIVE",
-            "streamingStatus": "STARTED",
-            "startTime": "25 August 2025 01:00 AM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Real-Oviedo-VS-Real-Madrid_Old_match-card_1755766788093.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/130845_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/Real-Oviedo-VS-Real-Madrid_Old_match-card_1755766788093.jpg",
-                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/Real-Oviedo-VS-Real-Madrid_Old_match-card_1755766788093.jpg",
-                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/LALIGA-2025-26-Tour.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Real-Oviedo-VS-Real-Madrid_Old_match-card_1755766788093.jpg",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Real-Oviedo-VS-Real-Madrid_Match_card_1755766788113.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/130845_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "name": "Real Oviedo",
-                    "shortName": "RO",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-RO@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#A71C10",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": {
-                        "points": 0,
-                        "goals": []
-                    },
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "Real Madrid",
-                    "shortName": "RM",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/RM-FT2@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#ffdf50",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": {
-                        "points": 2,
-                        "goals": [
-                            {
-                                "id": "220160",
-                                "shortName": "K Mbapp\u00e9",
-                                "isOwnGoal": false,
-                                "goalTime": "37'"
-                            },
-                            {
-                                "id": "220160",
-                                "shortName": "K Mbapp\u00e9",
-                                "isOwnGoal": false,
-                                "goalTime": "83'"
-                            }
-                        ]
-                    },
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/130845_english_hls_ce8c8f13dd18216adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Unavailable",
-            "STREAMING_CDN": {
-                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/130845_english_hls_ce8c8f13dd18216adfreeta-di_h264/index.m3u8",
-                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/130845_english_hls_ce8c8f13dd18216adfreeta-di_h264/index.m3u8",
-                "dai_google_cdn": "Unavailable",
-                "cloudfront_cdn": "Unavailable",
-                "language": "ENGLISH"
-            }
-        },
-        {
-            "category": "Football",
-            "title": "Real Oviedo Vs Real Madrid",
-            "tournament": "LALIGA 2025-26",
-            "match_id": 130845,
-            "status": "LIVE",
-            "streamingStatus": "STARTED",
-            "startTime": "25 August 2025 01:00 AM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Real-Oviedo-VS-Real-Madrid_Old_match-card_1755766788093.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/130845_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/Real-Oviedo-VS-Real-Madrid_Old_match-card_1755766788093.jpg",
-                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/Real-Oviedo-VS-Real-Madrid_Old_match-card_1755766788093.jpg",
-                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/LALIGA-2025-26-Tour.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Real-Oviedo-VS-Real-Madrid_Old_match-card_1755766788093.jpg",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Real-Oviedo-VS-Real-Madrid_Match_card_1755766788113.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/130845_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "name": "Real Oviedo",
-                    "shortName": "RO",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-RO@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#A71C10",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": {
-                        "points": 0,
-                        "goals": []
-                    },
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "Real Madrid",
-                    "shortName": "RM",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/RM-FT2@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#ffdf50",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": {
-                        "points": 2,
-                        "goals": [
-                            {
-                                "id": "220160",
-                                "shortName": "K Mbapp\u00e9",
-                                "isOwnGoal": false,
-                                "goalTime": "37'"
-                            },
-                            {
-                                "id": "220160",
-                                "shortName": "K Mbapp\u00e9",
-                                "isOwnGoal": false,
-                                "goalTime": "83'"
-                            }
-                        ]
-                    },
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                }
-            ],
-            "language": "HINDI",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/130845_hindi_hls_0877d5af6051151adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Unavailable",
-            "STREAMING_CDN": {
-                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/130845_hindi_hls_0877d5af6051151adfreeta-di_h264/index.m3u8",
-                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/130845_hindi_hls_0877d5af6051151adfreeta-di_h264/index.m3u8",
-                "dai_google_cdn": "Unavailable",
-                "cloudfront_cdn": "Unavailable",
-                "language": "HINDI"
-            }
-        },
-        {
-            "category": "Football",
-            "title": "Real Oviedo Vs Real Madrid",
-            "tournament": "LALIGA 2025-26",
-            "match_id": 130845,
-            "status": "LIVE",
-            "streamingStatus": "STARTED",
-            "startTime": "25 August 2025 01:00 AM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Real-Oviedo-VS-Real-Madrid_Old_match-card_1755766788093.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/130845_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/Real-Oviedo-VS-Real-Madrid_Old_match-card_1755766788093.jpg",
-                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/Real-Oviedo-VS-Real-Madrid_Old_match-card_1755766788093.jpg",
-                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/LALIGA-2025-26-Tour.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Real-Oviedo-VS-Real-Madrid_Old_match-card_1755766788093.jpg",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Real-Oviedo-VS-Real-Madrid_Match_card_1755766788113.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/130845_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "name": "Real Oviedo",
-                    "shortName": "RO",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-RO@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#A71C10",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": {
-                        "points": 0,
-                        "goals": []
-                    },
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "Real Madrid",
-                    "shortName": "RM",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/RM-FT2@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#ffdf50",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": {
-                        "points": 2,
-                        "goals": [
-                            {
-                                "id": "220160",
-                                "shortName": "K Mbapp\u00e9",
-                                "isOwnGoal": false,
-                                "goalTime": "37'"
-                            },
-                            {
-                                "id": "220160",
-                                "shortName": "K Mbapp\u00e9",
-                                "isOwnGoal": false,
-                                "goalTime": "83'"
-                            }
-                        ]
-                    },
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                }
-            ],
-            "language": "BENGALI",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/130845_bengali_hls_606693a54945204adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Unavailable",
-            "STREAMING_CDN": {
-                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/130845_bengali_hls_606693a54945204adfreeta-di_h264/index.m3u8",
-                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/130845_bengali_hls_606693a54945204adfreeta-di_h264/index.m3u8",
-                "dai_google_cdn": "Unavailable",
-                "cloudfront_cdn": "Unavailable",
-                "language": "BENGALI"
             }
         },
         {
@@ -720,6 +450,294 @@
                 "dai_google_cdn": "Unavailable",
                 "cloudfront_cdn": "Unavailable",
                 "language": "ENGLISH"
+            }
+        },
+        {
+            "category": "Football",
+            "title": "Real Oviedo Vs Real Madrid",
+            "tournament": "LALIGA 2025-26",
+            "match_id": 130845,
+            "status": "COMPLETED",
+            "streamingStatus": "STARTED",
+            "startTime": "25 August 2025 01:00 AM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Real-Oviedo-VS-Real-Madrid_Old_match-card_1755766788093.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/130845_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/Real-Oviedo-VS-Real-Madrid_Old_match-card_1755766788093.jpg",
+                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/Real-Oviedo-VS-Real-Madrid_Old_match-card_1755766788093.jpg",
+                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/LALIGA-2025-26-Tour.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Real-Oviedo-VS-Real-Madrid_Old_match-card_1755766788093.jpg",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Real-Oviedo-VS-Real-Madrid_Match_card_1755766788113.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/130845_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "name": "Real Oviedo",
+                    "shortName": "RO",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-RO@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#A71C10",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": {
+                        "points": 0,
+                        "goals": []
+                    },
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "Real Madrid",
+                    "shortName": "RM",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/RM-FT2@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#ffdf50",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": {
+                        "points": 3,
+                        "goals": [
+                            {
+                                "id": "220160",
+                                "shortName": "K Mbapp\u00e9",
+                                "isOwnGoal": false,
+                                "goalTime": "37'"
+                            },
+                            {
+                                "id": "220160",
+                                "shortName": "K Mbapp\u00e9",
+                                "isOwnGoal": false,
+                                "goalTime": "83'"
+                            },
+                            {
+                                "id": "246333",
+                                "shortName": "V J\u00fanior",
+                                "isOwnGoal": false,
+                                "goalTime": "93'"
+                            }
+                        ]
+                    },
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/130845_english_hls_ce8c8f13dd18216adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Unavailable",
+            "STREAMING_CDN": {
+                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/130845_english_hls_ce8c8f13dd18216adfreeta-di_h264/index.m3u8",
+                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/130845_english_hls_ce8c8f13dd18216adfreeta-di_h264/index.m3u8",
+                "dai_google_cdn": "Unavailable",
+                "cloudfront_cdn": "Unavailable",
+                "language": "ENGLISH"
+            }
+        },
+        {
+            "category": "Football",
+            "title": "Real Oviedo Vs Real Madrid",
+            "tournament": "LALIGA 2025-26",
+            "match_id": 130845,
+            "status": "COMPLETED",
+            "streamingStatus": "STARTED",
+            "startTime": "25 August 2025 01:00 AM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Real-Oviedo-VS-Real-Madrid_Old_match-card_1755766788093.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/130845_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/Real-Oviedo-VS-Real-Madrid_Old_match-card_1755766788093.jpg",
+                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/Real-Oviedo-VS-Real-Madrid_Old_match-card_1755766788093.jpg",
+                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/LALIGA-2025-26-Tour.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Real-Oviedo-VS-Real-Madrid_Old_match-card_1755766788093.jpg",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Real-Oviedo-VS-Real-Madrid_Match_card_1755766788113.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/130845_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "name": "Real Oviedo",
+                    "shortName": "RO",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-RO@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#A71C10",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": {
+                        "points": 0,
+                        "goals": []
+                    },
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "Real Madrid",
+                    "shortName": "RM",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/RM-FT2@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#ffdf50",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": {
+                        "points": 3,
+                        "goals": [
+                            {
+                                "id": "220160",
+                                "shortName": "K Mbapp\u00e9",
+                                "isOwnGoal": false,
+                                "goalTime": "37'"
+                            },
+                            {
+                                "id": "220160",
+                                "shortName": "K Mbapp\u00e9",
+                                "isOwnGoal": false,
+                                "goalTime": "83'"
+                            },
+                            {
+                                "id": "246333",
+                                "shortName": "V J\u00fanior",
+                                "isOwnGoal": false,
+                                "goalTime": "93'"
+                            }
+                        ]
+                    },
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                }
+            ],
+            "language": "HINDI",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/130845_hindi_hls_0877d5af6051151adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Unavailable",
+            "STREAMING_CDN": {
+                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/130845_hindi_hls_0877d5af6051151adfreeta-di_h264/index.m3u8",
+                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/130845_hindi_hls_0877d5af6051151adfreeta-di_h264/index.m3u8",
+                "dai_google_cdn": "Unavailable",
+                "cloudfront_cdn": "Unavailable",
+                "language": "HINDI"
+            }
+        },
+        {
+            "category": "Football",
+            "title": "Real Oviedo Vs Real Madrid",
+            "tournament": "LALIGA 2025-26",
+            "match_id": 130845,
+            "status": "COMPLETED",
+            "streamingStatus": "STARTED",
+            "startTime": "25 August 2025 01:00 AM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Real-Oviedo-VS-Real-Madrid_Old_match-card_1755766788093.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/130845_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/Real-Oviedo-VS-Real-Madrid_Old_match-card_1755766788093.jpg",
+                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/Real-Oviedo-VS-Real-Madrid_Old_match-card_1755766788093.jpg",
+                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/LALIGA-2025-26-Tour.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Real-Oviedo-VS-Real-Madrid_Old_match-card_1755766788093.jpg",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Real-Oviedo-VS-Real-Madrid_Match_card_1755766788113.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/130845_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "name": "Real Oviedo",
+                    "shortName": "RO",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-RO@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#A71C10",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": {
+                        "points": 0,
+                        "goals": []
+                    },
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "Real Madrid",
+                    "shortName": "RM",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/RM-FT2@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#ffdf50",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": {
+                        "points": 3,
+                        "goals": [
+                            {
+                                "id": "220160",
+                                "shortName": "K Mbapp\u00e9",
+                                "isOwnGoal": false,
+                                "goalTime": "37'"
+                            },
+                            {
+                                "id": "220160",
+                                "shortName": "K Mbapp\u00e9",
+                                "isOwnGoal": false,
+                                "goalTime": "83'"
+                            },
+                            {
+                                "id": "246333",
+                                "shortName": "V J\u00fanior",
+                                "isOwnGoal": false,
+                                "goalTime": "93'"
+                            }
+                        ]
+                    },
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                }
+            ],
+            "language": "BENGALI",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/130845_bengali_hls_606693a54945204adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Unavailable",
+            "STREAMING_CDN": {
+                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/130845_bengali_hls_606693a54945204adfreeta-di_h264/index.m3u8",
+                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/130845_bengali_hls_606693a54945204adfreeta-di_h264/index.m3u8",
+                "dai_google_cdn": "Unavailable",
+                "cloudfront_cdn": "Unavailable",
+                "language": "BENGALI"
             }
         },
         {
