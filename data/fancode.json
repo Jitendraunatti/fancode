@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "11:18:53 AM 24-08-2025",
+    "last_updated": "11:26:55 AM 24-08-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -82,8 +82,8 @@
                             "wickets": 10
                         },
                         {
-                            "runs": 267,
-                            "overs": "82",
+                            "runs": 274,
+                            "overs": "83.5",
                             "balls": "0",
                             "status": "IN_PROGRESS",
                             "wickets": 3
