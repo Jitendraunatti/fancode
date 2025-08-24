@@ -1,189 +1,15 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "12:10:24 AM 25-08-2025",
+    "last_updated": "12:18:24 AM 25-08-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
     "total_matches": 39,
-    "live_matches": 17,
-    "upcoming_matches": 22,
+    "live_matches": 16,
+    "upcoming_matches": 23,
     "matches": [
-        {
-            "category": "Cricket",
-            "title": "St Kitts And Nevis Patriots Vs Antigua & Barbuda Falcons",
-            "tournament": "Caribbean Premier League, 2025",
-            "match_id": 132356,
-            "status": "COMPLETED",
-            "streamingStatus": "STARTED",
-            "startTime": "24 August 2025 08:30 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/132356_5512_ABF_SKN_fc-web.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/132356_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/132356_5512_ABF_SKN_fc-web.jpg",
-                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/132356_5512_ABF_SKN_fc-web.jpg",
-                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/08/CPL.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/132356_5512_ABF_SKN_fc-web.jpg",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/132356_5512_ABF_SKN_fc-app.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/132356_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "name": "St Kitts and Nevis Patriots",
-                    "shortName": "SKN",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SKPA@2x.png"
-                    },
-                    "isWinner": false,
-                    "color": "#3fd379",
-                    "cricketScore": [
-                        {
-                            "runs": 133,
-                            "overs": "20",
-                            "balls": "120",
-                            "status": "COMPLETED",
-                            "wickets": 9
-                        }
-                    ],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "Antigua & Barbuda Falcons",
-                    "shortName": "ABF",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ABF@2x.png"
-                    },
-                    "isWinner": true,
-                    "color": "#CC0001",
-                    "cricketScore": [
-                        {
-                            "runs": 137,
-                            "overs": "19.4",
-                            "balls": "118",
-                            "status": "IN_PROGRESS",
-                            "wickets": 3
-                        }
-                    ],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": true
-                        }
-                    }
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/132356_english_hls_54d02e7a1136612ta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/k4HokqPUSHibJdEEENruJQ/master.m3u8",
-            "STREAMING_CDN": {
-                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/132356_english_hls_54d02e7a1136612ta-di_h264/index.m3u8",
-                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/132356_english_hls_54d02e7a1136612ta-di_h264/index.m3u8",
-                "dai_google_cdn": "https://dai.google.com/linear/hls/event/k4HokqPUSHibJdEEENruJQ/master.m3u8",
-                "cloudfront_cdn": "Unavailable",
-                "language": "ENGLISH"
-            }
-        },
-        {
-            "category": "Cricket",
-            "title": "St Kitts And Nevis Patriots Vs Antigua & Barbuda Falcons",
-            "tournament": "Caribbean Premier League, 2025",
-            "match_id": 132356,
-            "status": "COMPLETED",
-            "streamingStatus": "STARTED",
-            "startTime": "24 August 2025 08:30 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/132356_5512_ABF_SKN_fc-web.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/132356_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/132356_5512_ABF_SKN_fc-web.jpg",
-                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/132356_5512_ABF_SKN_fc-web.jpg",
-                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/08/CPL.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/132356_5512_ABF_SKN_fc-web.jpg",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/132356_5512_ABF_SKN_fc-app.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/132356_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "name": "St Kitts and Nevis Patriots",
-                    "shortName": "SKN",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SKPA@2x.png"
-                    },
-                    "isWinner": false,
-                    "color": "#3fd379",
-                    "cricketScore": [
-                        {
-                            "runs": 133,
-                            "overs": "20",
-                            "balls": "120",
-                            "status": "COMPLETED",
-                            "wickets": 9
-                        }
-                    ],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "Antigua & Barbuda Falcons",
-                    "shortName": "ABF",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ABF@2x.png"
-                    },
-                    "isWinner": true,
-                    "color": "#CC0001",
-                    "cricketScore": [
-                        {
-                            "runs": 137,
-                            "overs": "19.4",
-                            "balls": "118",
-                            "status": "IN_PROGRESS",
-                            "wickets": 3
-                        }
-                    ],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": true
-                        }
-                    }
-                }
-            ],
-            "language": "HINDI AI(BETA)",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/132356_hindi_hls_1363cbf2f445621ta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/NoQxbV4XTsKqlnatgZyGBw/master.m3u8",
-            "STREAMING_CDN": {
-                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/132356_hindi_hls_1363cbf2f445621ta-di_h264/index.m3u8",
-                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/132356_hindi_hls_1363cbf2f445621ta-di_h264/index.m3u8",
-                "dai_google_cdn": "https://dai.google.com/linear/hls/event/NoQxbV4XTsKqlnatgZyGBw/master.m3u8",
-                "cloudfront_cdn": "Unavailable",
-                "language": "HINDI AI(BETA)"
-            }
-        },
         {
             "category": "Cricket",
             "title": "Manchester Originals Vs Birmingham Phoenix",
@@ -242,9 +68,9 @@
                     "color": "#e87c03",
                     "cricketScore": [
                         {
-                            "runs": 20,
-                            "overs": "4",
-                            "balls": "20",
+                            "runs": 42,
+                            "overs": "6.3",
+                            "balls": "33",
                             "status": "IN_PROGRESS",
                             "wickets": 1
                         }
@@ -267,93 +93,6 @@
                 "Primary_Playback_URL": "https://dai.google.com/linear/hls/event/HynNobMPSu6nQCgpxsK0lQ/master.m3u8",
                 "fancode_cdn": "Unavailable",
                 "dai_google_cdn": "https://dai.google.com/linear/hls/event/HynNobMPSu6nQCgpxsK0lQ/master.m3u8",
-                "cloudfront_cdn": "Unavailable",
-                "language": "ENGLISH"
-            }
-        },
-        {
-            "category": "Cricket",
-            "title": "Renaissance Challengers Vs Majees Titans",
-            "tournament": "Oman D20 League, 2025",
-            "match_id": 133691,
-            "status": "COMPLETED",
-            "streamingStatus": "STARTED",
-            "startTime": "24 August 2025 09:00 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/133691_5590_MAT_RNC_fc-Web.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/133691_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/133691_5590_MAT_RNC_fc-Web.jpg",
-                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/133691_5590_MAT_RNC_fc-Web.jpg",
-                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2023/12/Tour-Placeholder.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/133691_5590_MAT_RNC_fc-Web.jpg",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/133691_5590_MAT_RNC_fc-App.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/133691_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "name": "Renaissance Challengers",
-                    "shortName": "RNC",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RNC@2x.png"
-                    },
-                    "isWinner": false,
-                    "color": "#bb4335",
-                    "cricketScore": [
-                        {
-                            "runs": 132,
-                            "overs": "20",
-                            "balls": "120",
-                            "status": "COMPLETED",
-                            "wickets": 4
-                        }
-                    ],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "Majees Titans",
-                    "shortName": "MAT",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MAJ@2x.png"
-                    },
-                    "isWinner": true,
-                    "color": "#d8c50f",
-                    "cricketScore": [
-                        {
-                            "runs": 134,
-                            "overs": "18",
-                            "balls": "108",
-                            "status": "IN_PROGRESS",
-                            "wickets": 3
-                        }
-                    ],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": true
-                        }
-                    }
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/133691_english_hls_8e5b93169723903ta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/VUc63hT8QnOPwqR3hdze-g/master.m3u8",
-            "STREAMING_CDN": {
-                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/133691_english_hls_8e5b93169723903ta-di_h264/index.m3u8",
-                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/133691_english_hls_8e5b93169723903ta-di_h264/index.m3u8",
-                "dai_google_cdn": "https://dai.google.com/linear/hls/event/VUc63hT8QnOPwqR3hdze-g/master.m3u8",
                 "cloudfront_cdn": "Unavailable",
                 "language": "ENGLISH"
             }
@@ -977,77 +716,6 @@
             }
         },
         {
-            "category": "Baseball",
-            "title": "Pittsburgh Pirates Vs Colorado Rockies",
-            "tournament": "Major League Baseball, 2025",
-            "match_id": 132881,
-            "status": "LIVE",
-            "streamingStatus": "STARTED",
-            "startTime": "24 August 2025 09:35 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://images.fancode.com/aig/match/v1/132881_CASACARDS_APP.png",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/132881_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://images.fancode.com/aig/match/v1/132881_CASACARDS_APP.png",
-                "PLAYBACK": "https://images.fancode.com/aig/match/v1/132881_CASACARDS_APP.png",
-                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/04/MLB-Tour-Logo.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Baseball-1440-x-360.jpg",
-                "BG_IMAGE": "https://images.fancode.com/aig/match/v1/132881_CASACARDS_APP.png",
-                "SPORT_BY_IMAGE": "https://images.fancode.com/aig/match/v1/132881_CASACARDS_SPORTY_APP.png",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/132881_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "name": "Pittsburgh Pirates",
-                    "shortName": "PBP",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-PITTS@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#816305",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "Colorado Rockies",
-                    "shortName": "COR",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-COLO@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#53409a",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/132881_english_hls_8f74eea96835792ta-di_h264/index.m3u8",
-            "dai_stream": "Unavailable",
-            "STREAMING_CDN": {
-                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/132881_english_hls_8f74eea96835792ta-di_h264/index.m3u8",
-                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/132881_english_hls_8f74eea96835792ta-di_h264/index.m3u8",
-                "dai_google_cdn": "Unavailable",
-                "cloudfront_cdn": "Unavailable",
-                "language": "ENGLISH"
-            }
-        },
-        {
             "category": "Golf",
             "title": "Featured Group   Day 4",
             "tournament": "Tour Championship",
@@ -1262,6 +930,180 @@
         },
         {
             "category": "Cricket",
+            "title": "St Kitts And Nevis Patriots Vs Antigua & Barbuda Falcons",
+            "tournament": "Caribbean Premier League, 2025",
+            "match_id": 132356,
+            "status": "COMPLETED",
+            "streamingStatus": "STARTED",
+            "startTime": "24 August 2025 08:30 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/132356_5512_ABF_SKN_fc-web.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/132356_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/132356_5512_ABF_SKN_fc-web.jpg",
+                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/132356_5512_ABF_SKN_fc-web.jpg",
+                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/08/CPL.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/132356_5512_ABF_SKN_fc-web.jpg",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/132356_5512_ABF_SKN_fc-app.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/132356_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "name": "St Kitts and Nevis Patriots",
+                    "shortName": "SKN",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SKPA@2x.png"
+                    },
+                    "isWinner": false,
+                    "color": "#3fd379",
+                    "cricketScore": [
+                        {
+                            "runs": 133,
+                            "overs": "20",
+                            "balls": "120",
+                            "status": "COMPLETED",
+                            "wickets": 9
+                        }
+                    ],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "Antigua & Barbuda Falcons",
+                    "shortName": "ABF",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ABF@2x.png"
+                    },
+                    "isWinner": true,
+                    "color": "#CC0001",
+                    "cricketScore": [
+                        {
+                            "runs": 137,
+                            "overs": "19.4",
+                            "balls": "118",
+                            "status": "IN_PROGRESS",
+                            "wickets": 3
+                        }
+                    ],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": true
+                        }
+                    }
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/132356_english_hls_54d02e7a1136612ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/k4HokqPUSHibJdEEENruJQ/master.m3u8",
+            "STREAMING_CDN": {
+                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/132356_english_hls_54d02e7a1136612ta-di_h264/index.m3u8",
+                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/132356_english_hls_54d02e7a1136612ta-di_h264/index.m3u8",
+                "dai_google_cdn": "https://dai.google.com/linear/hls/event/k4HokqPUSHibJdEEENruJQ/master.m3u8",
+                "cloudfront_cdn": "Unavailable",
+                "language": "ENGLISH"
+            }
+        },
+        {
+            "category": "Cricket",
+            "title": "St Kitts And Nevis Patriots Vs Antigua & Barbuda Falcons",
+            "tournament": "Caribbean Premier League, 2025",
+            "match_id": 132356,
+            "status": "COMPLETED",
+            "streamingStatus": "STARTED",
+            "startTime": "24 August 2025 08:30 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/132356_5512_ABF_SKN_fc-web.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/132356_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/132356_5512_ABF_SKN_fc-web.jpg",
+                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/132356_5512_ABF_SKN_fc-web.jpg",
+                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/08/CPL.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/132356_5512_ABF_SKN_fc-web.jpg",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/132356_5512_ABF_SKN_fc-app.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/132356_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "name": "St Kitts and Nevis Patriots",
+                    "shortName": "SKN",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SKPA@2x.png"
+                    },
+                    "isWinner": false,
+                    "color": "#3fd379",
+                    "cricketScore": [
+                        {
+                            "runs": 133,
+                            "overs": "20",
+                            "balls": "120",
+                            "status": "COMPLETED",
+                            "wickets": 9
+                        }
+                    ],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "Antigua & Barbuda Falcons",
+                    "shortName": "ABF",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ABF@2x.png"
+                    },
+                    "isWinner": true,
+                    "color": "#CC0001",
+                    "cricketScore": [
+                        {
+                            "runs": 137,
+                            "overs": "19.4",
+                            "balls": "118",
+                            "status": "IN_PROGRESS",
+                            "wickets": 3
+                        }
+                    ],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": true
+                        }
+                    }
+                }
+            ],
+            "language": "HINDI AI(BETA)",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/132356_hindi_hls_1363cbf2f445621ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/NoQxbV4XTsKqlnatgZyGBw/master.m3u8",
+            "STREAMING_CDN": {
+                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/132356_hindi_hls_1363cbf2f445621ta-di_h264/index.m3u8",
+                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/132356_hindi_hls_1363cbf2f445621ta-di_h264/index.m3u8",
+                "dai_google_cdn": "https://dai.google.com/linear/hls/event/NoQxbV4XTsKqlnatgZyGBw/master.m3u8",
+                "cloudfront_cdn": "Unavailable",
+                "language": "HINDI AI(BETA)"
+            }
+        },
+        {
+            "category": "Cricket",
             "title": "South Delhi Superstarz Women Vs Central Delhi Queens",
             "tournament": "Delhi Women's Premier League, 2025",
             "match_id": 132977,
@@ -1349,6 +1191,93 @@
         },
         {
             "category": "Cricket",
+            "title": "Renaissance Challengers Vs Majees Titans",
+            "tournament": "Oman D20 League, 2025",
+            "match_id": 133691,
+            "status": "COMPLETED",
+            "streamingStatus": "STARTED",
+            "startTime": "24 August 2025 09:00 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/133691_5590_MAT_RNC_fc-Web.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/133691_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/133691_5590_MAT_RNC_fc-Web.jpg",
+                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/133691_5590_MAT_RNC_fc-Web.jpg",
+                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2023/12/Tour-Placeholder.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/133691_5590_MAT_RNC_fc-Web.jpg",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/133691_5590_MAT_RNC_fc-App.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/133691_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "name": "Renaissance Challengers",
+                    "shortName": "RNC",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RNC@2x.png"
+                    },
+                    "isWinner": false,
+                    "color": "#bb4335",
+                    "cricketScore": [
+                        {
+                            "runs": 132,
+                            "overs": "20",
+                            "balls": "120",
+                            "status": "COMPLETED",
+                            "wickets": 4
+                        }
+                    ],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "Majees Titans",
+                    "shortName": "MAT",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MAJ@2x.png"
+                    },
+                    "isWinner": true,
+                    "color": "#d8c50f",
+                    "cricketScore": [
+                        {
+                            "runs": 134,
+                            "overs": "18",
+                            "balls": "108",
+                            "status": "IN_PROGRESS",
+                            "wickets": 3
+                        }
+                    ],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": true
+                        }
+                    }
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/133691_english_hls_8e5b93169723903ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/VUc63hT8QnOPwqR3hdze-g/master.m3u8",
+            "STREAMING_CDN": {
+                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/133691_english_hls_8e5b93169723903ta-di_h264/index.m3u8",
+                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/133691_english_hls_8e5b93169723903ta-di_h264/index.m3u8",
+                "dai_google_cdn": "https://dai.google.com/linear/hls/event/VUc63hT8QnOPwqR3hdze-g/master.m3u8",
+                "cloudfront_cdn": "Unavailable",
+                "language": "ENGLISH"
+            }
+        },
+        {
+            "category": "Cricket",
             "title": "Saint Lucia Kings Vs Barbados Royals",
             "tournament": "Caribbean Premier League, 2025",
             "match_id": 132357,
@@ -1403,90 +1332,6 @@
                     "status": {
                         "cricket": {
                             "isBatting": false
-                        }
-                    }
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
-            }
-        },
-        {
-            "category": "Cricket",
-            "title": "Dubai Capitals Development Vs Desert Vipers Development",
-            "tournament": "DP World ILT20 Development Tournament, 2025",
-            "match_id": 135796,
-            "status": "COMPLETED",
-            "streamingStatus": "COMPLETED",
-            "startTime": "24 August 2025 06:30 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/135796_5636_DCD_DVD_fc-web.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/135796_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/135796_5636_DCD_DVD_fc-web.jpg",
-                "PLAYBACK": null,
-                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/DPW-ILT20-Tour-Logo.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/135796_5636_DCD_DVD_fc-web.jpg",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/135796_5636_DCD_DVD_fc-app.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/135796_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "name": "Dubai Capitals Development",
-                    "shortName": "DCD",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DCD@2x.png"
-                    },
-                    "isWinner": false,
-                    "color": "#131d7f",
-                    "cricketScore": [
-                        {
-                            "runs": 210,
-                            "overs": "20",
-                            "balls": "120",
-                            "status": "COMPLETED",
-                            "wickets": 6
-                        }
-                    ],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "Desert Vipers Development",
-                    "shortName": "DVD",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DVD@2x.png"
-                    },
-                    "isWinner": true,
-                    "color": "#ddab30",
-                    "cricketScore": [
-                        {
-                            "runs": 211,
-                            "overs": "20",
-                            "balls": "120",
-                            "status": "IN_PROGRESS",
-                            "wickets": 9
-                        }
-                    ],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": true
                         }
                     }
                 }
@@ -2847,6 +2692,142 @@
                     },
                     "isWinner": null,
                     "color": "#e0d405",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "STREAMING_CDN": {
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
+            }
+        },
+        {
+            "category": "Football",
+            "title": "Albacete Vs Racing De Santander",
+            "tournament": "LALIGA Hypermotion 2025-26",
+            "match_id": 134945,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "25 August 2025 11:00 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/134945_5572_ALB_RAC_fc-web.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/134945_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/134945_5572_ALB_RAC_fc-web.jpg",
+                "PLAYBACK": null,
+                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/LaLiga_Hypermotionv-Tour-Logo.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/134945_5572_ALB_RAC_fc-web.jpg",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/134945_5572_ALB_RAC_fc-App.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/134945_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "name": "Albacete",
+                    "shortName": "ALB",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ALB@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#b1373c",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "Racing de Santander",
+                    "shortName": "RAC",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-RAC@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#752009",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "STREAMING_CDN": {
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
+            }
+        },
+        {
+            "category": "Baseball",
+            "title": "Seattle Mariners Vs Oakland Athletics",
+            "tournament": "Major League Baseball, 2025",
+            "match_id": 132883,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "25 August 2025 01:40 AM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://images.fancode.com/aig/match/v1/132883_CASACARDS_APP.png",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/132883_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://images.fancode.com/aig/match/v1/132883_CASACARDS_APP.png",
+                "PLAYBACK": null,
+                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/04/MLB-Tour-Logo.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Baseball-1440-x-360.jpg",
+                "BG_IMAGE": "https://images.fancode.com/aig/match/v1/132883_CASACARDS_APP.png",
+                "SPORT_BY_IMAGE": "https://images.fancode.com/aig/match/v1/132883_CASACARDS_SPORTY_APP.png",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/132883_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "name": "Seattle Mariners",
+                    "shortName": "SEM",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-SEATL@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#11a6a8",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "Oakland Athletics",
+                    "shortName": "OA",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-OAKL@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#f8c33f",
                     "cricketScore": null,
                     "kabaddiScore": null,
                     "footballScore": null,
