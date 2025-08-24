@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "07:18:24 PM 24-08-2025",
+    "last_updated": "07:26:24 PM 24-08-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -41,9 +41,9 @@
                     "color": "#b7e330",
                     "cricketScore": [
                         {
-                            "runs": 16,
-                            "overs": "3.4",
-                            "balls": "22",
+                            "runs": 36,
+                            "overs": "5",
+                            "balls": "30",
                             "status": "IN_PROGRESS",
                             "wickets": 1
                         }
@@ -120,9 +120,9 @@
                     "color": "#b7e330",
                     "cricketScore": [
                         {
-                            "runs": 16,
-                            "overs": "3.4",
-                            "balls": "22",
+                            "runs": 36,
+                            "overs": "5",
+                            "balls": "30",
                             "status": "IN_PROGRESS",
                             "wickets": 1
                         }
@@ -199,11 +199,11 @@
                     "color": "#eba095",
                     "cricketScore": [
                         {
-                            "runs": 11,
-                            "overs": "3.4",
-                            "balls": "19",
+                            "runs": 17,
+                            "overs": "5.2",
+                            "balls": "27",
                             "status": "IN_PROGRESS",
-                            "wickets": 1
+                            "wickets": 3
                         }
                     ],
                     "kabaddiScore": null,
@@ -278,9 +278,9 @@
                     "color": "#CB1414",
                     "cricketScore": [
                         {
-                            "runs": 23,
-                            "overs": "4",
-                            "balls": "20",
+                            "runs": 29,
+                            "overs": "6.2",
+                            "balls": "32",
                             "status": "IN_PROGRESS",
                             "wickets": 1
                         }
@@ -357,9 +357,9 @@
                     "color": "#ffed00",
                     "cricketScore": [
                         {
-                            "runs": 0,
-                            "overs": "0.3",
-                            "balls": "3",
+                            "runs": 21,
+                            "overs": "2.2",
+                            "balls": "14",
                             "status": "IN_PROGRESS",
                             "wickets": 0
                         }
@@ -463,9 +463,9 @@
                     "color": "#5a8543",
                     "cricketScore": [
                         {
-                            "runs": 67,
-                            "overs": "10.2",
-                            "balls": "62",
+                            "runs": 79,
+                            "overs": "12.2",
+                            "balls": "74",
                             "status": "IN_PROGRESS",
                             "wickets": 4
                         }
@@ -602,11 +602,11 @@
                     "color": "#D11919",
                     "cricketScore": [
                         {
-                            "runs": 103,
-                            "overs": "13.3",
-                            "balls": "81",
+                            "runs": 128,
+                            "overs": "19",
+                            "balls": "114",
                             "status": "IN_PROGRESS",
-                            "wickets": 3
+                            "wickets": 9
                         }
                     ],
                     "kabaddiScore": null,
@@ -752,11 +752,11 @@
                     "color": "#921b36",
                     "cricketScore": [
                         {
-                            "runs": 27,
-                            "overs": "3.3",
-                            "balls": "21",
+                            "runs": 29,
+                            "overs": "4.4",
+                            "balls": "28",
                             "status": "IN_PROGRESS",
-                            "wickets": 0
+                            "wickets": 2
                         }
                     ],
                     "kabaddiScore": null,
@@ -831,11 +831,11 @@
                     "color": "#df787f",
                     "cricketScore": [
                         {
-                            "runs": 0,
-                            "overs": "0.5",
-                            "balls": "5",
+                            "runs": 13,
+                            "overs": "2.5",
+                            "balls": "17",
                             "status": "IN_PROGRESS",
-                            "wickets": 0
+                            "wickets": 1
                         }
                     ],
                     "kabaddiScore": null,
@@ -2108,74 +2108,6 @@
         },
         {
             "category": "Cricket",
-            "title": "Northern Suburbs Vs Gold Coast",
-            "tournament": "KFC T20 Max, 2025",
-            "match_id": 134892,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "25 August 2025 01:30 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/134892_5623_NSB_GCT_Fc-Web_1755807575937.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/134892_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/134892_5623_NSB_GCT_Fc-Web_1755807575937.jpg",
-                "PLAYBACK": null,
-                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/08/KFC-T20-Max-Competition-2024-Tour-Logo.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/134892_5623_NSB_GCT_Fc-Web_1755807575937.jpg",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/134892_5623_NSB_GCT_FC-App_1755807588868.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/134892_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "name": "Northern Suburbs",
-                    "shortName": "NSB",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NSB@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#0dc8b1",
-                    "cricketScore": [],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "Gold Coast",
-                    "shortName": "GCT",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GCT@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#1477c0",
-                    "cricketScore": [],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
-            }
-        },
-        {
-            "category": "Cricket",
             "title": "Oval Invincibles Women Vs London Spirit Women",
             "tournament": "The Hundred Women, 2025",
             "match_id": 132284,
@@ -2223,6 +2155,74 @@
                     "isWinner": null,
                     "color": "#a0a0d4",
                     "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "STREAMING_CDN": {
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
+            }
+        },
+        {
+            "category": "Cricket",
+            "title": "Northern Suburbs Vs Gold Coast",
+            "tournament": "KFC T20 Max, 2025",
+            "match_id": 134892,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "25 August 2025 01:30 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/134892_5623_NSB_GCT_Fc-Web_1755807575937.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/134892_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/134892_5623_NSB_GCT_Fc-Web_1755807575937.jpg",
+                "PLAYBACK": null,
+                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/08/KFC-T20-Max-Competition-2024-Tour-Logo.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/134892_5623_NSB_GCT_Fc-Web_1755807575937.jpg",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/134892_5623_NSB_GCT_FC-App_1755807588868.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/134892_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "name": "Northern Suburbs",
+                    "shortName": "NSB",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NSB@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#0dc8b1",
+                    "cricketScore": [],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "Gold Coast",
+                    "shortName": "GCT",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GCT@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#1477c0",
+                    "cricketScore": [],
                     "kabaddiScore": null,
                     "footballScore": null,
                     "basketBallScore": null,
