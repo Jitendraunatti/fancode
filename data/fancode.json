@@ -1,14 +1,14 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "05:46:24 PM 24-08-2025",
+    "last_updated": "05:54:26 PM 24-08-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
     "total_matches": 39,
-    "live_matches": 14,
-    "upcoming_matches": 25,
+    "live_matches": 12,
+    "upcoming_matches": 27,
     "matches": [
         {
             "category": "Cricket",
@@ -68,9 +68,9 @@
                     "color": "#B8142D",
                     "cricketScore": [
                         {
-                            "runs": 34,
-                            "overs": "2.5",
-                            "balls": "17",
+                            "runs": 58,
+                            "overs": "4.1",
+                            "balls": "25",
                             "status": "IN_PROGRESS",
                             "wickets": 0
                         }
@@ -155,9 +155,9 @@
                     "color": "#D26617",
                     "cricketScore": [
                         {
-                            "runs": 68,
-                            "overs": "10",
-                            "balls": "60",
+                            "runs": 72,
+                            "overs": "11.5",
+                            "balls": "71",
                             "status": "IN_PROGRESS",
                             "wickets": 3
                         }
@@ -242,9 +242,9 @@
                     "color": "#D26617",
                     "cricketScore": [
                         {
-                            "runs": 68,
-                            "overs": "10",
-                            "balls": "60",
+                            "runs": 72,
+                            "overs": "11.5",
+                            "balls": "71",
                             "status": "IN_PROGRESS",
                             "wickets": 3
                         }
@@ -329,9 +329,9 @@
                     "color": "#fea129",
                     "cricketScore": [
                         {
-                            "runs": 79,
-                            "overs": "7.2",
-                            "balls": "44",
+                            "runs": 97,
+                            "overs": "8.5",
+                            "balls": "53",
                             "status": "IN_PROGRESS",
                             "wickets": 0
                         }
@@ -416,9 +416,9 @@
                     "color": "#eb9ba1",
                     "cricketScore": [
                         {
-                            "runs": 75,
-                            "overs": "10.3",
-                            "balls": "53",
+                            "runs": 100,
+                            "overs": "13.3",
+                            "balls": "68",
                             "status": "IN_PROGRESS",
                             "wickets": 5
                         }
@@ -476,9 +476,9 @@
                     "color": "#f8dd5a",
                     "cricketScore": [
                         {
-                            "runs": 144,
-                            "overs": "34.1",
-                            "balls": "205",
+                            "runs": 148,
+                            "overs": "35",
+                            "balls": "210",
                             "status": "IN_PROGRESS",
                             "wickets": 9
                         }
@@ -555,9 +555,9 @@
                     "color": "#1e4609",
                     "cricketScore": [
                         {
-                            "runs": 132,
-                            "overs": "33",
-                            "balls": "198",
+                            "runs": 142,
+                            "overs": "34.5",
+                            "balls": "209",
                             "status": "IN_PROGRESS",
                             "wickets": 6
                         }
@@ -713,8 +713,8 @@
                     "color": "#e4bea2",
                     "cricketScore": null,
                     "kabaddiScore": {
-                        "points": 8,
-                        "onFieldPlayers": 7,
+                        "points": 17,
+                        "onFieldPlayers": 6,
                         "totalFieldPlayers": 7,
                         "raiding": true
                     },
@@ -737,8 +737,8 @@
                     "color": "#c2c8fd",
                     "cricketScore": null,
                     "kabaddiScore": {
-                        "points": 13,
-                        "onFieldPlayers": 4,
+                        "points": 19,
+                        "onFieldPlayers": 7,
                         "totalFieldPlayers": 7,
                         "raiding": null
                     },
@@ -972,195 +972,6 @@
                 "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/134996_english_hls_bbfeb06a2023932ta-di_h264/index.m3u8",
                 "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/134996_english_hls_bbfeb06a2023932ta-di_h264/index.m3u8",
                 "dai_google_cdn": "https://dai.google.com/linear/hls/event/iLYxpDrkSCCmSQef-G9iww/master.m3u8",
-                "cloudfront_cdn": "Unavailable",
-                "language": "ENGLISH"
-            }
-        },
-        {
-            "category": "Cricket",
-            "title": "Ireland Women Vs Germany Women",
-            "tournament": "ICC Women\u2019s T20 WC Europe Qualifier Division 1",
-            "match_id": 133753,
-            "status": "COMPLETED",
-            "streamingStatus": "STARTED",
-            "startTime": "24 August 2025 02:30 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/133753_5592_GER-W_IR-W_fc-web.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/133753_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/133753_5592_GER-W_IR-W_fc-web.jpg",
-                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/133753_5592_GER-W_IR-W_fc-web.jpg",
-                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Europe_ICC-Pathways_Tour-Logo.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/133753_5592_GER-W_IR-W_fc-web.jpg",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/133753_5592_GER-W_IR-W_fc-app.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/133753_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "name": "Ireland Women",
-                    "shortName": "IR-W",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-IRE@2x.png"
-                    },
-                    "isWinner": true,
-                    "color": "#32752E",
-                    "cricketScore": [
-                        {
-                            "runs": 223,
-                            "overs": "20",
-                            "balls": "120",
-                            "status": "COMPLETED",
-                            "wickets": 1
-                        }
-                    ],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "Germany Women",
-                    "shortName": "GER-W",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GER@2x.png"
-                    },
-                    "isWinner": false,
-                    "color": "#ea6363",
-                    "cricketScore": [
-                        {
-                            "runs": 44,
-                            "overs": "20",
-                            "balls": "120",
-                            "status": "IN_PROGRESS",
-                            "wickets": 8
-                        }
-                    ],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": true
-                        }
-                    }
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/133753_english_hls_20ef4f8f5872039ta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/nbUVFafJQMuW3qOeYj1EIQ/master.m3u8",
-            "STREAMING_CDN": {
-                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/133753_english_hls_20ef4f8f5872039ta-di_h264/index.m3u8",
-                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/133753_english_hls_20ef4f8f5872039ta-di_h264/index.m3u8",
-                "dai_google_cdn": "https://dai.google.com/linear/hls/event/nbUVFafJQMuW3qOeYj1EIQ/master.m3u8",
-                "cloudfront_cdn": "Unavailable",
-                "language": "ENGLISH"
-            }
-        },
-        {
-            "category": "Football",
-            "title": "Fc Tokyo Vs Kyoto Sanga",
-            "tournament": "J League 2025",
-            "match_id": 132084,
-            "status": "COMPLETED",
-            "streamingStatus": "STARTED",
-            "startTime": "24 August 2025 03:30 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://images.fancode.com/aig/match/v1/132084_CASACARDS_APP.png",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/132084_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://images.fancode.com/aig/match/v1/132084_CASACARDS_APP.png",
-                "PLAYBACK": "https://images.fancode.com/aig/match/v1/132084_CASACARDS_APP.png",
-                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2023/04/J-League_2023.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
-                "BG_IMAGE": "https://images.fancode.com/aig/match/v1/132084_CASACARDS_APP.png",
-                "SPORT_BY_IMAGE": "https://images.fancode.com/aig/match/v1/132084_CASACARDS_SPORTY_APP.png",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/132084_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "name": "FC Tokyo",
-                    "shortName": "TKY",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-TYO@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#1a39a8",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": {
-                        "points": 0,
-                        "goals": []
-                    },
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "Kyoto Sanga",
-                    "shortName": "KYS",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-KSN@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#651968",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": {
-                        "points": 4,
-                        "goals": [
-                            {
-                                "id": "226825",
-                                "shortName": "R Elias",
-                                "isOwnGoal": false,
-                                "goalTime": "8'"
-                            },
-                            {
-                                "id": "226825",
-                                "shortName": "R Elias",
-                                "isOwnGoal": false,
-                                "goalTime": "13'"
-                            },
-                            {
-                                "id": "477083",
-                                "shortName": "Y Suzuki",
-                                "isOwnGoal": false,
-                                "goalTime": "45'"
-                            },
-                            {
-                                "id": "226825",
-                                "shortName": "R Elias",
-                                "isOwnGoal": false,
-                                "goalTime": "81'"
-                            }
-                        ]
-                    },
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/132084_english_hls_d51cdb4f4990028ta-di_h264/index.m3u8",
-            "dai_stream": "Unavailable",
-            "STREAMING_CDN": {
-                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/132084_english_hls_d51cdb4f4990028ta-di_h264/index.m3u8",
-                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/132084_english_hls_d51cdb4f4990028ta-di_h264/index.m3u8",
-                "dai_google_cdn": "Unavailable",
                 "cloudfront_cdn": "Unavailable",
                 "language": "ENGLISH"
             }
@@ -2051,6 +1862,74 @@
         },
         {
             "category": "Cricket",
+            "title": "Shivamogga Lions Vs Hubli Tigers",
+            "tournament": "Maharaja T20 Trophy, 2025",
+            "match_id": 132813,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "25 August 2025 03:15 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/132813_5530_SS_HT_fc-Web_1755374792847.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/132813_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/132813_5530_SS_HT_fc-Web_1755374792847.jpg",
+                "PLAYBACK": null,
+                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/07/Maharaja-Trophy-KSCA-T20-Tour-Logo.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/132813_5530_SS_HT_fc-Web_1755374792847.jpg",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/132813_5530_SS_HT_fc-App_1755374802433.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/132813_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "name": "Shivamogga Lions",
+                    "shortName": "SS",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SHV@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#D59A14",
+                    "cricketScore": [],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "Hubli Tigers",
+                    "shortName": "HT",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-HBT@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#272993",
+                    "cricketScore": [],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "STREAMING_CDN": {
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
+            }
+        },
+        {
+            "category": "Cricket",
             "title": "Majees Titans Vs Renaissance Challengers",
             "tournament": "Oman D20 League, 2025",
             "match_id": 133691,
@@ -2165,74 +2044,6 @@
                     },
                     "isWinner": null,
                     "color": "#ae3c22",
-                    "cricketScore": [],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
-            }
-        },
-        {
-            "category": "Cricket",
-            "title": "Shivamogga Lions Vs Hubli Tigers",
-            "tournament": "Maharaja T20 Trophy, 2025",
-            "match_id": 132813,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "25 August 2025 03:15 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/132813_5530_SS_HT_fc-Web_1755374792847.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/132813_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/132813_5530_SS_HT_fc-Web_1755374792847.jpg",
-                "PLAYBACK": null,
-                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/07/Maharaja-Trophy-KSCA-T20-Tour-Logo.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/132813_5530_SS_HT_fc-Web_1755374792847.jpg",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/132813_5530_SS_HT_fc-App_1755374802433.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/132813_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "name": "Shivamogga Lions",
-                    "shortName": "SS",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SHV@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#D59A14",
-                    "cricketScore": [],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "Hubli Tigers",
-                    "shortName": "HT",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-HBT@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#272993",
                     "cricketScore": [],
                     "kabaddiScore": null,
                     "footballScore": null,
@@ -2594,74 +2405,6 @@
             }
         },
         {
-            "category": "Football",
-            "title": "Deportivo De La Coru\u00f1a Vs Burgos",
-            "tournament": "LALIGA Hypermotion 2025-26",
-            "match_id": 134946,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "24 August 2025 08:30 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/134946_5572_DEP_BUR_fc-web.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/134946_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/134946_5572_DEP_BUR_fc-web.jpg",
-                "PLAYBACK": null,
-                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/LaLiga_Hypermotionv-Tour-Logo.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/134946_5572_DEP_BUR_fc-web.jpg",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/134946_5572_DEP_BUR_fc-App.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/134946_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "name": "Deportivo de La Coru\u00f1a",
-                    "shortName": "DEP",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-DEP@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#71157B",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "Burgos",
-                    "shortName": "BUR",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-BUG@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#108E2F",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
-            }
-        },
-        {
             "category": "Cricket",
             "title": "Sharjah Warriorz Development Vs Abu Dhabi Knight Riders Development",
             "tournament": "DP World ILT20 Development Tournament, 2025",
@@ -2709,6 +2452,74 @@
                     },
                     "isWinner": null,
                     "color": "#3a0f6a",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "STREAMING_CDN": {
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
+            }
+        },
+        {
+            "category": "Football",
+            "title": "Deportivo De La Coru\u00f1a Vs Burgos",
+            "tournament": "LALIGA Hypermotion 2025-26",
+            "match_id": 134946,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "24 August 2025 08:30 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/134946_5572_DEP_BUR_fc-web.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/134946_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/134946_5572_DEP_BUR_fc-web.jpg",
+                "PLAYBACK": null,
+                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/LaLiga_Hypermotionv-Tour-Logo.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/134946_5572_DEP_BUR_fc-web.jpg",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/134946_5572_DEP_BUR_fc-App.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/134946_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "name": "Deportivo de La Coru\u00f1a",
+                    "shortName": "DEP",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-DEP@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#71157B",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "Burgos",
+                    "shortName": "BUR",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-BUG@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#108E2F",
                     "cricketScore": null,
                     "kabaddiScore": null,
                     "footballScore": null,
@@ -2845,6 +2656,142 @@
                     },
                     "isWinner": null,
                     "color": "#74B8E1",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "STREAMING_CDN": {
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
+            }
+        },
+        {
+            "category": "Cricket",
+            "title": "Purani Delhi 6 Vs Central Delhi Kings",
+            "tournament": "Delhi Premier League, 2025",
+            "match_id": 132498,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "25 August 2025 07:00 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/132498_5521_PD_CDK_fc-Web.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/132498_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/132498_5521_PD_CDK_fc-Web.jpg",
+                "PLAYBACK": null,
+                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/DPL_Tour_Logo.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/132498_5521_PD_CDK_fc-Web.jpg",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/132498_5521_PD_CDK_fc-App.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/132498_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "name": "Purani Delhi 6",
+                    "shortName": "PD",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PD@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#c3333e",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "Central Delhi Kings",
+                    "shortName": "CDK",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CDK@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#0082cb",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "STREAMING_CDN": {
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
+            }
+        },
+        {
+            "category": "Cricket",
+            "title": "Mangaluru Dragons Vs Gulbarga Mystics",
+            "tournament": "Maharaja T20 Trophy, 2025",
+            "match_id": 132814,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "25 August 2025 07:15 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/132814_5530_MD_GMY_fc-Web_1755374792907.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/132814_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/132814_5530_MD_GMY_fc-Web_1755374792907.jpg",
+                "PLAYBACK": null,
+                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/07/Maharaja-Trophy-KSCA-T20-Tour-Logo.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/132814_5530_MD_GMY_fc-Web_1755374792907.jpg",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/132814_5530_MD_GMY_fc-App_1755374802553.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/132814_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "name": "Mangaluru Dragons",
+                    "shortName": "MD",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MDR@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#fea129",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "Gulbarga Mystics",
+                    "shortName": "GMY",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GMY@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#2d9dbb",
                     "cricketScore": null,
                     "kabaddiScore": null,
                     "footballScore": null,
