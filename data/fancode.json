@@ -1,14 +1,14 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "09:38:25 PM 24-08-2025",
+    "last_updated": "09:46:25 PM 24-08-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
     "total_matches": 40,
-    "live_matches": 19,
-    "upcoming_matches": 21,
+    "live_matches": 17,
+    "upcoming_matches": 23,
     "matches": [
         {
             "category": "Cricket",
@@ -68,9 +68,9 @@
                     "color": "#01c0f6",
                     "cricketScore": [
                         {
-                            "runs": 64,
-                            "overs": "4.1",
-                            "balls": "25",
+                            "runs": 92,
+                            "overs": "5.4",
+                            "balls": "34",
                             "status": "IN_PROGRESS",
                             "wickets": 1
                         }
@@ -155,9 +155,9 @@
                     "color": "#01c0f6",
                     "cricketScore": [
                         {
-                            "runs": 64,
-                            "overs": "4.1",
-                            "balls": "25",
+                            "runs": 92,
+                            "overs": "5.4",
+                            "balls": "34",
                             "status": "IN_PROGRESS",
                             "wickets": 1
                         }
@@ -182,93 +182,6 @@
                 "dai_google_cdn": "https://dai.google.com/linear/hls/event/JOjojwqTR6mYEnfmDaFY0Q/master.m3u8",
                 "cloudfront_cdn": "Unavailable",
                 "language": "MALAYALAM"
-            }
-        },
-        {
-            "category": "Cricket",
-            "title": "Birmingham Phoenix Women Vs Manchester Originals Women",
-            "tournament": "The Hundred Women, 2025",
-            "match_id": 132283,
-            "status": "LIVE",
-            "streamingStatus": "STARTED",
-            "startTime": "24 August 2025 07:00 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/132283_5506_MNR-W_BPH-W_Fc-Web.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/132283_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/132283_5506_MNR-W_BPH-W_Fc-Web.jpg",
-                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/132283_5506_MNR-W_BPH-W_Fc-Web.jpg",
-                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/06/The-Hundred_Tour-Logo.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/132283_5506_MNR-W_BPH-W_Fc-Web.jpg",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/132283_5506_MNR-W_BPH-W_Fc-App.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/132283_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "name": "Birmingham Phoenix Women",
-                    "shortName": "BPH-W",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BIRM@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#eba095",
-                    "cricketScore": [
-                        {
-                            "runs": 111,
-                            "overs": "20",
-                            "balls": "100",
-                            "status": "COMPLETED",
-                            "wickets": 3
-                        }
-                    ],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "Manchester Originals Women",
-                    "shortName": "MNR-W",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MANCO@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#adb6b9",
-                    "cricketScore": [
-                        {
-                            "runs": 94,
-                            "overs": "19.4",
-                            "balls": "99",
-                            "status": "IN_PROGRESS",
-                            "wickets": 9
-                        }
-                    ],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": true
-                        }
-                    }
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://dai.google.com/linear/hls/event/YFrT82nQRjyh8HlIPYbPfw/master.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/YFrT82nQRjyh8HlIPYbPfw/master.m3u8",
-            "STREAMING_CDN": {
-                "Primary_Playback_URL": "https://dai.google.com/linear/hls/event/YFrT82nQRjyh8HlIPYbPfw/master.m3u8",
-                "fancode_cdn": "Unavailable",
-                "dai_google_cdn": "https://dai.google.com/linear/hls/event/YFrT82nQRjyh8HlIPYbPfw/master.m3u8",
-                "cloudfront_cdn": "Unavailable",
-                "language": "ENGLISH"
             }
         },
         {
@@ -329,11 +242,11 @@
                     "color": "#d09b8a",
                     "cricketScore": [
                         {
-                            "runs": 129,
-                            "overs": "16.4",
-                            "balls": "84",
+                            "runs": 136,
+                            "overs": "18.2",
+                            "balls": "92",
                             "status": "IN_PROGRESS",
-                            "wickets": 4
+                            "wickets": 5
                         }
                     ],
                     "kabaddiScore": null,
@@ -416,9 +329,9 @@
                     "color": "#D59A14",
                     "cricketScore": [
                         {
-                            "runs": 30,
-                            "overs": "4.1",
-                            "balls": "25",
+                            "runs": 56,
+                            "overs": "6.1",
+                            "balls": "37",
                             "status": "IN_PROGRESS",
                             "wickets": 3
                         }
@@ -476,11 +389,11 @@
                     "color": "#3fd379",
                     "cricketScore": [
                         {
-                            "runs": 81,
-                            "overs": "13.1",
-                            "balls": "79",
+                            "runs": 95,
+                            "overs": "15",
+                            "balls": "90",
                             "status": "IN_PROGRESS",
-                            "wickets": 3
+                            "wickets": 4
                         }
                     ],
                     "kabaddiScore": null,
@@ -555,11 +468,11 @@
                     "color": "#3fd379",
                     "cricketScore": [
                         {
-                            "runs": 81,
-                            "overs": "13.1",
-                            "balls": "79",
+                            "runs": 95,
+                            "overs": "15",
+                            "balls": "90",
                             "status": "IN_PROGRESS",
-                            "wickets": 3
+                            "wickets": 4
                         }
                     ],
                     "kabaddiScore": null,
@@ -661,9 +574,9 @@
                     "color": "#d15972",
                     "cricketScore": [
                         {
-                            "runs": 153,
-                            "overs": "27",
-                            "balls": "162",
+                            "runs": 166,
+                            "overs": "28.2",
+                            "balls": "170",
                             "status": "IN_PROGRESS",
                             "wickets": 1
                         }
@@ -906,11 +819,11 @@
                     "color": "#2c5ab3",
                     "cricketScore": [
                         {
-                            "runs": 72,
-                            "overs": "12.5",
-                            "balls": "77",
+                            "runs": 86,
+                            "overs": "15",
+                            "balls": "90",
                             "status": "IN_PROGRESS",
-                            "wickets": 2
+                            "wickets": 3
                         }
                     ],
                     "kabaddiScore": null,
@@ -1171,77 +1084,6 @@
                 "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/134946_english_hls_6a60317d1858466ta-di_h264/index.m3u8",
                 "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/134946_english_hls_6a60317d1858466ta-di_h264/index.m3u8",
                 "dai_google_cdn": "https://dai.google.com/linear/hls/event/KR56U1GHQnSaUiFaVFUq7Q/master.m3u8",
-                "cloudfront_cdn": "Unavailable",
-                "language": "ENGLISH"
-            }
-        },
-        {
-            "category": "Golf",
-            "title": "Day 4",
-            "tournament": "Betfred British Masters 2025",
-            "match_id": 133912,
-            "status": "LIVE",
-            "streamingStatus": "STARTED",
-            "startTime": "24 August 2025 04:30 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Betfred-British-Masters_old.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/133912_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/Betfred-British-Masters_old.jpg",
-                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/Betfred-British-Masters_old.jpg",
-                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/FC-BB@2x.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Golf_Fallback_Old_match-card.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Betfred-British-Masters_old.jpg",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Betfred-British-Masters_Sporty.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/133912_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "name": "Day 4",
-                    "shortName": "Day 4",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-BB@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#682378",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "The Belfry, Sutton Coldfield",
-                    "shortName": "The Belfry, Sutton Coldfield",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#141414",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/133912_english_hls_01997cc0b518011ta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/dZbKWB8PQA-QcKqIVGEXUQ/master.m3u8",
-            "STREAMING_CDN": {
-                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/133912_english_hls_01997cc0b518011ta-di_h264/index.m3u8",
-                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/133912_english_hls_01997cc0b518011ta-di_h264/index.m3u8",
-                "dai_google_cdn": "https://dai.google.com/linear/hls/event/dZbKWB8PQA-QcKqIVGEXUQ/master.m3u8",
                 "cloudfront_cdn": "Unavailable",
                 "language": "ENGLISH"
             }
@@ -1599,6 +1441,90 @@
                 "dai_google_cdn": "Unavailable",
                 "cloudfront_cdn": "Unavailable",
                 "language": "ENGLISH"
+            }
+        },
+        {
+            "category": "Cricket",
+            "title": "Birmingham Phoenix Women Vs Manchester Originals Women",
+            "tournament": "The Hundred Women, 2025",
+            "match_id": 132283,
+            "status": "LIVE",
+            "streamingStatus": "COMPLETED",
+            "startTime": "24 August 2025 07:00 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/132283_5506_MNR-W_BPH-W_Fc-Web.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/132283_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/132283_5506_MNR-W_BPH-W_Fc-Web.jpg",
+                "PLAYBACK": null,
+                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/06/The-Hundred_Tour-Logo.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/132283_5506_MNR-W_BPH-W_Fc-Web.jpg",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/132283_5506_MNR-W_BPH-W_Fc-App.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/132283_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "name": "Birmingham Phoenix Women",
+                    "shortName": "BPH-W",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BIRM@2x.png"
+                    },
+                    "isWinner": true,
+                    "color": "#eba095",
+                    "cricketScore": [
+                        {
+                            "runs": 111,
+                            "overs": "20",
+                            "balls": "100",
+                            "status": "COMPLETED",
+                            "wickets": 3
+                        }
+                    ],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "Manchester Originals Women",
+                    "shortName": "MNR-W",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MANCO@2x.png"
+                    },
+                    "isWinner": false,
+                    "color": "#adb6b9",
+                    "cricketScore": [
+                        {
+                            "runs": 95,
+                            "overs": "20",
+                            "balls": "100",
+                            "status": "IN_PROGRESS",
+                            "wickets": 10
+                        }
+                    ],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": true
+                        }
+                    }
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "STREAMING_CDN": {
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
             }
         },
         {
@@ -2079,6 +2005,74 @@
         },
         {
             "category": "Cricket",
+            "title": "Purani Delhi 6 Vs Central Delhi Kings",
+            "tournament": "Delhi Premier League, 2025",
+            "match_id": 132498,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "25 August 2025 07:00 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/132498_5521_PD_CDK_fc-Web.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/132498_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/132498_5521_PD_CDK_fc-Web.jpg",
+                "PLAYBACK": null,
+                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/DPL_Tour_Logo.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/132498_5521_PD_CDK_fc-Web.jpg",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/132498_5521_PD_CDK_fc-App.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/132498_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "name": "Purani Delhi 6",
+                    "shortName": "PD",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PD@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#c3333e",
+                    "cricketScore": [],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "Central Delhi Kings",
+                    "shortName": "CDK",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CDK@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#0082cb",
+                    "cricketScore": [],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "STREAMING_CDN": {
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
+            }
+        },
+        {
+            "category": "Cricket",
             "title": "Mi Emirates Development Vs Gulf Giants Development",
             "tournament": "DP World ILT20 Development Tournament, 2025",
             "match_id": 135797,
@@ -2193,74 +2187,6 @@
                     },
                     "isWinner": null,
                     "color": "#2125DA",
-                    "cricketScore": [],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
-            }
-        },
-        {
-            "category": "Cricket",
-            "title": "Purani Delhi 6 Vs Central Delhi Kings",
-            "tournament": "Delhi Premier League, 2025",
-            "match_id": 132498,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "25 August 2025 07:00 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/132498_5521_PD_CDK_fc-Web.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/132498_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/132498_5521_PD_CDK_fc-Web.jpg",
-                "PLAYBACK": null,
-                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/DPL_Tour_Logo.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/132498_5521_PD_CDK_fc-Web.jpg",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/132498_5521_PD_CDK_fc-App.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/132498_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "name": "Purani Delhi 6",
-                    "shortName": "PD",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PD@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#c3333e",
-                    "cricketScore": [],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "Central Delhi Kings",
-                    "shortName": "CDK",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CDK@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#0082cb",
                     "cricketScore": [],
                     "kabaddiScore": null,
                     "footballScore": null,
@@ -2486,74 +2412,6 @@
             }
         },
         {
-            "category": "Football",
-            "title": "Real Oviedo Vs Real Madrid",
-            "tournament": "LALIGA 2025-26",
-            "match_id": 130845,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "25 August 2025 01:00 AM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Real-Oviedo-VS-Real-Madrid_Old_match-card_1755766788093.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/130845_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/Real-Oviedo-VS-Real-Madrid_Old_match-card_1755766788093.jpg",
-                "PLAYBACK": null,
-                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/LALIGA-2025-26-Tour.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Real-Oviedo-VS-Real-Madrid_Old_match-card_1755766788093.jpg",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Real-Oviedo-VS-Real-Madrid_Match_card_1755766788113.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/130845_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "name": "Real Oviedo",
-                    "shortName": "RO",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-RO@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#A71C10",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "Real Madrid",
-                    "shortName": "RM",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/RM-FT2@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#ffdf50",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
-            }
-        },
-        {
             "category": "Cricket",
             "title": "Oval Invincibles Women Vs London Spirit Women",
             "tournament": "The Hundred Women, 2025",
@@ -2602,6 +2460,74 @@
                     "isWinner": null,
                     "color": "#a0a0d4",
                     "cricketScore": [],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "STREAMING_CDN": {
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
+            }
+        },
+        {
+            "category": "Football",
+            "title": "Real Oviedo Vs Real Madrid",
+            "tournament": "LALIGA 2025-26",
+            "match_id": 130845,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "25 August 2025 01:00 AM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Real-Oviedo-VS-Real-Madrid_Old_match-card_1755766788093.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/130845_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/Real-Oviedo-VS-Real-Madrid_Old_match-card_1755766788093.jpg",
+                "PLAYBACK": null,
+                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/LALIGA-2025-26-Tour.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Real-Oviedo-VS-Real-Madrid_Old_match-card_1755766788093.jpg",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Real-Oviedo-VS-Real-Madrid_Match_card_1755766788113.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/130845_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "name": "Real Oviedo",
+                    "shortName": "RO",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-RO@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#A71C10",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "Real Madrid",
+                    "shortName": "RM",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/RM-FT2@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#ffdf50",
+                    "cricketScore": null,
                     "kabaddiScore": null,
                     "footballScore": null,
                     "basketBallScore": null,
@@ -2826,6 +2752,74 @@
             }
         },
         {
+            "category": "Cricket",
+            "title": "Oval Invincibles Vs London Spirit",
+            "tournament": "The Hundred, 2025",
+            "match_id": 135842,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "25 August 2025 11:00 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/132250_5505_OVI_LNS_fc-web.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/135842_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/132250_5505_OVI_LNS_fc-web.jpg",
+                "PLAYBACK": null,
+                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/06/The-Hundred_Tour-Logo.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/132250_5505_OVI_LNS_fc-web.jpg",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/132250_5505_OVI_LNS_fc-app.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/135842_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "name": "Oval Invincibles",
+                    "shortName": "OVI",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-OVALINC@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#189941",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "London Spirit",
+                    "shortName": "LNS",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-LONDS@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#1a7ee4",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "STREAMING_CDN": {
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
+            }
+        },
+        {
             "category": "Kabaddi",
             "title": "Vizianagaram Ninjas Vs Vizag Commandos",
             "tournament": "Yuva Andhra Championship, 2025",
@@ -2895,34 +2889,34 @@
         },
         {
             "category": "Cricket",
-            "title": "Oval Invincibles Vs London Spirit",
-            "tournament": "The Hundred, 2025",
-            "match_id": 135842,
+            "title": "Sharjah Warriorz Development Vs Abu Dhabi Knight Riders Development",
+            "tournament": "DP World ILT20 Development Tournament, 2025",
+            "match_id": 135798,
             "status": "NOT_STARTED",
             "streamingStatus": "NOT_STARTED",
-            "startTime": "25 August 2025 11:00 PM",
+            "startTime": "25 August 2025 06:30 PM",
             "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/132250_5505_OVI_LNS_fc-web.jpg",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/135798_5636_SWD_ADK_fc-web.jpg",
             "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/135842_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/132250_5505_OVI_LNS_fc-web.jpg",
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/135798_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/135798_5636_SWD_ADK_fc-web.jpg",
                 "PLAYBACK": null,
-                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/06/The-Hundred_Tour-Logo.png",
+                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/DPW-ILT20-Tour-Logo.png",
                 "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/132250_5505_OVI_LNS_fc-web.jpg",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/132250_5505_OVI_LNS_fc-app.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/135842_CASACARDS_PARTNER_16_9_1920_1080.png"
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/135798_5636_SWD_ADK_fc-web.jpg",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/135798_5636_SWD_ADK_fc-app.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/135798_CASACARDS_PARTNER_16_9_1920_1080.png"
             },
             "teams": [
                 {
-                    "name": "Oval Invincibles",
-                    "shortName": "OVI",
+                    "name": "Sharjah Warriorz Development",
+                    "shortName": "SWD",
                     "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-OVALINC@2x.png"
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SWR@2x.png"
                     },
                     "isWinner": null,
-                    "color": "#189941",
-                    "cricketScore": null,
+                    "color": "#d93025",
+                    "cricketScore": [],
                     "kabaddiScore": null,
                     "footballScore": null,
                     "basketBallScore": null,
@@ -2934,14 +2928,14 @@
                     }
                 },
                 {
-                    "name": "London Spirit",
-                    "shortName": "LNS",
+                    "name": "Abu Dhabi Knight Riders Development",
+                    "shortName": "ADK",
                     "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-LONDS@2x.png"
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ADKR@2x.png"
                     },
                     "isWinner": null,
-                    "color": "#1a7ee4",
-                    "cricketScore": null,
+                    "color": "#3a0f6a",
+                    "cricketScore": [],
                     "kabaddiScore": null,
                     "footballScore": null,
                     "basketBallScore": null,
