@@ -1,14 +1,14 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "11:54:24 PM 24-08-2025",
+    "last_updated": "12:02:28 AM 25-08-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
     "total_matches": 39,
-    "live_matches": 17,
-    "upcoming_matches": 22,
+    "live_matches": 18,
+    "upcoming_matches": 21,
     "matches": [
         {
             "category": "Cricket",
@@ -68,9 +68,9 @@
                     "color": "#CC0001",
                     "cricketScore": [
                         {
-                            "runs": 119,
-                            "overs": "17",
-                            "balls": "102",
+                            "runs": 132,
+                            "overs": "18.5",
+                            "balls": "114",
                             "status": "IN_PROGRESS",
                             "wickets": 3
                         }
@@ -155,9 +155,9 @@
                     "color": "#CC0001",
                     "cricketScore": [
                         {
-                            "runs": 119,
-                            "overs": "17",
-                            "balls": "102",
+                            "runs": 132,
+                            "overs": "18.5",
+                            "balls": "114",
                             "status": "IN_PROGRESS",
                             "wickets": 3
                         }
@@ -218,7 +218,7 @@
                             "runs": 109,
                             "overs": "20",
                             "balls": "100",
-                            "status": "IN_PROGRESS",
+                            "status": "COMPLETED",
                             "wickets": 7
                         }
                     ],
@@ -228,7 +228,7 @@
                     "hockeyScore": null,
                     "status": {
                         "cricket": {
-                            "isBatting": true
+                            "isBatting": false
                         }
                     }
                 },
@@ -240,14 +240,22 @@
                     },
                     "isWinner": null,
                     "color": "#e87c03",
-                    "cricketScore": [],
+                    "cricketScore": [
+                        {
+                            "runs": 8,
+                            "overs": "2",
+                            "balls": "10",
+                            "status": "IN_PROGRESS",
+                            "wickets": 0
+                        }
+                    ],
                     "kabaddiScore": null,
                     "footballScore": null,
                     "basketBallScore": null,
                     "hockeyScore": null,
                     "status": {
                         "cricket": {
-                            "isBatting": false
+                            "isBatting": true
                         }
                     }
                 }
@@ -688,6 +696,77 @@
                 "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/130841_english_hls_7f65ad62f988079adfreeta-di_h264/index.m3u8",
                 "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/130841_english_hls_7f65ad62f988079adfreeta-di_h264/index.m3u8",
                 "dai_google_cdn": "Unavailable",
+                "cloudfront_cdn": "Unavailable",
+                "language": "ENGLISH"
+            }
+        },
+        {
+            "category": "Cricket",
+            "title": "Bader & Nie Cricket Club Vs Kuwait Swedish",
+            "tournament": "KCC T10 Summer League, 2025",
+            "match_id": 132176,
+            "status": "NOT_STARTED",
+            "streamingStatus": "STARTED",
+            "startTime": "25 August 2025 12:15 AM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/KCC-T10-Summer-League,-2025_match-card.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/132176_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/KCC-T10-Summer-League,-2025_match-card.jpg",
+                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/KCC-T10-Summer-League,-2025_match-card.jpg",
+                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2023/12/Tour-Placeholder.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/KCC-T10-Summer-League,-2025_match-card.jpg",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/KCC-T10-Summer-League,-2025_Sporty_Match_card.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/132176_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "name": "Bader & Nie Cricket Club",
+                    "shortName": "BNC",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BNC@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#0d395a",
+                    "cricketScore": [],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "Kuwait Swedish",
+                    "shortName": "KS",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KUSW@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#2125DA",
+                    "cricketScore": [],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/132176_english_hls_b52fd1269396163ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/M9erTJ4KSUKXSQN7xZBnFQ/master.m3u8",
+            "STREAMING_CDN": {
+                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/132176_english_hls_b52fd1269396163ta-di_h264/index.m3u8",
+                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/132176_english_hls_b52fd1269396163ta-di_h264/index.m3u8",
+                "dai_google_cdn": "https://dai.google.com/linear/hls/event/M9erTJ4KSUKXSQN7xZBnFQ/master.m3u8",
                 "cloudfront_cdn": "Unavailable",
                 "language": "ENGLISH"
             }
@@ -1442,7 +1521,7 @@
                     "flag": {
                         "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DCD@2x.png"
                     },
-                    "isWinner": null,
+                    "isWinner": false,
                     "color": "#131d7f",
                     "cricketScore": [
                         {
@@ -1469,15 +1548,15 @@
                     "flag": {
                         "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DVD@2x.png"
                     },
-                    "isWinner": null,
+                    "isWinner": true,
                     "color": "#ddab30",
                     "cricketScore": [
                         {
-                            "runs": 0,
-                            "overs": "0",
-                            "balls": "0",
+                            "runs": 211,
+                            "overs": "20",
+                            "balls": "120",
                             "status": "IN_PROGRESS",
-                            "wickets": 0
+                            "wickets": 9
                         }
                     ],
                     "kabaddiScore": null,
@@ -1704,35 +1783,35 @@
             }
         },
         {
-            "category": "Cricket",
-            "title": "Bader & Nie Cricket Club Vs Kuwait Swedish",
-            "tournament": "KCC T10 Summer League, 2025",
-            "match_id": 132176,
+            "category": "Football",
+            "title": "Real Oviedo Vs Real Madrid",
+            "tournament": "LALIGA 2025-26",
+            "match_id": 130845,
             "status": "NOT_STARTED",
             "streamingStatus": "NOT_STARTED",
-            "startTime": "25 August 2025 12:15 AM",
+            "startTime": "25 August 2025 01:00 AM",
             "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/KCC-T10-Summer-League,-2025_match-card.jpg",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Real-Oviedo-VS-Real-Madrid_Old_match-card_1755766788093.jpg",
             "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/132176_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/KCC-T10-Summer-League,-2025_match-card.jpg",
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/130845_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/Real-Oviedo-VS-Real-Madrid_Old_match-card_1755766788093.jpg",
                 "PLAYBACK": null,
-                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2023/12/Tour-Placeholder.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/KCC-T10-Summer-League,-2025_match-card.jpg",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/KCC-T10-Summer-League,-2025_Sporty_Match_card.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/132176_CASACARDS_PARTNER_16_9_1920_1080.png"
+                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/LALIGA-2025-26-Tour.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Real-Oviedo-VS-Real-Madrid_Old_match-card_1755766788093.jpg",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Real-Oviedo-VS-Real-Madrid_Match_card_1755766788113.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/130845_CASACARDS_PARTNER_16_9_1920_1080.png"
             },
             "teams": [
                 {
-                    "name": "Bader & Nie Cricket Club",
-                    "shortName": "BNC",
+                    "name": "Real Oviedo",
+                    "shortName": "RO",
                     "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BNC@2x.png"
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-RO@2x.png"
                     },
                     "isWinner": null,
-                    "color": "#0d395a",
-                    "cricketScore": [],
+                    "color": "#A71C10",
+                    "cricketScore": null,
                     "kabaddiScore": null,
                     "footballScore": null,
                     "basketBallScore": null,
@@ -1744,14 +1823,14 @@
                     }
                 },
                 {
-                    "name": "Kuwait Swedish",
-                    "shortName": "KS",
+                    "name": "Real Madrid",
+                    "shortName": "RM",
                     "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KUSW@2x.png"
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/RM-FT2@2x.png"
                     },
                     "isWinner": null,
-                    "color": "#2125DA",
-                    "cricketScore": [],
+                    "color": "#ffdf50",
+                    "cricketScore": null,
                     "kabaddiScore": null,
                     "footballScore": null,
                     "basketBallScore": null,
@@ -2024,74 +2103,6 @@
                     "isWinner": null,
                     "color": "#a0a0d4",
                     "cricketScore": [],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
-            }
-        },
-        {
-            "category": "Football",
-            "title": "Real Oviedo Vs Real Madrid",
-            "tournament": "LALIGA 2025-26",
-            "match_id": 130845,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "25 August 2025 01:00 AM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Real-Oviedo-VS-Real-Madrid_Old_match-card_1755766788093.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/130845_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/Real-Oviedo-VS-Real-Madrid_Old_match-card_1755766788093.jpg",
-                "PLAYBACK": null,
-                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/LALIGA-2025-26-Tour.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Real-Oviedo-VS-Real-Madrid_Old_match-card_1755766788093.jpg",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Real-Oviedo-VS-Real-Madrid_Match_card_1755766788113.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/130845_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "name": "Real Oviedo",
-                    "shortName": "RO",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-RO@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#A71C10",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "Real Madrid",
-                    "shortName": "RM",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/RM-FT2@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#ffdf50",
-                    "cricketScore": null,
                     "kabaddiScore": null,
                     "footballScore": null,
                     "basketBallScore": null,
