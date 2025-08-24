@@ -1,9 +1,7 @@
 #EXTM3U
 #DEVELOPED_BY_JITENDRA_PRO_DEV
 #AUTHOR:-JITENDRA_KUMAR
-#DATE:- Monday 25 August, 2025 at 1:02:27 am
-#EXTINF:-1 tvg-id="132249" tvg-name="Manchester Originals Vs Birmingham Phoenix" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/132249_5505_MNR_BPH_fc-web.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Manchester Originals Vs Birmingham Phoenix
-https://dai.google.com/linear/hls/event/HynNobMPSu6nQCgpxsK0lQ/master.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
+#DATE:- Monday 25 August, 2025 at 1:10:26 am
 #EXTINF:-1 tvg-id="135797" tvg-name="Mi Emirates Development Vs Gulf Giants Development" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/135797_5636_MED_GGD_fc-web.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Mi Emirates Development Vs Gulf Giants Development
 https://in-mc-fdlive.fancode.com/mumbai/135797_english_hls_7e156483e173270ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="132176" tvg-name="Kuwait Swedish Vs Bader & Nie Cricket Club" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/KCC-T10-Summer-League,-2025_match-card.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Kuwait Swedish Vs Bader & Nie Cricket Club
@@ -30,5 +28,3 @@ https://in-mc-fdlive.fancode.com/mumbai/133809_english_hls_93886de1dc47356ta-di_
 https://in-mc-fdlive.fancode.com/mumbai/132882_english_hls_7c3e68ff6940262ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="130849" tvg-name="Real Sociedad Vs Espanyol" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Real-Sociedad-vs-RCD-Espanyol_Old_match-card.jpg" tvg-language="ENGLISH" group-title="Football",ENG | Real Sociedad Vs Espanyol
 https://in-mc-fdlive.fancode.com/mumbai/130849_english_hls_0a818f848247830adfreeta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
-#EXTINF:-1 tvg-id="130841" tvg-name="Villarreal Vs Girona" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Villarreal-VS-Girona_Old_match-card.jpg" tvg-language="ENGLISH" group-title="Football",ENG | Villarreal Vs Girona
-https://in-mc-fdlive.fancode.com/mumbai/130841_english_hls_7f65ad62f988079adfreeta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
