@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "08:10:47 AM 24-08-2025",
+    "last_updated": "08:18:47 AM 24-08-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -82,11 +82,11 @@
                             "wickets": 10
                         },
                         {
-                            "runs": 106,
-                            "overs": "38.3",
+                            "runs": 117,
+                            "overs": "40.3",
                             "balls": "0",
                             "status": "IN_PROGRESS",
-                            "wickets": 0
+                            "wickets": 1
                         }
                     ],
                     "kabaddiScore": null,
@@ -138,7 +138,7 @@
                     "flag": {
                         "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TKRD@2x.png"
                     },
-                    "isWinner": null,
+                    "isWinner": true,
                     "color": "#311659",
                     "cricketScore": [
                         {
@@ -165,15 +165,15 @@
                     "flag": {
                         "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KIGS@2x.png"
                     },
-                    "isWinner": null,
+                    "isWinner": false,
                     "color": "#1e6583",
                     "cricketScore": [
                         {
-                            "runs": 162,
-                            "overs": "19.2",
-                            "balls": "116",
+                            "runs": 165,
+                            "overs": "20",
+                            "balls": "120",
                             "status": "IN_PROGRESS",
-                            "wickets": 5
+                            "wickets": 6
                         }
                     ],
                     "kabaddiScore": null,
@@ -225,7 +225,7 @@
                     "flag": {
                         "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TKRD@2x.png"
                     },
-                    "isWinner": null,
+                    "isWinner": true,
                     "color": "#311659",
                     "cricketScore": [
                         {
@@ -252,15 +252,15 @@
                     "flag": {
                         "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KIGS@2x.png"
                     },
-                    "isWinner": null,
+                    "isWinner": false,
                     "color": "#1e6583",
                     "cricketScore": [
                         {
-                            "runs": 162,
-                            "overs": "19.2",
-                            "balls": "116",
+                            "runs": 165,
+                            "overs": "20",
+                            "balls": "120",
                             "status": "IN_PROGRESS",
-                            "wickets": 5
+                            "wickets": 6
                         }
                     ],
                     "kabaddiScore": null,
@@ -403,11 +403,11 @@
                     "color": "#c2a851",
                     "cricketScore": [
                         {
-                            "runs": 91,
-                            "overs": "14.3",
-                            "balls": "87",
+                            "runs": 130,
+                            "overs": "17.5",
+                            "balls": "107",
                             "status": "IN_PROGRESS",
-                            "wickets": 6
+                            "wickets": 10
                         }
                     ],
                     "kabaddiScore": null,
