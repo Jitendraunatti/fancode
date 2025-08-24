@@ -1,13 +1,11 @@
 #EXTM3U
 #DEVELOPED_BY_JITENDRA_PRO_DEV
 #AUTHOR:-JITENDRA_KUMAR
-#DATE:- Sunday 24 August, 2025 at 9:54:32 pm
+#DATE:- Sunday 24 August, 2025 at 10:02:30 pm
 #EXTINF:-1 tvg-id="133883" tvg-name="Aries Kollam Sailors Vs Kochi Blue Tigers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/133903_5600_AKS_KBT_fc-Web_1755771731188.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Aries Kollam Sailors Vs Kochi Blue Tigers
 https://in-mc-fdlive.fancode.com/mumbai/133883_english_hls_1778a227bb30251ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="133883" tvg-name="Aries Kollam Sailors Vs Kochi Blue Tigers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/133903_5600_AKS_KBT_fc-Web_1755771731188.jpg" tvg-language="MALAYALAM" group-title="Cricket",MAL | Aries Kollam Sailors Vs Kochi Blue Tigers
 https://in-mc-fdlive.fancode.com/mumbai/133883_malayalam_hls_92983e11771341ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
-#EXTINF:-1 tvg-id="135841" tvg-name="Welsh Fire Vs Trent Rockets" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/132248_5505_WEF_TRT_fc-web.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Welsh Fire Vs Trent Rockets
-https://dai.google.com/linear/hls/event/HynNobMPSu6nQCgpxsK0lQ/master.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="132812" tvg-name="Mysore Warriors Vs Shivamogga Lions" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/132812_5530_SS_MW_fc-Web_1755374793076.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Mysore Warriors Vs Shivamogga Lions
 https://in-mc-fdlive.fancode.com/mumbai/132812_english_hls_91a3cf027434415ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="132356" tvg-name="St Kitts And Nevis Patriots Vs Antigua & Barbuda Falcons" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/132356_5512_ABF_SKN_fc-web.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | St Kitts And Nevis Patriots Vs Antigua & Barbuda Falcons
@@ -26,6 +24,8 @@ https://in-mc-fdlive.fancode.com/mumbai/133754_english_hls_f106cfa82d43375ta-di_
 https://in-mc-fdlive.fancode.com/mumbai/133691_english_hls_8e5b93169723903ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="130844" tvg-name="Osasuna Vs Valencia" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Osasuna-vs-Valencia_Old_match-card.jpg" tvg-language="ENGLISH" group-title="Football",ENG | Osasuna Vs Valencia
 https://in-mc-fdlive.fancode.com/mumbai/130844_english_hls_eb3a12022292620adfreeta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
+#EXTINF:-1 tvg-id="132175" tvg-name="Ace Krm Panthers Vs Sbs Cc" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/KCC-T10-Summer-League,-2025_match-card.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Ace Krm Panthers Vs Sbs Cc
+https://in-mc-fdlive.fancode.com/mumbai/132175_english_hls_e7a4f2cdb883823ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="134946" tvg-name="Deportivo De La Coruña Vs Burgos" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/134946_5572_DEP_BUR_fc-web.jpg" tvg-language="ENGLISH" group-title="Football",ENG | Deportivo De La Coruña Vs Burgos
 https://in-mc-fdlive.fancode.com/mumbai/134946_english_hls_6a60317d1858466ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="134086" tvg-name="Main Feed   Day 4" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Tour_Championship_Old_match_card_1.jpg" tvg-language="ENGLISH" group-title="Golf",ENG | Main Feed   Day 4
