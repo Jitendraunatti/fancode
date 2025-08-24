@@ -1,14 +1,14 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "10:26:31 PM 24-08-2025",
+    "last_updated": "10:30:27 PM 24-08-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
     "total_matches": 40,
-    "live_matches": 19,
-    "upcoming_matches": 21,
+    "live_matches": 21,
+    "upcoming_matches": 19,
     "matches": [
         {
             "category": "Cricket",
@@ -68,9 +68,9 @@
                     "color": "#01c0f6",
                     "cricketScore": [
                         {
-                            "runs": 153,
-                            "overs": "12.5",
-                            "balls": "77",
+                            "runs": 156,
+                            "overs": "13.3",
+                            "balls": "81",
                             "status": "IN_PROGRESS",
                             "wickets": 2
                         }
@@ -155,9 +155,9 @@
                     "color": "#01c0f6",
                     "cricketScore": [
                         {
-                            "runs": 153,
-                            "overs": "12.5",
-                            "balls": "77",
+                            "runs": 156,
+                            "overs": "13.3",
+                            "balls": "81",
                             "status": "IN_PROGRESS",
                             "wickets": 2
                         }
@@ -243,8 +243,8 @@
                     "cricketScore": [
                         {
                             "runs": 108,
-                            "overs": "13.5",
-                            "balls": "83",
+                            "overs": "14",
+                            "balls": "84",
                             "status": "IN_PROGRESS",
                             "wickets": 6
                         }
@@ -566,9 +566,9 @@
                     "color": "#d15972",
                     "cricketScore": [
                         {
-                            "runs": 214,
-                            "overs": "39",
-                            "balls": "234",
+                            "runs": 217,
+                            "overs": "40.2",
+                            "balls": "242",
                             "status": "IN_PROGRESS",
                             "wickets": 2
                         }
@@ -724,11 +724,11 @@
                     "color": "#3aae2a",
                     "cricketScore": [
                         {
-                            "runs": 71,
-                            "overs": "12",
-                            "balls": "72",
+                            "runs": 74,
+                            "overs": "12.4",
+                            "balls": "76",
                             "status": "IN_PROGRESS",
-                            "wickets": 4
+                            "wickets": 5
                         }
                     ],
                     "kabaddiScore": null,
@@ -784,9 +784,9 @@
                     "color": "#bb4335",
                     "cricketScore": [
                         {
-                            "runs": 58,
-                            "overs": "12",
-                            "balls": "72",
+                            "runs": 119,
+                            "overs": "18",
+                            "balls": "108",
                             "status": "IN_PROGRESS",
                             "wickets": 4
                         }
@@ -997,39 +997,36 @@
         },
         {
             "category": "Football",
-            "title": "Deportivo De La Coru\u00f1a Vs Burgos",
-            "tournament": "LALIGA Hypermotion 2025-26",
-            "match_id": 134946,
-            "status": "LIVE",
+            "title": "Real Sociedad Vs Espanyol",
+            "tournament": "LALIGA 2025-26",
+            "match_id": 130849,
+            "status": "NOT_STARTED",
             "streamingStatus": "STARTED",
-            "startTime": "24 August 2025 08:30 PM",
+            "startTime": "24 August 2025 11:00 PM",
             "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/134946_5572_DEP_BUR_fc-web.jpg",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Real-Sociedad-vs-RCD-Espanyol_Old_match-card.jpg",
             "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/134946_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/134946_5572_DEP_BUR_fc-web.jpg",
-                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/134946_5572_DEP_BUR_fc-web.jpg",
-                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/LaLiga_Hypermotionv-Tour-Logo.png",
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/130849_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/Real-Sociedad-vs-RCD-Espanyol_Old_match-card.jpg",
+                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/Real-Sociedad-vs-RCD-Espanyol_Old_match-card.jpg",
+                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/LALIGA-2025-26-Tour.png",
                 "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/134946_5572_DEP_BUR_fc-web.jpg",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/134946_5572_DEP_BUR_fc-App.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/134946_CASACARDS_PARTNER_16_9_1920_1080.png"
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Real-Sociedad-vs-RCD-Espanyol_Old_match-card.jpg",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Real-Sociedad-vs-RCD-Espanyol_Match_card.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/130849_CASACARDS_PARTNER_16_9_1920_1080.png"
             },
             "teams": [
                 {
-                    "name": "Deportivo de La Coru\u00f1a",
-                    "shortName": "DEP",
+                    "name": "Real Sociedad",
+                    "shortName": "RS",
                     "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-DEP@2x.png"
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-RSO@2x.png"
                     },
                     "isWinner": null,
-                    "color": "#71157B",
+                    "color": "#ae7a05",
                     "cricketScore": null,
                     "kabaddiScore": null,
-                    "footballScore": {
-                        "points": 0,
-                        "goals": []
-                    },
+                    "footballScore": null,
                     "basketBallScore": null,
                     "hockeyScore": null,
                     "status": {
@@ -1039,19 +1036,16 @@
                     }
                 },
                 {
-                    "name": "Burgos",
-                    "shortName": "BUR",
+                    "name": "Espanyol",
+                    "shortName": "ESL",
                     "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-BUG@2x.png"
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ESL@2x.png"
                     },
                     "isWinner": null,
-                    "color": "#108E2F",
+                    "color": "#fff3db",
                     "cricketScore": null,
                     "kabaddiScore": null,
-                    "footballScore": {
-                        "points": 0,
-                        "goals": []
-                    },
+                    "footballScore": null,
                     "basketBallScore": null,
                     "hockeyScore": null,
                     "status": {
@@ -1062,12 +1056,83 @@
                 }
             ],
             "language": "ENGLISH",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/134946_english_hls_6a60317d1858466ta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/KR56U1GHQnSaUiFaVFUq7Q/master.m3u8",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/130849_english_hls_0a818f848247830adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Unavailable",
             "STREAMING_CDN": {
-                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/134946_english_hls_6a60317d1858466ta-di_h264/index.m3u8",
-                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/134946_english_hls_6a60317d1858466ta-di_h264/index.m3u8",
-                "dai_google_cdn": "https://dai.google.com/linear/hls/event/KR56U1GHQnSaUiFaVFUq7Q/master.m3u8",
+                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/130849_english_hls_0a818f848247830adfreeta-di_h264/index.m3u8",
+                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/130849_english_hls_0a818f848247830adfreeta-di_h264/index.m3u8",
+                "dai_google_cdn": "Unavailable",
+                "cloudfront_cdn": "Unavailable",
+                "language": "ENGLISH"
+            }
+        },
+        {
+            "category": "Football",
+            "title": "Villarreal Vs Girona",
+            "tournament": "LALIGA 2025-26",
+            "match_id": 130841,
+            "status": "NOT_STARTED",
+            "streamingStatus": "STARTED",
+            "startTime": "24 August 2025 11:00 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Villarreal-VS-Girona_Old_match-card.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/130841_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/Villarreal-VS-Girona_Old_match-card.jpg",
+                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/Villarreal-VS-Girona_Old_match-card.jpg",
+                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/LALIGA-2025-26-Tour.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Villarreal-VS-Girona_Old_match-card.jpg",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Villarreal-VS-Girona_Match_card.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/130841_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "name": "Villarreal",
+                    "shortName": "VIL",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-VIL@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#ffc0cb",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "Girona",
+                    "shortName": "GIR",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/GIR-FT1@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#fbc573",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/130841_english_hls_7f65ad62f988079adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Unavailable",
+            "STREAMING_CDN": {
+                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/130841_english_hls_7f65ad62f988079adfreeta-di_h264/index.m3u8",
+                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/130841_english_hls_7f65ad62f988079adfreeta-di_h264/index.m3u8",
+                "dai_google_cdn": "Unavailable",
                 "cloudfront_cdn": "Unavailable",
                 "language": "ENGLISH"
             }
@@ -1570,6 +1635,83 @@
             }
         },
         {
+            "category": "Football",
+            "title": "Deportivo De La Coru\u00f1a Vs Burgos",
+            "tournament": "LALIGA Hypermotion 2025-26",
+            "match_id": 134946,
+            "status": "COMPLETED",
+            "streamingStatus": "STARTED",
+            "startTime": "24 August 2025 08:30 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/134946_5572_DEP_BUR_fc-web.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/134946_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/134946_5572_DEP_BUR_fc-web.jpg",
+                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/134946_5572_DEP_BUR_fc-web.jpg",
+                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/LaLiga_Hypermotionv-Tour-Logo.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/134946_5572_DEP_BUR_fc-web.jpg",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/134946_5572_DEP_BUR_fc-App.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/134946_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "name": "Deportivo de La Coru\u00f1a",
+                    "shortName": "DEP",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-DEP@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#71157B",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": {
+                        "points": 0,
+                        "goals": []
+                    },
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "Burgos",
+                    "shortName": "BUR",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-BUG@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#108E2F",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": {
+                        "points": 0,
+                        "goals": []
+                    },
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/134946_english_hls_6a60317d1858466ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/KR56U1GHQnSaUiFaVFUq7Q/master.m3u8",
+            "STREAMING_CDN": {
+                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/134946_english_hls_6a60317d1858466ta-di_h264/index.m3u8",
+                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/134946_english_hls_6a60317d1858466ta-di_h264/index.m3u8",
+                "dai_google_cdn": "https://dai.google.com/linear/hls/event/KR56U1GHQnSaUiFaVFUq7Q/master.m3u8",
+                "cloudfront_cdn": "Unavailable",
+                "language": "ENGLISH"
+            }
+        },
+        {
             "category": "Cricket",
             "title": "Saint Lucia Kings Vs Barbados Royals",
             "tournament": "Caribbean Premier League, 2025",
@@ -1822,142 +1964,6 @@
                     "isWinner": null,
                     "color": "#b8a61d",
                     "cricketScore": [],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
-            }
-        },
-        {
-            "category": "Football",
-            "title": "Real Sociedad Vs Espanyol",
-            "tournament": "LALIGA 2025-26",
-            "match_id": 130849,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "24 August 2025 11:00 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Real-Sociedad-vs-RCD-Espanyol_Old_match-card.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/130849_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/Real-Sociedad-vs-RCD-Espanyol_Old_match-card.jpg",
-                "PLAYBACK": null,
-                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/LALIGA-2025-26-Tour.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Real-Sociedad-vs-RCD-Espanyol_Old_match-card.jpg",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Real-Sociedad-vs-RCD-Espanyol_Match_card.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/130849_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "name": "Real Sociedad",
-                    "shortName": "RS",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-RSO@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#ae7a05",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "Espanyol",
-                    "shortName": "ESL",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ESL@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#fff3db",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
-            }
-        },
-        {
-            "category": "Football",
-            "title": "Villarreal Vs Girona",
-            "tournament": "LALIGA 2025-26",
-            "match_id": 130841,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "24 August 2025 11:00 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Villarreal-VS-Girona_Old_match-card.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/130841_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/Villarreal-VS-Girona_Old_match-card.jpg",
-                "PLAYBACK": null,
-                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/LALIGA-2025-26-Tour.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Villarreal-VS-Girona_Old_match-card.jpg",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Villarreal-VS-Girona_Match_card.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/130841_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "name": "Villarreal",
-                    "shortName": "VIL",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-VIL@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#ffc0cb",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "Girona",
-                    "shortName": "GIR",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/GIR-FT1@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#fbc573",
-                    "cricketScore": null,
                     "kabaddiScore": null,
                     "footballScore": null,
                     "basketBallScore": null,
