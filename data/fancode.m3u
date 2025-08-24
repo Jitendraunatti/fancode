@@ -1,7 +1,7 @@
 #EXTM3U
 #DEVELOPED_BY_JITENDRA_PRO_DEV
 #AUTHOR:-JITENDRA_KUMAR
-#DATE:- Sunday 24 August, 2025 at 4:47:04 pm
+#DATE:- Sunday 24 August, 2025 at 4:54:53 pm
 #EXTINF:-1 tvg-id="132496" tvg-name="Central Delhi Kings Vs New Delhi Tigers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/132496_5521_NDT_CDK_fc-Web.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Central Delhi Kings Vs New Delhi Tigers
 https://in-mc-fdlive.fancode.com/mumbai/132496_english_hls_56ddb2d6a994166ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="133882" tvg-name="Adani Trivandrum Royals Vs Calicut Globstars" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/133882_5600_CG_TR_fc-Web_1755771731184.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Adani Trivandrum Royals Vs Calicut Globstars
@@ -26,7 +26,5 @@ https://in-mc-fdlive.fancode.com/mumbai/132084_english_hls_d51cdb4f4990028ta-di_
 https://in-mc-fdlive.fancode.com/mumbai/119164_english_hls_e53a5c052861031ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="133912" tvg-name="Day 4" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Betfred-British-Masters_old.jpg" tvg-language="ENGLISH" group-title="Golf",ENG | Day 4
 https://in-mc-fdlive.fancode.com/mumbai/133912_english_hls_01997cc0b518011ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
-#EXTINF:-1 tvg-id="133743" tvg-name="Vizianagaram Ninjas Vs Amaravati Crushers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/133733_5591_AC_VN_fc-Web.jpg" tvg-language="ENGLISH" group-title="Kabaddi",ENG | Vizianagaram Ninjas Vs Amaravati Crushers
-https://in-mc-fdlive.fancode.com/mumbai/133743_english_hls_98170f12be97010ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="134996" tvg-name="Race 2" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/DTM_2025_old_1755600452483.jpg" tvg-language="ENGLISH" group-title="Motorsports",ENG | Race 2
 https://in-mc-fdlive.fancode.com/mumbai/134996_english_hls_bbfeb06a2023932ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
