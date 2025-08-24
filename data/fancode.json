@@ -1,14 +1,14 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "08:26:25 PM 24-08-2025",
+    "last_updated": "08:30:36 PM 24-08-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
     "total_matches": 40,
-    "live_matches": 15,
-    "upcoming_matches": 25,
+    "live_matches": 17,
+    "upcoming_matches": 23,
     "matches": [
         {
             "category": "Cricket",
@@ -41,9 +41,9 @@
                     "color": "#b7e330",
                     "cricketScore": [
                         {
-                            "runs": 179,
-                            "overs": "15",
-                            "balls": "90",
+                            "runs": 192,
+                            "overs": "15.5",
+                            "balls": "95",
                             "status": "IN_PROGRESS",
                             "wickets": 3
                         }
@@ -120,9 +120,9 @@
                     "color": "#b7e330",
                     "cricketScore": [
                         {
-                            "runs": 179,
-                            "overs": "15",
-                            "balls": "90",
+                            "runs": 192,
+                            "overs": "15.5",
+                            "balls": "95",
                             "status": "IN_PROGRESS",
                             "wickets": 3
                         }
@@ -202,7 +202,7 @@
                             "runs": 111,
                             "overs": "20",
                             "balls": "100",
-                            "status": "IN_PROGRESS",
+                            "status": "COMPLETED",
                             "wickets": 3
                         }
                     ],
@@ -212,7 +212,7 @@
                     "hockeyScore": null,
                     "status": {
                         "cricket": {
-                            "isBatting": true
+                            "isBatting": false
                         }
                     }
                 },
@@ -224,14 +224,22 @@
                     },
                     "isWinner": null,
                     "color": "#adb6b9",
-                    "cricketScore": [],
+                    "cricketScore": [
+                        {
+                            "runs": 0,
+                            "overs": "0.2",
+                            "balls": "2",
+                            "status": "IN_PROGRESS",
+                            "wickets": 0
+                        }
+                    ],
                     "kabaddiScore": null,
                     "footballScore": null,
                     "basketBallScore": null,
                     "hockeyScore": null,
                     "status": {
                         "cricket": {
-                            "isBatting": false
+                            "isBatting": true
                         }
                     }
                 }
@@ -357,11 +365,11 @@
                     "color": "#ffed00",
                     "cricketScore": [
                         {
-                            "runs": 105,
-                            "overs": "14.4",
-                            "balls": "88",
+                            "runs": 111,
+                            "overs": "15.2",
+                            "balls": "92",
                             "status": "IN_PROGRESS",
-                            "wickets": 4
+                            "wickets": 5
                         }
                     ],
                     "kabaddiScore": null,
@@ -568,7 +576,7 @@
             "title": "Papua New Guinea Vs Kuwait",
             "tournament": "ICC CWC Challenge League A, 2024-26",
             "match_id": 133790,
-            "status": "LIVE",
+            "status": "COMPLETED",
             "streamingStatus": "STARTED",
             "startTime": "24 August 2025 03:30 PM",
             "startDate": "01 January 1970 05:30 AM",
@@ -708,9 +716,9 @@
                     "color": "#d15972",
                     "cricketScore": [
                         {
-                            "runs": 52,
-                            "overs": "10",
-                            "balls": "60",
+                            "runs": 55,
+                            "overs": "10.1",
+                            "balls": "62",
                             "status": "IN_PROGRESS",
                             "wickets": 1
                         }
@@ -742,7 +750,7 @@
             "title": "Yalla Shabab Giants Vs Royal Oman Stallions",
             "tournament": "Oman D20 League, 2025",
             "match_id": 133690,
-            "status": "LIVE",
+            "status": "COMPLETED",
             "streamingStatus": "STARTED",
             "startTime": "24 August 2025 05:00 PM",
             "startDate": "01 January 1970 05:30 AM",
@@ -926,9 +934,9 @@
                     "color": "#921b36",
                     "cricketScore": [
                         {
-                            "runs": 105,
-                            "overs": "17.5",
-                            "balls": "107",
+                            "runs": 113,
+                            "overs": "18.5",
+                            "balls": "113",
                             "status": "IN_PROGRESS",
                             "wickets": 5
                         }
@@ -1005,11 +1013,11 @@
                     "color": "#df787f",
                     "cricketScore": [
                         {
-                            "runs": 75,
-                            "overs": "17",
-                            "balls": "102",
+                            "runs": 79,
+                            "overs": "18",
+                            "balls": "108",
                             "status": "IN_PROGRESS",
-                            "wickets": 7
+                            "wickets": 8
                         }
                     ],
                     "kabaddiScore": null,
@@ -1262,6 +1270,148 @@
                 "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/133912_english_hls_01997cc0b518011ta-di_h264/index.m3u8",
                 "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/133912_english_hls_01997cc0b518011ta-di_h264/index.m3u8",
                 "dai_google_cdn": "https://dai.google.com/linear/hls/event/dZbKWB8PQA-QcKqIVGEXUQ/master.m3u8",
+                "cloudfront_cdn": "Unavailable",
+                "language": "ENGLISH"
+            }
+        },
+        {
+            "category": "Golf",
+            "title": "Main Feed   Day 4",
+            "tournament": "Tour Championship",
+            "match_id": 134086,
+            "status": "LIVE",
+            "streamingStatus": "STARTED",
+            "startTime": "24 August 2025 08:30 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Tour_Championship_Old_match_card_1.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/134086_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/Tour_Championship_Old_match_card_1.jpg",
+                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/Tour_Championship_Old_match_card_1.jpg",
+                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Tour-Championship-Tour-Logo.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Golf_Fallback_Old_match-card.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Tour_Championship_Old_match_card_1.jpg",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Championship_Sporty_match-card.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/134086_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "name": "Main Feed - Day 4",
+                    "shortName": "Main Feed - Day 4",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-TCG@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#62646a",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "East Lake Golf Course",
+                    "shortName": "East Lake Golf Course",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#141414",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/134086_english_hls_d9b60d94f948400ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/OG2nal1ZSVC3FRAr4E-aSA/master.m3u8",
+            "STREAMING_CDN": {
+                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/134086_english_hls_d9b60d94f948400ta-di_h264/index.m3u8",
+                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/134086_english_hls_d9b60d94f948400ta-di_h264/index.m3u8",
+                "dai_google_cdn": "https://dai.google.com/linear/hls/event/OG2nal1ZSVC3FRAr4E-aSA/master.m3u8",
+                "cloudfront_cdn": "Unavailable",
+                "language": "ENGLISH"
+            }
+        },
+        {
+            "category": "Golf",
+            "title": "Featured Holes   Day 4",
+            "tournament": "Tour Championship",
+            "match_id": 134087,
+            "status": "LIVE",
+            "streamingStatus": "STARTED",
+            "startTime": "24 August 2025 08:45 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Tour_Championship_Old_match_card_1.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/134087_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/Tour_Championship_Old_match_card_1.jpg",
+                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/Tour_Championship_Old_match_card_1.jpg",
+                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Tour-Championship-Tour-Logo.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Golf_Fallback_Old_match-card.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Tour_Championship_Old_match_card_1.jpg",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Championship_Sporty_match-card.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/134087_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "name": "Featured Holes - Day 4",
+                    "shortName": "Featured Holes - Day 4",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-TCG@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#62646a",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "East Lake Golf Course",
+                    "shortName": "East Lake Golf Course",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#141414",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/134087_english_hls_09e5eeba3d87649ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/WZmNA4uJSdihr4mkjoqINg/master.m3u8",
+            "STREAMING_CDN": {
+                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/134087_english_hls_09e5eeba3d87649ta-di_h264/index.m3u8",
+                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/134087_english_hls_09e5eeba3d87649ta-di_h264/index.m3u8",
+                "dai_google_cdn": "https://dai.google.com/linear/hls/event/WZmNA4uJSdihr4mkjoqINg/master.m3u8",
                 "cloudfront_cdn": "Unavailable",
                 "language": "ENGLISH"
             }
@@ -2628,28 +2778,28 @@
         },
         {
             "category": "Golf",
-            "title": "Main Feed   Day 4",
+            "title": "World Feed   Day 4",
             "tournament": "Tour Championship",
-            "match_id": 134086,
+            "match_id": 134090,
             "status": "NOT_STARTED",
             "streamingStatus": "NOT_STARTED",
-            "startTime": "24 August 2025 08:30 PM",
+            "startTime": "24 August 2025 09:30 PM",
             "startDate": "01 January 1970 05:30 AM",
             "image": "https://www.fancode.com/skillup-uploads/cms-media/Tour_Championship_Old_match_card_1.jpg",
             "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/134086_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/134090_CASACARDS_PARTNER_16_9_1920_1080.png",
                 "APP": "https://www.fancode.com/skillup-uploads/cms-media/Tour_Championship_Old_match_card_1.jpg",
                 "PLAYBACK": null,
                 "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Tour-Championship-Tour-Logo.png",
                 "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Golf_Fallback_Old_match-card.jpg",
                 "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Tour_Championship_Old_match_card_1.jpg",
                 "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Championship_Sporty_match-card.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/134086_CASACARDS_PARTNER_16_9_1920_1080.png"
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/134090_CASACARDS_PARTNER_16_9_1920_1080.png"
             },
             "teams": [
                 {
-                    "name": "Main Feed - Day 4",
-                    "shortName": "Main Feed - Day 4",
+                    "name": "World Feed - Day 4",
+                    "shortName": "World Feed - Day 4",
                     "flag": {
                         "src": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-TCG@2x.png"
                     },
@@ -2696,28 +2846,28 @@
         },
         {
             "category": "Golf",
-            "title": "Featured Holes   Day 4",
+            "title": "Marquee Group   Day 4",
             "tournament": "Tour Championship",
-            "match_id": 134087,
+            "match_id": 134089,
             "status": "NOT_STARTED",
             "streamingStatus": "NOT_STARTED",
-            "startTime": "24 August 2025 08:45 PM",
+            "startTime": "24 August 2025 09:30 PM",
             "startDate": "01 January 1970 05:30 AM",
             "image": "https://www.fancode.com/skillup-uploads/cms-media/Tour_Championship_Old_match_card_1.jpg",
             "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/134087_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/134089_CASACARDS_PARTNER_16_9_1920_1080.png",
                 "APP": "https://www.fancode.com/skillup-uploads/cms-media/Tour_Championship_Old_match_card_1.jpg",
                 "PLAYBACK": null,
                 "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Tour-Championship-Tour-Logo.png",
                 "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Golf_Fallback_Old_match-card.jpg",
                 "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Tour_Championship_Old_match_card_1.jpg",
                 "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Championship_Sporty_match-card.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/134087_CASACARDS_PARTNER_16_9_1920_1080.png"
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/134089_CASACARDS_PARTNER_16_9_1920_1080.png"
             },
             "teams": [
                 {
-                    "name": "Featured Holes - Day 4",
-                    "shortName": "Featured Holes - Day 4",
+                    "name": "Marquee Group - Day 4",
+                    "shortName": "Marquee Group - Day 4",
                     "flag": {
                         "src": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-TCG@2x.png"
                     },
@@ -2743,142 +2893,6 @@
                     "isWinner": null,
                     "color": "#141414",
                     "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
-            }
-        },
-        {
-            "category": "Kabaddi",
-            "title": "Kurnool Knights Vs Amaravati Crushers",
-            "tournament": "Yuva Andhra Championship, 2025",
-            "match_id": 133746,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "25 August 2025 11:45 AM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/133729_5591_AC_KKK_fc-Web.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/133746_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/133729_5591_AC_KKK_fc-Web.jpg",
-                "PLAYBACK": null,
-                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Yuva-Andhra-Championship,-2025-Tour-Logo.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Kabaddi-old-min.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/133729_5591_AC_KKK_fc-Web.jpg",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/133729_5591_AC_KKK_Fc-App.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/133746_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "name": "Kurnool Knights",
-                    "shortName": "KKK",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/kb-flags/FC-KT@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#e4bea2",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "Amaravati Crushers",
-                    "shortName": "AC",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/kb-flags/FC-AC@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#ffcad6",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
-            }
-        },
-        {
-            "category": "Cricket",
-            "title": "Sharjah Warriorz Development Vs Abu Dhabi Knight Riders Development",
-            "tournament": "DP World ILT20 Development Tournament, 2025",
-            "match_id": 135798,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "25 August 2025 06:30 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/135798_5636_SWD_ADK_fc-web.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/135798_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/135798_5636_SWD_ADK_fc-web.jpg",
-                "PLAYBACK": null,
-                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/DPW-ILT20-Tour-Logo.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/135798_5636_SWD_ADK_fc-web.jpg",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/135798_5636_SWD_ADK_fc-app.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/135798_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "name": "Sharjah Warriorz Development",
-                    "shortName": "SWD",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SWR@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#d93025",
-                    "cricketScore": [],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "Abu Dhabi Knight Riders Development",
-                    "shortName": "ADK",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ADKR@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#3a0f6a",
-                    "cricketScore": [],
                     "kabaddiScore": null,
                     "footballScore": null,
                     "basketBallScore": null,
