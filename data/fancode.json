@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "02:26:25 AM 25-08-2025",
+    "last_updated": "02:30:25 AM 25-08-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -840,7 +840,7 @@
             "title": "Kuwait Swedish Vs Bader & Nie Cricket Club",
             "tournament": "KCC T10 Summer League, 2025",
             "match_id": 132176,
-            "status": "LIVE",
+            "status": "COMPLETED",
             "streamingStatus": "COMPLETED",
             "startTime": "25 August 2025 12:15 AM",
             "startDate": "01 January 1970 05:30 AM",
