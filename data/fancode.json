@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "03:38:52 PM 24-08-2025",
+    "last_updated": "03:46:53 PM 24-08-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -41,11 +41,11 @@
                     "color": "#0082cb",
                     "cricketScore": [
                         {
-                            "runs": 135,
-                            "overs": "15.4",
-                            "balls": "94",
+                            "runs": 161,
+                            "overs": "18",
+                            "balls": "108",
                             "status": "IN_PROGRESS",
-                            "wickets": 3
+                            "wickets": 5
                         }
                     ],
                     "kabaddiScore": null,
@@ -120,11 +120,11 @@
                     "color": "#74B8E1",
                     "cricketScore": [
                         {
-                            "runs": 82,
-                            "overs": "11",
-                            "balls": "66",
+                            "runs": 84,
+                            "overs": "12",
+                            "balls": "72",
                             "status": "IN_PROGRESS",
-                            "wickets": 2
+                            "wickets": 3
                         }
                     ],
                     "kabaddiScore": null,
@@ -199,11 +199,11 @@
                     "color": "#74B8E1",
                     "cricketScore": [
                         {
-                            "runs": 82,
-                            "overs": "11",
-                            "balls": "66",
+                            "runs": 84,
+                            "overs": "12",
+                            "balls": "72",
                             "status": "IN_PROGRESS",
-                            "wickets": 2
+                            "wickets": 3
                         }
                     ],
                     "kabaddiScore": null,
@@ -278,9 +278,9 @@
                     "color": "#16b9b7",
                     "cricketScore": [
                         {
-                            "runs": 19,
-                            "overs": "4",
-                            "balls": "24",
+                            "runs": 40,
+                            "overs": "6",
+                            "balls": "36",
                             "status": "IN_PROGRESS",
                             "wickets": 3
                         }
@@ -357,11 +357,11 @@
                     "color": "#d09b8a",
                     "cricketScore": [
                         {
-                            "runs": 11,
-                            "overs": "1.3",
-                            "balls": "8",
+                            "runs": 21,
+                            "overs": "3.3",
+                            "balls": "18",
                             "status": "IN_PROGRESS",
-                            "wickets": 0
+                            "wickets": 1
                         }
                     ],
                     "kabaddiScore": null,
@@ -436,9 +436,9 @@
                     "color": "#32752E",
                     "cricketScore": [
                         {
-                            "runs": 158,
-                            "overs": "15.2",
-                            "balls": "92",
+                            "runs": 178,
+                            "overs": "16.5",
+                            "balls": "101",
                             "status": "IN_PROGRESS",
                             "wickets": 1
                         }
@@ -515,9 +515,9 @@
                     "color": "#f8dd5a",
                     "cricketScore": [
                         {
-                            "runs": 13,
-                            "overs": "2.1",
-                            "balls": "13",
+                            "runs": 29,
+                            "overs": "4.2",
+                            "balls": "26",
                             "status": "IN_PROGRESS",
                             "wickets": 0
                         }
@@ -594,9 +594,9 @@
                     "color": "#1e4609",
                     "cricketScore": [
                         {
-                            "runs": 6,
-                            "overs": "1.4",
-                            "balls": "10",
+                            "runs": 16,
+                            "overs": "3.2",
+                            "balls": "20",
                             "status": "IN_PROGRESS",
                             "wickets": 0
                         }
@@ -696,8 +696,15 @@
                     "cricketScore": null,
                     "kabaddiScore": null,
                     "footballScore": {
-                        "points": 0,
-                        "goals": []
+                        "points": 1,
+                        "goals": [
+                            {
+                                "id": "226825",
+                                "shortName": "R Elias",
+                                "isOwnGoal": false,
+                                "goalTime": "8'"
+                            }
+                        ]
                     },
                     "basketBallScore": null,
                     "hockeyScore": null,
