@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "11:10:25 PM 24-08-2025",
+    "last_updated": "11:18:25 PM 24-08-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -37,7 +37,7 @@
                     "flag": {
                         "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AKS@2x.png"
                     },
-                    "isWinner": null,
+                    "isWinner": false,
                     "color": "#b7e330",
                     "cricketScore": [
                         {
@@ -64,15 +64,15 @@
                     "flag": {
                         "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KBT@2x.png"
                     },
-                    "isWinner": null,
+                    "isWinner": true,
                     "color": "#01c0f6",
                     "cricketScore": [
                         {
-                            "runs": 231,
-                            "overs": "19.3",
-                            "balls": "117",
+                            "runs": 237,
+                            "overs": "20",
+                            "balls": "120",
                             "status": "IN_PROGRESS",
-                            "wickets": 5
+                            "wickets": 6
                         }
                     ],
                     "kabaddiScore": null,
@@ -124,7 +124,7 @@
                     "flag": {
                         "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AKS@2x.png"
                     },
-                    "isWinner": null,
+                    "isWinner": false,
                     "color": "#b7e330",
                     "cricketScore": [
                         {
@@ -151,15 +151,15 @@
                     "flag": {
                         "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KBT@2x.png"
                     },
-                    "isWinner": null,
+                    "isWinner": true,
                     "color": "#01c0f6",
                     "cricketScore": [
                         {
-                            "runs": 231,
-                            "overs": "19.3",
-                            "balls": "117",
+                            "runs": 237,
+                            "overs": "20",
+                            "balls": "120",
                             "status": "IN_PROGRESS",
-                            "wickets": 5
+                            "wickets": 6
                         }
                     ],
                     "kabaddiScore": null,
@@ -182,93 +182,6 @@
                 "dai_google_cdn": "https://dai.google.com/linear/hls/event/JOjojwqTR6mYEnfmDaFY0Q/master.m3u8",
                 "cloudfront_cdn": "Unavailable",
                 "language": "MALAYALAM"
-            }
-        },
-        {
-            "category": "Cricket",
-            "title": "Mysore Warriors Vs Shivamogga Lions",
-            "tournament": "Maharaja T20 Trophy, 2025",
-            "match_id": 132812,
-            "status": "COMPLETED",
-            "streamingStatus": "STARTED",
-            "startTime": "24 August 2025 07:15 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/132812_5530_SS_MW_fc-Web_1755374793076.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/132812_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/132812_5530_SS_MW_fc-Web_1755374793076.jpg",
-                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/132812_5530_SS_MW_fc-Web_1755374793076.jpg",
-                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/07/Maharaja-Trophy-KSCA-T20-Tour-Logo.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/132812_5530_SS_MW_fc-Web_1755374793076.jpg",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/132812_5530_SS_MW_fc-App_1755374802314.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/132812_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "name": "Mysore Warriors",
-                    "shortName": "MW",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MWAR@2x.png"
-                    },
-                    "isWinner": false,
-                    "color": "#ffed00",
-                    "cricketScore": [
-                        {
-                            "runs": 180,
-                            "overs": "20",
-                            "balls": "120",
-                            "status": "COMPLETED",
-                            "wickets": 6
-                        }
-                    ],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "Shivamogga Lions",
-                    "shortName": "SS",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SHV@2x.png"
-                    },
-                    "isWinner": true,
-                    "color": "#D59A14",
-                    "cricketScore": [
-                        {
-                            "runs": 181,
-                            "overs": "20",
-                            "balls": "120",
-                            "status": "IN_PROGRESS",
-                            "wickets": 7
-                        }
-                    ],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": true
-                        }
-                    }
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/132812_english_hls_91a3cf027434415ta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/8VeWkjY1TmKs4Sgn6IYzXQ/master.m3u8",
-            "STREAMING_CDN": {
-                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/132812_english_hls_91a3cf027434415ta-di_h264/index.m3u8",
-                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/132812_english_hls_91a3cf027434415ta-di_h264/index.m3u8",
-                "dai_google_cdn": "https://dai.google.com/linear/hls/event/8VeWkjY1TmKs4Sgn6IYzXQ/master.m3u8",
-                "cloudfront_cdn": "Unavailable",
-                "language": "ENGLISH"
             }
         },
         {
@@ -329,9 +242,9 @@
                     "color": "#CC0001",
                     "cricketScore": [
                         {
-                            "runs": 57,
-                            "overs": "8",
-                            "balls": "48",
+                            "runs": 71,
+                            "overs": "9.4",
+                            "balls": "58",
                             "status": "IN_PROGRESS",
                             "wickets": 1
                         }
@@ -416,9 +329,9 @@
                     "color": "#CC0001",
                     "cricketScore": [
                         {
-                            "runs": 57,
-                            "overs": "8",
-                            "balls": "48",
+                            "runs": 71,
+                            "overs": "9.4",
+                            "balls": "58",
                             "status": "IN_PROGRESS",
                             "wickets": 1
                         }
@@ -476,9 +389,9 @@
                     "color": "#adb6b9",
                     "cricketScore": [
                         {
-                            "runs": 60,
-                            "overs": "12",
-                            "balls": "60",
+                            "runs": 82,
+                            "overs": "14.3",
+                            "balls": "73",
                             "status": "IN_PROGRESS",
                             "wickets": 4
                         }
@@ -551,7 +464,7 @@
                     "flag": {
                         "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SDSW@2x.png"
                     },
-                    "isWinner": null,
+                    "isWinner": true,
                     "color": "#921b36",
                     "cricketScore": [
                         {
@@ -578,7 +491,7 @@
                     "flag": {
                         "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CDQ@2x.png"
                     },
-                    "isWinner": null,
+                    "isWinner": false,
                     "color": "#3aae2a",
                     "cricketScore": [
                         {
@@ -669,11 +582,11 @@
                     "color": "#d8c50f",
                     "cricketScore": [
                         {
-                            "runs": 9,
-                            "overs": "1",
-                            "balls": "6",
+                            "runs": 17,
+                            "overs": "2.5",
+                            "balls": "17",
                             "status": "IN_PROGRESS",
-                            "wickets": 0
+                            "wickets": 1
                         }
                     ],
                     "kabaddiScore": null,
@@ -902,8 +815,15 @@
                     "cricketScore": null,
                     "kabaddiScore": null,
                     "footballScore": {
-                        "points": 0,
-                        "goals": []
+                        "points": 1,
+                        "goals": [
+                            {
+                                "id": "175090",
+                                "shortName": "P Milla",
+                                "isOwnGoal": false,
+                                "goalTime": "10'"
+                            }
+                        ]
                     },
                     "basketBallScore": null,
                     "hockeyScore": null,
@@ -957,13 +877,19 @@
                     "cricketScore": null,
                     "kabaddiScore": null,
                     "footballScore": {
-                        "points": 1,
+                        "points": 2,
                         "goals": [
                             {
                                 "id": "195735",
                                 "shortName": "N P\u00e9p\u00e9",
                                 "isOwnGoal": false,
                                 "goalTime": "7'"
+                            },
+                            {
+                                "id": "424622",
+                                "shortName": "T Buchanan",
+                                "isOwnGoal": false,
+                                "goalTime": "16'"
                             }
                         ]
                     },
@@ -1508,6 +1434,93 @@
         },
         {
             "category": "Cricket",
+            "title": "Mysore Warriors Vs Shivamogga Lions",
+            "tournament": "Maharaja T20 Trophy, 2025",
+            "match_id": 132812,
+            "status": "COMPLETED",
+            "streamingStatus": "STARTED",
+            "startTime": "24 August 2025 07:15 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/132812_5530_SS_MW_fc-Web_1755374793076.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/132812_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/132812_5530_SS_MW_fc-Web_1755374793076.jpg",
+                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/132812_5530_SS_MW_fc-Web_1755374793076.jpg",
+                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/07/Maharaja-Trophy-KSCA-T20-Tour-Logo.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/132812_5530_SS_MW_fc-Web_1755374793076.jpg",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/132812_5530_SS_MW_fc-App_1755374802314.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/132812_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "name": "Mysore Warriors",
+                    "shortName": "MW",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MWAR@2x.png"
+                    },
+                    "isWinner": false,
+                    "color": "#ffed00",
+                    "cricketScore": [
+                        {
+                            "runs": 180,
+                            "overs": "20",
+                            "balls": "120",
+                            "status": "COMPLETED",
+                            "wickets": 6
+                        }
+                    ],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "Shivamogga Lions",
+                    "shortName": "SS",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SHV@2x.png"
+                    },
+                    "isWinner": true,
+                    "color": "#D59A14",
+                    "cricketScore": [
+                        {
+                            "runs": 181,
+                            "overs": "20",
+                            "balls": "120",
+                            "status": "IN_PROGRESS",
+                            "wickets": 7
+                        }
+                    ],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": true
+                        }
+                    }
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/132812_english_hls_91a3cf027434415ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/8VeWkjY1TmKs4Sgn6IYzXQ/master.m3u8",
+            "STREAMING_CDN": {
+                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/132812_english_hls_91a3cf027434415ta-di_h264/index.m3u8",
+                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/132812_english_hls_91a3cf027434415ta-di_h264/index.m3u8",
+                "dai_google_cdn": "https://dai.google.com/linear/hls/event/8VeWkjY1TmKs4Sgn6IYzXQ/master.m3u8",
+                "cloudfront_cdn": "Unavailable",
+                "language": "ENGLISH"
+            }
+        },
+        {
+            "category": "Cricket",
             "title": "Saint Lucia Kings Vs Barbados Royals",
             "tournament": "Caribbean Premier League, 2025",
             "match_id": 132357,
@@ -1758,6 +1771,74 @@
                     },
                     "isWinner": null,
                     "color": "#b8a61d",
+                    "cricketScore": [],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "STREAMING_CDN": {
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
+            }
+        },
+        {
+            "category": "Cricket",
+            "title": "Bader & Nie Cricket Club Vs Kuwait Swedish",
+            "tournament": "KCC T10 Summer League, 2025",
+            "match_id": 132176,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "25 August 2025 12:15 AM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/KCC-T10-Summer-League,-2025_match-card.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/132176_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/KCC-T10-Summer-League,-2025_match-card.jpg",
+                "PLAYBACK": null,
+                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2023/12/Tour-Placeholder.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/KCC-T10-Summer-League,-2025_match-card.jpg",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/KCC-T10-Summer-League,-2025_Sporty_Match_card.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/132176_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "name": "Bader & Nie Cricket Club",
+                    "shortName": "BNC",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BNC@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#0d395a",
+                    "cricketScore": [],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "Kuwait Swedish",
+                    "shortName": "KS",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KUSW@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#2125DA",
                     "cricketScore": [],
                     "kabaddiScore": null,
                     "footballScore": null,
@@ -2098,74 +2179,6 @@
                     },
                     "isWinner": null,
                     "color": "#a0a0d4",
-                    "cricketScore": [],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
-            }
-        },
-        {
-            "category": "Cricket",
-            "title": "Bader & Nie Cricket Club Vs Kuwait Swedish",
-            "tournament": "KCC T10 Summer League, 2025",
-            "match_id": 132176,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "25 August 2025 12:15 AM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/KCC-T10-Summer-League,-2025_match-card.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/132176_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/KCC-T10-Summer-League,-2025_match-card.jpg",
-                "PLAYBACK": null,
-                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2023/12/Tour-Placeholder.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/KCC-T10-Summer-League,-2025_match-card.jpg",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/KCC-T10-Summer-League,-2025_Sporty_Match_card.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/132176_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "name": "Bader & Nie Cricket Club",
-                    "shortName": "BNC",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BNC@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#0d395a",
-                    "cricketScore": [],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "Kuwait Swedish",
-                    "shortName": "KS",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KUSW@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#2125DA",
                     "cricketScore": [],
                     "kabaddiScore": null,
                     "footballScore": null,
