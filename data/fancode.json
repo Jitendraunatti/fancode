@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "01:30:56 PM 24-08-2025",
+    "last_updated": "01:38:53 PM 24-08-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -1125,7 +1125,7 @@
         },
         {
             "category": "Cricket",
-            "title": "Germany Women Vs Ireland Women",
+            "title": "Ireland Women Vs Germany Women",
             "tournament": "ICC Women\u2019s T20 WC Europe Qualifier Division 1",
             "match_id": 133753,
             "status": "NOT_STARTED",
@@ -1145,25 +1145,6 @@
             },
             "teams": [
                 {
-                    "name": "Germany Women",
-                    "shortName": "GER-W",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GER@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#ea6363",
-                    "cricketScore": [],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
                     "name": "Ireland Women",
                     "shortName": "IR-W",
                     "flag": {
@@ -1171,6 +1152,33 @@
                     },
                     "isWinner": null,
                     "color": "#32752E",
+                    "cricketScore": [
+                        {
+                            "runs": 0,
+                            "overs": "0",
+                            "balls": "0",
+                            "status": "IN_PROGRESS",
+                            "wickets": 0
+                        }
+                    ],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": true
+                        }
+                    }
+                },
+                {
+                    "name": "Germany Women",
+                    "shortName": "GER-W",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GER@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#ea6363",
                     "cricketScore": [],
                     "kabaddiScore": null,
                     "footballScore": null,
