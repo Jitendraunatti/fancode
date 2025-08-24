@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "02:46:53 PM 24-08-2025",
+    "last_updated": "02:54:52 PM 24-08-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -41,9 +41,9 @@
                     "color": "#0082cb",
                     "cricketScore": [
                         {
-                            "runs": 63,
-                            "overs": "8",
-                            "balls": "48",
+                            "runs": 73,
+                            "overs": "10",
+                            "balls": "60",
                             "status": "IN_PROGRESS",
                             "wickets": 2
                         }
@@ -120,9 +120,9 @@
                     "color": "#74B8E1",
                     "cricketScore": [
                         {
-                            "runs": 8,
-                            "overs": "2.1",
-                            "balls": "13",
+                            "runs": 25,
+                            "overs": "3.2",
+                            "balls": "20",
                             "status": "IN_PROGRESS",
                             "wickets": 0
                         }
@@ -199,9 +199,9 @@
                     "color": "#74B8E1",
                     "cricketScore": [
                         {
-                            "runs": 8,
-                            "overs": "2.1",
-                            "balls": "13",
+                            "runs": 25,
+                            "overs": "3.2",
+                            "balls": "20",
                             "status": "IN_PROGRESS",
                             "wickets": 0
                         }
@@ -305,11 +305,11 @@
                     "color": "#4caade",
                     "cricketScore": [
                         {
-                            "runs": 92,
-                            "overs": "9",
-                            "balls": "54",
+                            "runs": 137,
+                            "overs": "14",
+                            "balls": "84",
                             "status": "IN_PROGRESS",
-                            "wickets": 1
+                            "wickets": 2
                         }
                     ],
                     "kabaddiScore": null,
@@ -444,9 +444,9 @@
                     "color": "#32752E",
                     "cricketScore": [
                         {
-                            "runs": 30,
-                            "overs": "3.3",
-                            "balls": "21",
+                            "runs": 53,
+                            "overs": "5.3",
+                            "balls": "34",
                             "status": "IN_PROGRESS",
                             "wickets": 0
                         }
@@ -592,14 +592,22 @@
                     },
                     "isWinner": null,
                     "color": "#16b9b7",
-                    "cricketScore": [],
+                    "cricketScore": [
+                        {
+                            "runs": 0,
+                            "overs": "0",
+                            "balls": "0",
+                            "status": "IN_PROGRESS",
+                            "wickets": 0
+                        }
+                    ],
                     "kabaddiScore": null,
                     "footballScore": null,
                     "basketBallScore": null,
                     "hockeyScore": null,
                     "status": {
                         "cricket": {
-                            "isBatting": false
+                            "isBatting": true
                         }
                     }
                 },
@@ -1381,7 +1389,7 @@
         },
         {
             "category": "Cricket",
-            "title": "Qatar Vs Kenya",
+            "title": "Kenya Vs Qatar",
             "tournament": "ICC CWC Challenge League A, 2024-26",
             "match_id": 133789,
             "status": "NOT_STARTED",
@@ -1401,25 +1409,6 @@
             },
             "teams": [
                 {
-                    "name": "Qatar",
-                    "shortName": "QAT",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-QTR@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#d15972",
-                    "cricketScore": [],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
                     "name": "Kenya",
                     "shortName": "KEN",
                     "flag": {
@@ -1427,6 +1416,33 @@
                     },
                     "isWinner": null,
                     "color": "#1e4609",
+                    "cricketScore": [
+                        {
+                            "runs": 0,
+                            "overs": "0",
+                            "balls": "0",
+                            "status": "IN_PROGRESS",
+                            "wickets": 0
+                        }
+                    ],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": true
+                        }
+                    }
+                },
+                {
+                    "name": "Qatar",
+                    "shortName": "QAT",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-QTR@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#d15972",
                     "cricketScore": [],
                     "kabaddiScore": null,
                     "footballScore": null,
