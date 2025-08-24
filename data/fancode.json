@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "10:46:47 AM 24-08-2025",
+    "last_updated": "10:54:47 AM 24-08-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -82,8 +82,8 @@
                             "wickets": 10
                         },
                         {
-                            "runs": 243,
-                            "overs": "74.3",
+                            "runs": 250,
+                            "overs": "76.3",
                             "balls": "0",
                             "status": "IN_PROGRESS",
                             "wickets": 2
@@ -142,8 +142,8 @@
                     "color": "#e4bea2",
                     "cricketScore": null,
                     "kabaddiScore": {
-                        "points": 22,
-                        "onFieldPlayers": 7,
+                        "points": 33,
+                        "onFieldPlayers": 3,
                         "totalFieldPlayers": 7,
                         "raiding": true
                     },
@@ -166,8 +166,8 @@
                     "color": "#205d7e",
                     "cricketScore": null,
                     "kabaddiScore": {
-                        "points": 28,
-                        "onFieldPlayers": 4,
+                        "points": 34,
+                        "onFieldPlayers": 6,
                         "totalFieldPlayers": 7,
                         "raiding": null
                     },
@@ -478,7 +478,7 @@
                 "TATAPLAY": "https://images.fancode.com/aig/match/v1/135796_CASACARDS_PARTNER_16_9_1920_1080.png",
                 "APP": "https://www.fancode.com/skillup-uploads/cms-media/135796_5636_DCD_DVD_fc-web.jpg",
                 "PLAYBACK": null,
-                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2023/12/Tour-Placeholder.png",
+                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/DPW-ILT20-Tour-Logo.png",
                 "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
                 "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/135796_5636_DCD_DVD_fc-web.jpg",
                 "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/135796_5636_DCD_DVD_fc-app.jpg",
@@ -954,7 +954,7 @@
                 "TATAPLAY": "https://images.fancode.com/aig/match/v1/135797_CASACARDS_PARTNER_16_9_1920_1080.png",
                 "APP": "https://www.fancode.com/skillup-uploads/cms-media/135797_5636_MED_GGD_fc-web.jpg",
                 "PLAYBACK": null,
-                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2023/12/Tour-Placeholder.png",
+                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/DPW-ILT20-Tour-Logo.png",
                 "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
                 "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/135797_5636_MED_GGD_fc-web.jpg",
                 "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/135797_5636_MED_GGD_fc-app.jpg",
