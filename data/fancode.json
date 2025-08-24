@@ -1,14 +1,14 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "12:39:01 PM 24-08-2025",
+    "last_updated": "12:46:52 PM 24-08-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
     "total_matches": 38,
-    "live_matches": 5,
-    "upcoming_matches": 33,
+    "live_matches": 4,
+    "upcoming_matches": 34,
     "matches": [
         {
             "category": "Cricket",
@@ -41,9 +41,9 @@
                     "color": "#9a4802",
                     "cricketScore": [
                         {
-                            "runs": 51,
-                            "overs": "6",
-                            "balls": "36",
+                            "runs": 68,
+                            "overs": "8",
+                            "balls": "48",
                             "status": "IN_PROGRESS",
                             "wickets": 2
                         }
@@ -161,41 +161,36 @@
             }
         },
         {
-            "category": "Kabaddi",
-            "title": "Amaravati Crushers Vs Vizag Commandos",
-            "tournament": "Yuva Andhra Championship, 2025",
-            "match_id": 133742,
-            "status": "COMPLETED",
+            "category": "Motorsports",
+            "title": "Qualifying 2",
+            "tournament": "DTM Sachsenring",
+            "match_id": 134995,
+            "status": "LIVE",
             "streamingStatus": "STARTED",
-            "startTime": "24 August 2025 11:45 AM",
+            "startTime": "24 August 2025 12:50 PM",
             "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/133714_5591_VC_AC_fc-Web.jpg",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/DTM_2025_old_1755600452483.jpg",
             "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/133742_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/133714_5591_VC_AC_fc-Web.jpg",
-                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/133714_5591_VC_AC_fc-Web.jpg",
-                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Yuva-Andhra-Championship,-2025-Tour-Logo.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Kabaddi-old-min.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/133714_5591_VC_AC_fc-Web.jpg",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/133714_5591_VC_AC_Fc-App.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/133742_CASACARDS_PARTNER_16_9_1920_1080.png"
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/134995_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/DTM_2025_old_1755600452483.jpg",
+                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/DTM_2025_old_1755600452483.jpg",
+                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/04/DTM-Tour-Logo.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Motorsports-1440-x-360_2.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/DTM_2025_old_1755600452483.jpg",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/DTM_2025_Sporty_1755600452438.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/134995_CASACARDS_PARTNER_16_9_1920_1080.png"
             },
             "teams": [
                 {
-                    "name": "Amaravati Crushers",
-                    "shortName": "AC",
+                    "name": "Qualifying 2",
+                    "shortName": "Qualifying 2",
                     "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/kb-flags/FC-AC@2x.png"
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-DTM@2x.png"
                     },
                     "isWinner": null,
-                    "color": "#ffcad6",
+                    "color": "#FFCC00",
                     "cricketScore": null,
-                    "kabaddiScore": {
-                        "points": 54,
-                        "onFieldPlayers": 5,
-                        "totalFieldPlayers": 7,
-                        "raiding": null
-                    },
+                    "kabaddiScore": null,
                     "footballScore": null,
                     "basketBallScore": null,
                     "hockeyScore": null,
@@ -206,20 +201,15 @@
                     }
                 },
                 {
-                    "name": "Vizag Commandos",
-                    "shortName": "VC",
+                    "name": "Germany",
+                    "shortName": "Germany",
                     "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/kb-flags/FC-VC@2x.png"
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-LOC@2x.png"
                     },
                     "isWinner": null,
-                    "color": "#c2c8fd",
+                    "color": "#123456",
                     "cricketScore": null,
-                    "kabaddiScore": {
-                        "points": 32,
-                        "onFieldPlayers": 7,
-                        "totalFieldPlayers": 7,
-                        "raiding": true
-                    },
+                    "kabaddiScore": null,
                     "footballScore": null,
                     "basketBallScore": null,
                     "hockeyScore": null,
@@ -231,12 +221,12 @@
                 }
             ],
             "language": "ENGLISH",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/133742_english_hls_39549678e539845ta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/C3LniUb8Qhm3R1JzJyleNA/master.m3u8",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/134995_english_hls_47d5b3a17b90822ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/c5EffLZ3T8GyZ7UMAh7glg/master.m3u8",
             "STREAMING_CDN": {
-                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/133742_english_hls_39549678e539845ta-di_h264/index.m3u8",
-                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/133742_english_hls_39549678e539845ta-di_h264/index.m3u8",
-                "dai_google_cdn": "https://dai.google.com/linear/hls/event/C3LniUb8Qhm3R1JzJyleNA/master.m3u8",
+                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/134995_english_hls_47d5b3a17b90822ta-di_h264/index.m3u8",
+                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/134995_english_hls_47d5b3a17b90822ta-di_h264/index.m3u8",
+                "dai_google_cdn": "https://dai.google.com/linear/hls/event/c5EffLZ3T8GyZ7UMAh7glg/master.m3u8",
                 "cloudfront_cdn": "Unavailable",
                 "language": "ENGLISH"
             }
@@ -2426,77 +2416,6 @@
             }
         },
         {
-            "category": "Motorsports",
-            "title": "Qualifying 2",
-            "tournament": "DTM Sachsenring",
-            "match_id": 134995,
-            "status": "LIVE",
-            "streamingStatus": "STARTED",
-            "startTime": "24 August 2025 12:50 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/DTM_2025_old_1755600452483.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/134995_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/DTM_2025_old_1755600452483.jpg",
-                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/DTM_2025_old_1755600452483.jpg",
-                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/04/DTM-Tour-Logo.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Motorsports-1440-x-360_2.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/DTM_2025_old_1755600452483.jpg",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/DTM_2025_Sporty_1755600452438.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/134995_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "name": "Qualifying 2",
-                    "shortName": "Qualifying 2",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-DTM@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#FFCC00",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "Germany",
-                    "shortName": "Germany",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-LOC@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#123456",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/134995_english_hls_47d5b3a17b90822ta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/c5EffLZ3T8GyZ7UMAh7glg/master.m3u8",
-            "STREAMING_CDN": {
-                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/134995_english_hls_47d5b3a17b90822ta-di_h264/index.m3u8",
-                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/134995_english_hls_47d5b3a17b90822ta-di_h264/index.m3u8",
-                "dai_google_cdn": "https://dai.google.com/linear/hls/event/c5EffLZ3T8GyZ7UMAh7glg/master.m3u8",
-                "cloudfront_cdn": "Unavailable",
-                "language": "ENGLISH"
-            }
-        },
-        {
             "category": "MotoGP",
             "title": "Hungary Gp",
             "tournament": "GRAND PRIX OF HUNGARY",
@@ -2612,6 +2531,74 @@
                     },
                     "isWinner": null,
                     "color": "#b8a61d",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "STREAMING_CDN": {
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
+            }
+        },
+        {
+            "category": "Cricket",
+            "title": "Shivamogga Lions Vs Hubli Tigers",
+            "tournament": "Maharaja T20 Trophy, 2025",
+            "match_id": 132813,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "25 August 2025 03:15 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/132813_5530_SS_HT_fc-Web_1755374792847.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/132813_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/132813_5530_SS_HT_fc-Web_1755374792847.jpg",
+                "PLAYBACK": null,
+                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/07/Maharaja-Trophy-KSCA-T20-Tour-Logo.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/132813_5530_SS_HT_fc-Web_1755374792847.jpg",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/132813_5530_SS_HT_fc-App_1755374802433.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/132813_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "name": "Shivamogga Lions",
+                    "shortName": "SS",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SHV@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#D59A14",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "Hubli Tigers",
+                    "shortName": "HT",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-HBT@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#272993",
                     "cricketScore": null,
                     "kabaddiScore": null,
                     "footballScore": null,
