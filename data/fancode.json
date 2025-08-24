@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "09:02:47 AM 24-08-2025",
+    "last_updated": "09:10:50 AM 24-08-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -82,8 +82,8 @@
                             "wickets": 10
                         },
                         {
-                            "runs": 146,
-                            "overs": "51",
+                            "runs": 156,
+                            "overs": "53",
                             "balls": "0",
                             "status": "IN_PROGRESS",
                             "wickets": 2
@@ -169,11 +169,11 @@
                     "color": "#d8a918",
                     "cricketScore": [
                         {
-                            "runs": 75,
-                            "overs": "12.3",
-                            "balls": "75",
+                            "runs": 107,
+                            "overs": "17",
+                            "balls": "102",
                             "status": "IN_PROGRESS",
-                            "wickets": 8
+                            "wickets": 9
                         }
                     ],
                     "kabaddiScore": null,
@@ -256,11 +256,11 @@
                     "color": "#4caade",
                     "cricketScore": [
                         {
-                            "runs": 41,
-                            "overs": "5",
-                            "balls": "30",
+                            "runs": 88,
+                            "overs": "12",
+                            "balls": "72",
                             "status": "IN_PROGRESS",
-                            "wickets": 1
+                            "wickets": 3
                         }
                     ],
                     "kabaddiScore": null,
