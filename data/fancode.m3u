@@ -1,9 +1,7 @@
 #EXTM3U
 #DEVELOPED_BY_JITENDRA_PRO_DEV
 #AUTHOR:-JITENDRA_KUMAR
-#DATE:- Sunday 24 August, 2025 at 6:10:26 pm
-#EXTINF:-1 tvg-id="132496" tvg-name="Central Delhi Kings Vs New Delhi Tigers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/132496_5521_NDT_CDK_fc-Web.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Central Delhi Kings Vs New Delhi Tigers
-https://in-mc-fdlive.fancode.com/mumbai/132496_english_hls_56ddb2d6a994166ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
+#DATE:- Sunday 24 August, 2025 at 6:18:28 pm
 #EXTINF:-1 tvg-id="133882" tvg-name="Adani Trivandrum Royals Vs Calicut Globstars" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/133882_5600_CG_TR_fc-Web_1755771731184.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Adani Trivandrum Royals Vs Calicut Globstars
 https://in-mc-fdlive.fancode.com/mumbai/133882_english_hls_7a1e0aa27d85342ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="133882" tvg-name="Adani Trivandrum Royals Vs Calicut Globstars" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/133882_5600_CG_TR_fc-Web_1755771731184.jpg" tvg-language="MALAYALAM" group-title="Cricket",MAL | Adani Trivandrum Royals Vs Calicut Globstars
@@ -12,6 +10,8 @@ https://in-mc-fdlive.fancode.com/mumbai/133882_malayalam_hls_0119a0e74140695ta-d
 https://in-mc-fdlive.fancode.com/mumbai/132811_english_hls_42815c549817163ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="132282" tvg-name="Trent Rockets Women Vs Welsh Fire Women" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/132282_5506_WEF-W_TRT-W_Fc-Web.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Trent Rockets Women Vs Welsh Fire Women
 https://dai.google.com/linear/hls/event/YFrT82nQRjyh8HlIPYbPfw/master.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
+#EXTINF:-1 tvg-id="135796" tvg-name="Dubai Capitals Development Vs Desert Vipers Development" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/135796_5636_DCD_DVD_fc-web.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Dubai Capitals Development Vs Desert Vipers Development
+https://in-mc-fdlive.fancode.com/mumbai/135796_english_hls_7e6441be8e98362ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="133790" tvg-name="Papua New Guinea Vs Kuwait" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/133790_4464_PNG_KUW_fc-Web.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Papua New Guinea Vs Kuwait
 https://in-mc-fdlive.fancode.com/mumbai/133790_english_hls_ed7023c28e54678ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="133789" tvg-name="Kenya Vs Qatar" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/133789_4464_QAT_KEN_fc-Web.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Kenya Vs Qatar
@@ -26,3 +26,5 @@ https://in-mc-fdlive.fancode.com/mumbai/119164_english_hls_e53a5c052861031ta-di_
 https://in-mc-fdlive.fancode.com/mumbai/133912_english_hls_01997cc0b518011ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="134996" tvg-name="Race 2" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/DTM_2025_old_1755600452483.jpg" tvg-language="ENGLISH" group-title="Motorsports",ENG | Race 2
 https://in-mc-fdlive.fancode.com/mumbai/134996_english_hls_bbfeb06a2023932ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
+#EXTINF:-1 tvg-id="132496" tvg-name="Central Delhi Kings Vs New Delhi Tigers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/132496_5521_NDT_CDK_fc-Web.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Central Delhi Kings Vs New Delhi Tigers
+https://in-mc-fdlive.fancode.com/mumbai/132496_english_hls_56ddb2d6a994166ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
