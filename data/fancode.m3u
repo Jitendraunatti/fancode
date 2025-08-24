@@ -1,12 +1,10 @@
 #EXTM3U
 #DEVELOPED_BY_JITENDRA_PRO_DEV
 #AUTHOR:-JITENDRA_KUMAR
-#DATE:- Sunday 24 August, 2025 at 1:18:54 pm
+#DATE:- Sunday 24 August, 2025 at 1:26:54 pm
 #EXTINF:-1 tvg-id="133533" tvg-name="Perth Scorchers Academy Vs Adelaide Strikers Academy" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/133514_5574_ASA_PSA_fc-web.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Perth Scorchers Academy Vs Adelaide Strikers Academy
 https://in-mc-fdlive.fancode.com/mumbai/133533_english_hls_b06b42aff446814ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="134891" tvg-name="Valley Vs Northern Suburbs" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/134891_5623_NSB_VLY_Fc-Web_1755807575963.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Valley Vs Northern Suburbs
 https://in-mc-fdlive.fancode.com/mumbai/134891_english_hls_cbc425112294910ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
-#EXTINF:-1 tvg-id="134995" tvg-name="Qualifying 2" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/DTM_2025_old_1755600452483.jpg" tvg-language="ENGLISH" group-title="Motorsports",ENG | Qualifying 2
-https://in-mc-fdlive.fancode.com/mumbai/134995_english_hls_47d5b3a17b90822ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="119164" tvg-name="Hungary Gp" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Moto-GP_Hungary_old_Match-card.jpg" tvg-language="ENGLISH" group-title="MotoGP",ENG | Hungary Gp
 https://in-mc-fdlive.fancode.com/mumbai/119164_english_hls_e53a5c052861031ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
