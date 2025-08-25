@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "11:26:46 PM 25-08-2025",
+    "last_updated": "11:30:54 PM 25-08-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -15,7 +15,7 @@
             "title": "Central Delhi Kings Vs Purani Delhi 6",
             "tournament": "Delhi Premier League, 2025",
             "match_id": 132498,
-            "status": "LIVE",
+            "status": "COMPLETED",
             "streamingStatus": "STARTED",
             "startTime": "25 August 2025 07:00 PM",
             "startDate": "01 January 1970 05:30 AM",
@@ -128,9 +128,9 @@
                     "color": "#1a7ee4",
                     "cricketScore": [
                         {
-                            "runs": 50,
-                            "overs": "7",
-                            "balls": "35",
+                            "runs": 58,
+                            "overs": "8.1",
+                            "balls": "41",
                             "status": "IN_PROGRESS",
                             "wickets": 3
                         }
@@ -321,9 +321,9 @@
                     "color": "#5438bd",
                     "cricketScore": [
                         {
-                            "runs": 22,
-                            "overs": "5",
-                            "balls": "30",
+                            "runs": 29,
+                            "overs": "6",
+                            "balls": "36",
                             "status": "IN_PROGRESS",
                             "wickets": 1
                         }
