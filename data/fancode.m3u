@@ -1,7 +1,7 @@
 #EXTM3U
 #DEVELOPED_BY_JITENDRA_PRO_DEV
 #AUTHOR:-JITENDRA_KUMAR
-#DATE:- Monday 25 August, 2025 at 9:18:47 pm
+#DATE:- Monday 25 August, 2025 at 9:26:46 pm
 #EXTINF:-1 tvg-id="133885" tvg-name="Adani Trivandrum Royals Vs Alleppey Ripples" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/133885_5600_AP_TR_fc-Web_1755771731354.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Adani Trivandrum Royals Vs Alleppey Ripples
 https://in-mc-fdlive.fancode.com/mumbai/133885_english_hls_b62120320380493ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="133885" tvg-name="Adani Trivandrum Royals Vs Alleppey Ripples" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/133885_5600_AP_TR_fc-Web_1755771731354.jpg" tvg-language="MALAYALAM" group-title="Cricket",MAL | Adani Trivandrum Royals Vs Alleppey Ripples
@@ -16,5 +16,5 @@ https://dai.google.com/linear/hls/event/YFrT82nQRjyh8HlIPYbPfw/master.m3u8|User-
 https://in-mc-fdlive.fancode.com/mumbai/133791_english_hls_7fd892374e29457ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="135798" tvg-name="Sharjah Warriorz Development Vs Abu Dhabi Knight Riders Development" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/135798_5636_SWD_ADK_fc-web.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Sharjah Warriorz Development Vs Abu Dhabi Knight Riders Development
 https://in-mc-fdlive.fancode.com/mumbai/135798_english_hls_c12dbdcc8a21020ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
-#EXTINF:-1 tvg-id="133693" tvg-name="Muscat Thunders Vs Ias Invincibles" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/133693_5590_MUT_IAI_fc-Web.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Muscat Thunders Vs Ias Invincibles
+#EXTINF:-1 tvg-id="133693" tvg-name="Ias Invincibles Vs Muscat Thunders" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/133693_5590_MUT_IAI_fc-Web.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Ias Invincibles Vs Muscat Thunders
 https://in-mc-fdlive.fancode.com/mumbai/133693_english_hls_278623fc0391528ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
