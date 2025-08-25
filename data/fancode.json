@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "12:30:51 PM 25-08-2025",
+    "last_updated": "12:38:51 PM 25-08-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -41,8 +41,8 @@
                     "color": "#e4bea2",
                     "cricketScore": null,
                     "kabaddiScore": {
-                        "points": 31,
-                        "onFieldPlayers": 5,
+                        "points": 34,
+                        "onFieldPlayers": 4,
                         "totalFieldPlayers": 7,
                         "raiding": true
                     },
@@ -65,8 +65,8 @@
                     "color": "#ffcad6",
                     "cricketScore": null,
                     "kabaddiScore": {
-                        "points": 34,
-                        "onFieldPlayers": 6,
+                        "points": 47,
+                        "onFieldPlayers": 7,
                         "totalFieldPlayers": 7,
                         "raiding": null
                     },
