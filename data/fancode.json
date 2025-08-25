@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "06:18:53 PM 25-08-2025",
+    "last_updated": "06:26:51 PM 25-08-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -124,7 +124,7 @@
                     "flag": {
                         "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-HBT@2x.png"
                     },
-                    "isWinner": null,
+                    "isWinner": true,
                     "color": "#272993",
                     "cricketScore": [
                         {
@@ -151,15 +151,15 @@
                     "flag": {
                         "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SHV@2x.png"
                     },
-                    "isWinner": null,
+                    "isWinner": false,
                     "color": "#D59A14",
                     "cricketScore": [
                         {
-                            "runs": 86,
-                            "overs": "14.3",
-                            "balls": "87",
+                            "runs": 90,
+                            "overs": "15.5",
+                            "balls": "95",
                             "status": "IN_PROGRESS",
-                            "wickets": 7
+                            "wickets": 10
                         }
                     ],
                     "kabaddiScore": null,
@@ -215,9 +215,9 @@
                     "color": "#D7B524",
                     "cricketScore": [
                         {
-                            "runs": 264,
-                            "overs": "43.3",
-                            "balls": "261",
+                            "runs": 287,
+                            "overs": "45.2",
+                            "balls": "272",
                             "status": "IN_PROGRESS",
                             "wickets": 2
                         }
@@ -294,9 +294,9 @@
                     "color": "#d3b252",
                     "cricketScore": [
                         {
-                            "runs": 77,
-                            "overs": "14.3",
-                            "balls": "87",
+                            "runs": 88,
+                            "overs": "17",
+                            "balls": "102",
                             "status": "IN_PROGRESS",
                             "wickets": 5
                         }
@@ -347,7 +347,7 @@
             "title": "Sharjah Warriorz Development Vs Abu Dhabi Knight Riders Development",
             "tournament": "DP World ILT20 Development Tournament, 2025",
             "match_id": 135798,
-            "status": "NOT_STARTED",
+            "status": "LIVE",
             "streamingStatus": "STARTED",
             "startTime": "25 August 2025 06:30 PM",
             "startDate": "01 January 1970 05:30 AM",
@@ -589,7 +589,7 @@
         },
         {
             "category": "Cricket",
-            "title": "Alleppey Ripples Vs Adani Trivandrum Royals",
+            "title": "Adani Trivandrum Royals Vs Alleppey Ripples",
             "tournament": "Kerala Cricket League, 2025",
             "match_id": 133885,
             "status": "NOT_STARTED",
@@ -609,25 +609,6 @@
             },
             "teams": [
                 {
-                    "name": "Alleppey Ripples",
-                    "shortName": "AP",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-APK@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#8e5bf0",
-                    "cricketScore": [],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
                     "name": "Adani Trivandrum Royals",
                     "shortName": "TR",
                     "flag": {
@@ -635,6 +616,33 @@
                     },
                     "isWinner": null,
                     "color": "#74B8E1",
+                    "cricketScore": [
+                        {
+                            "runs": 0,
+                            "overs": "0",
+                            "balls": "0",
+                            "status": "IN_PROGRESS",
+                            "wickets": 0
+                        }
+                    ],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": true
+                        }
+                    }
+                },
+                {
+                    "name": "Alleppey Ripples",
+                    "shortName": "AP",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-APK@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#8e5bf0",
                     "cricketScore": [],
                     "kabaddiScore": null,
                     "footballScore": null,
@@ -2433,6 +2441,74 @@
         },
         {
             "category": "Cricket",
+            "title": "Desert Vipers Development Vs Sharjah Warriorz Development",
+            "tournament": "DP World ILT20 Development Tournament, 2025",
+            "match_id": 135801,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "26 August 2025 10:30 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/135801_5636_DVD_SWD_fc-web.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/135801_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/135801_5636_DVD_SWD_fc-web.jpg",
+                "PLAYBACK": null,
+                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/DPW-ILT20-Tour-Logo.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/135801_5636_DVD_SWD_fc-web.jpg",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/135801_5636_DVD_SWD_fc-app.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/135801_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "name": "Desert Vipers Development",
+                    "shortName": "DVD",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DVD@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#ddab30",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "Sharjah Warriorz Development",
+                    "shortName": "SWD",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SWR@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#d93025",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "STREAMING_CDN": {
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
+            }
+        },
+        {
+            "category": "Cricket",
             "title": "Adani Trivandrum Royals Vs Calicut Globstars",
             "tournament": "Kerala Cricket League, 2025",
             "match_id": 133882,
@@ -2744,90 +2820,6 @@
                             "runs": 152,
                             "overs": "19.4",
                             "balls": "99",
-                            "status": "IN_PROGRESS",
-                            "wickets": 7
-                        }
-                    ],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": true
-                        }
-                    }
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
-            }
-        },
-        {
-            "category": "Cricket",
-            "title": "Mysore Warriors Vs Shivamogga Lions",
-            "tournament": "Maharaja T20 Trophy, 2025",
-            "match_id": 132812,
-            "status": "COMPLETED",
-            "streamingStatus": "COMPLETED",
-            "startTime": "24 August 2025 07:15 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/132812_5530_SS_MW_fc-Web_1755374793076.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/132812_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/132812_5530_SS_MW_fc-Web_1755374793076.jpg",
-                "PLAYBACK": null,
-                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/07/Maharaja-Trophy-KSCA-T20-Tour-Logo.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/132812_5530_SS_MW_fc-Web_1755374793076.jpg",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/132812_5530_SS_MW_fc-App_1755374802314.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/132812_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "name": "Mysore Warriors",
-                    "shortName": "MW",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MWAR@2x.png"
-                    },
-                    "isWinner": false,
-                    "color": "#ffed00",
-                    "cricketScore": [
-                        {
-                            "runs": 180,
-                            "overs": "20",
-                            "balls": "120",
-                            "status": "COMPLETED",
-                            "wickets": 6
-                        }
-                    ],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "Shivamogga Lions",
-                    "shortName": "SS",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SHV@2x.png"
-                    },
-                    "isWinner": true,
-                    "color": "#D59A14",
-                    "cricketScore": [
-                        {
-                            "runs": 181,
-                            "overs": "20",
-                            "balls": "120",
                             "status": "IN_PROGRESS",
                             "wickets": 7
                         }
