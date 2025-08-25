@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "11:54:56 AM 25-08-2025",
+    "last_updated": "12:02:56 PM 25-08-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -41,8 +41,8 @@
                     "color": "#e4bea2",
                     "cricketScore": null,
                     "kabaddiScore": {
-                        "points": 1,
-                        "onFieldPlayers": 6,
+                        "points": 10,
+                        "onFieldPlayers": 1,
                         "totalFieldPlayers": 7,
                         "raiding": true
                     },
@@ -65,7 +65,7 @@
                     "color": "#ffcad6",
                     "cricketScore": null,
                     "kabaddiScore": {
-                        "points": 3,
+                        "points": 13,
                         "onFieldPlayers": 7,
                         "totalFieldPlayers": 7,
                         "raiding": null
@@ -501,34 +501,42 @@
         },
         {
             "category": "Cricket",
-            "title": "Oval Invincibles Women Vs London Spirit Women",
-            "tournament": "The Hundred Women, 2025",
-            "match_id": 132284,
-            "status": "COMPLETED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "25 August 2025 07:30 PM",
+            "title": "Valley Vs Northern Suburbs",
+            "tournament": "KFC T20 Max, 2025",
+            "match_id": 134891,
+            "status": "LIVE",
+            "streamingStatus": "COMPLETED",
+            "startTime": "24 August 2025 12:00 PM",
             "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/132284_5506_OVI-W_LNS-W_Fc-Web.jpg",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/134891_5623_NSB_VLY_Fc-Web_1755807575963.jpg",
             "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/132284_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/132284_5506_OVI-W_LNS-W_Fc-Web.jpg",
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/134891_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/134891_5623_NSB_VLY_Fc-Web_1755807575963.jpg",
                 "PLAYBACK": null,
-                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/06/The-Hundred_Tour-Logo.png",
+                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/08/KFC-T20-Max-Competition-2024-Tour-Logo.png",
                 "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/132284_5506_OVI-W_LNS-W_Fc-Web.jpg",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/132284_5506_OVI-W_LNS-W_Fc-App.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/132284_CASACARDS_PARTNER_16_9_1920_1080.png"
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/134891_5623_NSB_VLY_Fc-Web_1755807575963.jpg",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/134891_5623_NSB_VLY_FC-App_1755807589639.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/134891_CASACARDS_PARTNER_16_9_1920_1080.png"
             },
             "teams": [
                 {
-                    "name": "Oval Invincibles Women",
-                    "shortName": "OVI-W",
+                    "name": "Valley",
+                    "shortName": "VLY",
                     "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-OVALINC@2x.png"
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-VL@2x.png"
                     },
-                    "isWinner": null,
-                    "color": "#b8b3ba",
-                    "cricketScore": [],
+                    "isWinner": true,
+                    "color": "#FFFFFF",
+                    "cricketScore": [
+                        {
+                            "runs": 232,
+                            "overs": "20",
+                            "balls": "120",
+                            "status": "COMPLETED",
+                            "wickets": 4
+                        }
+                    ],
                     "kabaddiScore": null,
                     "footballScore": null,
                     "basketBallScore": null,
@@ -540,21 +548,29 @@
                     }
                 },
                 {
-                    "name": "London Spirit Women",
-                    "shortName": "LNS-W",
+                    "name": "Northern Suburbs",
+                    "shortName": "NSB",
                     "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-LONDS@2x.png"
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NSB@2x.png"
                     },
-                    "isWinner": null,
-                    "color": "#a0a0d4",
-                    "cricketScore": [],
+                    "isWinner": false,
+                    "color": "#0dc8b1",
+                    "cricketScore": [
+                        {
+                            "runs": 187,
+                            "overs": "20",
+                            "balls": "120",
+                            "status": "IN_PROGRESS",
+                            "wickets": 8
+                        }
+                    ],
                     "kabaddiScore": null,
                     "footballScore": null,
                     "basketBallScore": null,
                     "hockeyScore": null,
                     "status": {
                         "cricket": {
-                            "isBatting": false
+                            "isBatting": true
                         }
                     }
                 }
@@ -1665,6 +1681,74 @@
         },
         {
             "category": "Cricket",
+            "title": "Alleppey Ripples Vs Calicut Globstars",
+            "tournament": "Kerala Cricket League, 2025",
+            "match_id": 133887,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "26 August 2025 06:45 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/133887_5600_AP_CG_fc-Web_1755771731512.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/133887_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/133887_5600_AP_CG_fc-Web_1755771731512.jpg",
+                "PLAYBACK": null,
+                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Kerala-Cricket-League-Tour-Logo-(1).png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/133887_5600_AP_CG_fc-Web_1755771731512.jpg",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/133887_5600_AP_CG_fc-App_1755771692383.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/133887_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "name": "Alleppey Ripples",
+                    "shortName": "AP",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-APK@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#8e5bf0",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "Calicut Globstars",
+                    "shortName": "CG",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CGKL@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#D26617",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "STREAMING_CDN": {
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
+            }
+        },
+        {
+            "category": "Cricket",
             "title": "Central Delhi Kings Vs New Delhi Tigers",
             "tournament": "Delhi Premier League, 2025",
             "match_id": 132496,
@@ -2505,74 +2589,6 @@
         },
         {
             "category": "Cricket",
-            "title": "Alleppey Ripples Vs Calicut Globstars",
-            "tournament": "Kerala Cricket League, 2025",
-            "match_id": 133887,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "26 August 2025 06:45 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/133887_5600_AP_CG_fc-Web_1755771731512.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/133887_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/133887_5600_AP_CG_fc-Web_1755771731512.jpg",
-                "PLAYBACK": null,
-                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Kerala-Cricket-League-Tour-Logo-(1).png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/133887_5600_AP_CG_fc-Web_1755771731512.jpg",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/133887_5600_AP_CG_fc-App_1755771692383.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/133887_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "name": "Alleppey Ripples",
-                    "shortName": "AP",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-APK@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#8e5bf0",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "Calicut Globstars",
-                    "shortName": "CG",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CGKL@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#D26617",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
-            }
-        },
-        {
-            "category": "Cricket",
             "title": "West Delhi Lions Vs Outer Delhi Warriors",
             "tournament": "Delhi Premier League, 2025",
             "match_id": 132500,
@@ -2708,34 +2724,34 @@
             }
         },
         {
-            "category": "Baseball",
-            "title": "Los Angeles Dodgers Vs Cincinnati Reds",
-            "tournament": "Major League Baseball, 2025",
-            "match_id": 132884,
+            "category": "Cricket",
+            "title": "Northern Superchargers Women Vs Manchester Originals Women",
+            "tournament": "The Hundred Women, 2025",
+            "match_id": 132285,
             "status": "NOT_STARTED",
             "streamingStatus": "NOT_STARTED",
-            "startTime": "26 August 2025 07:40 AM",
+            "startTime": "26 August 2025 07:30 PM",
             "startDate": "01 January 1970 05:30 AM",
-            "image": "https://images.fancode.com/aig/match/v1/132884_CASACARDS_APP.png",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/132285_5506_NOS-W_MNR-W_Fc-Web.jpg",
             "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/132884_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://images.fancode.com/aig/match/v1/132884_CASACARDS_APP.png",
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/132285_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/132285_5506_NOS-W_MNR-W_Fc-Web.jpg",
                 "PLAYBACK": null,
-                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/04/MLB-Tour-Logo.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Baseball-1440-x-360.jpg",
-                "BG_IMAGE": "https://images.fancode.com/aig/match/v1/132884_CASACARDS_APP.png",
-                "SPORT_BY_IMAGE": "https://images.fancode.com/aig/match/v1/132884_CASACARDS_SPORTY_APP.png",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/132884_CASACARDS_PARTNER_16_9_1920_1080.png"
+                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/06/The-Hundred_Tour-Logo.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/132285_5506_NOS-W_MNR-W_Fc-Web.jpg",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/132285_5506_NOS-W_MNR-W_Fc-App.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/132285_CASACARDS_PARTNER_16_9_1920_1080.png"
             },
             "teams": [
                 {
-                    "name": "Los Angeles Dodgers",
-                    "shortName": "LAD",
+                    "name": "Northern Superchargers Women",
+                    "shortName": "NOS-W",
                     "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-LODOG@2x.png"
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SUPERNC@2x.png"
                     },
                     "isWinner": null,
-                    "color": "#77c0f6",
+                    "color": "#b9a3c7",
                     "cricketScore": null,
                     "kabaddiScore": null,
                     "footballScore": null,
@@ -2748,13 +2764,13 @@
                     }
                 },
                 {
-                    "name": "Cincinnati Reds",
-                    "shortName": "CR",
+                    "name": "Manchester Originals Women",
+                    "shortName": "MNR-W",
                     "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-CINC@2x.png"
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MANCO@2x.png"
                     },
                     "isWinner": null,
-                    "color": "#ee4d65",
+                    "color": "#adb6b9",
                     "cricketScore": null,
                     "kabaddiScore": null,
                     "footballScore": null,
