@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "09:18:46 PM 25-08-2025",
+    "last_updated": "09:26:46 PM 25-08-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -68,9 +68,9 @@
                     "color": "#8e5bf0",
                     "cricketScore": [
                         {
-                            "runs": 29,
-                            "overs": "4",
-                            "balls": "24",
+                            "runs": 48,
+                            "overs": "5.1",
+                            "balls": "31",
                             "status": "IN_PROGRESS",
                             "wickets": 3
                         }
@@ -155,9 +155,9 @@
                     "color": "#8e5bf0",
                     "cricketScore": [
                         {
-                            "runs": 29,
-                            "overs": "4",
-                            "balls": "24",
+                            "runs": 48,
+                            "overs": "5.1",
+                            "balls": "31",
                             "status": "IN_PROGRESS",
                             "wickets": 3
                         }
@@ -215,11 +215,11 @@
                     "color": "#0082cb",
                     "cricketScore": [
                         {
-                            "runs": 132,
-                            "overs": "14",
-                            "balls": "84",
+                            "runs": 144,
+                            "overs": "15",
+                            "balls": "90",
                             "status": "IN_PROGRESS",
-                            "wickets": 3
+                            "wickets": 4
                         }
                     ],
                     "kabaddiScore": null,
@@ -321,9 +321,9 @@
                     "color": "#2d9dbb",
                     "cricketScore": [
                         {
-                            "runs": 0,
-                            "overs": "0",
-                            "balls": "0",
+                            "runs": 6,
+                            "overs": "1.2",
+                            "balls": "8",
                             "status": "IN_PROGRESS",
                             "wickets": 0
                         }
@@ -408,9 +408,9 @@
                     "color": "#a0a0d4",
                     "cricketScore": [
                         {
-                            "runs": 43,
-                            "overs": "4.4",
-                            "balls": "24",
+                            "runs": 66,
+                            "overs": "7",
+                            "balls": "35",
                             "status": "IN_PROGRESS",
                             "wickets": 0
                         }
@@ -495,11 +495,11 @@
                     "color": "#cb3529",
                     "cricketScore": [
                         {
-                            "runs": 164,
-                            "overs": "32",
-                            "balls": "192",
+                            "runs": 183,
+                            "overs": "33.5",
+                            "balls": "203",
                             "status": "IN_PROGRESS",
-                            "wickets": 3
+                            "wickets": 4
                         }
                     ],
                     "kabaddiScore": null,
@@ -597,7 +597,7 @@
         },
         {
             "category": "Cricket",
-            "title": "Muscat Thunders Vs Ias Invincibles",
+            "title": "Ias Invincibles Vs Muscat Thunders",
             "tournament": "Oman D20 League, 2025",
             "match_id": 133693,
             "status": "LIVE",
@@ -617,25 +617,6 @@
             },
             "teams": [
                 {
-                    "name": "Muscat Thunders",
-                    "shortName": "MUT",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MSCT@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#5438bd",
-                    "cricketScore": [],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
                     "name": "IAS Invincibles",
                     "shortName": "IAI",
                     "flag": {
@@ -643,6 +624,33 @@
                     },
                     "isWinner": null,
                     "color": "#138bc2",
+                    "cricketScore": [
+                        {
+                            "runs": 9,
+                            "overs": "1.5",
+                            "balls": "11",
+                            "status": "IN_PROGRESS",
+                            "wickets": 1
+                        }
+                    ],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": true
+                        }
+                    }
+                },
+                {
+                    "name": "Muscat Thunders",
+                    "shortName": "MUT",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MSCT@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#5438bd",
                     "cricketScore": [],
                     "kabaddiScore": null,
                     "footballScore": null,
@@ -1075,74 +1083,6 @@
             }
         },
         {
-            "category": "Football",
-            "title": "Athletic Club Vs Rayo Vallecano",
-            "tournament": "LALIGA 2025-26",
-            "match_id": 130842,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "25 August 2025 11:00 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/130842_5427_ATH_RVL_fc-web.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/130842_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/130842_5427_ATH_RVL_fc-web.jpg",
-                "PLAYBACK": null,
-                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/LALIGA-2025-26-Tour.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/130842_5427_ATH_RVL_fc-web.jpg",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/130842_5427_ATH_RVL_fc-app.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/130842_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "name": "Athletic Club",
-                    "shortName": "ATH",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ATH@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#ff674d",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "Rayo Vallecano",
-                    "shortName": "RVL",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-RAV@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#F77A1E",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
-            }
-        },
-        {
             "category": "Cricket",
             "title": "West Delhi Lions Vs Outer Delhi Warriors",
             "tournament": "Delhi Premier League, 2025",
@@ -1191,6 +1131,74 @@
                     "isWinner": null,
                     "color": "#0a2346",
                     "cricketScore": [],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "STREAMING_CDN": {
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
+            }
+        },
+        {
+            "category": "Football",
+            "title": "Athletic Club Vs Rayo Vallecano",
+            "tournament": "LALIGA 2025-26",
+            "match_id": 130842,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "25 August 2025 11:00 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/130842_5427_ATH_RVL_fc-web.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/130842_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/130842_5427_ATH_RVL_fc-web.jpg",
+                "PLAYBACK": null,
+                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/LALIGA-2025-26-Tour.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/130842_5427_ATH_RVL_fc-web.jpg",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/130842_5427_ATH_RVL_fc-app.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/130842_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "name": "Athletic Club",
+                    "shortName": "ATH",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ATH@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#ff674d",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "Rayo Vallecano",
+                    "shortName": "RVL",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-RAV@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#F77A1E",
+                    "cricketScore": null,
                     "kabaddiScore": null,
                     "footballScore": null,
                     "basketBallScore": null,
@@ -2391,74 +2399,6 @@
             }
         },
         {
-            "category": "Baseball",
-            "title": "Los Angeles Dodgers Vs Cincinnati Reds",
-            "tournament": "Major League Baseball, 2025",
-            "match_id": 132884,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "26 August 2025 07:40 AM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://images.fancode.com/aig/match/v1/132884_CASACARDS_APP.png",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/132884_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://images.fancode.com/aig/match/v1/132884_CASACARDS_APP.png",
-                "PLAYBACK": null,
-                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/04/MLB-Tour-Logo.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Baseball-1440-x-360.jpg",
-                "BG_IMAGE": "https://images.fancode.com/aig/match/v1/132884_CASACARDS_APP.png",
-                "SPORT_BY_IMAGE": "https://images.fancode.com/aig/match/v1/132884_CASACARDS_SPORTY_APP.png",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/132884_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "name": "Los Angeles Dodgers",
-                    "shortName": "LAD",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-LODOG@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#77c0f6",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "Cincinnati Reds",
-                    "shortName": "CR",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-CINC@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#ee4d65",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
-            }
-        },
-        {
             "category": "Football",
             "title": "Eintracht Braunschweig Vs Vfb Stuttgart",
             "tournament": "DFB Pokal 2025-26",
@@ -2710,6 +2650,74 @@
                     },
                     "isWinner": null,
                     "color": "#bdb526",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "STREAMING_CDN": {
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
+            }
+        },
+        {
+            "category": "Baseball",
+            "title": "Los Angeles Dodgers Vs Cincinnati Reds",
+            "tournament": "Major League Baseball, 2025",
+            "match_id": 132884,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "26 August 2025 07:40 AM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://images.fancode.com/aig/match/v1/132884_CASACARDS_APP.png",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/132884_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://images.fancode.com/aig/match/v1/132884_CASACARDS_APP.png",
+                "PLAYBACK": null,
+                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/04/MLB-Tour-Logo.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Baseball-1440-x-360.jpg",
+                "BG_IMAGE": "https://images.fancode.com/aig/match/v1/132884_CASACARDS_APP.png",
+                "SPORT_BY_IMAGE": "https://images.fancode.com/aig/match/v1/132884_CASACARDS_SPORTY_APP.png",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/132884_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "name": "Los Angeles Dodgers",
+                    "shortName": "LAD",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-LODOG@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#77c0f6",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "Cincinnati Reds",
+                    "shortName": "CR",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-CINC@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#ee4d65",
                     "cricketScore": null,
                     "kabaddiScore": null,
                     "footballScore": null,
