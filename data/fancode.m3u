@@ -1,8 +1,8 @@
 #EXTM3U
 #DEVELOPED_BY_JITENDRA_PRO_DEV
 #AUTHOR:-JITENDRA_KUMAR
-#DATE:- Monday 25 August, 2025 at 4:46:56 pm
-#EXTINF:-1 tvg-id="132497" tvg-name="South Delhi Superstarz Vs West Delhi Lions" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/132497_5521_SDS_WDL_fc-Web.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | South Delhi Superstarz Vs West Delhi Lions
+#DATE:- Monday 25 August, 2025 at 4:54:53 pm
+#EXTINF:-1 tvg-id="132497" tvg-name="West Delhi Lions Vs South Delhi Superstarz" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/132497_5521_SDS_WDL_fc-Web.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | West Delhi Lions Vs South Delhi Superstarz
 https://in-mc-fdlive.fancode.com/mumbai/132497_english_hls_c8d0cdf71999586ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="133884" tvg-name="Thrissur Titans Vs Aries Kollam Sailors" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/133884_5600_AKS_TT_fc-Web_1755771731141.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Thrissur Titans Vs Aries Kollam Sailors
 https://in-mc-fdlive.fancode.com/mumbai/133884_english_hls_0f80490ec437875ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
@@ -12,5 +12,5 @@ https://in-mc-fdlive.fancode.com/mumbai/133884_malayalam_hls_6d93768e9534101ta-d
 https://in-mc-fdlive.fancode.com/mumbai/132813_english_hls_6ff65ed04782545ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-id="133791" tvg-name="Jersey Vs Denmark" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/133791_4464_JER_DEN_fc-Web.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Jersey Vs Denmark
 https://in-mc-fdlive.fancode.com/mumbai/133791_english_hls_7fd892374e29457ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
-#EXTINF:-1 tvg-id="133692" tvg-name="Renaissance Challengers Vs Royal Oman Stallions" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/133692_5590_RNC_ROS_fc-Web.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Renaissance Challengers Vs Royal Oman Stallions
+#EXTINF:-1 tvg-id="133692" tvg-name="Royal Oman Stallions Vs Renaissance Challengers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/133692_5590_RNC_ROS_fc-Web.jpg" tvg-language="ENGLISH" group-title="Cricket",ENG | Royal Oman Stallions Vs Renaissance Challengers
 https://in-mc-fdlive.fancode.com/mumbai/133692_english_hls_a73a98cc5397712ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
